@@ -5,28 +5,30 @@
 
 
 /*==========  VENDOR  ==========*/
-// @import '../vendor/bower_components/susy/sass/susy';
-// @import 'partials/base/normalize';
-
+@import '../vendor/bower_components/susy/sass/susy';
+@import 'partials/base/normalize';
 
 
 /*==========  BASE  ==========*/
-// @import 'partials/base/susy/susy';
-// @import 'partials/base/variables';
-// @import 'partials/base/base';
+@import 'partials/base/susy/susy';
+@import 'partials/base/variables';
+@import 'partials/base/base';
 // @import 'partials/base/lists';
 
 
 /*==========  MODULES  ==========*/
+@import 'partials/modules/post';
+@import 'partials/modules/body';
 
 
 /*==========  LAYOUT  ==========*/
-
+@import 'partials/layout/header';
+@import 'partials/layout/footer';
 
 
 
 /*==========  UTILITIES  ==========*/
-
+@import 'partials/utils/utils';
 
 
 

@@ -1,0 +1,8 @@
+p {
+  margin-bottom: 1rem;
+}
+
+.content {
+  clear: both;
+  @include span(3 at 2);
+}

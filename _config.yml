@@ -1,5 +1,6 @@
 # Site settings
 title: Tales of Murder
+subtitle: For readers with time to kill!
 email: contact@talesofmurder.com
 description: A murder mystery short story &amp; novel site.
 baseurl: "localhost:3000" # the subpath of your site, e.g. /blog/

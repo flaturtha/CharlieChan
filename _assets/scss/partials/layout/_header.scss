@@ -1,0 +1,98 @@
+header {
+  overflow: hidden;
+  background: $paper;
+  border-bottom: 4px solid $bgcolor;
+}
+
+header a, header label {
+  display: block;
+  padding: 1rem;
+  color: $bgcolor;
+  text-decoration: none;
+  line-height: 0.5rem;
+  text-transform: uppercase;
+}
+
+header a:hover, header label:hover {
+  color: $bgcolor;
+}
+
+header label {
+  float: right;
+  padding: 1.35rem 1.25rem 0.5rem;
+  cursor: pointer;
+}
+
+header label:after {
+  content: "\2261";
+  font-size: 2.5rem;
+}
+
+.logo {
+  @include span(3);
+  background: url('/assets/img/site/logo-full36.svg') center center no-repeat;
+  margin: 0.7rem 0 0 0.5rem;
+}
+
+nav {
+  float: right;
+  max-height: 0;
+  width: 100%;
+  transition: max-height 0.3s;
+  background-color: $bgcolor;
+}
+
+nav ul {
+  margin: 0;
+  // padding: 0 0 0.625rem 0;
+}
+
+nav li {
+  display: block;
+  text-align: left;
+  padding-left: 2rem;
+  border-top: 1px solid $paper;
+}
+
+nav a {
+  padding: 1rem;
+  width: 100%;
+  font-size: 1.25rem;
+  font-weight: bold;
+  letter-spacing: 1.5px;
+  color: $paper;
+  // border-bottom: 1px solid $bgcolor;
+}
+
+#nav { display: none; }
+
+#nav:checked ~ nav {
+  max-height: 100vh;
+}
+
+@media only screen and (min-width: 700px) {
+
+  header label { display: none; }
+
+  nav {
+    width: auto;
+    max-height: none;
+  }
+
+  nav ul {
+    padding: 0;
+    padding-right: 10px;
+  }
+
+  nav li {
+    display: inline-block;
+    text-align: left;
+  }
+
+  header nav a {
+    display: inline-block;
+    padding: 20px 10px;
+    width: auto;
+  }
+
+}
