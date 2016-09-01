@@ -8,22 +8,23 @@
 
 $susy: (
   output: isolate,
-  columns: 42 70.7999999994,
-  gutter: 10/42,
-  column-width: 42px,
   global-box-sizing: border-box,
-  debug: (image: show-columns)
+  // debug: (image: show-columns)
   );
 
 
 // breakpoints are based on just a tad larger than ipad's smallest dimension but bigger than largest iphone
-$tablet: 48.4375em; /* 775px -> em */
-$desktop: 61.25em; /* 980px -> em */
+// $tablet: 48.4375em; /* 775px -> em */
+// $desktop: 61.25em; /* 980px -> em */
+
+$bp-med: 530px;
+$bp-large: 775px;
+$bp-xlarge: 1600px;
 
 $small: (
-  columns: 1 1.6857142857,
-  gutter: 10/42,
-  column-width: 42px,
+  columns: 1 6.857142857,
+  gutter: 10 / 42,
+  column-width: 42px
 );
 
 $med: (
@@ -31,23 +32,38 @@ $med: (
   gutter: 12/54,
 );
 
-$lrg: (
-  columns: 4.223300971 1 2.495145631 4.038834951 2.553398058,
+$large: (
+  columns: 1 4.223300971 1 2.495145631 4.038834951 2.553398058 1,
   gutter: 32/103,
 );
 
+$header-grid: (
+  columns: 7,
+  gutter: 1/4,
+  global-box-sizing: border-box,
+  // debug: (image:show)
+);
+
 @include border-box-sizing;
-// @include layout($small);
+@include layout($small);
 
 .wrap {
-  @include cf;
-  @include container();
-
-  @include susy-breakpoint($med) {
-    @include show-grid();
+  @include container;
+  @include susy-breakpoint($bp-med, $med) {
+    max-width: 100%;
+    @include show-grid;
   }
-
-  @include susy-breakpoint($lrg) {
-    @include show-grid();
+  @include susy-breakpoint($bp-large, $large) {
+    @include show-grid;
   }
 }
+
+
+
+
+
+
+
+
+
+

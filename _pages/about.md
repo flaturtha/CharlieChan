@@ -6,13 +6,20 @@ title: About
 
 <div class="wrap {{ page.title }}">
 
-  <h1 class="pagetitle">{{ page.title }}</h1>
+  <section class="herounit">
+    <div class="container">
+      <h1 class="h1 herounit__headline">We Dun It</h1>
+      <h1 class="herounit__subhead"><span class="slabtext">About &bull; Manifesto &bull; Policies &amp; Terms &bull; Contact</span></h1>
+      <!-- <i class="fa fa-arrow-circle-down fa-3x"></i> -->
+      </div> <!-- end div container -->
+  </section> <!-- end section herounit -->
 
-  <div class="content">
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem non, perferendis quaerat alias quas facere quam tempore odit nemo quia, ut minus architecto nobis repudiandae, excepturi, sunt nesciunt? Voluptatem, sapiente.</p>
-    <p>Iste soluta ex vel necessitatibus veritatis inventore vero magni laborum tempore. Nesciunt optio numquam neque perferendis deserunt at quasi, quibusdam sapiente sed ex, consequuntur maxime doloribus vero, minus nihil culpa!</p>
-    <p>Expedita consequatur odit debitis aliquam dignissimos voluptatum provident totam ipsa tempore obcaecati modi ipsum, non quod atque autem accusantium eius dolore mollitia quia libero tempora, ex. Veritatis, dignissimos! Quo, sunt!</p>
-    <p>Accusamus excepturi accusantium commodi illo obcaecati laborum nulla autem architecto quia eos nam ipsum nihil mollitia dicta officia nisi ea corporis rerum recusandae enim consectetur consequuntur, aliquam. Laboriosam, ipsum, veritatis!</p>
-  </div>
+  {% include manifesto.html %}
+
+  {% include policies.html %}
+
+  {% include terms.html %}
+
+  {% include contact.html %}
 
 </div>

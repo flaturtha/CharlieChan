@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<div id="thepost" class="{{ page.layoutTag }}">
+
+  <header class="post__header clearfix">
+	<!-- README IF STATEMENT -->
+  {% if site.readtime %}
+	  {% if site.wpm %}
+  	  {% assign readtime = page.wordcount | divided_by:site.wpm %}
+  	{% else %}
+    	{% assign readtime = page.wordcount | divided_by:180 %}
+  	{% endif %}
+	{% endif %}
+
+		<div class="clearfix titlebox">
+	  	<div class="storytitles" id="top">
+				<h2 class="post__title grit">{{ page.title }}</h2>
+				<h3 class="post__author">By <strong>{{ page.author }}</strong></h3>
+				<figure class="post__img"> <!-- add class grit to dirty up pic -->
+						<img src="{{ page.image }}" alt="{{ post.title }}">
+						<figcaption class="caption"><strong class="casefilenum">CASEFILE NO. {{ page.casefileNumber }}:</strong>
+						<figcaption class="post__excerpt">{{ page.excerpt }}</figcaption>
+				</figure> <!-- end div post__image -->
+				<!-- <h2 class="post__excerpt">{{ page.excerpt }}</h4> -->
+			</div> <!-- end div titles -->
+		</div> <!-- end div clearfix -->
+
+		<div class="post__meta">
+			<p>word count: {{ page.wordcount | thousands_separated }}</p>
+			<p>time to read:
+				{% if site.readtime %}
+				{% if readtime > 60 %}
+				{% assign readtime_hours = readtime | divided_by: 60 %}
+				{% assign readtime_minutes = readtime | modulo:60 %}
+					{% if readtime_hours > 1 and readtime_hours < 2 %}1 hour
+					{% else %}<span class="hour">{{ readtime_hours }}</span> hr
+					{% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} and <span class="time">{{ readtime_minutes }}</span> min{% endif %}
+				{% else %}
+					{% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
+				{% endif %}
+			</p>
+		</div> <!-- end div post__meta -->
+
+  </header>
+
+	<article class="post__content" id="story-main">
+  	{{ content }}
+  </article>
+
+</div> <!-- end of div post -->

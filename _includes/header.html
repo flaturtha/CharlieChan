@@ -1,9 +1,9 @@
-<header class="wrap">
+<header class="header" role="banner">
 
   <a class="logo" href="{{ site.url }}"></a>
 
   <input id="nav" type="checkbox">
-  <label for="nav"></label>
+  <label for="nav">Menu</label>
 
   <nav>
     <ul>
@@ -13,6 +13,7 @@
       <li><a {% if page.url == '/short-stories' %} class="active" {% endif %} href="/short-stories">Short Stories</a></li>
       <li><a {% if page.url == '/the-red-file' %} class="active" {% endif %} href="/the-red-file">The Red File</a></li>
       <li><a {% if page.url == '/books' %} class="active" {% endif %} href="/books">Books</a></li>
+      <!-- <li id="searchbar"><a href="#">Search</a></li> -->
     </ul>
   </nav>
 

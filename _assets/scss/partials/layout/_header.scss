@@ -4,6 +4,13 @@ header {
   border-bottom: 4px solid $bgcolor;
 }
 
+.header {
+  @include with-layout($header-grid) {
+    @include container;
+    max-width: 100%;
+  }
+}
+
 header a, header label {
   display: block;
   padding: 1rem;
@@ -18,20 +25,35 @@ header a:hover {
 }
 
 header label {
-  float: right;
-  padding: 1.35rem 1.25rem 0.5rem;
+  font-size: 0.85rem;
+  font-weight: bolder;
+  // font-style: oblique;
+  // text-decoration: overline underline;
+  padding: 1.3rem 1rem 0.5rem;
   cursor: pointer;
+  @include span(2 of 7 last);
+  margin-left: 0;
+  &:after {
+    content: "\2007\25B6";
+    font-size: 0.85rem;
+  }
 }
 
-header label:after {
-  content: "\2261";
-  font-size: 2.5rem;
-}
+/* hamburger icon ... I replaced it (preferred) with the word 'menu' */
+// header label:after {
+//   content: "\2261";
+//   font-size: 2.5rem;
+// }
 
 .logo {
-  @include span(3);
-  background: url('/assets/img/site/logo-full36.svg') center center no-repeat;
+  background-image: url('/assets/img/site/logo-full36.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
   margin: 0.7rem 0 0 0.5rem;
+  @include span(5 of 7);
+  @include susy-breakpoint($bp-large){
+    @include span(2 of 7);
+  }
 }
 
 nav {
@@ -70,28 +92,34 @@ nav a {
   max-height: 100vh;
 }
 
-@media only screen and (min-width: 700px) {
-  nav {
-    background-color: hotpink;
+input[type=checkbox]:checked ~ label {
+  &:after {
+    content: "\2007\25BC";
+    // font-size: 0.9rem;
   }
-
-
 }
 
-@media only screen and (min-width: 775px) {
+
+
+@include susy-breakpoint($bp-large){
+
+  header {
+    height: 55px;
+  }
 
   header label { display: none; }
 
   nav {
     background-color: $paper;
-    width: 100%;
+    // width: 100%;
     max-height: none;
-    text-align: center;
+    // text-align: center;
+    @include span(5 of 7 at 1);
   }
 
   nav ul {
     padding: 0;
-    padding-right: 10px;
+    // padding-right: 10px;
   }
 
   nav li {
@@ -101,9 +129,11 @@ nav a {
 
   header nav a {
     display: inline-block;
-    padding: 20px 10px;
+    padding: 0;
+    margin: 1.15rem -0.25rem 0 0;
     width: auto;
-    font-size: 0.7rem;
+    text-align: center;
+    font-size: 0.8rem;
     color: $bgcolor;
   }
 
