@@ -378,17 +378,20 @@ textarea {
    SUSY GRID COMPONENTS
    ========================================================================== */
 /* CLEARFIX */
+/* 775px -> em */
+/* 980px -> em */
 *, *:before, *:after {
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
 .wrap {
-  max-width: 100%;
+  max-width: 42px;
   margin-left: auto;
   margin-right: auto;
-  background-image: -webkit-gradient(linear, left top, right top, from(rgba(102, 102, 255, 0.25)), color-stop(10%, rgba(179, 179, 255, 0.25)), color-stop(10%, transparent), color-stop(12.5%, transparent), color-stop(12.5%, rgba(102, 102, 255, 0.25)), color-stop(32.5%, rgba(179, 179, 255, 0.25)), color-stop(32.5%, transparent), color-stop(35%, transparent), color-stop(35%, rgba(102, 102, 255, 0.25)), color-stop(65%, rgba(179, 179, 255, 0.25)), color-stop(65%, transparent), color-stop(67.5%, transparent), color-stop(67.5%, rgba(102, 102, 255, 0.25)), color-stop(87.5%, rgba(179, 179, 255, 0.25)), color-stop(87.5%, transparent), color-stop(90%, transparent), color-stop(90%, rgba(102, 102, 255, 0.25)), color-stop(90%, rgba(179, 179, 255, 0.25)));
-  background-image: -webkit-linear-gradient(left, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 10%, transparent 10%, transparent 12.5%, rgba(102, 102, 255, 0.25) 12.5%, rgba(179, 179, 255, 0.25) 32.5%, transparent 32.5%, transparent 35%, rgba(102, 102, 255, 0.25) 35%, rgba(179, 179, 255, 0.25) 65%, transparent 65%, transparent 67.5%, rgba(102, 102, 255, 0.25) 67.5%, rgba(179, 179, 255, 0.25) 87.5%, transparent 87.5%, transparent 90%, rgba(102, 102, 255, 0.25) 90%, rgba(179, 179, 255, 0.25));
-  background-image: linear-gradient(to right, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 10%, transparent 10%, transparent 12.5%, rgba(102, 102, 255, 0.25) 12.5%, rgba(179, 179, 255, 0.25) 32.5%, transparent 32.5%, transparent 35%, rgba(102, 102, 255, 0.25) 35%, rgba(179, 179, 255, 0.25) 65%, transparent 65%, transparent 67.5%, rgba(102, 102, 255, 0.25) 67.5%, rgba(179, 179, 255, 0.25) 87.5%, transparent 87.5%, transparent 90%, rgba(102, 102, 255, 0.25) 90%, rgba(179, 179, 255, 0.25));
+  background-image: -webkit-gradient(linear, left top, right top, from(rgba(102, 102, 255, 0.25)), color-stop(80%, rgba(179, 179, 255, 0.25)), color-stop(80%, transparent));
+  background-image: -webkit-linear-gradient(left, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
+  background-image: linear-gradient(to right, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
+  background-size: 125%;
   background-origin: content-box;
   background-clip: content-box;
   background-position: left top; }
@@ -400,21 +403,21 @@ textarea {
     content: " ";
     display: block;
     clear: both; }
-  @media (min-width: 600px) {
+  @media (columns: 1 1.62963 6.85185 1) and (gutter: 0.22222) {
     .wrap {
       background-image: -webkit-gradient(linear, left top, right top, from(rgba(102, 102, 255, 0.25)), color-stop(80%, rgba(179, 179, 255, 0.25)), color-stop(80%, transparent));
       background-image: -webkit-linear-gradient(left, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
       background-image: linear-gradient(to right, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
-      background-size: 11.36364%;
+      background-size: 125%;
       background-origin: content-box;
       background-clip: content-box;
       background-position: left top; } }
-  @media (min-width: 980px) {
+  @media (columns: 4.2233 1 2.49515 4.03883 2.5534) and (gutter: 0.31068) {
     .wrap {
       background-image: -webkit-gradient(linear, left top, right top, from(rgba(102, 102, 255, 0.25)), color-stop(80%, rgba(179, 179, 255, 0.25)), color-stop(80%, transparent));
       background-image: -webkit-linear-gradient(left, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
       background-image: linear-gradient(to right, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
-      background-size: 6.32911%;
+      background-size: 125%;
       background-origin: content-box;
       background-clip: content-box;
       background-position: left top; } }
@@ -713,10 +716,9 @@ p {
 
 .content {
   clear: both;
-  width: 75%;
+  width: 350%;
   float: left;
-  margin-left: 12.5%;
-  margin-right: -100%; }
+  margin-right: 25%; }
 
 /*==========  LAYOUT  ==========*/
 header {
@@ -732,8 +734,8 @@ header a, header label {
   line-height: 0.5rem;
   text-transform: uppercase; }
 
-header a:hover, header label:hover {
-  color: #242424; }
+header a:hover {
+  text-decoration: underline; }
 
 header label {
   float: right;
@@ -745,9 +747,9 @@ header label:after {
   font-size: 2.5rem; }
 
 .logo {
-  width: 65%;
+  width: 350%;
   float: left;
-  margin-right: 2.5%;
+  margin-right: 25%;
   background: url("/assets/img/site/logo-full36.svg") center center no-repeat;
   margin: 0.7rem 0 0 0.5rem; }
 
@@ -783,11 +785,17 @@ nav a {
   max-height: 100vh; }
 
 @media only screen and (min-width: 700px) {
+  nav {
+    background-color: hotpink; } }
+
+@media only screen and (min-width: 775px) {
   header label {
     display: none; }
   nav {
-    width: auto;
-    max-height: none; }
+    background-color: #fffff0;
+    width: 100%;
+    max-height: none;
+    text-align: center; }
   nav ul {
     padding: 0;
     padding-right: 10px; }
@@ -797,7 +805,9 @@ nav a {
   header nav a {
     display: inline-block;
     padding: 20px 10px;
-    width: auto; } }
+    width: auto;
+    font-size: 0.7rem;
+    color: #242424; } }
 
 /* ==========================================================================
    FOOTER

@@ -13,8 +13,8 @@ header a, header label {
   text-transform: uppercase;
 }
 
-header a:hover, header label:hover {
-  color: $bgcolor;
+header a:hover {
+  text-decoration: underline;
 }
 
 header label {
@@ -71,12 +71,22 @@ nav a {
 }
 
 @media only screen and (min-width: 700px) {
+  nav {
+    background-color: hotpink;
+  }
+
+
+}
+
+@media only screen and (min-width: 775px) {
 
   header label { display: none; }
 
   nav {
-    width: auto;
+    background-color: $paper;
+    width: 100%;
     max-height: none;
+    text-align: center;
   }
 
   nav ul {
@@ -93,6 +103,8 @@ nav a {
     display: inline-block;
     padding: 20px 10px;
     width: auto;
+    font-size: 0.7rem;
+    color: $bgcolor;
   }
 
 }

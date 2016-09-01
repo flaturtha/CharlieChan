@@ -1,29 +1,53 @@
 /* ==========================================================================
    SUSY GRID COMPONENTS
    ========================================================================== */
+@import 'breakpoint';
+// @import 'susy';
 @import 'mixins';
-@import 'vars';
+// @import 'vars';
 
 $susy: (
-  columns: 1 2 3 2 1,
   output: isolate,
+  columns: 42 70.7999999994,
+  gutter: 10/42,
+  column-width: 42px,
   global-box-sizing: border-box,
   debug: (image: show-columns)
   );
 
+
+// breakpoints are based on just a tad larger than ipad's smallest dimension but bigger than largest iphone
+$tablet: 48.4375em; /* 775px -> em */
+$desktop: 61.25em; /* 980px -> em */
+
+$small: (
+  columns: 1 1.6857142857,
+  gutter: 10/42,
+  column-width: 42px,
+);
+
+$med: (
+  columns: 1 1.62962963 6.851851852 1,
+  gutter: 12/54,
+);
+
+$lrg: (
+  columns: 4.223300971 1 2.495145631 4.038834951 2.553398058,
+  gutter: 32/103,
+);
+
 @include border-box-sizing;
-
-
+// @include layout($small);
 
 .wrap {
   @include cf;
   @include container();
 
-  @include susy-breakpoint($tablet, 9) {
+  @include susy-breakpoint($med) {
     @include show-grid();
   }
 
-  @include susy-breakpoint($desktop, 16) {
+  @include susy-breakpoint($lrg) {
     @include show-grid();
   }
 }
