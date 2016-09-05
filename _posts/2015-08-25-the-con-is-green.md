@@ -35,7 +35,7 @@ epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Con_Is_Green.e
 ### Bosco The Blimp
 {: .chaptertitle}
 
-For many moons, the Boston cops have wondered why Snooty Piper finds out about murders the same time they do. If you know the crackpot, there is nothing mysterious about it. It seems that Snooty has something on most newspaper reporters—little things like two-timing the little woman or playing poker when they should have been to a lodge. So it is not surprising to me that Snooty gets the news that a character named Bosco the Blimp gets knocked off hardly before the remains begin to cool.
+<span class="lead">For many moons, the Boston cops</span> have wondered why Snooty Piper finds out about murders the same time they do. If you know the crackpot, there is nothing mysterious about it. It seems that Snooty has something on most newspaper reporters—little things like two-timing the little woman or playing poker when they should have been to a lodge. So it is not surprising to me that Snooty gets the news that a character named Bosco the Blimp gets knocked off hardly before the remains begin to cool.
 
 The Blimp left quite a record behind him as he was mixed up in more rackets than a tennis player. The gendarmes suspected him of being engaged in the business of retailing hot auto tires only a few minutes before a rough person laid him away for keeps.
 

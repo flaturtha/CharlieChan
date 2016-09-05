@@ -400,9 +400,11 @@ textarea {
 /*==========  FONTS  ==========*/
 /* TYPE FACES */
 /* "ltc-broadway" */
+/* "raleway",sans-serif; */
 /* FONT WEIGHTS */
 /*==========  COLORS  ==========*/
 /* darkred */
+/* sets base font size to 18px */
 * {
   margin: 0;
   padding: 0;
@@ -415,8 +417,9 @@ textarea {
           box-sizing: inherit; }
 
 :root {
-  font-size: 16px; }
+  font-size: 1.125em; }
 
+/* http://codepen.io/MadeByMike/pen/YPJJYv?editors=110 */
 @-ms-viewport {
   width: device-width; }
 
@@ -439,6 +442,7 @@ body {
   /* 1rem; ... equivalent to 16px */
   line-height: 1.25;
   /* equivalent to 20px */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #474F55;
   background-color: #fffff0; }
 
@@ -458,6 +462,82 @@ figcaption {
   font-variant: small-caps;
   font-weight: bold;
   color: #8B0000; }
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: "Josefin Sans", sans-serif; }
+
+h1, .h1 {
+  font-size: 2em;
+  /* 2x body copy size = 32px */
+  line-height: 1.25;
+  /* 45px / 36px */ }
+
+@media (min-width: 43.75em) {
+  h1, .h1 {
+    font-size: 2.5em;
+    /* 2.5x body copy size = 40px */
+    line-height: 1.125; } }
+
+@media (min-width: 56.25em) {
+  h1, .h1 {
+    font-size: 3em;
+    /* 3x body copy size = 48px */
+    line-height: 1.05;
+    /* keep to a multiple of the 20px line height and something more appropriate for display headings */ } }
+
+h2, .h2 {
+  font-size: 1.625em;
+  /* 1.625x body copy size = 26px */
+  line-height: 1.15384615;
+  /* 30px / 26px */ }
+
+@media (min-width: 43.75em) {
+  h2, .h2 {
+    font-size: 2em;
+    /* 2x body copy size = 32px */
+    line-height: 1.25; } }
+
+@media (min-width: 56.25em) {
+  h2, .h2 {
+    font-size: 2.25em;
+    /* 2.25x body copy size = 36px */
+    line-height: 1.25; } }
+
+h3, .h3 {
+  font-size: 1.375em;
+  /* 1.375x body copy size = 22px */
+  line-height: 1.13636364;
+  /* 25px / 22px */ }
+
+@media (min-width: 43.75em) {
+  h3, .h3 {
+    font-size: 1.5em;
+    /* 1.5x body copy size = 24px */
+    line-height: 1.25; } }
+
+@media (min-width: 56.25em) {
+  h3, .h3 {
+    font-size: 1.75em;
+    /* 1.75x body copy size = 28px */
+    line-height: 1.25; } }
+
+h4, .h4 {
+  font-size: 1.125em;
+  /* 1.125x body copy size = 18px */
+  line-height: 1.11111111; }
+
+@media (min-width: 43.75em) {
+  h4, .h4 {
+    line-height: 1.22222222;
+    /* (22px / 18px */ } }
+
+.h5 {
+  font-size: 1em;
+  line-height: 1.25; }
+
+.h6 {
+  font-size: 0.75em;
+  line-height: 1; }
 
 /*==========  MODULES  ==========*/
 /* ==========================================================================
@@ -683,30 +763,6 @@ figcaption.caption {
 .read-more__buttons {
   margin-top: 2rem; }
 
-p {
-  margin-bottom: 1rem; }
-
-@media (min-width: 530px) {
-  .pagetitle {
-    width: 77.74114%;
-    float: left;
-    margin-left: 11.12943%;
-    margin-right: -100%;
-    margin: 1rem 0 0 1rem; } }
-
-.content {
-  clear: both;
-  width: 84.5815%;
-  float: left;
-  margin-left: 15.4185%;
-  margin-right: -100%; }
-  @media (min-width: 530px) {
-    .content {
-      width: 77.74114%;
-      float: left;
-      margin-left: 11.12943%;
-      margin-right: -100%; } }
-
 /* ==========================================================================
    CARD MODULE
    ========================================================================== */
@@ -846,11 +902,19 @@ a.readmore {
       font-size: 0.9rem;
       padding-right: 1rem; }
 
+.lead {
+  font-style: normal;
+  font-weight: normal;
+  text-transform: lowercase;
+  font-variant: small-caps;
+  letter-spacing: 0.1em; }
+
 /*==========  LAYOUT  ==========*/
 header {
   overflow: hidden;
   background: #fffff0;
-  border-bottom: 4px solid #242424; }
+  border-bottom: 4px solid #242424;
+  margin-bottom: 1rem; }
 
 .header {
   max-width: 357px;
@@ -871,7 +935,8 @@ header a, header label {
   text-transform: uppercase; }
 
 header a:hover {
-  text-decoration: underline; }
+  font-style: italic;
+  color: #8B0000; }
 
 header label {
   font-size: 0.85rem;
@@ -884,10 +949,14 @@ header label {
   margin-right: -100%;
   margin-left: 0; }
   header label:after {
-    content: "\2007\25B6";
-    font-size: 0.85rem; }
+    content: "\2007\25BA";
+    font-size: 1rem; }
 
 /* hamburger icon ... I replaced it (preferred) with the word 'menu' */
+.active {
+  color: #8B0000;
+  text-decoration: underline overline; }
+
 .logo {
   background-image: url("/assets/img/site/logo-full36.svg");
   background-repeat: no-repeat;
@@ -973,9 +1042,38 @@ input[type=checkbox]:checked ~ label:after {
   background: #242424 url("/assets/img/site/footprints1a.png") repeat-x;
   padding: 1rem; }
 
+p {
+  margin-bottom: 1rem; }
+
+@media (min-width: 530px) {
+  .pagetitle {
+    width: 77.74114%;
+    float: left;
+    margin-left: 11.12943%;
+    margin-right: -100%;
+    margin: 1rem 0 0 1rem; } }
+
+.content {
+  clear: both;
+  width: 84.5815%;
+  float: left;
+  margin-left: 15.4185%;
+  margin-right: -100%; }
+  @media (min-width: 530px) {
+    .content {
+      width: 77.74114%;
+      float: left;
+      margin-left: 11.12943%;
+      margin-right: -100%; } }
+
 /*==========  UTILITIES  ==========*/
 /* ==========================================================================
    UTILITY CLASSES
    ========================================================================== */
 .hidden {
   display: none !important; }
+
+a {
+  text-decoration: none; }
+  a:hover {
+    text-decoration: none; }

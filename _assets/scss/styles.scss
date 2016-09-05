@@ -12,19 +12,22 @@
 /*==========  BASE  ==========*/
 @import 'partials/base/susy/susy';
 @import 'partials/base/variables';
+@import 'partials/base/modular-scale';
 @import 'partials/base/base';
+@import 'partials/base/typography';
 // @import 'partials/base/lists';
 
 
 /*==========  MODULES  ==========*/
 @import 'partials/modules/post';
-@import 'partials/modules/body';
 @import 'partials/modules/card';
+@import 'partials/modules/article';
 
 
 /*==========  LAYOUT  ==========*/
 @import 'partials/layout/header';
 @import 'partials/layout/footer';
+@import 'partials/layout/body';
 
 
 

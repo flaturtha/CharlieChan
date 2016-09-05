@@ -2,6 +2,7 @@ header {
   overflow: hidden;
   background: $paper;
   border-bottom: 4px solid $bgcolor;
+  margin-bottom: 1rem;
 }
 
 .header {
@@ -21,7 +22,8 @@ header a, header label {
 }
 
 header a:hover {
-  text-decoration: underline;
+  font-style: italic;
+  color: $acolor;
 }
 
 header label {
@@ -34,8 +36,8 @@ header label {
   @include span(2 of 7 last);
   margin-left: 0;
   &:after {
-    content: "\2007\25B6";
-    font-size: 0.85rem;
+    content: "\2007\25BA";
+    font-size: 1rem;
   }
 }
 
@@ -44,6 +46,11 @@ header label {
 //   content: "\2261";
 //   font-size: 2.5rem;
 // }
+
+.active {
+  color: $acolor;
+  text-decoration: underline overline;
+}
 
 .logo {
   background-image: url('/assets/img/site/logo-full36.svg');
