@@ -69,19 +69,24 @@ a {
   }
 }
 
-.uppercase {
-  text-transform: uppercase;
-}
-
 figure {
-  margin: 0 1rem;
+  margin: 0;
+  padding: 0;
 }
 
-figcaption {
-  font-variant: small-caps;
-  font-weight: bold;
-  color: $acolor;
+img {
+  width: 100%;
 }
+
+// figure {
+//   margin: 0 1rem;
+// }
+
+// figcaption {
+//   font-variant: small-caps;
+//   font-weight: bold;
+//   color: $acolor;
+// }
 
 
 

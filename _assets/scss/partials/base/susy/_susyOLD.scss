@@ -2,32 +2,39 @@
    SUSY GRID COMPONENTS
    ========================================================================== */
 @import 'breakpoint';
+// @import 'susy';
 @import 'mixins';
+// @import 'vars';
 
 $susy: (
   output: isolate,
   global-box-sizing: border-box,
-  // debug: (image: show-columns)
-);
+  debug: (image: show-columns)
+  );
+
+
+// breakpoints are based on just a tad larger than ipad's smallest dimension but bigger than largest iphone
+// $tablet: 48.4375em; /* 775px -> em */
+// $desktop: 61.25em; /* 980px -> em */
 
 $bp-med: 530px;
 $bp-large: 775px;
 $bp-xlarge: 1600px;
 
 $small: (
-  columns: 8
-  // container: 360px
-  // gutter: 1/4
+  columns: 1 6.857142857,
+  gutter: 10 / 42,
+  column-width: 42px
 );
 
 $med: (
-  columns: 8,
-  gutter: 1/4
+  columns: 1 1.62962963 6.851851852 1,
+  gutter: 12/54,
 );
 
 $large: (
-  columns: 12,
-  gutter: 1/4
+  columns: 1 4.223300971 1 2.495145631 4.038834951 2.553398058 1,
+  gutter: 32/103,
 );
 
 $header-grid: (
@@ -42,15 +49,21 @@ $header-grid: (
 
 .wrap {
   @include container;
-  // @include cf;
-  padding: 0 1rem;
   @include susy-breakpoint($bp-med, $med) {
-    // padding: 0;
     max-width: 100%;
     @include show-grid;
   }
   @include susy-breakpoint($bp-large, $large) {
-    max-width: 960px;
     @include show-grid;
   }
 }
+
+
+
+
+
+
+
+
+
+

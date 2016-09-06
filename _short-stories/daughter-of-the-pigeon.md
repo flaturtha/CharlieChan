@@ -1,15 +1,20 @@
 ---
-layout: post_combo
+layout: short-stories
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef2d
 title: "Daughter of the Pigeon"
 author: Harry C. Hervey, Jr.
+opub: The Black Mask
+opubdate: Sept. 1920
+opubissue: Vol. 1 No. 6
 date: 2015-08-25
 category: short-stories
 excerpt: “The cave!” I shouted, pressing the knife into her hand and pointing to the nearby cavity.
 image: /assets/img/daughter-of-the-pigeon.svg
 genre: Adventure
 wordcount: 6316
+trfissue: Vol. 2 No. 13
+trfdate: 2016-03-27
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE
 epub: LINK TO EPUB

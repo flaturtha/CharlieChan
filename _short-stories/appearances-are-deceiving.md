@@ -1,5 +1,5 @@
 ---
-layout: post_combo
+layout: short-stories
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef4c
 title: "Appearances Are Deceiving"

@@ -383,9 +383,10 @@ textarea {
   box-sizing: border-box; }
 
 .wrap {
-  max-width: 340.5px;
+  max-width: 100%;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+  padding: 0 1rem; }
   .wrap:after {
     content: " ";
     display: block;
@@ -393,6 +394,9 @@ textarea {
   @media (min-width: 530px) {
     .wrap {
       max-width: 100%; } }
+  @media (min-width: 775px) {
+    .wrap {
+      max-width: 960px; } }
 
 /* ==========================================================================
    VARIABLES
@@ -401,6 +405,7 @@ textarea {
 /* TYPE FACES */
 /* "ltc-broadway" */
 /* "raleway",sans-serif; */
+/* "brim-narrow-combined-3"*/
 /* FONT WEIGHTS */
 /*==========  COLORS  ==========*/
 /* darkred */
@@ -417,7 +422,7 @@ textarea {
           box-sizing: inherit; }
 
 :root {
-  font-size: 1.125em; }
+  font-size: 1em; }
 
 /* http://codepen.io/MadeByMike/pen/YPJJYv?editors=110 */
 @-ms-viewport {
@@ -442,7 +447,7 @@ body {
   /* 1rem; ... equivalent to 16px */
   line-height: 1.25;
   /* equivalent to 20px */
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   color: #474F55;
   background-color: #fffff0; }
 
@@ -452,19 +457,15 @@ a {
     color: #be0000;
     text-decoration: underline; }
 
-.uppercase {
-  text-transform: uppercase; }
-
 figure {
-  margin: 0 1rem; }
+  margin: 0;
+  padding: 0; }
 
-figcaption {
-  font-variant: small-caps;
-  font-weight: bold;
-  color: #8B0000; }
+img {
+  width: 100%; }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: "Josefin Sans", sans-serif; }
+  font-family: sans-serif; }
 
 h1, .h1 {
   font-size: 2em;
@@ -541,278 +542,45 @@ h4, .h4 {
 
 /*==========  MODULES  ==========*/
 /* ==========================================================================
-   POST STYLE
-   ========================================================================== */
-.post, .notreg {
-  margin: 2rem auto 0;
-  width: 100%;
-  max-width: 60rem; }
-
-.post__content {
-  background-color: #fffff0;
-  max-width: 37.5rem;
-  margin: 0 auto;
-  padding: 1rem; }
-
-blockquote {
-  color: #8B0000;
-  width: 300px;
-  margin: 0 1rem 0.75rem 1rem;
-  padding: 1rem;
-  border-top: 1px solid #8B0000;
-  border-bottom: 1px solid #8B0000;
-  border-left: none; }
-  @media screen and (min-width: 500px) {
-    blockquote {
-      float: right;
-      margin: 0 1rem 1rem 1rem; } }
-
-.post__header {
-  margin: 0 auto 2rem auto;
-  max-width: 60rem;
-  width: 100%; }
-
-.post__title, .post__subtitle {
-  color: #8B0000;
-  text-transform: uppercase;
-  text-align: center;
-  padding: 0;
-  margin: 0; }
-  @media screen and (min-width: 350px) {
-    .post__title, .post__subtitle {
-      font-size: 3.5rem; } }
-  @media screen and (min-width: 769px) {
-    .post__title, .post__subtitle {
-      font-size: 7rem; } }
-
-.post__subtitle {
-  font-size: 2rem !important; }
-
-.storytitles {
-  margin: 0 auto;
-  padding: 10px;
-  width: 100%; }
-  @media screen and (min-width: 600px) {
-    .storytitles {
-      float: left;
-      padding: 0 0.5rem; } }
-  @media screen and (min-width: 960px) {
-    .storytitles {
-      padding: 0 1.25rem; } }
-
-.titlebox {
-  width: 100%; }
-
-.post__author {
-  color: #919ca4;
-  padding: 0;
-  margin: 0 0 1.5rem 0;
-  text-align: center; }
-
-.post__chapter {
-  font-size: 1rem;
-  max-width: 400px;
-  margin: 0 auto 1rem; }
-
-.post__img {
-  line-height: 0;
-  border: 2px solid black;
-  margin: 0 auto 1.5rem auto; }
-  @media screen and (min-width: 415px) {
-    .post__img {
-      width: 600px;
-      padding-bottom: -2rem; } }
-
-.casefilenum {
-  color: #8B0000; }
-
-figcaption.caption {
-  color: #8B0000;
-  text-align: center; }
-
-.post-feature {
-  background-color: green;
-  max-width: 30%; }
-
-.post__meta {
-  text-align: center;
-  margin-top: 1rem;
-  font-variant: small-caps;
-  text-transform: uppercase;
-  color: #848f98; }
-  @media screen and (min-width: 415px) {
-    .post__meta {
-      margin-top: 0; } }
-
-.post__excerpt {
-  margin: 0 auto;
-  padding: 0.75rem;
-  color: #6a767f;
-  font-style: italic;
-  text-align: left;
-  max-width: 500px; }
-
-.firstpara {
-  font-size: 1.25rem;
-  line-height: 1.25; }
-
-.post__footer {
-  background-color: #8B0000;
-  color: #fff;
-  width: 100%;
-  margin: 0 auto;
-  padding: 2rem 0;
-  text-align: center; }
-  .post__footer ul li {
-    display: inline-block;
-    margin: 1rem 0 0 0;
-    padding: 1rem; }
-  .post__footer button {
-    color: #fff; }
-
-.post__download {
-  margin: 2rem 0; }
-
-.notreg {
-  /* CHANGE FROM .premium_post  */ }
-  .notreg .post__content {
-    max-height: 2400px;
-    /* determines TOTAL height before fade out */
-    position: relative;
-    overflow: hidden; }
-
-.icon__standalone {
-  color: #8B0000;
-  text-align: center;
-  margin: 0 auto;
-  margin-bottom: 0.5rem; }
-
-.post__content .read-more {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0)), to(#fff));
-  background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0), #fff);
-  background: linear-gradient(to bottom, rgba(255, 255, 255, 0), #fff);
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 700px;
-  text-align: center;
-  margin: 0;
-  padding: 30px 0 30px 0; }
-
-.box {
-  background-color: #fff;
-  border-top: 1px solid rgba(192, 192, 192, 0.5);
-  border-left: 1px solid rgba(192, 192, 192, 0.5);
-  -webkit-box-shadow: 3px 3px 10px 2px rgba(192, 192, 192, 0.5);
-          box-shadow: 3px 3px 10px 2px rgba(192, 192, 192, 0.5);
-  width: 500px;
-  max-width: 85%;
-  height: 400px;
-  margin: 1rem auto;
-  padding: 1rem; }
-  @media screen and (min-width: 450px) {
-    .box {
-      height: 365px; } }
-  .box h3 {
-    color: #8B0000;
-    margin-bottom: 0.25rem; }
-  .box p {
-    text-align: left;
-    margin-top: 1rem; }
-
-.redfile {
-  color: #8B0000;
-  text-transform: uppercase; }
-
-#read-more__cta {
-  color: #8B0000;
-  text-align: center;
-  text-transform: uppercase;
-  font-weight: bold; }
-
-.pc-tease {
-  border: 1px solid #8B0000;
-  background-color: lightyellow;
-  max-width: 600px;
-  width: 90%;
-  padding: 1rem;
-  margin: 0 auto;
-  margin-bottom: 2rem; }
-  .pc-tease h4 {
-    color: #8B0000;
-    margin-bottom: 0.25rem;
-    text-align: center; }
-  .pc-tease h5 {
-    text-align: center;
-    font-size: 0.75rem; }
-  .pc-tease p {
-    margin-top: 1rem;
-    font-size: .85rem; }
-  .pc-tease span {
-    color: #8B0000;
-    text-transform: uppercase; }
-
-.read-more__list {
-  text-align: left; }
-  .read-more__list li i {
-    color: #8B0000; }
-  .read-more__list span {
-    color: #8B0000; }
-
-.read-more__buttons {
-  margin-top: 2rem; }
-
-/* ==========================================================================
    CARD MODULE
    ========================================================================== */
 .cards {
-  list-style: none;
-  font-size: 0;
-  padding-left: 10px; }
+  width: 23.07692%;
+  float: left;
+  list-style: none; }
+  .cards:nth-child(4n + 1) {
+    margin-left: 0;
+    margin-right: -100%;
+    clear: both;
+    margin-left: 0; }
+  .cards:nth-child(4n + 2) {
+    margin-left: 25.64103%;
+    margin-right: -100%;
+    clear: none; }
+  .cards:nth-child(4n + 3) {
+    margin-left: 51.28205%;
+    margin-right: -100%;
+    clear: none; }
+  .cards:nth-child(4n + 4) {
+    margin-left: 76.92308%;
+    margin-right: -100%;
+    clear: none; }
   .cards p {
     line-height: 1.5rem;
     padding: 5px 10px; }
   .cards a {
     color: #474F55; }
-  @media screen and (min-width: 960px) {
-    .cards {
-      padding-left: 17px; } }
 
 .card {
-  width: 320px;
-  margin-bottom: 20px;
-  /* seperates cards vertically */
-  background-color: #fff;
-  border: 1px solid #ddd;
+  width: 26.47059%;
+  float: left;
+  margin-right: 2.94118%;
+  width: 318px;
+  border: 1px solid #242424;
   -webkit-border-radius: 5px;
           border-radius: 5px;
-  font-size: 16px;
-  font-size: 1rem;
-  vertical-align: top;
   -webkit-box-shadow: -4px 8px 8px silver;
           box-shadow: -4px 8px 8px silver; }
-  @media screen and (min-width: 600px) {
-    .card {
-      width: 47.5%;
-      margin: 0 0 2.5% 0; } }
-  @media screen and (min-width: 960px) {
-    .card {
-      width: 30.83%; } }
-  .card:hover {
-    border: 1px solid #8B0000;
-    -webkit-box-shadow: -4px 8px 8px rgba(139, 0, 0, 0.2);
-            box-shadow: -4px 8px 8px rgba(139, 0, 0, 0.2); }
-    .card:hover .card__meta, .card:hover .card__genre {
-      color: #fff;
-      font-weight: bold;
-      background: #8B0000; }
-    .card:hover .meta {
-      background-color: #8B0000;
-      color: #fff;
-      font-weight: bold; }
-    .card:hover .readmore {
-      font-weight: bold; }
 
 .card__header {
   width: 100%;
@@ -826,82 +594,6 @@ figcaption.caption {
   background-size: cover;
   border-radius-top: 10px; }
 
-h2.card__meta {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  color: white;
-  background: rgba(0, 0, 0, 0.65);
-  margin: 0;
-  padding: 6px;
-  border: none;
-  font-size: 1.15rem;
-  text-transform: uppercase;
-  text-align: center; }
-  h2.card__meta span {
-    display: block;
-    font-size: 1rem;
-    text-transform: capitalize; }
-
-.card__title {
-  margin: 0 0 5px;
-  text-transform: uppercase;
-  font-size: 19.654px; }
-
-.card__author {
-  color: #f2f2f2; }
-
-.card__genre {
-  background: rgba(0, 0, 0, 0.65);
-  color: white;
-  text-align: center;
-  font-size: 0.95rem;
-  font-weight: 800;
-  letter-spacing: 0.15rem; }
-
-.card__ribbonwrapper {
-  overflow: hidden;
-  position: absolute;
-  right: -1px;
-  top: -1px;
-  z-index: 999; }
-  .card__ribbonwrapper .card__ribbon {
-    background-color: yellow;
-    -webkit-box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.6);
-            box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.6);
-    font-family: "Josefin Sans", sans-serif;
-    color: #8B0000;
-    font-size: 0.75em;
-    font-weight: 800;
-    left: -5px;
-    line-height: 1.5em;
-    padding: 2px 7px;
-    position: relative;
-    text-align: center;
-    top: 15px;
-    width: 120px; }
-
-.meta {
-  background: #eee;
-  color: #474F55;
-  text-align: center;
-  margin: 0 auto;
-  border-radius-bottom-left: 5px; }
-
-a.readmore {
-  color: #8B0000;
-  text-transform: uppercase;
-  font-size: 0.75rem; }
-
-.iso-filter {
-  margin-bottom: 2rem; }
-  .iso-filter ul li {
-    display: inline; }
-    .iso-filter ul li a {
-      color: white;
-      font-size: 0.9rem;
-      padding-right: 1rem; }
-
 .lead {
   font-style: normal;
   font-weight: normal;
@@ -909,18 +601,213 @@ a.readmore {
   font-variant: small-caps;
   letter-spacing: 0.1em; }
 
+.story__header {
+  text-align: center; }
+
+.story__img {
+  background-color: #242424;
+  color: #fffff0; }
+  .story__img img {
+    background-color: #fffff0; }
+    @media (min-width: 775px) {
+      .story__img img {
+        max-width: 960px; } }
+
+.casefilenum {
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: #242424;
+  color: #fffff0;
+  letter-spacing: 0.09375rem;
+  text-align: center;
+  padding: 0.25rem 0;
+  text-transform: uppercase;
+  font-size: 0.75rem; }
+
+.story__title {
+  text-transform: uppercase;
+  color: #8B0000; }
+
+.story__author {
+  margin: 0 0 1rem 0; }
+  .story__author span {
+    font-variant: small-caps; }
+
+.story__meta {
+  font-size: 0.85rem;
+  display: inline; }
+  .story__meta:after {
+    content: "";
+    clear: both;
+    display: table; }
+  @media (min-width: 530px) {
+    .story__meta .originalpub {
+      text-align: right;
+      width: 35.89744%;
+      float: left;
+      margin-left: 12.82051%;
+      margin-right: -100%; } }
+  @media (min-width: 530px) {
+    .story__meta .trf-issue {
+      text-align: left;
+      width: 35.89744%;
+      float: left;
+      margin-left: 51.28205%;
+      margin-right: -100%; } }
+
+@media (min-width: 775px) {
+  .story {
+    width: 100%;
+    float: left;
+    margin-left: 0;
+    margin-right: 0; } }
+
+.opub {
+  display: block;
+  font-weight: bold;
+  font-style: italic;
+  text-transform: uppercase; }
+
+.opubdate {
+  font-style: italic; }
+
+.opubissue {
+  font-style: italic; }
+
+.metadata {
+  padding: 0.5rem;
+  text-align: left;
+  width: 51.28205%;
+  float: left;
+  margin-right: 2.5%; }
+  @media (min-width: 530px) {
+    .metadata {
+      width: 23.07692%;
+      float: left;
+      margin-right: 2.5641%; } }
+
+.wordcount, .etr {
+  text-transform: uppercase;
+  font-size: 0.85rem; }
+
+span.etr {
+  display: block; }
+
+.excerpt {
+  letter-spacing: 1.5px;
+  font-size: 0.875rem;
+  padding: 1rem 0.5rem 0.25rem 1rem;
+  text-align: left; }
+
+.toc {
+  font-size: 95%;
+  width: 400px;
+  max-width: 95%;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border-bottom: 1px solid #8B0000;
+  text-align: center; }
+  .toc header {
+    background-color: #8B0000; }
+  .toc h6 {
+    margin: 0 0 1rem 0;
+    padding: 5px 10px;
+    color: #fff;
+    text-transform: uppercase; }
+    .toc h6:hover {
+      cursor: pointer; }
+
+/* http://www.456bereastreet.com/archive/201105/styling_ordered_list_numbers/ */
+ol {
+  counter-reset: li;
+  /* Initiate a counter */
+  margin-left: 0;
+  /* Remove the default left margin */
+  padding-left: 0;
+  /* Remove the default left padding */ }
+
+ol > li {
+  position: relative;
+  /* Create a positioning context */
+  margin: 0 0 6px 2rem;
+  /* Give each list item a left margin to make room for the numbers */
+  padding: 0.25rem 0.5rem 0.25rem 1rem;
+  /* Add some spacing around the content */
+  list-style: none;
+  /* Disable the normal item numbering */
+  text-align: left;
+  text-transform: uppercase; }
+
+ol > li:before {
+  content: counter(li);
+  /* Use the counter as content */
+  counter-increment: li;
+  /* Increment the counter by 1 */
+  /* Position and style the number */
+  position: absolute;
+  top: -2px;
+  left: -2em;
+  width: 2em;
+  /* Some space between the number and the content in browsers that support
+       generated content but not positioning it (Camino 2 is one example) */
+  margin-right: 1rem;
+  padding: 4px;
+  border-top: 2px solid #8B0000;
+  color: #fffff0;
+  background: #8B0000;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: center; }
+
+li ol,
+li ul {
+  margin-top: 6px; }
+
+ol ol li:last-child {
+  margin-bottom: 0; }
+
+.chapternumber {
+  color: #682323;
+  font-size: 1rem;
+  text-transform: uppercase; }
+
+.chaptertitle {
+  color: #8B0000;
+  text-transform: uppercase;
+  margin-bottom: 1rem; }
+
+.btt {
+  text-align: right; }
+  .btt a {
+    color: rgba(139, 0, 0, 0.65); }
+
+#theend {
+  font-family: sans-serif;
+  font-size: 2rem;
+  text-transform: uppercase;
+  color: #8B0000;
+  text-align: center;
+  margin: 2.5rem 0; }
+
+.break {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 0.75rem; }
+
 /*==========  LAYOUT  ==========*/
-header {
+.header {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
   overflow: hidden;
   background: #fffff0;
   border-bottom: 4px solid #242424;
   margin-bottom: 1rem; }
-
-.header {
-  max-width: 357px;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 100%; }
   .header:after {
     content: " ";
     display: block;
@@ -1047,23 +934,23 @@ p {
 
 @media (min-width: 530px) {
   .pagetitle {
-    width: 77.74114%;
+    width: 23.07692%;
     float: left;
-    margin-left: 11.12943%;
+    margin-left: 12.82051%;
     margin-right: -100%;
     margin: 1rem 0 0 1rem; } }
 
 .content {
   clear: both;
-  width: 84.5815%;
+  width: 10.25641%;
   float: left;
-  margin-left: 15.4185%;
+  margin-left: 12.82051%;
   margin-right: -100%; }
   @media (min-width: 530px) {
     .content {
-      width: 77.74114%;
+      width: 23.07692%;
       float: left;
-      margin-left: 11.12943%;
+      margin-left: 12.82051%;
       margin-right: -100%; } }
 
 /*==========  UTILITIES  ==========*/
@@ -1077,3 +964,6 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: none; }
+
+.uppercase {
+  text-transform: uppercase; }

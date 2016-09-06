@@ -1,5 +1,5 @@
 ---
-layout: post_combo
+layout: short-stories
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef8b
 title: "Close To My Heart"

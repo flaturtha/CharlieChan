@@ -17,9 +17,15 @@ collections:
   the-red-file:
     output: true
     permalink: /the-red-file/:path/
+    title: The Red File
   murderwiki:
     output: true
     permalink: /murderwiki/:path/
+    title: MurderWiki
+  short-stories:
+    output: true
+    permalink: /short-stories/:path/
+    title: Short Stories
 
 
 # paginate: 12

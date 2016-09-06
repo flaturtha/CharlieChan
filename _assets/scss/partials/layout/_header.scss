@@ -1,15 +1,13 @@
-header {
-  overflow: hidden;
-  background: $paper;
-  border-bottom: 4px solid $bgcolor;
-  margin-bottom: 1rem;
-}
 
 .header {
   @include with-layout($header-grid) {
     @include container;
     max-width: 100%;
   }
+  overflow: hidden;
+  background: $paper;
+  border-bottom: 4px solid $bgcolor;
+  margin-bottom: 1rem;
 }
 
 header a, header label {

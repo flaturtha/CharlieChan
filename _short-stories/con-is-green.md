@@ -1,5 +1,5 @@
 ---
-layout: post_combo
+layout: short-stories
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef93
 title: "The Con Is Green"
@@ -25,9 +25,6 @@ epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Con_Is_Green.e
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
-
-<h6 class="btt"><a href="#top">Back to Top</a></h6>
-<hr>
 
 ### Chapter 1
 {: .chapternumber .no_toc}

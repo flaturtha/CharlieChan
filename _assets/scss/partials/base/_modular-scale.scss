@@ -1,6 +1,6 @@
 @import "modular-scale/ratios";
 
-$ms-base:  1.125em      !default; /* sets base font size to 18px */
+$ms-base:  1em      !default; /* sets base font size to 18px */
 $ms-ratio: $augmented-fourth  !default;
 $ms-range: 1.1 20em, 1.333 60em     !default;
 $ms-fluid: true     !default;

@@ -1,15 +1,20 @@
 ---
-layout: post_combo
+layout: short-stories
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefb7
 title: "The Case of the Boomerang Bomb"
-author: A Dixon Hawke Mystery
+series: A Dixon Hawke Mystery
 date: 2015-08-24
+opub: Dixon Hawke's Casebook
+opubdate: Spring 1940
+opubissue: No. 4
 category: short-stories
 excerpt: Before he met his frightful but not entirely unfitting death, Maurice Pollitt had had some life infused into him.
 image: /assets/img/boomerang-bomb.svg
 genre: Professional Sleuth
 wordcount: 3360
+trfissue: Vol. 2 No. 8
+trfdate: Feb. 2, 2016
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE
 epub: LINK TO EPUB
