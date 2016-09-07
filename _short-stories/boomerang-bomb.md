@@ -10,7 +10,7 @@ opubdate: Spring 1940
 opubissue: No. 4
 category: short-stories
 excerpt: Before he met his frightful but not entirely unfitting death, Maurice Pollitt had had some life infused into him.
-image: /assets/img/boomerang-bomb.svg
+image: /assets/img/short-stories/boomerang-bomb.svg
 genre: Professional Sleuth
 wordcount: 3360
 trfissue: Vol. 2 No. 8

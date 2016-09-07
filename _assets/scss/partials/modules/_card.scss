@@ -5,26 +5,29 @@
 $border-radius: 5px;
 
 .cards {
-  // @include span(2);
-  @include gallery(2);
+  // border: 2px solid green;
+  @include cf;
+  line-height: 0;
   list-style: none;
   // font-size: 0;
   p {
     line-height: 1.5rem;
     padding: 5px 10px;
   }
-  a {
-    color: $pcolor;
-  }
 }
 
 .card {
-  @include span (2 of 7);
-  width: 318px;
   border: 1px solid $bgcolor;
   border-radius: $border-radius;
-  // background-color: #fff;
+  background-color: #fff;
   box-shadow: -4px 8px 8px silver;
+  margin-bottom: gutter();
+  @include susy-breakpoint($bp-med){
+    @include gallery(4 of 8);
+  }
+  @include susy-breakpoint($bp-large){
+    @include gallery(4 of 12);
+  }
 }
 
 .card__header {
@@ -39,4 +42,58 @@ $border-radius: 5px;
   background-size: cover;
   border-radius-top: $border-radius *2;
   // border-radius-top: $border-radius;
+}
+
+h2.card__meta  {
+  position:absolute;
+  bottom:0;
+  width:100%;
+  color:white;
+  background:rgba(0,0,0,0.65);
+  margin:0;
+  padding:6px;
+  border:none;
+  font-size: 1.15rem;
+  text-transform: uppercase;
+  text-align: center;
+  span {
+    display: block;
+    font-size: 1rem;
+    text-transform: capitalize;
+  }
+}
+
+.card__title {
+  margin: 0 0 5px;
+  text-transform: uppercase;
+  font-size: 19.654px;
+}
+
+.card__author {
+  // font-size: 2rem;
+  color: darken(#fff, 5%);
+}
+
+.card__genre {
+  background:rgba(0,0,0,0.65);
+  color:white;
+  text-align:center;
+  font-size:0.95rem;
+  font-weight:800;
+  letter-spacing: 0.15rem;
+}
+
+.meta {
+  background: #eee;
+  color: $pcolor;
+  text-align: center;
+  margin: 0 auto;
+  border-radius-bottom-left: $border-radius;
+}
+
+a.readmore {
+  color: $acolor;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.125rem;
 }

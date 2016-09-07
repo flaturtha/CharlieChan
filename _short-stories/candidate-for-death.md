@@ -5,11 +5,16 @@ casefileNumber: 55ccf75fb3901011515aef09
 title: "Candidate for Death"
 author: Theodore A. Tinsley
 date: 2015-08-24
+opub: All Detective Magazine
+opubdate: March 1933
+opubissue:
 category: short-stories
 excerpt: Hired guns gave their wolf cry when the Scarlet Ace passed the word, but they forgot the law of the pack until they paid the price of fear.
-image: /assets/img/candidate-for-death_right.svg
+image: /assets/img/short-stories/candidate-for-death_right.svg
 genre: Crook
 wordcount: 7622
+trfissue: Vol. 2 No. 9
+trfdate: Feb. 28, 2016
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Candidate_for_Death.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Candidate_for_Death.epub

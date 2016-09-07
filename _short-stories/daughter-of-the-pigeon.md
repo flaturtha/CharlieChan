@@ -10,7 +10,7 @@ opubissue: Vol. 1 No. 6
 date: 2015-08-25
 category: short-stories
 excerpt: “The cave!” I shouted, pressing the knife into her hand and pointing to the nearby cavity.
-image: /assets/img/daughter-of-the-pigeon.svg
+image: /assets/img/short-stories/daughter-of-the-pigeon.svg
 genre: Adventure
 wordcount: 6316
 trfissue: Vol. 2 No. 13

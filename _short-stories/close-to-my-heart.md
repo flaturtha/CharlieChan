@@ -5,11 +5,16 @@ casefileNumber: 55ccf75fb3901011515aef8b
 title: "Close To My Heart"
 author: Chester S. Geier
 date: 2015-08-25
+opub: Mammoth Mystery
+opubdate: Jan. 1946
+opubissue: Vol. 2, No. 1
 category: short-stories
 excerpt: Hatred caused Reece to send his rival a gift to be worn next to the heart. But he forgot to say whose heart …
-image: /assets/img/close-to-my-heart.svg
+image: /assets/img/short-stories/close-to-my-heart.svg
 genre: Noir
 wordcount: 4859
+trfissue: Vol. 3 No. 17
+trfdate: Apr. 24, 2016
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE
 epub: LINK TO EPUB

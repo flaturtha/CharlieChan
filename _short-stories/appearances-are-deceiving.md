@@ -5,11 +5,16 @@ casefileNumber: 55ccf75fb3901011515aef4c
 title: "Appearances Are Deceiving"
 author: George B. Jenkins, Jr.
 date: 2015-08-24
+opub: The Black Mask
+opubdate: Apr. 1922
+opubissue: Vol. 5, No. 1
 category: short-stories
 excerpt: It was the perfect crime, until Garbett took the wrong chance and lost it all.
-image: /assets/img/appearances.svg
+image: /assets/img/short-stories/appearances.svg
 genre: Crook
 wordcount: 4348
+trfissue: Vol. 3 No. 17
+trfdate: Apr. 24, 2016
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE
 epub: LINK TO EPUB

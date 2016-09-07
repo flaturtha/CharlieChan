@@ -6,11 +6,16 @@ title: "The Con Is Green"
 subtitle: "A Dizzy Duo Yarn"
 author: Joe Archibald
 date: 2015-08-25
+opub: Ten Detective Aces
+opubdate: November 1945
+opubissue: Vol. 11, No. 4
 category: short-stories
 excerpt: Though Snooty Piper, the Beantown crimehound, usually spots the hot-seat evidence first, this time he's only got spots before his eyes. Yet that wacky reporter can even find a way to line up those visual aberrations to put a killer on the spot.
-image: /assets/img/con-is-green.svg
+image: /assets/img/short-stories/con-is-green.svg
 genre: Amateur Sleuth
 wordcount: 4910
+trfissue: Vol. 1 No. 7
+trfdate: Feb. 14, 2016
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Con_Is_Green.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Con_Is_Green.epub

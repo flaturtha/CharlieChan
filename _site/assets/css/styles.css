@@ -545,42 +545,54 @@ h4, .h4 {
    CARD MODULE
    ========================================================================== */
 .cards {
-  width: 23.07692%;
-  float: left;
+  line-height: 0;
   list-style: none; }
-  .cards:nth-child(4n + 1) {
-    margin-left: 0;
-    margin-right: -100%;
+  .cards:after {
+    content: "";
     clear: both;
-    margin-left: 0; }
-  .cards:nth-child(4n + 2) {
-    margin-left: 25.64103%;
-    margin-right: -100%;
-    clear: none; }
-  .cards:nth-child(4n + 3) {
-    margin-left: 51.28205%;
-    margin-right: -100%;
-    clear: none; }
-  .cards:nth-child(4n + 4) {
-    margin-left: 76.92308%;
-    margin-right: -100%;
-    clear: none; }
+    display: table; }
   .cards p {
     line-height: 1.5rem;
     padding: 5px 10px; }
-  .cards a {
-    color: #474F55; }
 
 .card {
-  width: 26.47059%;
-  float: left;
-  margin-right: 2.94118%;
-  width: 318px;
   border: 1px solid #242424;
   -webkit-border-radius: 5px;
           border-radius: 5px;
+  background-color: #fff;
   -webkit-box-shadow: -4px 8px 8px silver;
-          box-shadow: -4px 8px 8px silver; }
+          box-shadow: -4px 8px 8px silver;
+  margin-bottom: 2.5641%; }
+  @media (min-width: 530px) {
+    .card {
+      width: 48.71795%;
+      float: left; }
+      .card:nth-child(2n + 1) {
+        margin-left: 0;
+        margin-right: -100%;
+        clear: both;
+        margin-left: 0; }
+      .card:nth-child(2n + 2) {
+        margin-left: 51.28205%;
+        margin-right: -100%;
+        clear: none; } }
+  @media (min-width: 775px) {
+    .card {
+      width: 32.20339%;
+      float: left; }
+      .card:nth-child(3n + 1) {
+        margin-left: 0;
+        margin-right: -100%;
+        clear: both;
+        margin-left: 0; }
+      .card:nth-child(3n + 2) {
+        margin-left: 33.89831%;
+        margin-right: -100%;
+        clear: none; }
+      .card:nth-child(3n + 3) {
+        margin-left: 67.79661%;
+        margin-right: -100%;
+        clear: none; } }
 
 .card__header {
   width: 100%;
@@ -593,6 +605,52 @@ h4, .h4 {
   overflow: hidden;
   background-size: cover;
   border-radius-top: 10px; }
+
+h2.card__meta {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  background: rgba(0, 0, 0, 0.65);
+  margin: 0;
+  padding: 6px;
+  border: none;
+  font-size: 1.15rem;
+  text-transform: uppercase;
+  text-align: center; }
+  h2.card__meta span {
+    display: block;
+    font-size: 1rem;
+    text-transform: capitalize; }
+
+.card__title {
+  margin: 0 0 5px;
+  text-transform: uppercase;
+  font-size: 19.654px; }
+
+.card__author {
+  color: #f2f2f2; }
+
+.card__genre {
+  background: rgba(0, 0, 0, 0.65);
+  color: white;
+  text-align: center;
+  font-size: 0.95rem;
+  font-weight: 800;
+  letter-spacing: 0.15rem; }
+
+.meta {
+  background: #eee;
+  color: #474F55;
+  text-align: center;
+  margin: 0 auto;
+  border-radius-bottom-left: 5px; }
+
+a.readmore {
+  color: #8B0000;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.125rem; }
 
 .lead {
   font-style: normal;
