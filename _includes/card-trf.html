@@ -1,0 +1,19 @@
+<ul class="cards">
+{% for the-red-file in site.the-red-file %}
+
+    <li class="card" {% if the-red-file.genre %} id="{{ the-red-file.genre | downcase }}"{% endif %}>
+
+      <header class="card__header" style="background-image:url(' {{ the-red-file.image }}');background-size:contain;">
+
+
+      <!-- <h2 class="card__meta">{{ the-red-file.title }} <span>{{ the-red-file.author }}</span></h2> -->
+
+      </header> <!-- end header.card__header -->
+
+      <p class="card__genre">{{ the-red-file.title }}</p>
+      <p><a href="{{ the-red-file.url }}" class="readmore">Table&nbsp;of&nbsp;Contents&nbsp;&rsaquo;&rsaquo;</a></p>
+    </li>
+
+{% endfor %}
+
+</ul>

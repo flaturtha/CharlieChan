@@ -7,15 +7,21 @@ title: Home
 <div class="{{ page.title }} homepage">
 
   <div class="featuredss">
-  <h2>FEATURED SHORT STORY</h2>
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat reiciendis impedit corrupti illo dolorum, iste dolores, ipsa. Libero ipsum quis provident natus beatae iure molestias at minus, repellat, veniam, voluptate.</p>
-  <p>Exercitationem earum reiciendis commodi voluptates illum doloribus iusto temporibus omnis, in architecto maxime vel quas quo autem aperiam ut, neque a ratione quis dignissimos libero quia. Possimus, fuga illo numquam.</p>
-  <p>Qui maxime quibusdam, laborum architecto iste unde rerum optio vero, excepturi aut est veritatis illum repellat magni. Dicta tempora qui quo optio a, amet illo perferendis fuga recusandae asperiores? Voluptatum.</p>
+    <!-- <h2>FEATURED SHORT STORY</h2> -->
+    <div class="blog-index">
+      {% assign post = site.short-stories.first %}
+      {% assign content = short-stories.content %}
+      {% include post_detail.html %}
+    </div>
   </div>
 
   <div class="murderwiki">
   <h2>MURDERWIKI ARTICLES</h2>
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis, assumenda nemo expedita illo commodi. Temporibus velit facere atque quisquam repudiandae non provident, natus autem quia laudan.</p>
+    <div class="blog-index">
+      {% assign post = site.murderwiki.first %}
+      {% assign content = murderwiki.content %}
+      {% include mw_detail.html %}
+    </div>
   </div>
 
   <div class="trf">

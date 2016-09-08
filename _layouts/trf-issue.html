@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<div id="theredfile" class="{{ page.layout }}">
+
+	<article class="trf__content" id="story-main" style="margin-bottom: 2rem;">
+		<figure>
+			<img class="shadowed" src="{{ page.image }}" alt="{{ post.title }}">
+			<figcaption>{{ page.title }} | {{ page.date | date: "%-d %b %Y" }}</figcaption>
+		</figure>
+  	{{ content }}
+  </article>
+
+</div> <!-- end of div#theredfile -->

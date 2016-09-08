@@ -5,7 +5,9 @@
 @import 'mixins';
 
 $susy: (
-  output: isolate,
+  // output: isolate,
+  output: float,
+  gutter-position: split,
   global-box-sizing: border-box,
   debug: (image: show-columns)
 );

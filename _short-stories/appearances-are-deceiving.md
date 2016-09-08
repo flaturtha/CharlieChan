@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef4c
 title: "Appearances Are Deceiving"
 author: George B. Jenkins, Jr.
-date: 2015-08-24
+date: 2016-09-08
 opub: The Black Mask
 opubdate: Apr. 1922
 opubissue: Vol. 5, No. 1

@@ -1,0 +1,21 @@
+<div class="entry-content">
+
+  <header class="featuredss__content">
+
+    <h2 class="featuredss__title"><a href="{{ root_url }}{{ page.url }}">{{ post.title }}</a></h2>
+
+    {% if post.subtitle %}<h4 class="featuredss__subtitle">{{ post.subtitle }}</h4>{% endif %}
+
+    <h3 class="featuredss__author">{% if post.author %}by <span>{{ post.author }}</span>{% else %}<span>{{ post.series }}</span>{% endif %}</h3>
+  </header>
+
+  <figure class="story__img">
+    <img src="{{ post.image }}" alt="{{ post.title }}">
+    <figcaption class="excerpt">
+      <p>{{ post.excerpt }}</p>
+      <p><a href="{{ root_url }}{{ post.url }}" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
+    </figcaption> <!-- end figcaption.excerpt -->
+  </figure>
+
+
+</div>

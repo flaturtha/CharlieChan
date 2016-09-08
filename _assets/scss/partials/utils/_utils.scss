@@ -16,3 +16,14 @@ a {
 .uppercase {
   text-transform: uppercase;
 }
+
+.bold {
+  font-weight: bold;
+}
+
+.companyname {
+  text-transform: uppercase;
+  color: $acolor;
+  font-weight: bold;
+  font-size: 0.85rem;
+}
