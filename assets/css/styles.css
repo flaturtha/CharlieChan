@@ -386,6 +386,13 @@ textarea {
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
+  background-image: -webkit-gradient(linear, left top, right top, from(rgba(102, 102, 255, 0.25)), color-stop(80%, rgba(179, 179, 255, 0.25)), color-stop(80%, transparent));
+  background-image: -webkit-linear-gradient(left, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
+  background-image: linear-gradient(to right, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
+  background-size: 12.82051%;
+  background-origin: content-box;
+  background-clip: content-box;
+  background-position: left top;
   padding: 0 1rem; }
   .wrap:after {
     content: " ";
@@ -393,10 +400,24 @@ textarea {
     clear: both; }
   @media (min-width: 530px) {
     .wrap {
-      max-width: 100%; } }
+      max-width: 100%;
+      background-image: -webkit-gradient(linear, left top, right top, from(rgba(102, 102, 255, 0.25)), color-stop(80%, rgba(179, 179, 255, 0.25)), color-stop(80%, transparent));
+      background-image: -webkit-linear-gradient(left, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
+      background-image: linear-gradient(to right, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
+      background-size: 12.82051%;
+      background-origin: content-box;
+      background-clip: content-box;
+      background-position: left top; } }
   @media (min-width: 775px) {
     .wrap {
-      max-width: 960px; } }
+      max-width: 960px;
+      background-image: -webkit-gradient(linear, left top, right top, from(rgba(102, 102, 255, 0.25)), color-stop(80%, rgba(179, 179, 255, 0.25)), color-stop(80%, transparent));
+      background-image: -webkit-linear-gradient(left, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
+      background-image: linear-gradient(to right, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
+      background-size: 8.47458%;
+      background-origin: content-box;
+      background-clip: content-box;
+      background-position: left top; } }
 
 /* ==========================================================================
    VARIABLES
@@ -861,6 +882,13 @@ ol ol li:last-child {
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
+  background-image: -webkit-gradient(linear, left top, right top, from(rgba(102, 102, 255, 0.25)), color-stop(80%, rgba(179, 179, 255, 0.25)), color-stop(80%, transparent));
+  background-image: -webkit-linear-gradient(left, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
+  background-image: linear-gradient(to right, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
+  background-size: 14.70588%;
+  background-origin: content-box;
+  background-clip: content-box;
+  background-position: left top;
   max-width: 100%;
   overflow: hidden;
   background: #fffff0;
@@ -975,6 +1003,117 @@ input[type=checkbox]:checked ~ label:after {
     text-align: center;
     font-size: 0.8rem;
     color: #242424; } }
+
+/* ==========================================================================
+   HOMEPAGE HEADER
+   ========================================================================== */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+  ul li {
+    margin: 0;
+    padding: 0; }
+
+.header_home {
+  height: 33vh;
+  vertical-align: center;
+  background-color: #242424; }
+  .header_home a {
+    color: #fffff0;
+    text-align: center;
+    vertical-align: middle; }
+
+.featuredss {
+  background-color: red;
+  text-align: center;
+  opacity: 0.45;
+  color: #fffff0;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  margin: 2.5641% 0; }
+
+.murderwiki {
+  background-color: orange;
+  opacity: 0.45;
+  color: #fffff0;
+  text-align: center;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 2.5641%; }
+  @media (min-width: 530px) {
+    .murderwiki {
+      width: 48.71795%;
+      float: left;
+      margin-right: 2.5641%; } }
+  @media (min-width: 775px) {
+    .murderwiki {
+      width: 66.10169%;
+      float: left;
+      margin-right: 1.69492%; } }
+
+.trf {
+  background-color: green;
+  opacity: 0.45;
+  color: #fffff0;
+  text-align: center;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 2.5641%; }
+  @media (min-width: 530px) {
+    .trf {
+      width: 48.71795%;
+      float: left;
+      margin-left: 0;
+      margin-right: -100%; } }
+  @media (min-width: 775px) {
+    .trf {
+      width: 32.20339%;
+      float: left;
+      margin-left: 0;
+      margin-right: -100%; } }
+
+.bookstore {
+  background-color: purple;
+  opacity: 0.45;
+  color: #fffff0;
+  text-align: center;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  margin: 2.5641% 0; }
+
+.bookimg {
+  margin: 0;
+  padding: 2.5641% 0;
+  width: 47.4359%;
+  float: left;
+  margin-right: 2.5641%; }
+
+.storyimg {
+  padding: 2.5641%;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0; }
+
+.stories {
+  background-color: blue;
+  opacity: 0.45;
+  color: #fffff0;
+  text-align: center;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 2.5641%; }
 
 /* ==========================================================================
    FOOTER

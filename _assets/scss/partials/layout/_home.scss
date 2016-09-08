@@ -1,0 +1,133 @@
+/* ==========================================================================
+   HOMEPAGE HEADER
+   ========================================================================== */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  li {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.homepage {
+  // background-color: hotpink;
+  // height: 800px;
+}
+
+.header_home {
+  height: 33vh;
+  vertical-align: center;
+  // padding: 1rem;
+  // margin: 1rem;
+  // background: url('/assets/img/site/site_logo4a_f.png');
+  // background-size: contain;
+  // background-repeat: no-repeat;
+  background-color: $bgcolor;
+  a {
+    color: $paper;
+    text-align: center;
+    vertical-align: middle;
+  }
+}
+
+
+.biglogo {
+}
+
+.featuredss {
+  background-color: red;
+  text-align: center;
+  opacity: 0.45;
+  color: $paper;
+
+  @include span(8);
+  margin: gutter() 0;
+  @include susy-breakpoint($bp-med){
+
+  }
+}
+
+.murderwiki {
+  background-color: orange;
+  opacity: 0.45;
+  color: $paper;
+  text-align: center;
+
+  @include span(8);
+  margin-bottom: gutter();
+  @include susy-breakpoint($bp-med){
+    @include span(4);
+  }
+  @include susy-breakpoint($bp-large){
+    @include span(8 of 12);
+  }
+}
+
+.trf {
+  background-color: green;
+  opacity: 0.45;
+  color: $paper;
+  text-align: center;
+
+  @include span(8);
+  margin-bottom: gutter();
+  @include susy-breakpoint($bp-med){
+    @include span(4 at 1);
+  }
+  @include susy-breakpoint($bp-large){
+    @include span(4 of 12 at 1);
+  }
+}
+
+.bookstore {
+  background-color: purple;
+  opacity: 0.45;
+  color: $paper;
+  text-align: center;
+
+  @include span(8);
+  margin: gutter() 0;
+  @include susy-breakpoint($bp-large){
+
+  }
+}
+
+.bookimg {
+  margin: 0;
+  padding: gutter() 0;
+  @include span(3.9 of 8);
+}
+
+.storyimg {
+  padding: gutter();
+  @include span(8);
+}
+
+// .genre {
+//   @include span(4 of 8 at 2);
+// }
+
+.stories {
+  background-color: blue;
+  opacity: 0.45;
+  color: $paper;
+  text-align: center;
+
+  @include span(8);
+  margin-bottom: gutter();
+}
+
+
+
+
+
+
+
+
+
+
+
+

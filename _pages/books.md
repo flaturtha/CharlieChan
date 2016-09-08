@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /books/
-title: Books
+title: Bookstore
 ---
 
 <div class="wrap {{ page.title }}">
