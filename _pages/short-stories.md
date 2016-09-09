@@ -6,11 +6,33 @@ title: Short Stories
 
 <div class="{{ page.title }}">
 
-  <header class="short-stories" style="margin-bottom: 2rem;background-color: darkred;color:#fffff2;text-align:center;padding:0.5rem;">
-    <h2>SHORT STORIES: sort, search, click, read!</h2>
+  <header class="ss-toc">
+    <div class="top">
+      <h1>Short Stories</h1>
+      <h2>Table of Contents</h2>
+      <p>Find something to read &hellip;</p>
+    </div>
+
+    <div class="sortsearch">
+      <div class="search">
+        <p>Search by:</p>
+        <p>{% include search.html %}</p>
+      </div>
+      <div class="sort">
+        <p>Sort by:</p>
+      <ul>
+        <li>Length</li>
+        <li>Author</li>
+        <li>Genre</li>
+      </ul>
+      </div>
+    </div>
+
   </header>
 
-  <section class="container card__container">
+  <div class="cf"></div>
+
+  <section class="card__container">
 
     {% include card-ss.html %}
 

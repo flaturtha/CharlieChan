@@ -69,11 +69,46 @@
   <main class="wrap">
     <div class="Short Stories">
 
-  <header class="short-stories" style="margin-bottom: 2rem;background-color: darkred;color:#fffff2;text-align:center;padding:0.5rem;">
-    <h2>SHORT STORIES: sort, search, click, read!</h2>
+  <header class="ss-toc">
+    <div class="top">
+      <h1>Short Stories</h1>
+      <h2>Table of Contents</h2>
+      <p>Find something to read &hellip;</p>
+    </div>
+
+    <div class="sortsearch">
+      <div class="search">
+        <p>Search by:</p>
+        <p>
+<!-- Powered by <a href="/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/">lunr.js</a>. -->
+
+<form action="get" id="site_search">
+  <input type="text" id="search_box" />
+  <input type="submit" value="Search" />
+</form>
+
+<ul id="search_results"></ul>
+
+<script src="assets/js/lunr.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="assets/js/search.js"></script>
+</p>
+      </div>
+      <div class="sort">
+        <p>Sort by:</p>
+      <ul>
+        <li>Length</li>
+        <li>Author</li>
+        <li>Genre</li>
+      </ul>
+      </div>
+    </div>
+
   </header>
 
-  <section class="container card__container">
+  <div class="cf"></div>
+
+  <section class="card__container">
 
     <ul class="cards">
 
@@ -92,7 +127,7 @@
 
       </header> <!-- end header.card__header -->
 
-      <p>Before he met his frightful but not entirely unfitting death, Maurice Pollitt had had some life infused into him. <a href="/short-stories/boomerang-bomb/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
+      <p class="TOCexcerpt">Before he met his frightful but not entirely unfitting death, Maurice Pollitt had had some life infused into him. <a href="/short-stories/boomerang-bomb/" class="readmore">Read&nbsp;the&nbsp;story&nbsp;&rsaquo;&rsaquo;</a> </p>
       <p class="meta">3360 words | 
         
           <span class="time">16</span> min 
@@ -116,7 +151,7 @@
 
       </header> <!-- end header.card__header -->
 
-      <p>Hired guns gave their wolf cry when the Scarlet Ace passed the word, but they forgot the law of the pack until they paid the price of fear. <a href="/short-stories/candidate-for-death/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
+      <p class="TOCexcerpt">Hired guns gave their wolf cry when the Scarlet Ace passed the word, but they forgot the law of the pack until they paid the price of fear. <a href="/short-stories/candidate-for-death/" class="readmore">Read&nbsp;the&nbsp;story&nbsp;&rsaquo;&rsaquo;</a> </p>
       <p class="meta">7622 words | 
         
           <span class="time">38</span> min 
@@ -140,7 +175,7 @@
 
       </header> <!-- end header.card__header -->
 
-      <p>Hatred caused Reece to send his rival a gift to be worn next to the heart. But he forgot to say whose heart … <a href="/short-stories/close-to-my-heart/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
+      <p class="TOCexcerpt">Hatred caused Reece to send his rival a gift to be worn next to the heart. But he forgot to say whose heart … <a href="/short-stories/close-to-my-heart/" class="readmore">Read&nbsp;the&nbsp;story&nbsp;&rsaquo;&rsaquo;</a> </p>
       <p class="meta">4859 words | 
         
           <span class="time">24</span> min 
@@ -164,7 +199,7 @@
 
       </header> <!-- end header.card__header -->
 
-      <p>Though Snooty Piper, the Beantown crimehound, usually spots the hot-seat evidence first, this time he's only got spots before his eyes. Yet that wacky reporter can even find a way to line up those visual aberrations to put a killer on the spot. <a href="/short-stories/con-is-green/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
+      <p class="TOCexcerpt">Though Snooty Piper, the Beantown crimehound, usually spots the hot-seat evidence first, this time he's only got spots before his eyes. Yet that wacky reporter can even find a way to line up those visual aberrations to put a killer on the spot. <a href="/short-stories/con-is-green/" class="readmore">Read&nbsp;the&nbsp;story&nbsp;&rsaquo;&rsaquo;</a> </p>
       <p class="meta">4910 words | 
         
           <span class="time">24</span> min 
@@ -188,7 +223,7 @@
 
       </header> <!-- end header.card__header -->
 
-      <p>“The cave!” I shouted, pressing the knife into her hand and pointing to the nearby cavity. <a href="/short-stories/daughter-of-the-pigeon/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
+      <p class="TOCexcerpt">“The cave!” I shouted, pressing the knife into her hand and pointing to the nearby cavity. <a href="/short-stories/daughter-of-the-pigeon/" class="readmore">Read&nbsp;the&nbsp;story&nbsp;&rsaquo;&rsaquo;</a> </p>
       <p class="meta">6316 words | 
         
           <span class="time">31</span> min 
@@ -212,7 +247,7 @@
 
       </header> <!-- end header.card__header -->
 
-      <p>“When a man dies, my dear Hawke,” said Dr. Wilthorpe, lighting a cigar, “he usually gives up playing the fool, but not so Alderman Wickham." <a href="/short-stories/dog-biter/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
+      <p class="TOCexcerpt">“When a man dies, my dear Hawke,” said Dr. Wilthorpe, lighting a cigar, “he usually gives up playing the fool, but not so Alderman Wickham." <a href="/short-stories/dog-biter/" class="readmore">Read&nbsp;the&nbsp;story&nbsp;&rsaquo;&rsaquo;</a> </p>
       <p class="meta">3184 words | 
         
           <span class="time">15</span> min 
@@ -236,7 +271,7 @@
 
       </header> <!-- end header.card__header -->
 
-      <p>It was the perfect crime, until Garbett took the wrong chance and lost it all. <a href="/short-stories/appearances-are-deceiving/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
+      <p class="TOCexcerpt">It was the perfect crime, until Garbett took the wrong chance and lost it all. <a href="/short-stories/appearances-are-deceiving/" class="readmore">Read&nbsp;the&nbsp;story&nbsp;&rsaquo;&rsaquo;</a> </p>
       <p class="meta">4348 words | 
         
           <span class="time">21</span> min 

@@ -7,7 +7,8 @@ title: About
 <div class="{{ page.title }}">
 
   <header class="header__about">
-    <h1>Masthead</h1>
+    <h1>About</h1>
+    <h2>Masthead &middot; Letter from the Editor &middot;<br> Policies &middot; Terms &middot; Contact Us</h2>
   </header>
 
   {% include eboard.html %}

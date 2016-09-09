@@ -1,4 +1,95 @@
+/*=============================================
+=            SHORT STORY TOC                  =
+=============================================*/
 
+.ss-toc {
+  background-color: $bgcolor;
+  color: $paper;
+  padding: 0.05rem 1rem 1rem;
+  margin: 0 0 1rem 0;
+  @include span(8 of 8);
+  h1 {
+    text-transform: uppercase;
+    font-size: 1rem;
+    letter-spacing: 0.25rem;
+  }
+  h2 {
+    font-variant: small-caps;
+    letter-spacing: 0.09375rem;
+  }
+  .top {
+    p {
+      font-size: 1.25rem;
+      font-style: italic;
+    }
+    @include susy-breakpoint($bp-med){
+      @include span(5 of 8);
+    }
+    @include susy-breakpoint($bp-large){
+      @include span(6 of 12);
+    }
+  }
+  @include susy-breakpoint($bp-large){
+    @include span(12 of 12);
+    height: 100%;
+  }
+}
+
+
+
+.sortsearch {
+  // border: 2px solid hotpink;
+  // margin: 0 0 1rem 0;
+  padding: 0;
+  @include span(8 of 8);
+  @include susy-breakpoint($bp-med){
+    @include span(3 of 8);
+    padding-top: 1rem;
+  }
+  @include susy-breakpoint($bp-large){
+    @include span(6 of 12);
+  }
+}
+
+.sort {
+  // background-color: $bgcolor;
+  color: $paper;
+  // margin-bottom: 1rem;
+  padding: 0;
+  li {
+    display: inline;
+    padding-right: 2rem;
+  }
+  @include susy-breakpoint($bp-large){
+  @include span(6 of 6);
+  }
+}
+
+.search {
+  @extend .sort;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*=============================================
+=            SHORT STORY PAGE                 =
+=============================================*/
 
 .story__header {
   text-align: center;

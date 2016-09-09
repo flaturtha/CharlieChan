@@ -13,6 +13,7 @@ category: short-stories
 excerpt: Though Snooty Piper, the Beantown crimehound, usually spots the hot-seat evidence first, this time he's only got spots before his eyes. Yet that wacky reporter can even find a way to line up those visual aberrations to put a killer on the spot.
 image: /assets/img/short-stories/con-is-green.svg
 genre: Amateur Sleuth
+tags: amateur sleuth, Ten Detective Aces, Archibald, Dizzy Duo
 wordcount: 4910
 trfissue: Vol. 1 No. 7
 trfdate: Feb. 14, 2016

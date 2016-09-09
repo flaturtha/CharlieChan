@@ -12,6 +12,7 @@ category: short-stories
 excerpt: “The cave!” I shouted, pressing the knife into her hand and pointing to the nearby cavity.
 image: /assets/img/short-stories/daughter-of-the-pigeon.svg
 genre: Adventure
+tags: adventure, Black Mask, Hervey
 wordcount: 6316
 trfissue: Vol. 2 No. 13
 trfdate: 2016-03-27

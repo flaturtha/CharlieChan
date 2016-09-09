@@ -1,5 +1,5 @@
 ---
-layout: post_combo
+layout: short-stories
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefb9
 title: "The Case of the Dog-Biter"
@@ -12,6 +12,7 @@ category: short-stories
 excerpt: “When a man dies, my dear Hawke,” said Dr. Wilthorpe, lighting a cigar, “he usually gives up playing the fool, but not so Alderman Wickham."
 image: /assets/img/short-stories/dog-biter.svg
 genre: Professional Sleuth
+tags: Dixon Hawke, Professional Sleuth
 wordcount: 3184
 trfissue: Vol. 1 No. 1
 trfdate: Jan. 3, 2016
