@@ -386,13 +386,6 @@ textarea {
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
-  background-image: -webkit-gradient(linear, left top, right top, color-stop(10%, transparent), color-stop(10%, rgba(102, 102, 255, 0.25)), color-stop(90%, rgba(179, 179, 255, 0.25)), color-stop(90%, transparent));
-  background-image: -webkit-linear-gradient(left, transparent 10%, rgba(102, 102, 255, 0.25) 10%, rgba(179, 179, 255, 0.25) 90%, transparent 90%);
-  background-image: linear-gradient(to right, transparent 10%, rgba(102, 102, 255, 0.25) 10%, rgba(179, 179, 255, 0.25) 90%, transparent 90%);
-  background-size: 12.5%;
-  background-origin: content-box;
-  background-clip: content-box;
-  background-position: left top;
   padding: 0 1rem; }
   .wrap:after {
     content: " ";
@@ -400,24 +393,10 @@ textarea {
     clear: both; }
   @media (min-width: 530px) {
     .wrap {
-      max-width: 100%;
-      background-image: -webkit-gradient(linear, left top, right top, color-stop(10%, transparent), color-stop(10%, rgba(102, 102, 255, 0.25)), color-stop(90%, rgba(179, 179, 255, 0.25)), color-stop(90%, transparent));
-      background-image: -webkit-linear-gradient(left, transparent 10%, rgba(102, 102, 255, 0.25) 10%, rgba(179, 179, 255, 0.25) 90%, transparent 90%);
-      background-image: linear-gradient(to right, transparent 10%, rgba(102, 102, 255, 0.25) 10%, rgba(179, 179, 255, 0.25) 90%, transparent 90%);
-      background-size: 12.5%;
-      background-origin: content-box;
-      background-clip: content-box;
-      background-position: left top; } }
+      max-width: 100%; } }
   @media (min-width: 775px) {
     .wrap {
-      max-width: 960px;
-      background-image: -webkit-gradient(linear, left top, right top, color-stop(10%, transparent), color-stop(10%, rgba(102, 102, 255, 0.25)), color-stop(90%, rgba(179, 179, 255, 0.25)), color-stop(90%, transparent));
-      background-image: -webkit-linear-gradient(left, transparent 10%, rgba(102, 102, 255, 0.25) 10%, rgba(179, 179, 255, 0.25) 90%, transparent 90%);
-      background-image: linear-gradient(to right, transparent 10%, rgba(102, 102, 255, 0.25) 10%, rgba(179, 179, 255, 0.25) 90%, transparent 90%);
-      background-size: 8.33333%;
-      background-origin: content-box;
-      background-clip: content-box;
-      background-position: left top; } }
+      max-width: 960px; } }
 
 /* ==========================================================================
    VARIABLES
@@ -1210,13 +1189,6 @@ ol ol li:last-child {
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
-  background-image: -webkit-gradient(linear, left top, right top, color-stop(10%, transparent), color-stop(10%, rgba(102, 102, 255, 0.25)), color-stop(90%, rgba(179, 179, 255, 0.25)), color-stop(90%, transparent));
-  background-image: -webkit-linear-gradient(left, transparent 10%, rgba(102, 102, 255, 0.25) 10%, rgba(179, 179, 255, 0.25) 90%, transparent 90%);
-  background-image: linear-gradient(to right, transparent 10%, rgba(102, 102, 255, 0.25) 10%, rgba(179, 179, 255, 0.25) 90%, transparent 90%);
-  background-size: 14.28571%;
-  background-origin: content-box;
-  background-clip: content-box;
-  background-position: left top;
   max-width: 100%;
   overflow: hidden;
   background: #fffff0;
