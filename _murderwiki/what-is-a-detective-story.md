@@ -8,6 +8,7 @@ category: murderwiki
 excerpt: Chapter 6 of <i>The Techniques of the Mystery</i>, published 1913.
 image: /assets/img/murderwiki/true-stories-of-celebrated-crimes.jpg
 genre: The Techniques of the Mystery
+tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 5924
 ---
 

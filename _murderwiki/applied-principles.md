@@ -8,6 +8,7 @@ category: murderwiki
 excerpt: Chapter 9 of <i>The Techniques of the Mystery</i>, published 1913.
 image: /assets/img/murderwiki/Joseph_Bell.jpg
 genre: The Techniques of the Mystery
+tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 4417
 ---
 

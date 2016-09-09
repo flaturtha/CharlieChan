@@ -9,6 +9,7 @@ excerpt: Chapter 21 of <i>The Techniques of the Mystery</i>, published 1913.
 image:
 genre: The Techniques of the Mystery
 wordcount: 556
+tags: Carolyn Wells, The Techniques of the Mystery
 ---
 
 <section id="toc" class="toc">

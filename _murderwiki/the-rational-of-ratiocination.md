@@ -12,6 +12,7 @@ category: murderwiki
 excerpt:
 image: /assets/img/murderwiki/Sherlock6.jpg
 genre: The Techniques of the Mystery
+tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 4417
 ---
 

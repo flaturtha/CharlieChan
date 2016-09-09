@@ -2,11 +2,10 @@
 layout: default
 ---
 
-<article>
+<article class="murderwiki__article">
 
-  <header class="story__header">
+  <header class="mw__header">
 
-    <aside class="casefilenum">CASEFILE NO. {{ page.casefileNumber }}</aside>
     <!-- README IF STATEMENT -->
   {% if site.readtime %}
     {% if site.wpm %}
@@ -17,35 +16,29 @@ layout: default
   {% endif %}
 
 
-    <figure class="story__img">
+    <figure class="mw__img">
       <img src="{{ page.image }}" alt="{{ page.title }}">
-      <figcaption class="excerpt">
-        <p>{{ page.excerpt }}</p>
-      </figcaption> <!-- end figcaption.excerpt -->
+        {% if page.caption %}
+          <figcaption class="caption">
+            <p>{{ page.caption }}</p>
+          </figcaption> <!-- end figcaption.excerpt -->
+        {% endif %}
     </figure>
-    <h1 class="story__title">{{ page.title }}</h1>
-    {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
-    <h2 class="story__author">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</span></h2>
 
-    <div class="story__meta">
+    <h1 class="mw__title">{{ page.title }}{% if page.subtitle %}:{% endif %}</h1>
+    {% if page.subtitle %}<h3 class="mw__subtitle">{{ page.subtitle }}</h3>{% endif %}
 
-      <div class="originalpub">
-        <p><u>Originally published in:</u>
-          <span class="opub">{{ page.opub }}</span>
-          <span class="opubdate">{{ page.opubdate }}</span> &middot;
-          <span class="opubissue">{{ page.opubissue }}</span>
-        </p>
-      </div>
+    <h2 class="mw__author">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</span></h2>
 
-      <div class="trf-issue">
-        <p><u>Featured in:</u>
-          <span class="opub">The Red File</span>
-          <span class="opubdate">{{ page.trfdate }}</span> &middot;
-          <span class="opubissue">{{ page.trfissue }}</span>
-        </p>
-      </div>
-
+     <div class="mw__originalpub">
+      <p class="opubheader">Originally published in:</p>
+      <p>
+        <span class="opub">{{ page.opub }},</span>
+        <span class="opubissue">{{ page.opubchapter }}</span>
+        <span class="opubdate">({{ page.opubdate }})</span>
+      </p>
     </div>
+    <div class="cf"></div>
 
 <!--     <p class="metadata">
 
@@ -66,9 +59,6 @@ layout: default
 
   </header> <!-- end header.story__header -->
 
-  <!--<aside class="excerpt">
-    <p>{{ page.excerpt }}</p>
-  </aside>  end aside.excerpt -->
 
 
   <article class="story">
@@ -76,7 +66,51 @@ layout: default
   </article>
 
   <footer>
-    <small>end of story stuff down here</small>
+    <h4>You May Also Enjoy</h4>
+    <!-- {% if page.url contains 'murderwiki' %} -->
+      <div class="relatedPosts">
+
+          {% assign maxRelated = 4 %}
+          {% assign minCommonTags =  1 %}
+          {% assign maxRelatedCounter = 0 %}
+
+          {% for murderwiki in site.murderwiki %}
+
+          {% assign sameTagCount = 0 %}
+          {% assign commonTags = '' %}
+          {% assign commonTags = .commonTags %}
+
+          {% for tag in murderwiki.tags %}
+            {% if murderwiki.url != page.url %}
+              {% if page.tags contains tag %}
+                {% assign sameTagCount = sameTagCount | plus: 1 %}
+                {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+                {% assign commonTags = commonTags | append: tagmarkup %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+
+          {% if sameTagCount >= minCommonTags %}
+
+              <div class="rel">
+                <a href="{{ murderwiki.url }}">
+                <h5>{{ murderwiki.title }}</h5>
+                <img src="{{ murderwiki.image }}" alt="">
+                <h6>{{ commonTags }}</h6>
+                </a>
+              </div>
+
+            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+            {% if maxRelatedCounter >= maxRelated %}
+              {% break %}
+            {% endif %}
+          {% endif %}
+
+       {% endfor %}
+
+      <div class="cf"></div>
+      </div>
+    <!-- {% endif %} -->
   </footer>
 
 </article>

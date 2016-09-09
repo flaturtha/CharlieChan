@@ -8,6 +8,7 @@ category: murderwiki
 excerpt: Chapter 8 of <i>The Techniques of the Mystery</i>, published 1913.
 image: /assets/img/murderwiki/Painting_depicts_Bahram_Gur.jpg
 genre: The Techniques of the Mystery
+tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 4417
 ---
 

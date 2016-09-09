@@ -8,6 +8,7 @@ category: murderwiki
 excerpt: Chapters 3 & 5 of <i>The Techniques of the Mystery</i>, published 1913.
 image: /assets/img/murderwiki/In_Black_and_White_cover_by_Rudyard_Kipling_1888.jpg
 genre: The Techniques of the Mystery
+tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 3118
 ---
 

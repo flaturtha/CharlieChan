@@ -8,6 +8,7 @@ category: murderwiki
 excerpt: Chapter 4 of <i>The Techniques of the Mystery</i>, published 1913.
 image: /assets/img/murderwiki/Whistle_and_I%27ll_come_to_you_illustration.jpg
 genre: The Techniques of the Mystery
+tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 3521
 ---
 

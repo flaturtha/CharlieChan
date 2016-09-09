@@ -2,12 +2,18 @@
 layout: post_mw
 layoutTag: post
 title: "The Detective"
+subtitle: The fictive detective and his methods
 author: Carolyn Wells
 date: 2016-08-16-16
+opub: The Techniques of the Mystery
+opubdate: 1913
+opubchapter: Chapter 7
 category: murderwiki
-excerpt: Chapter 7 of <i>The Techniques of the Mystery</i>, published 1913.
+excerpt: An examination of the fictive detective, including methods used by various types of criminal investigators.
 image: /assets/img/murderwiki/Friston-holmes.png
+caption: First ever appearance of Sherlock Holmes, by D. H. Friston
 genre: The Techniques of the Mystery
+tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 6699
 ---
 
