@@ -1,0 +1,12 @@
+
+<img src="{{ post.image }}" alt="{{ post.title }}">
+<!-- <div class="cf"></div> -->
+<div class="featuredss__caption">
+  <h3 class="featuredss__title"><a href="{{ root_url }}{{ page.url }}">{{ post.title }}</a></h3>
+
+    {% if post.subtitle %}<h5 class="featuredss__subtitle">{{ post.subtitle }}</h5>{% endif %}
+
+    <h4 class="featuredss__author">{% if post.author %}by <span>{{ post.author }}</span>{% else %}<span>{{ post.series }}</span>{% endif %}</h4>
+    <p>{{ post.excerpt }}</p>
+    <p><a href="{{ root_url }}{{ post.url }}" class="readmore">Read&nbsp;the&nbsp;Story&nbsp;&rsaquo;&rsaquo;</a></p>
+</div>

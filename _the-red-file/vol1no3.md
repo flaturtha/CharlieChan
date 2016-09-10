@@ -5,7 +5,7 @@ title: "Vol. 1 No. 3"
 date: 2015-09-27
 category: the-red-file
 excerpt:
-image: /assets/img/trf/trf-cover2.png
+image: /assets/img/trf/v1n3_cover.jpg
 wordcount:
 genre: The Red File
 timetoread: EST TIME TO READ
@@ -13,7 +13,17 @@ kindle: LINK TO KINDLE
 epub: LINK TO EPUB
 ---
 
-##Table of Contents
+<section id="toc" class="toc hidden">
+  <header>
+    <h6>Table of Contents</h6>
+  </header>
+<div id="drawer" markdown="1">
+1. Auto generated table of contents
+{:toc}
+</div>
+</section> <!-- table-of-contents -->
+
+## Table of Contents
 
 ### The Unbelievable
 

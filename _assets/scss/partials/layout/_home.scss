@@ -21,17 +21,23 @@ ul {
 
 .header_home {
   height: 33vh;
-  vertical-align: center;
+  margin-bottom: 1rem;
   // padding: 1rem;
   // margin: 1rem;
-  // background: url('/assets/img/site/site_logo4a_f.png');
   // background-size: contain;
   // background-repeat: no-repeat;
   background-color: $bgcolor;
+  background-image: url('/assets/img/site/site_logo4a_f.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
   a {
     color: $paper;
     text-align: center;
     vertical-align: middle;
+  }
+  nav {
+    margin-top: -1rem;
   }
 }
 
@@ -40,74 +46,182 @@ ul {
 }
 
 .featuredss {
-  // background-color: red;
-  // text-align: center;
-  // opacity: 0.45;
-  // color: $paper;
-
-  border: 1px solid $acolor;
-  // padding: 1rem;
-  @include span(8 of 8);
-  margin-top: gutter();
-  margin-bottom: gutter();
-  @include susy-breakpoint($bp-med){
-    @include span(8 of 8);
+  @include span(8);
+  color: $paper;
+  border: 2px solid $acolor;
+  background-color: $bgcolor;
+  margin-bottom: gutter() * 2;
+  // .blog-index {
+  //   background-color: $paper;
+  // }
+  h2 {
+    background-color: $acolor;
+    padding: 0.25rem;
+    text-align: right;
+    font-size: 1rem;
+    color: $paper;
   }
-  @include susy-breakpoint($bp-large){
-    @include span (12 of 12);
+  img {
+    @include span(8);
+    width: 100%;
+    margin: 0;
+    background-color: $paper;
+    @include susy-breakpoint($bp-large){
+      @include span(7 of 12);
+      // width: 100%;
+      margin: 0;
+    }
   }
-  &__content{
-    margin-bottom: 1rem;
-    a {
-      color: $acolor;
-      line-height: 1.25;
+  &__caption {
+    @include span(8);
+    background-color: $bgcolor;
+    padding: gutter();
+    @include susy-breakpoint($bp-large){
+      @include span(5 of 12);
+      // width: 100%;
+      // margin: 0;
     }
   }
   &__title {
-    text-align: center;
-    color: $acolor;
     text-transform: uppercase;
+    padding: 1rem 0;
+    a {
+      color: $paper;
+    }
   }
   &__author {
-    text-align: center;
+    // text-align: center;
+  }
+  p {
+    font-style: italic;
+  }
+  a {
+    background-color: $acolor;
+    color: $paper;
+    font-style: normal;
+    padding: 0.25rem 0.5rem;
   }
 }
-
-
-
 
 
 .hp__murderwiki {
-  // background-color: orange;
-  // opacity: 0.45;
-  // color: $paper;
-  // text-align: center;
-
-  @include span(8);
-  margin-bottom: gutter();
-  @include susy-breakpoint($bp-med){
-    @include span(4);
+  background-color: $paper;
+  border: 2px solid $acolor;
+  padding-bottom: gutter();
+  h2 {
+    background-color: $paper;
+    padding: 0.25rem;
+    text-align: left;
+    font-size: 1rem;
+    color: $acolor;
   }
+  @include span(8);
+  // @include susy-breakpoint($bp-med){
+  //   @include span(4 of 8);
+  // }
   @include susy-breakpoint($bp-large){
-    @include span(8 of 12);
+    @include span(6 of 12);
+  }
+  .mw {
+    &__teasers {
+      background-color: $acolor;
+      img {
+        background-color: $paper;
+      }
+      @include span(4);
+    }
+    &__title {
+    text-transform: uppercase;
+    padding: gutter()*2;
+    text-align: left;
+    line-height: 1rem;
+      a {
+        color: $paper;
+        font-size: 1rem;
+      }
+    }
+    &__subtitle {
+      padding: 0 gutter()*2;
+      text-align: left;
+      color: $paper;
+      font-weight: normal;
+    }
+    &__author {
+      padding: 0 gutter()*3 gutter()*3 gutter()*3;
+      text-align: left;
+      text-transform: capitalize;
+      font-size: 0.875rem;
+      color: $paper;
+    }
+    &__readmore {
+      background-color: $paper;
+      color: $acolor;
+      // font-style: normal;
+      padding: 0.25rem 0.5rem;
+    }
   }
 }
 
-.trf {
-  background-color: green;
-  opacity: 0.45;
-  color: $paper;
-  text-align: center;
 
+.hp__trf {
+  background-color: $acolor;
+  padding-bottom: gutter();
+  h2 {
+    background-color: $acolor;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+    text-align: left;
+    font-size: 1rem;
+    color: $paper;
+  }
   @include span(8);
-  margin-bottom: gutter();
-  @include susy-breakpoint($bp-med){
-    @include span(4 at 1);
+  margin-top: gutter();
+  img {
+    @include span(6);
+    @include push(1);
+  }
+  .trf {
+    &__title {
+      @include span(8);
+      text-align: center;
+      padding: 1rem;
+      a {
+        color: $paper;
+      }
+    }
+    &__readmore {
+      color: $acolor;
+      background-color: $paper;
+      padding: 0.25rem;
+    }
   }
   @include susy-breakpoint($bp-large){
-    @include span(4 of 12 at 1);
+    @include span(6 of 12);
+    margin-top: 0;
   }
 }
+
+
+
+
+
+
+
+// .trf {
+//   // background-color: green;
+//   // opacity: 0.45;
+//   color: $paper;
+//   text-align: center;
+//   margin-top: 2rem;
+
+//   @include span(8);
+//   margin-bottom: gutter();
+//   @include susy-breakpoint($bp-med){
+//     @include span(4 at 1);
+//   }
+//   @include susy-breakpoint($bp-large){
+//     @include span(4 of 12 at 1);
+//   }
+// }
 
 .bookstore {
   background-color: purple;
