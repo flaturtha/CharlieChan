@@ -31,6 +31,20 @@ title: Home
     </div>
   </div>
 
+<!--   <div class="bookstore">
+    <h2>BOOKSTORE</h2>
+      <ul>
+        <li><img class="bookimg" src="https://placehold.it/80x100?text=1" alt=""></li>
+        <li><img class="bookimg" src="https://placehold.it/80x100?text=2" alt=""></li>
+        <li><img class="bookimg" src="https://placehold.it/80x100?text=3" alt=""></li>
+        <li><img class="bookimg" src="https://placehold.it/80x100?text=4" alt=""></li>
+      </ul>
+  </div> -->
+
+ <div class="hp__ssteasers">
+  <h2>SHORT STORIES &hellip;</h2>
+   {% include ss_teasers.html %}
+  </div>
 
 </div> <!-- end div homepage -->
 

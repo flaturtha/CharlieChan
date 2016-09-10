@@ -1321,10 +1321,10 @@ ul {
   height: 33vh;
   margin-bottom: 1rem;
   background-color: #242424;
-  background-image: url("/assets/img/site/site_logo4a_f.png");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center center; }
+  background-image: url("/assets/img/site/site_logo4a_f.png"), url("/assets/img/site/pulpicons2.svg");
+  background-size: contain, auto;
+  background-repeat: no-repeat, repeat-x;
+  background-position: center center, center center; }
   .header_home a {
     color: #fffff0;
     text-align: center;
@@ -1513,17 +1513,66 @@ ul {
   margin-left: 1.25%;
   margin-right: 1.25%; }
 
-.stories {
-  background-color: blue;
-  opacity: 0.45;
-  color: #fffff0;
-  text-align: center;
+.hp__ssteasers {
   width: 97.5%;
   float: left;
   margin-left: 1.25%;
   margin-right: 1.25%;
-  margin-bottom: 1.25%;
-  padding-bottom: 1.25%; }
+  margin-top: 1rem; }
+  .hp__ssteasers h2 {
+    font-size: 1rem; }
+  .hp__ssteasers .ssteaser {
+    background-color: #8B0000;
+    margin-bottom: 1rem; }
+    @media (min-width: 775px) {
+      .hp__ssteasers .ssteaser {
+        width: 48.33333%;
+        float: left;
+        margin-left: 0.83333%;
+        margin-right: 0.83333%; } }
+    .hp__ssteasers .ssteaser__img {
+      background-color: #fffff0;
+      width: 22.5%;
+      float: left;
+      margin-left: 1.25%;
+      margin-right: 1.25%;
+      height: 100px;
+      margin: 1.25%; }
+    .hp__ssteasers .ssteaser__title {
+      padding-top: 1.25%;
+      text-transform: uppercase;
+      width: 60%;
+      float: left;
+      margin-left: 1.25%;
+      margin-right: 1.25%;
+      color: #fffff0;
+      font-size: 1rem; }
+    .hp__ssteasers .ssteaser__author {
+      width: 60%;
+      float: left;
+      margin-left: 1.25%;
+      margin-right: 1.25%;
+      color: #fffff0;
+      font-weight: normal;
+      font-size: 0.9375rem; }
+    .hp__ssteasers .ssteaser__opub {
+      width: 60%;
+      float: left;
+      margin-left: 1.25%;
+      margin-right: 1.25%;
+      color: #fffff0;
+      font-size: 0.875rem;
+      padding-bottom: 0;
+      margin-bottom: 0; }
+    .hp__ssteasers .ssteaser__readmore {
+      background-color: #fffff0;
+      border-bottom: 1px solid #8B0000;
+      padding: 1.25%;
+      width: 22.5%;
+      float: right;
+      margin-left: 1.25%;
+      margin-right: 1.25%;
+      text-transform: uppercase; }
 
 /* ==========================================================================
    FOOTER

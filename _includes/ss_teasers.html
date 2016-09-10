@@ -1,0 +1,13 @@
+{% for post in site.short-stories offset: 1 %}
+<div class="ssteaser">
+
+  <!-- <img src="{{ post.image }}" alt="{{ post.title }}"> -->
+  <div class="ssteaser__img" style="background-image: url('{{ post.image }}');background-repeat:no-repeat;background-size:cover;"></div>
+  <h3 class="ssteaser__title">{{ post.title }}</h3>
+  <h4 class="ssteaser__author">{% if post.author %}by <span>{{ post.author }}</span>{% else %}<span>{{ post.series }}</span>{% endif %}</h4>
+  <h4 class="ssteaser__opub">{{ post.opub }} <br> {{ post.opubdate }}</h4>
+  <p><a href="{{ root_url }}{{ post.url }}" class="ssteaser__readmore">Read&nbsp;&rsaquo;&rsaquo;</a></p>
+  <div class="cf"></div>
+
+</div> <!-- end div.ss_teaser -->
+{% endfor %}
