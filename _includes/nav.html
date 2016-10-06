@@ -1,0 +1,13 @@
+<nav class="main-nav" role="navigation">
+  <input id="nav" type="checkbox">
+  <label for="nav">Menu</label>
+  <ul>
+    <li><a {% if page.url == '/' %} class="active" {% endif %} href="/">Home</a></li>
+    <li><a {% if page.url == '/masthead/' %} class="active" {% endif %} href="/masthead">Masthead</a></li>
+    <li><a {% if page.url == '/murderwiki/' %} class="active" {% endif %} href="/murderwiki">MurderWiki</a></li>
+    <li><a {% if page.url == '/short-stories/' %} class="active" {% endif %} href="/short-stories">Short Stories</a></li>
+    <li><a {% if page.url == '/the-red-file/' %} class="active" {% endif %} href="/the-red-file">The Red File</a></li>
+    <li><a {% if page.url == '/bookstore/' %} class="active" {% endif %} href="/bookstore">Bookstore</a></li>
+    <!-- <li id="searchbar"><a href="#">Search</a></li> -->
+  </ul>
+</nav>

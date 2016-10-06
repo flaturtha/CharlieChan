@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /about/
-title: About
+permalink: /masthead/
+title: Masthead
 ---
 
 <div class="{{ page.title }}">

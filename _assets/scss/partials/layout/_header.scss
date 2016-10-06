@@ -1,145 +1,74 @@
-
 .header {
-  @include with-layout($header-grid) {
-    @include container;
-    max-width: 100%;
-  }
   overflow: hidden;
-  background: $paper;
-  border-bottom: 4px solid $bgcolor;
+  background: $bgcolor url('/assets/img/site/pulpicons2.svg');
+  border-bottom: 4px solid $acolor;
   margin-bottom: 1rem;
-}
+  position: relative;
+  height: 75px;
 
-header a, header label {
-  display: block;
-  padding: 1rem;
-  color: $bgcolor;
-  text-decoration: none;
-  line-height: 0.5rem;
-  text-transform: uppercase;
-}
+  a.logo {
+    z-index: 1;
+    color: $paper;
+    position: absolute;
+    display: block;
+    width: 148px; /* width of graphic */
+    height: 50px; /* height of graphic */
+    background: url('/assets/img/site/logo-stacked.svg') no-repeat 0 0;
+    background-size: contain;
+    top: 15px;
+    left: 20px;
+    span {
+      display: none;
+    }
+    @media screen and (min-width: 48rem) {
+      width: 500px;
+      height: 57px;
+      background: url('/assets/img/site/logo-stacked.svg') no-repeat 0 0;
+      background-size: contain;
+    }
+  }
 
-header a:hover {
-  font-style: italic;
-  color: $acolor;
-}
-
-header label {
-  font-size: 0.85rem;
-  font-weight: bolder;
-  // font-style: oblique;
-  // text-decoration: overline underline;
-  padding: 1.3rem 1rem 0.5rem;
-  cursor: pointer;
-  @include span(2 of 7 last);
-  margin-left: 0;
-  &:after {
-    content: "\2007\25BA";
-    font-size: 1rem;
+  @media screen and (min-width: 48rem) {
+    height: 85px;
   }
 }
 
-/* hamburger icon ... I replaced it (preferred) with the word 'menu' */
-// header label:after {
-//   content: "\2261";
-//   font-size: 2.5rem;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// header a, header label {
+//   display: block;
+//   padding: 1rem;
+//   color: $bgcolor;
+//   text-decoration: none;
+//   line-height: 0.5rem;
+//   text-transform: uppercase;
 // }
 
-.active {
-  color: $acolor;
-  text-decoration: underline overline;
-}
+// .logo {
+//   // background-image: url('/assets/img/site/atticus_w.svg');
+//   // background-repeat: no-repeat;
+//   // background-size: 60px 90px;
+//   span {
+//     color: $paper;
+//     // display: none;
+//   }
+// }
 
-.logo {
-  background-image: url('/assets/img/site/logo-full36.svg');
-  background-repeat: no-repeat;
-  background-size: contain;
-  margin: 0.7rem 0 0 0.5rem;
-  @include span(5 of 7);
-  @include susy-breakpoint($bp-large){
-    @include span(2 of 7);
-  }
-}
-
-nav {
-  float: right;
-  max-height: 0;
-  width: 100%;
-  transition: max-height 0.3s;
-  background-color: $bgcolor;
-}
-
-nav ul {
-  margin: 0;
-  // padding: 0 0 0.625rem 0;
-}
-
-nav li {
-  display: block;
-  text-align: left;
-  padding-left: 2rem;
-  border-top: 1px solid $paper;
-}
-
-nav a {
-  padding: 1rem;
-  width: 100%;
-  font-size: 1.25rem;
-  font-weight: bold;
-  letter-spacing: 1.5px;
-  color: $paper;
-  // border-bottom: 1px solid $bgcolor;
-}
-
-#nav { display: none; }
-
-#nav:checked ~ nav {
-  max-height: 100vh;
-}
-
-input[type=checkbox]:checked ~ label {
-  &:after {
-    content: "\2007\25BC";
-    // font-size: 0.9rem;
-  }
-}
-
-
-
-@include susy-breakpoint($bp-large){
-
-  header {
-    height: 55px;
-  }
-
-  header label { display: none; }
-
-  nav {
-    background-color: $paper;
-    // width: 100%;
-    max-height: none;
-    // text-align: center;
-    @include span(5 of 7 at 1);
-  }
-
-  nav ul {
-    padding: 0;
-    // padding-right: 10px;
-  }
-
-  nav li {
-    display: inline-block;
-    text-align: left;
-  }
-
-  header nav a {
-    display: inline-block;
-    padding: 0;
-    margin: 1.15rem -0.25rem 0 0;
-    width: auto;
-    text-align: center;
-    font-size: 0.8rem;
-    color: $bgcolor;
-  }
-
-}

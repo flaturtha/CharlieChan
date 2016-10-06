@@ -1186,125 +1186,98 @@ ol ol li:last-child {
 
 /*==========  LAYOUT  ==========*/
 .header {
-  max-width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 100%;
   overflow: hidden;
-  background: #fffff0;
-  border-bottom: 4px solid #242424;
-  margin-bottom: 1rem; }
-  .header:after {
-    content: " ";
+  background: #242424 url("/assets/img/site/pulpicons2.svg");
+  border-bottom: 4px solid #8B0000;
+  margin-bottom: 1rem;
+  position: relative;
+  height: 75px; }
+  .header a.logo {
+    z-index: 1;
+    color: #fffff0;
+    position: absolute;
     display: block;
-    clear: both; }
-
-header a, header label {
-  display: block;
-  padding: 1rem;
-  color: #242424;
-  text-decoration: none;
-  line-height: 0.5rem;
-  text-transform: uppercase; }
-
-header a:hover {
-  font-style: italic;
-  color: #8B0000; }
-
-header label {
-  font-size: 0.85rem;
-  font-weight: bolder;
-  padding: 1.3rem 1rem 0.5rem;
-  cursor: pointer;
-  width: 25.71429%;
-  float: right;
-  margin-left: 1.42857%;
-  margin-right: 1.42857%;
-  margin-left: 0; }
-  header label:after {
-    content: "\2007\25BA";
-    font-size: 1rem; }
-
-/* hamburger icon ... I replaced it (preferred) with the word 'menu' */
-.active {
-  color: #8B0000;
-  text-decoration: underline overline; }
-
-.logo {
-  background-image: url("/assets/img/site/logo-full36.svg");
-  background-repeat: no-repeat;
-  background-size: contain;
-  margin: 0.7rem 0 0 0.5rem;
-  width: 68.57143%;
-  float: left;
-  margin-left: 1.42857%;
-  margin-right: 1.42857%; }
-  @media (min-width: 775px) {
-    .logo {
-      width: 25.71429%;
-      float: left;
-      margin-left: 1.42857%;
-      margin-right: 1.42857%; } }
+    width: 148px;
+    /* width of graphic */
+    height: 50px;
+    /* height of graphic */
+    background: url("/assets/img/site/logo-stacked.svg") no-repeat 0 0;
+    background-size: contain;
+    top: 15px;
+    left: 20px; }
+    .header a.logo span {
+      display: none; }
+    @media screen and (min-width: 48rem) {
+      .header a.logo {
+        width: 500px;
+        height: 57px;
+        background: url("/assets/img/site/logo-stacked.svg") no-repeat 0 0;
+        background-size: contain; } }
+  @media screen and (min-width: 48rem) {
+    .header {
+      height: 85px; } }
 
 nav {
-  float: right;
-  max-height: 0;
+  background: #242424 url("/assets/img/site/pulpicons2.svg");
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  padding: 75px 0 0 0;
   width: 100%;
-  -webkit-transition: max-height 0.3s;
-  transition: max-height 0.3s;
-  background-color: #242424; }
-
-nav ul {
-  margin: 0; }
-
-nav li {
-  display: block;
-  text-align: left;
-  padding-left: 2rem;
-  border-top: 1px solid #fffff0; }
-
-nav a {
-  padding: 1rem;
-  width: 100%;
-  font-size: 1.25rem;
-  font-weight: bold;
-  letter-spacing: 1.5px;
-  color: #fffff0; }
-
-#nav {
-  display: none; }
-
-#nav:checked ~ nav {
-  max-height: 100vh; }
-
-input[type=checkbox]:checked ~ label:after {
-  content: "\2007\25BC"; }
-
-@media (min-width: 775px) {
-  header {
-    height: 55px; }
-  header label {
-    display: none; }
-  nav {
-    background-color: #fffff0;
-    max-height: none;
-    width: 68.57143%;
-    float: left;
-    margin-left: 1.42857%;
-    margin-right: 1.42857%; }
-  nav ul {
-    padding: 0; }
-  nav li {
+  margin-bottom: 3rem; }
+  @media screen and (min-width: 48rem) {
+    nav {
+      padding-top: 1rem;
+      margin: 0 auto; } }
+  @media screen and (min-width: 48rem) {
+    nav input, nav label {
+      display: none; } }
+  nav a {
     display: inline-block;
-    text-align: left; }
-  header nav a {
-    display: inline-block;
-    padding: 0;
-    margin: 1.15rem -0.25rem 0 0;
-    width: auto;
+    color: #fffff0;
+    font-size: 1.5rem;
+    text-transform: uppercase;
     text-align: center;
-    font-size: 0.8rem;
-    color: #242424; } }
+    padding: 25px 20px;
+    width: 100%;
+    height: 100%;
+    position: relative; }
+    nav a:visited {
+      color: #fffff0; }
+    nav a:hover {
+      background-color: #8B0000;
+      color: #e3e3e3; }
+  nav ul {
+    display: none; }
+    @media screen and (min-width: 48rem) {
+      nav ul {
+        display: block;
+        padding: 50px 0; }
+        nav ul li {
+          float: left; }
+          nav ul li a {
+            font-size: 0.875rem;
+            padding: 1rem; } }
+    @media screen and (min-width: 64rem) {
+      nav ul {
+        padding: 0 0 0 200px; }
+        nav ul li a {
+          letter-spacing: 1.75px; } }
+  nav::after {
+    content: '';
+    display: block;
+    clear: both; }
+  nav input[type=checkbox] {
+    display: none; }
+  nav input[type=checkbox]:checked ~ ul {
+    display: block; }
+  nav label {
+    position: absolute;
+    top: 25px;
+    left: 75%;
+    background-color: #8B0000;
+    color: #fffff0;
+    padding: 0.5rem; }
 
 /* ==========================================================================
    HOMEPAGE HEADER
