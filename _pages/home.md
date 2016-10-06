@@ -2,6 +2,7 @@
 layout: home
 permalink: /
 title: Home
+category: home
 ---
 
 <div class="{{ page.title }} homepage">

@@ -2,6 +2,7 @@
 layout: default
 permalink: /the-red-file/
 title: The Red File
+category: the-red-file
 ---
 
 <div class="{{ page.title }}">

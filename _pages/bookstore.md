@@ -2,6 +2,7 @@
 layout: default
 permalink: /bookstore/
 title: Bookstore
+category: bookstore
 ---
 
 <div class="{{ page.title }}">

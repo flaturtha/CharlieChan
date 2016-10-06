@@ -2,6 +2,7 @@
 layout: default
 permalink: /short-stories/
 title: Short Stories
+category: short-stories
 ---
 
 <div class="{{ page.title }}">

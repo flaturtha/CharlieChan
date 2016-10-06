@@ -2,6 +2,7 @@
 layout: default
 permalink: /murderwiki/
 title: MurderWiki
+category: murderwiki
 ---
 
 <div class="{{ page.title }}">

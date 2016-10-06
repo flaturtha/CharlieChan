@@ -2,6 +2,7 @@
 layout: default
 permalink: /masthead/
 title: Masthead
+category: masthead
 ---
 
 <div class="{{ page.title }}">
