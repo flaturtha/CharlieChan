@@ -201,19 +201,19 @@ ul {
 }
 
 
-.bookstore {
-  // background-color: purple;
-  // opacity: 0.45;
-  color: $paper;
-  text-align: center;
+// .bookstore {
+//   background-color: purple;
+//   opacity: 0.45;
+//   color: $paper;
+//   text-align: center;
 
-  @include span(8 of 8);
-  margin-bottom: gutter();
-  padding-bottom: gutter();
-  @include susy-breakpoint($bp-large){
+//   @include span(8 of 8);
+//   margin-bottom: gutter();
+//   padding-bottom: gutter();
+//   @include susy-breakpoint($bp-large){
 
-  }
-}
+//   }
+// }
 
 .bookimg {
   padding: gutter();

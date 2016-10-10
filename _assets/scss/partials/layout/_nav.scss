@@ -1,188 +1,356 @@
-nav {
-  z-index: 1;
-  background: $bgcolor url('/assets/img/site/pulpicons2.svg');
-  border-bottom: 4px solid $acolor;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  padding: 75px 0 0 0;
-  width: 100%;
-  margin-bottom: 3rem;
-  @media screen and (min-width: 48rem) {
-    padding-top: 1rem;
-    // margin: 0 auto;
-      border-bottom: none;
+/*=============================================
+=            ALL NAVIGATION SASS              =
+=============================================*/
+
+/*----------  MAIN NAV  ----------*/
+
+.nav {
+  // border: 1px solid green;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+.main-nav {
+  // border: 1px solid blue;
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  ul {
+    display: none;
+    @media screen and (min-width: 48rem) {
+      display: flex;
+    }
   }
-  input, label {
+
+  .navbar {
+    // border: 1px solid orange;
+    display: flex;
+    flex-direction: column;
+    @media screen and (min-width: 48rem) {
+      flex-direction: row;
+    }
+
+    li a {
+      color: $paper;
+      text-transform: uppercase;
+      @media screen and (min-width: 48rem) {
+        padding-right: 1rem;
+        text-align: center;
+      }
+    }
+  }
+
+  input[type=checkbox]{
+    display: none;
+  }
+  input[type=checkbox]:checked ~ .navbar {
+    & > ul {
+      display: block;
+    }
+  }
+  label {
+    background-color: $acolor;
+    color: $paper;
+    padding: 0.5rem;
     @media screen and (min-width: 48rem) {
       display: none;
     }
   }
-  a {
-    display: inline-block;
-    // background-color: $bgcolor;
+}
+
+
+
+
+/*----------  SOCIAL MEDIA NAV  ----------*/
+ .social-nav {
+  // border: 1px solid red;
+  display: flex;
+  justify-content: flex-end;
+  .fa {
     color: $paper;
-    // color: lighten($bgcolor, 25%);
-    font-size: 1.5rem;
-    text-transform: uppercase;
-    text-align: center;
-    padding: 25px;
-    width: 100%;
-    // height: 100%;
-    position: relative;
-    &:visited {
-      color: $paper;
-      // color: lighten($bgcolor, 95%);
-    }
-    &:hover {
-      background-color: $paper;
-      // color: lighten($bgcolor, 75%);
-      color: $bgcolor;
-    }
-  }
-  ul {
-    display: none;
-    @media screen and (min-width: 48rem) {
-      display: block;
-      position: absolute;
-      top: 75px;
-      left: 10%;
-      // padding: 50px 0;
-      li {
-        float: left;
-        a {
-          font-size: 0.875rem;
-          letter-spacing: 1.15px;
-          padding: 1rem 0.5rem 1rem;
-        }
-      }
-    }
-    @media screen and (min-width: 64rem) {
-      padding: 0 0 0 200px;
-      position: static;
-      li a {
-        letter-spacing: 1.75px;
-        padding-bottom: 0.5rem;
-        // font-size: 1rem;
-      }
-    }
-  }
-  &::after {
-    content: '';
-    display: block;
-    clear: both;
-  }
-  input[type=checkbox]{
-    display: none;
-  }
-  input[type=checkbox]:checked ~ ul {
-    display: block;
-  }
-  label {
-    position: absolute;
-    top: 25px;
-    left: 75%;
-    background-color: $acolor;
-    color: $paper;
+    font-size: 1.25rem;
     padding: 0.5rem;
   }
-}
+ }
 
 
 
-.active {
-  background-color: $acolor;
-  color: $paper !important;
-  &:hover {
-    background-color: $paper;
-    color: $bgcolor !important;
-  }
-}
 
-@media screen and (max-width: 64rem) {
-  span.menu__sub {
-    display: none;
-  }
-}
 
-@media screen and (min-width: 64rem) {
-  /* Effect 9: second text and borders */
-  .cl-effect-9 a {
-    // margin: 0 20px;
-    // padding: 18px 20px;
-  }
 
-  .cl-effect-9 a::before,
-  .cl-effect-9 a::after {
-    // position: absolute;
-    // top: 0;
-    // left: 0;
-    // width: 100%;
-    // height: 1px;
-    // background: #fff;
-    // content: '';
-    // opacity: 0.2;
-    // -webkit-transition: opacity 0.3s, height 0.3s;
-    // -moz-transition: opacity 0.3s, height 0.3s;
-    // transition: opacity 0.3s, height 0.3s;
-  }
 
-  .cl-effect-9 a::after {
-    top: 100%;
-    opacity: 0;
-    -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
-    -moz-transition: -moz-transform 0.3s, opacity 0.3s;
-    transition: transform 0.3s, opacity 0.3s;
-    -webkit-transform: translateY(-10px);
-    -moz-transform: translateY(-10px);
-    transform: translateY(-10px);
-  }
 
-  .cl-effect-9 a span:first-child {
-    // z-index: 2;
-    // display: block;
-    // font-weight: 300;
-  }
+// .main-nav {
+//   // margin-top: 1.75rem;
 
-  .cl-effect-9 a span:last-child {
-    z-index: 1;
-    display: block;
-    padding: 0.5rem 0 0 0;
-    color: $bgcolor;
-    text-shadow: none;
-    text-transform: none;
-    font-style: italic;
-    font-size: 0.8rem;
-    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-    opacity: 0;
-    -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
-    -moz-transition: -moz-transform 0.3s, opacity 0.3s;
-    transition: transform 0.3s, opacity 0.3s;
-    -webkit-transform: translateY(-100%);
-    -moz-transform: translateY(-100%);
-    transform: translateY(-100%);
-  }
+//   .nav-elements {
+//     // border: 1px solid blue;
+//     display: flex;
 
-  .cl-effect-9 a:hover::before,
-  .cl-effect-9 a:focus::before {
-    height: 6px;
-  }
+//     a.logo {
+//       span {
+//         display: none;
+//       }
+//     }
 
-  .cl-effect-9 a:hover::before,
-  .cl-effect-9 a:hover::after,
-  .cl-effect-9 a:focus::before,
-  .cl-effect-9 a:focus::after {
-    opacity: 1;
-    -webkit-transform: translateY(0px);
-    -moz-transform: translateY(0px);
-    transform: translateY(0px);
-  }
+//     .branding {
+//       border: 1px solid hotpink;
+//       max-width: 165px; /* width of logo */
+//       // height: 50px /* height of logo */
+//       // width: 30%;
+//     }
 
-  .cl-effect-9 a:hover span:last-child,
-  .cl-effect-9 a:focus span:last-child {
-    opacity: 1;
-    -webkit-transform: translateY(0%);
-    -moz-transform: translateY(0%);
-    transform: translateY(0%);
-  }
-}
+//     .navbar {
+//       border: 1px solid orange;
+//       margin: 0;
+//       padding: 0;
+//       display: flex;
+//       justify-content: flex-end;
+//       align-content: flex-end;
+//       flex-wrap: wrap;
+//       line-height: 150%;
+//       // width: 70%;
+//     }
+
+//     a {
+//       color: $paper;
+//       text-transform: uppercase;
+//       padding: 0 1rem;
+//     }
+
+//   }
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// OLD CODE BELOW: POSITION: ABSOLUTE...DO NOT DELETE UNTIL FLEXBOX STYLE WORKING
+// nav {
+//   z-index: 1;
+//   background: $bgcolor url('/assets/img/site/pulpicons2.svg');
+//   border-bottom: 4px solid $acolor;
+//   position: absolute;
+//   top: 0px;
+//   left: 0px;
+//   padding: 75px 0 0 0;
+//   width: 100%;
+//   margin-bottom: 3rem;
+//   @media screen and (min-width: 48rem) {
+//     padding-top: 1rem;
+//     // margin: 0 auto;
+//       border-bottom: none;
+//   }
+//   input, label {
+//     @media screen and (min-width: 48rem) {
+//       display: none;
+//     }
+//   }
+//   a {
+//     display: inline-block;
+//     // background-color: $bgcolor;
+//     color: $paper;
+//     // color: lighten($bgcolor, 25%);
+//     font-size: 1.5rem;
+//     text-transform: uppercase;
+//     text-align: center;
+//     padding: 25px;
+//     width: 100%;
+//     // height: 100%;
+//     position: relative;
+//     &:visited {
+//       color: $paper;
+//       // color: lighten($bgcolor, 95%);
+//     }
+//     &:hover {
+//       background-color: $paper;
+//       // color: lighten($bgcolor, 75%);
+//       color: $bgcolor;
+//     }
+//   }
+//   ul {
+//     display: none;
+//     @media screen and (min-width: 48rem) {
+//       display: block;
+//       position: absolute;
+//       top: 75px;
+//       left: 10%;
+//       // padding: 50px 0;
+//       li {
+//         float: left;
+//         a {
+//           font-size: 0.875rem;
+//           letter-spacing: 1.15px;
+//           padding: 1rem 0.5rem 1rem;
+//         }
+//       }
+//     }
+//     @media screen and (min-width: 64rem) {
+//       padding: 0 0 0 200px;
+//       position: static;
+//       li a {
+//         letter-spacing: 1.75px;
+//         padding-bottom: 0.5rem;
+//         // font-size: 1rem;
+//       }
+//     }
+//   }
+//   &::after {
+//     content: '';
+//     display: block;
+//     clear: both;
+//   }
+//   input[type=checkbox]{
+//     display: none;
+//   }
+//   input[type=checkbox]:checked ~ ul {
+//     display: block;
+//   }
+//   label {
+//     position: absolute;
+//     top: 25px;
+//     left: 75%;
+//     background-color: $acolor;
+//     color: $paper;
+//     padding: 0.5rem;
+//   }
+// }
+
+
+
+// .active {
+//   background-color: $acolor;
+//   color: $paper !important;
+//   &:hover {
+//     background-color: $paper;
+//     color: $bgcolor !important;
+//   }
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// CODE BELOW FOR NIFTY DROP DOWN BIT BELOW MENU ITEMS FROM: http://tympanus.net/Development/CreativeLinkEffects/
+
+// @media screen and (max-width: 64rem) {
+//   span.menu__sub {
+//     display: none;
+//   }
+// }
+
+// @media screen and (min-width: 64rem) {
+//   /* Effect 9: second text and borders */
+//   .cl-effect-9 a {
+//     // margin: 0 20px;
+//     // padding: 18px 20px;
+//   }
+
+//   .cl-effect-9 a::before,
+//   .cl-effect-9 a::after {
+//     // position: absolute;
+//     // top: 0;
+//     // left: 0;
+//     // width: 100%;
+//     // height: 1px;
+//     // background: #fff;
+//     // content: '';
+//     // opacity: 0.2;
+//     // -webkit-transition: opacity 0.3s, height 0.3s;
+//     // -moz-transition: opacity 0.3s, height 0.3s;
+//     // transition: opacity 0.3s, height 0.3s;
+//   }
+
+//   .cl-effect-9 a::after {
+//     top: 100%;
+//     opacity: 0;
+//     -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
+//     -moz-transition: -moz-transform 0.3s, opacity 0.3s;
+//     transition: transform 0.3s, opacity 0.3s;
+//     -webkit-transform: translateY(-10px);
+//     -moz-transform: translateY(-10px);
+//     transform: translateY(-10px);
+//   }
+
+//   .cl-effect-9 a span:first-child {
+//     // z-index: 2;
+//     // display: block;
+//     // font-weight: 300;
+//   }
+
+//   .cl-effect-9 a span:last-child {
+//     z-index: 1;
+//     display: block;
+//     padding: 0.5rem 0 0 0;
+//     color: $bgcolor;
+//     text-shadow: none;
+//     text-transform: none;
+//     font-style: italic;
+//     font-size: 0.8rem;
+//     font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+//     opacity: 0;
+//     -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
+//     -moz-transition: -moz-transform 0.3s, opacity 0.3s;
+//     transition: transform 0.3s, opacity 0.3s;
+//     -webkit-transform: translateY(-100%);
+//     -moz-transform: translateY(-100%);
+//     transform: translateY(-100%);
+//   }
+
+//   .cl-effect-9 a:hover::before,
+//   .cl-effect-9 a:focus::before {
+//     height: 6px;
+//   }
+
+//   .cl-effect-9 a:hover::before,
+//   .cl-effect-9 a:hover::after,
+//   .cl-effect-9 a:focus::before,
+//   .cl-effect-9 a:focus::after {
+//     opacity: 1;
+//     -webkit-transform: translateY(0px);
+//     -moz-transform: translateY(0px);
+//     transform: translateY(0px);
+//   }
+
+//   .cl-effect-9 a:hover span:last-child,
+//   .cl-effect-9 a:focus span:last-child {
+//     opacity: 1;
+//     -webkit-transform: translateY(0%);
+//     -moz-transform: translateY(0%);
+//     transform: translateY(0%);
+//   }
+// }

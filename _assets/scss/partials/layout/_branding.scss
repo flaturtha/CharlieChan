@@ -1,0 +1,20 @@
+/*=============================================
+=            BRANDING                         =
+=============================================*/
+
+// NOTE: USE FOR BIG PICTURE BRANDING CSS, NOT JUST THE BRANDING IN THE HEADER...THAT CODE IS IN _NAV.SCSS &/ _HEADER.SCSS!!
+
+// .branding {
+//   border: 1px solid orange;
+  a.logo {
+    background: url('/assets/img/site/logo-stacked.svg') no-repeat 0 0;
+    background-size: contain;
+    height: 50px;
+    width: 148px;
+    margin-top: 1rem;
+    span {
+      display: none;
+    }
+  }
+// }
+
