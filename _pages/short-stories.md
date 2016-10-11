@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default2
 permalink: /short-stories/
 title: Short Stories
 category: short-stories

@@ -13,7 +13,10 @@
     width: 148px;
     margin-top: 1rem;
     span {
-      display: none;
+      // display: none;
+      margin-left: -9999px;
+      color: $paper;
+      text-transform: uppercase;
     }
   }
 // }

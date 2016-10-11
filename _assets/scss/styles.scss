@@ -29,12 +29,16 @@
 
 
 /*==========  LAYOUT  ==========*/
-@import 'partials/layout/header';
-@import 'partials/layout/nav';
-@import 'partials/layout/branding';
+// @import 'partials/layout/header';  /* temp disabled */
+// @import 'partials/layout/nav';  /* temp disabled */
+// @import 'partials/layout/branding';  /* temp disabled */
 @import 'partials/layout/home';
 @import 'partials/layout/footer';
 @import 'partials/layout/body';
+
+// @import 'partials/layout/nav3';
+
+@import 'partials/layout/flexbox-header-nav'; /* all scss for revised header/nav::split into proper files later */
 
 
 /*==========  UTILITIES  ==========*/

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default2
 permalink: /the-red-file/
 title: The Red File
 category: the-red-file

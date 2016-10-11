@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default2
 permalink: /murderwiki/
 title: MurderWiki
 category: murderwiki
