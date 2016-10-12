@@ -15,21 +15,21 @@
 
 /* NAV */
 .nav {
-  z-index: 2;
+  // z-index: 2;
   // border: 1px solid green;
   font-family: 'Oswald', sans-serif;
   position: fixed;
   top: 0;
   width: 100%;
-  background: $bgcolor url('/assets/img/site/pulpicons2.svg');
+  background-color: $bgcolor;
 
   .main-nav {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+  border-bottom: 4px solid $acolor;
+    // border: 1px solid hotpink;
+
     @media screen and (min-width: 48rem) {
+      display: flex;
       justify-content: space-around;
-      max-width: 960px;
     }
     @media screen and (min-width: 64rem) {
       justify-content: center;
@@ -38,15 +38,23 @@
     a.logo {
       display: inline-block;
       margin: 1rem;
-      background: url('/assets/img/site/atticus_fffff0.svg') no-repeat;
+      background: url('/assets/img/site/logo-stacked.svg') no-repeat;
       background-size: contain;
-      height: 45px;
-      width: 30px;
+      height: 50px;
+      // width: 40%;
       span {
         margin-left: -9999px;
       }
+      @media screen and (min-width: 48rem) {
+        background: url('/assets/img/site/atticus_fffff0.svg') no-repeat;
+        height: 45px;
+        width: 30px;
+      }
       @media screen and (min-width: 64rem) {
         margin-right: 5rem;
+        // background: url('/assets/img/site/logo-stacked.svg') no-repeat;
+        // background-size: contain;
+        // height: 50px;
       }
     } /* a.logo */
 
@@ -108,7 +116,8 @@
       height: 100vh;
       visibility: visible;
     }
-    label {
+    label { /* CLOSE X when menu open?? */
+      float: right;
       background-color: $acolor;
       color: $paper;
       padding: 0.5rem;
@@ -134,6 +143,20 @@
     color: $paper;
   }
 }
+
+
+/* OPTIN1 */
+
+.optin1 {
+  background: $bgcolor url('/assets/img/site/pulpicons2.svg');
+  color: $paper;
+  padding-top: 75px;
+  margin: 1rem;
+  min-height: 300px;
+  margin: 0 auto;
+}
+
+
 
 
 

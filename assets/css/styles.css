@@ -1487,32 +1487,24 @@ p {
 /* HEADER */
 /* NAV */
 .nav {
-  z-index: 2;
   font-family: 'Oswald', sans-serif;
   position: fixed;
   top: 0;
   width: 100%;
-  background: #242424 url("/assets/img/site/pulpicons2.svg");
+  background-color: #242424;
   /* main-nav */ }
   .nav .main-nav {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-justify-content: space-around;
-        -ms-flex-pack: distribute;
-            justify-content: space-around;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-        -ms-flex-align: center;
-            align-items: center;
+    border-bottom: 4px solid #8B0000;
     /* a.logo */ }
     @media screen and (min-width: 48rem) {
       .nav .main-nav {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
         -webkit-justify-content: space-around;
             -ms-flex-pack: distribute;
-                justify-content: space-around;
-        max-width: 960px; } }
+                justify-content: space-around; } }
     @media screen and (min-width: 64rem) {
       .nav .main-nav {
         -webkit-box-pack: center;
@@ -1522,12 +1514,16 @@ p {
     .nav .main-nav a.logo {
       display: inline-block;
       margin: 1rem;
-      background: url("/assets/img/site/atticus_fffff0.svg") no-repeat;
+      background: url("/assets/img/site/logo-stacked.svg") no-repeat;
       background-size: contain;
-      height: 45px;
-      width: 30px; }
+      height: 50px; }
       .nav .main-nav a.logo span {
         margin-left: -9999px; }
+      @media screen and (min-width: 48rem) {
+        .nav .main-nav a.logo {
+          background: url("/assets/img/site/atticus_fffff0.svg") no-repeat;
+          height: 45px;
+          width: 30px; } }
       @media screen and (min-width: 64rem) {
         .nav .main-nav a.logo {
           margin-right: 5rem; } }
@@ -1595,6 +1591,8 @@ p {
       height: 100vh;
       visibility: visible; }
     .nav .main-nav label {
+      /* CLOSE X when menu open?? */
+      float: right;
       background-color: #8B0000;
       color: #fffff0;
       padding: 0.5rem;
@@ -1618,6 +1616,15 @@ p {
     width: 100px; }
   .social-nav .fa {
     color: #fffff0; }
+
+/* OPTIN1 */
+.optin1 {
+  background: #242424 url("/assets/img/site/pulpicons2.svg");
+  color: #fffff0;
+  padding-top: 75px;
+  margin: 1rem;
+  min-height: 300px;
+  margin: 0 auto; }
 
 /* BRANDING */
 .branding {
