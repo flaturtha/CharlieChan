@@ -39,3 +39,34 @@ a {
     display: table;
   }
 }
+
+.grit {
+   -webkit-mask-image: url("/assets/img/grit.png");
+   mask-image: url("/assets/img/mytexture6.png");
+   // -webkit-filter: contrast(50%);
+   // opacity: 0.5;
+   // filter: alpha(opacity=50);
+   // -webkit-mask-repeat: repeat-x;
+   // mask-repeat: repeat-x;
+   // -webkit-mask-clip: border;
+   // -webkit-mask-origin: border;
+}
+
+.grit2 {
+  -webkit-mask-image: url("/assets/img/grit2.png");
+  mask-image: url("/assets/img/grit2.png");
+  // opacity: 0.5;
+  // filter: alpha(opacity=50);
+}
+
+.grit3 {
+   -webkit-mask-image: url("/assets/img/mytexture6.png");
+   mask-image: url("/assets/img/mytexture6.png");
+   // -webkit-filter: contrast(50%);
+   opacity: 0.5;
+   filter: alpha(opacity=50);
+   // -webkit-mask-repeat: repeat-x;
+   // mask-repeat: repeat-x;
+   // -webkit-mask-clip: border;
+   // -webkit-mask-origin: border;
+}

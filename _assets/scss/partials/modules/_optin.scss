@@ -1,0 +1,50 @@
+/* OPTIN1 */
+
+.optin1 {
+  // background: $bgcolor url('/assets/img/site/pulpicons2.svg');
+  background-color: #f2f2d8;
+  color: $bgcolor;
+  padding: 95px 0 0 0;
+  margin: 0 auto 2rem;
+
+}
+
+.optin__inner {
+  border: 8px solid transparent;
+  -webkit-border-image: url('/assets/img/misc/border2.png') 30% stretch;
+  -o-border-image: url('/assets/img/misc/border2.png') 30% stretch;
+  border-image: url('/assets/img/misc/border2.png') 30% stretch;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  h3, h4 {
+    text-align: right;
+    text-transform: uppercase;
+    color: $acolor;
+    padding-right: 10rem;
+  }
+  p {
+    width: 50%;
+    text-align: right;
+  }
+}
+
+.optinheader {
+  // background: $bgcolor url("/assets/img/grit.png");
+  // background-color: $bgcolor;
+  padding: 1rem;
+  width: 100%;
+  h2 {
+    color: #f2f2d8;
+    color: $bgcolor;
+    text-align: center;
+    text-transform: uppercase;
+    span {
+      font-size: 2rem;
+      font-style: italic;
+    }
+  }
+}
+
+
+

@@ -542,6 +542,42 @@ h4, .h4 {
   line-height: 1; }
 
 /*==========  MODULES  ==========*/
+/* OPTIN1 */
+.optin1 {
+  background-color: #f2f2d8;
+  color: #242424;
+  padding: 95px 0 0 0;
+  margin: 0 auto 2rem; }
+
+.optin__inner {
+  border: 8px solid transparent;
+  -webkit-border-image: url("/assets/img/misc/border2.png") 30% stretch;
+  -o-border-image: url("/assets/img/misc/border2.png") 30% stretch;
+  border-image: url("/assets/img/misc/border2.png") 30% stretch;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto; }
+  .optin__inner h3, .optin__inner h4 {
+    text-align: right;
+    text-transform: uppercase;
+    color: #8B0000;
+    padding-right: 10rem; }
+  .optin__inner p {
+    width: 50%;
+    text-align: right; }
+
+.optinheader {
+  padding: 1rem;
+  width: 100%; }
+  .optinheader h2 {
+    color: #f2f2d8;
+    color: #242424;
+    text-align: center;
+    text-transform: uppercase; }
+    .optinheader h2 span {
+      font-size: 2rem;
+      font-style: italic; }
+
 .header__about {
   text-transform: uppercase;
   text-align: center;
@@ -1617,15 +1653,6 @@ p {
   .social-nav .fa {
     color: #fffff0; }
 
-/* OPTIN1 */
-.optin1 {
-  background: #242424 url("/assets/img/site/pulpicons2.svg");
-  color: #fffff0;
-  padding-top: 75px;
-  margin: 1rem;
-  min-height: 300px;
-  margin: 0 auto; }
-
 /* BRANDING */
 .branding {
   background: #242424 url("/assets/img/site/pulpicons2.svg");
@@ -1681,3 +1708,17 @@ a {
   content: "";
   clear: both;
   display: table; }
+
+.grit {
+  -webkit-mask-image: url("/assets/img/grit.png");
+  mask-image: url("/assets/img/mytexture6.png"); }
+
+.grit2 {
+  -webkit-mask-image: url("/assets/img/grit2.png");
+  mask-image: url("/assets/img/grit2.png"); }
+
+.grit3 {
+  -webkit-mask-image: url("/assets/img/mytexture6.png");
+  mask-image: url("/assets/img/mytexture6.png");
+  opacity: 0.5;
+  filter: alpha(opacity=50); }
