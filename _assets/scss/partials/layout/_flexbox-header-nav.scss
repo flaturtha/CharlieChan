@@ -15,16 +15,16 @@
 
 /* NAV */
 .nav {
-  // z-index: 2;
+  z-index: 2;
   // border: 1px solid green;
   font-family: 'Oswald', sans-serif;
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: $bgcolor;
+  background: $bgcolor url('/assets/img/site/pulpicons2.svg');
 
   .main-nav {
-  border-bottom: 4px solid $acolor;
+  // border-bottom: 4px solid $acolor;
     // border: 1px solid hotpink;
 
     @media screen and (min-width: 48rem) {
@@ -37,13 +37,16 @@
 
     a.logo {
       display: inline-block;
-      margin: 1rem;
-      background: url('/assets/img/site/logo-stacked.svg') no-repeat;
+      margin: 1rem /* -2rem 1rem 50% */;
+      background: url('/assets/img/site/atticus_fffff0.svg') no-repeat;
       background-size: contain;
       height: 50px;
       // width: 40%;
       span {
         margin-left: -9999px;
+      }
+      &:hover {
+        background: url('/assets/img/site/atticus_8b0000.svg') no-repeat;
       }
       @media screen and (min-width: 48rem) {
         background: url('/assets/img/site/atticus_fffff0.svg') no-repeat;
@@ -83,29 +86,29 @@
       border-bottom: 1px solid $paper;
       display: block;
       font-size: 1.5rem;
-      padding: 2rem 0;
+      padding: 1.375rem 0;
       @media screen and (min-width: 48rem) {
         display: inline-block;
         border: none;
         font-size: 1rem;
       }
+      a {
+        color: $paper;
+        text-transform: uppercase;
+        &:after {
+          display: block;
+          content: '';
+          border-bottom: 4px solid $acolor;
+          transform: scaleX(0);
+          transition: transform 250ms ease-in-out;
+        }
+        &:hover:after {
+          transform: scaleX(1);
+          transform-origin: 0% 50%;
+        }
+      }
     }
 
-    a {
-      color: $paper;
-      text-transform: uppercase;
-      &:after {
-        display: block;
-        content: '';
-        border-bottom: 4px solid $acolor;
-        transform: scaleX(0);
-        transition: transform 250ms ease-in-out;
-      }
-      &:hover:after {
-        transform: scaleX(1);
-        transform-origin: 0% 50%;
-      }
-    }
 
     input[type=checkbox] {
       display: none;
@@ -149,27 +152,66 @@
 
 /* BRANDING */
 .branding {
-  background: $bgcolor url('/assets/img/site/pulpicons2.svg');
-  color: $paper;
-  padding-top: 75px;
+  background: url('/assets/img/site/tmp7.svg') no-repeat;
+  background-size: 105%;
+  background-position: center top;
+  border-bottom: 4px solid $bgcolor;
+  position: absolute;
+  top: 50px;
+  width: 100%;
+  height: 0;
+  padding-top: 11.5%;
+
+
   .title, .tagline {
     font-family: 'Oswald', sans-serif;
     text-align: center;
+    color: $bgcolor;
   }
   .title {
     text-transform: uppercase;
-    margin: 1rem 0 0 0;
-    font-size: 4rem;
   }
-  .tagline {
-    font-size: 1.5rem;
-    letter-spacing: 1.5px;
-    padding: 0 0 2rem 0;
-    span {
-      color: $acolor;
-      font-style: italic;
-    }
+
+
+  @media screen and (min-width: 48rem) {
+    top: 44px;
+    // height: 60px;
   }
+  // @media screen and (min-width: 64rem) {
+  //   height: 75px;
+  // }
+  // @media screen and (min-width: 75rem) {
+  //   height: 100px;
+  // }
+
+
+
+  // background: $bgcolor url('/assets/img/site/pulpicons2.svg');
+  // color: $paper;
+  // background-color: $paper;
+  // color: $bgcolor;
+  // padding-top: 75px;
+  // .title, .tagline {
+  //   font-family: 'Oswald', sans-serif;
+  //   text-align: center;
+  // }
+  // .title {
+  //   text-transform: uppercase;
+  //   text-align: center;
+  //   margin: 0.25rem -2.5rem;
+  //   // margin: 1rem 0 0 0;
+  //   font-size: 4rem;
+  //   overflow: hidden;
+  // }
+  // .tagline {
+  //   font-size: 1.5rem;
+  //   letter-spacing: 1.5px;
+  //   padding: 0 0 2rem 0;
+  //   span {
+  //     color: $acolor;
+  //     font-style: italic;
+  //   }
+  // }
 }
 
 

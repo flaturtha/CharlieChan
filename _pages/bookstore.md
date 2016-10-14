@@ -5,9 +5,9 @@ title: Bookstore
 category: bookstore
 ---
 
-<div class="{{ page.title }}">
+<div class="{{ page.title }}" style="border: 1px solid transparent;">
 
-  <div class="placeholder__div" style="height: 3000px;border:1px solid hotpink;margin-top: 3rem;">
+  <div class="placeholder__div" style="height: 3000px;border:1px solid hotpink;margin-top: 20rem;">
     <h3 style="text-align:center;margin-top: 3rem;">BIG BLANK BOX</h3>
   </div>
 

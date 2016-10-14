@@ -5,7 +5,7 @@ title: Home
 category: home
 ---
 
-<div class="{{ page.title }} homepage">
+<div class="{{ page.title }} homepage" style="padding-top: 175px;">
 
   <div class="featuredss">
     <h2>FEATURED SHORT STORY</h2>

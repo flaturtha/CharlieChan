@@ -544,10 +544,22 @@ h4, .h4 {
 /*==========  MODULES  ==========*/
 /* OPTIN1 */
 .optin1 {
-  background-color: #f2f2d8;
-  color: #242424;
-  padding: 95px 0 0 0;
-  margin: 0 auto 2rem; }
+  color: #fffff0;
+  padding: 0;
+  margin: 250px auto 2rem; }
+  .optin1 h2 {
+    text-transform: uppercase;
+    text-align: center; }
+    .optin1 h2 span {
+      display: block;
+      font-size: 2rem;
+      text-decoration: underline; }
+  .optin1 a {
+    text-align: center; }
+    .optin1 a small {
+      display: block;
+      font-style: italic;
+      color: #9fa8af; }
 
 .optin__inner {
   border: 8px solid transparent;
@@ -577,6 +589,54 @@ h4, .h4 {
     .optinheader h2 span {
       font-size: 2rem;
       font-style: italic; }
+
+.buttonY {
+  -webkit-box-shadow: inset 0px 1px 0px 0px #ffffff;
+  box-shadow: inset 0px 1px 0px 0px #ffffff;
+  background-color: #ffffff;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  border: 1px solid #dcdcdc;
+  display: inline-block;
+  cursor: pointer;
+  color: #666666;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 25px 76px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #ffffff; }
+
+.buttonY:hover {
+  background-color: #f6f6f6; }
+
+.buttonY:active {
+  position: relative;
+  top: 1px; }
+
+.buttonN {
+  -webkit-box-shadow: inset 0px 1px 0px 0px #ffffff;
+  box-shadow: inset 0px 1px 0px 0px #ffffff;
+  background-color: #3d3d3d;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  border: 1px solid #dcdcdc;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 25px 76px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #ffffff; }
+
+.buttonN:hover {
+  background-color: #f6f6f6; }
+
+.buttonN:active {
+  position: relative;
+  top: 1px; }
 
 .header__about {
   text-transform: uppercase;
@@ -1523,14 +1583,14 @@ p {
 /* HEADER */
 /* NAV */
 .nav {
+  z-index: 2;
   font-family: 'Oswald', sans-serif;
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: #242424;
+  background: #242424 url("/assets/img/site/pulpicons2.svg");
   /* main-nav */ }
   .nav .main-nav {
-    border-bottom: 4px solid #8B0000;
     /* a.logo */ }
     @media screen and (min-width: 48rem) {
       .nav .main-nav {
@@ -1550,11 +1610,13 @@ p {
     .nav .main-nav a.logo {
       display: inline-block;
       margin: 1rem;
-      background: url("/assets/img/site/logo-stacked.svg") no-repeat;
+      background: url("/assets/img/site/atticus_fffff0.svg") no-repeat;
       background-size: contain;
       height: 50px; }
       .nav .main-nav a.logo span {
         margin-left: -9999px; }
+      .nav .main-nav a.logo:hover {
+        background: url("/assets/img/site/atticus_8b0000.svg") no-repeat; }
       @media screen and (min-width: 48rem) {
         .nav .main-nav a.logo {
           background: url("/assets/img/site/atticus_fffff0.svg") no-repeat;
@@ -1592,33 +1654,33 @@ p {
       border-bottom: 1px solid #fffff0;
       display: block;
       font-size: 1.5rem;
-      padding: 2rem 0; }
+      padding: 1.375rem 0; }
       @media screen and (min-width: 48rem) {
         .nav .main-nav li {
           display: inline-block;
           border: none;
           font-size: 1rem; } }
-    .nav .main-nav a {
-      color: #fffff0;
-      text-transform: uppercase; }
-      .nav .main-nav a:after {
-        display: block;
-        content: '';
-        border-bottom: 4px solid #8B0000;
-        -webkit-transform: scaleX(0);
-            -ms-transform: scaleX(0);
-                transform: scaleX(0);
-        -webkit-transition: -webkit-transform 250ms ease-in-out;
-        transition: -webkit-transform 250ms ease-in-out;
-        transition: transform 250ms ease-in-out;
-        transition: transform 250ms ease-in-out, -webkit-transform 250ms ease-in-out; }
-      .nav .main-nav a:hover:after {
-        -webkit-transform: scaleX(1);
-            -ms-transform: scaleX(1);
-                transform: scaleX(1);
-        -webkit-transform-origin: 0% 50%;
-            -ms-transform-origin: 0% 50%;
-                transform-origin: 0% 50%; }
+      .nav .main-nav li a {
+        color: #fffff0;
+        text-transform: uppercase; }
+        .nav .main-nav li a:after {
+          display: block;
+          content: '';
+          border-bottom: 4px solid #8B0000;
+          -webkit-transform: scaleX(0);
+              -ms-transform: scaleX(0);
+                  transform: scaleX(0);
+          -webkit-transition: -webkit-transform 250ms ease-in-out;
+          transition: -webkit-transform 250ms ease-in-out;
+          transition: transform 250ms ease-in-out;
+          transition: transform 250ms ease-in-out, -webkit-transform 250ms ease-in-out; }
+        .nav .main-nav li a:hover:after {
+          -webkit-transform: scaleX(1);
+              -ms-transform: scaleX(1);
+                  transform: scaleX(1);
+          -webkit-transform-origin: 0% 50%;
+              -ms-transform-origin: 0% 50%;
+                  transform-origin: 0% 50%; }
     .nav .main-nav input[type=checkbox] {
       display: none; }
     .nav .main-nav input[type=checkbox]:checked ~ ul {
@@ -1655,23 +1717,24 @@ p {
 
 /* BRANDING */
 .branding {
-  background: #242424 url("/assets/img/site/pulpicons2.svg");
-  color: #fffff0;
-  padding-top: 75px; }
+  background: url("/assets/img/site/tmp7.svg") no-repeat;
+  background-size: 105%;
+  background-position: center top;
+  border-bottom: 4px solid #242424;
+  position: absolute;
+  top: 50px;
+  width: 100%;
+  height: 0;
+  padding-top: 11.5%; }
   .branding .title, .branding .tagline {
     font-family: 'Oswald', sans-serif;
-    text-align: center; }
+    text-align: center;
+    color: #242424; }
   .branding .title {
-    text-transform: uppercase;
-    margin: 1rem 0 0 0;
-    font-size: 4rem; }
-  .branding .tagline {
-    font-size: 1.5rem;
-    letter-spacing: 1.5px;
-    padding: 0 0 2rem 0; }
-    .branding .tagline span {
-      color: #8B0000;
-      font-style: italic; }
+    text-transform: uppercase; }
+  @media screen and (min-width: 48rem) {
+    .branding {
+      top: 44px; } }
 
 .active {
   border-bottom: 4px solid #8B0000; }
