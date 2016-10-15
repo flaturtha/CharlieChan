@@ -1586,10 +1586,14 @@ p {
   z-index: 2;
   font-family: 'Oswald', sans-serif;
   position: fixed;
-  top: 0;
+  top: 44px;
+  /* 0 */
   width: 100%;
   background: #242424 url("/assets/img/site/pulpicons2.svg");
   /* main-nav */ }
+  @media screen and (min-width: 48rem) {
+    .nav {
+      top: 90px; } }
   .nav .main-nav {
     /* a.logo */ }
     @media screen and (min-width: 48rem) {
@@ -1717,13 +1721,14 @@ p {
 
 /* BRANDING */
 .branding {
-  background: url("/assets/img/site/tmp7.svg") no-repeat;
+  background: #242424 url("/assets/img/site/tmp8.svg") no-repeat;
   background-size: 105%;
   background-position: center top;
   border-bottom: 4px solid #242424;
   position: absolute;
-  top: 50px;
-  width: 100%;
+  top: -32px;
+  /* 50px */
+  width: 100.5%;
   height: 0;
   padding-top: 11.5%; }
   .branding .title, .branding .tagline {
@@ -1734,7 +1739,8 @@ p {
     text-transform: uppercase; }
   @media screen and (min-width: 48rem) {
     .branding {
-      top: 44px; } }
+      top: -32px;
+      /* 44px */ } }
 
 .active {
   border-bottom: 4px solid #8B0000; }
