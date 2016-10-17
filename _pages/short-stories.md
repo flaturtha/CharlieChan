@@ -5,7 +5,7 @@ title: Short Stories
 category: short-stories
 ---
 
-<div class="{{ page.title }}" style="padding-top: 175px;">
+<div class="{{ page.title }}" style="padding-top: 14rem;">
 
   <header class="ss-toc">
     <div class="top">

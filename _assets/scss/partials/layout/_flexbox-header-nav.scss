@@ -19,12 +19,9 @@
   // border: 1px solid green;
   font-family: 'Oswald', sans-serif;
   position: fixed;
-  top: 44px; /* 0 */
+  top: 0; /* 105px */
   width: 100%;
   background: $bgcolor url('/assets/img/site/pulpicons2.svg');
-  @media screen and (min-width: 48rem) {
-    top: 90px;
-  }
 
   .main-nav {
   // border-bottom: 4px solid $acolor;
@@ -41,11 +38,11 @@
 
     a.logo {
       display: inline-block;
-      margin: 1rem /* -2rem 1rem 50% */;
-      background: url('/assets/img/site/atticus_fffff0.svg') no-repeat;
+      margin: 1rem -2rem 1rem 1rem;
+      background: url('/assets/img/site/tmp9.svg') no-repeat;
       background-size: contain;
       height: 50px;
-      // width: 40%;
+      width: 70%;
       span {
         margin-left: -9999px;
       }
@@ -77,11 +74,11 @@
       @media screen and (min-width: 48rem) {
         display: flex;
         justify-content: space-around;
-        background-color: none;
+        background-color: transparent;
         width: 90%;
         max-width: 960px;
         opacity: 1;
-        height: 75px;
+        height: 55px;
         visibility: visible;
       }
     }
@@ -156,29 +153,51 @@
 
 /* BRANDING */
 .branding {
-  background: $bgcolor url('/assets/img/site/tmp8.svg') no-repeat;
-  // background: url('/assets/img/site/tmp7.svg') no-repeat;
-  background-size: 105%;
-  background-position: center top;
-  border-bottom: 4px solid $bgcolor;
-  position: absolute;
-  top: -32px; /* 50px */
-  width: 100.5%;
-  height: 0;
-  padding-top: 11.5%;
+  // background-color: $acolor;
+  // background-image: url('/assets/img/site/tmp8.svg'), url('/assets/img/site/pulpicons2.svg');
+  // background-repeat: no-repeat, repeat;
+  // background-size: 105%, 100%;
+  // background-position: center top;
+  // border-top: 4px solid $acolor;
+  // border-bottom: 4px solid $acolor;
+  // position: absolute;
+  // top: 50px; /* -32px */
+  // width: 100.5%;
+  // height: 0;
+  // padding-top: 11.5%;
 
-  .title, .tagline {
-    font-family: 'Oswald', sans-serif;
-    text-align: center;
-    color: $bgcolor;
-  }
-  .title {
-    text-transform: uppercase;
-  }
+  // .title, .tagline {
+  //   font-family: 'Oswald', sans-serif;
+  //   text-align: center;
+  //   color: $bgcolor;
+  // }
+  // .title {
+  //   text-transform: uppercase;
+  // }
 
   @media screen and (min-width: 48rem) {
-    top: -32px; /* 44px */
-    // height: 60px;
+    top: 44px; /* -32px */
+    background-color: $acolor;
+    background-image: url('/assets/img/site/tmp8.svg'), url('/assets/img/site/pulpicons2.svg');
+    background-repeat: no-repeat, repeat;
+    background-size: 105%, 100%;
+    background-position: center top;
+    border-top: 4px solid $acolor;
+    border-bottom: 4px solid $acolor;
+    position: absolute;
+    // top: 50px; /* -32px */
+    width: 100.5%;
+    height: 0;
+    padding-top: 11.5%;
+
+    .title, .tagline {
+      font-family: 'Oswald', sans-serif;
+      text-align: center;
+      color: $bgcolor;
+    }
+    .title {
+      text-transform: uppercase;
+    }
   }
   // @media screen and (min-width: 64rem) {
   //   height: 75px;

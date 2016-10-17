@@ -1586,14 +1586,11 @@ p {
   z-index: 2;
   font-family: 'Oswald', sans-serif;
   position: fixed;
-  top: 44px;
-  /* 0 */
+  top: 0;
+  /* 105px */
   width: 100%;
   background: #242424 url("/assets/img/site/pulpicons2.svg");
   /* main-nav */ }
-  @media screen and (min-width: 48rem) {
-    .nav {
-      top: 90px; } }
   .nav .main-nav {
     /* a.logo */ }
     @media screen and (min-width: 48rem) {
@@ -1613,10 +1610,11 @@ p {
                 justify-content: center; } }
     .nav .main-nav a.logo {
       display: inline-block;
-      margin: 1rem;
-      background: url("/assets/img/site/atticus_fffff0.svg") no-repeat;
+      margin: 1rem -2rem 1rem 1rem;
+      background: url("/assets/img/site/tmp9.svg") no-repeat;
       background-size: contain;
-      height: 50px; }
+      height: 50px;
+      width: 70%; }
       .nav .main-nav a.logo span {
         margin-left: -9999px; }
       .nav .main-nav a.logo:hover {
@@ -1648,11 +1646,11 @@ p {
           -webkit-justify-content: space-around;
               -ms-flex-pack: distribute;
                   justify-content: space-around;
-          background-color: none;
+          background-color: transparent;
           width: 90%;
           max-width: 960px;
           opacity: 1;
-          height: 75px;
+          height: 55px;
           visibility: visible; } }
     .nav .main-nav li {
       border-bottom: 1px solid #fffff0;
@@ -1720,27 +1718,27 @@ p {
     color: #fffff0; }
 
 /* BRANDING */
-.branding {
-  background: #242424 url("/assets/img/site/tmp8.svg") no-repeat;
-  background-size: 105%;
-  background-position: center top;
-  border-bottom: 4px solid #242424;
-  position: absolute;
-  top: -32px;
-  /* 50px */
-  width: 100.5%;
-  height: 0;
-  padding-top: 11.5%; }
-  .branding .title, .branding .tagline {
-    font-family: 'Oswald', sans-serif;
-    text-align: center;
-    color: #242424; }
-  .branding .title {
-    text-transform: uppercase; }
-  @media screen and (min-width: 48rem) {
-    .branding {
-      top: -32px;
-      /* 44px */ } }
+@media screen and (min-width: 48rem) {
+  .branding {
+    top: 44px;
+    /* -32px */
+    background-color: #8B0000;
+    background-image: url("/assets/img/site/tmp8.svg"), url("/assets/img/site/pulpicons2.svg");
+    background-repeat: no-repeat, repeat;
+    background-size: 105%, 100%;
+    background-position: center top;
+    border-top: 4px solid #8B0000;
+    border-bottom: 4px solid #8B0000;
+    position: absolute;
+    width: 100.5%;
+    height: 0;
+    padding-top: 11.5%; }
+    .branding .title, .branding .tagline {
+      font-family: 'Oswald', sans-serif;
+      text-align: center;
+      color: #242424; }
+    .branding .title {
+      text-transform: uppercase; } }
 
 .active {
   border-bottom: 4px solid #8B0000; }
