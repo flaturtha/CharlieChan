@@ -1721,6 +1721,7 @@ p {
 @media screen and (min-width: 48rem) {
   .branding {
     background-color: #8B0000;
+    background-color: #242424;
     background-image: url("/assets/img/site/tmp8.svg"), url("/assets/img/site/pulpicons2.svg");
     background-repeat: no-repeat, repeat;
     background-size: 105%, 100%;
