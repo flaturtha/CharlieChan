@@ -4,6 +4,7 @@
 
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,700);
 
+$bgcolor2: darken($bgcolor, 5%);
 
 /* HEADER */
 .header {
@@ -176,8 +177,8 @@
   // }
 
   @media screen and (min-width: 48rem) {
-    top: 44px; /* -32px */
     background-color: $acolor;
+    // background-color: $bgcolor;
     background-image: url('/assets/img/site/tmp8.svg'), url('/assets/img/site/pulpicons2.svg');
     background-repeat: no-repeat, repeat;
     background-size: 105%, 100%;
@@ -185,7 +186,7 @@
     border-top: 4px solid $acolor;
     border-bottom: 4px solid $acolor;
     position: absolute;
-    // top: 50px; /* -32px */
+    top: 44px; /* -32px */
     width: 100.5%;
     height: 0;
     padding-top: 11.5%;

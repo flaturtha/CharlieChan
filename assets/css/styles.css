@@ -1720,8 +1720,6 @@ p {
 /* BRANDING */
 @media screen and (min-width: 48rem) {
   .branding {
-    top: 44px;
-    /* -32px */
     background-color: #8B0000;
     background-image: url("/assets/img/site/tmp8.svg"), url("/assets/img/site/pulpicons2.svg");
     background-repeat: no-repeat, repeat;
@@ -1730,6 +1728,8 @@ p {
     border-top: 4px solid #8B0000;
     border-bottom: 4px solid #8B0000;
     position: absolute;
+    top: 44px;
+    /* -32px */
     width: 100.5%;
     height: 0;
     padding-top: 11.5%; }
