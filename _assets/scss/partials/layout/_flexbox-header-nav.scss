@@ -8,7 +8,7 @@ $bgcolor2: darken($bgcolor, 5%);
 
 /* HEADER */
 .header {
-// border: 2px solid red;
+
 }
 
 
@@ -17,7 +17,7 @@ $bgcolor2: darken($bgcolor, 5%);
 /* NAV */
 .nav {
   z-index: 2;
-  // border: 1px solid green;
+  border-bottom: 4px solid $paper;
   font-family: 'Oswald', sans-serif;
   position: fixed;
   top: 0; /* 105px */
@@ -178,15 +178,16 @@ $bgcolor2: darken($bgcolor, 5%);
 
   @media screen and (min-width: 48rem) {
     background-color: $acolor;
-    background-color: $bgcolor;
+    // background-color: $bgcolor;
     background-image: url('/assets/img/site/tmp8.svg'), url('/assets/img/site/pulpicons2.svg');
     background-repeat: no-repeat, repeat;
     background-size: 105%, 100%;
     background-position: center top;
     border-top: 4px solid $acolor;
-    border-bottom: 4px solid $acolor;
-    position: absolute;
-    top: 44px; /* -32px */
+    border-bottom: 3px solid $paper;
+    outline: 5px solid $acolor;
+    position: relative;
+    top: 76px; /* -32px */
     width: 100.5%;
     height: 0;
     padding-top: 11.5%;

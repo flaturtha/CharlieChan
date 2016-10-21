@@ -1551,7 +1551,7 @@ ul {
   margin-top: 2rem; }
 
 .main {
-  margin-top: 2rem; }
+  margin-top: 6rem; }
 
 p {
   margin-bottom: 1rem; }
@@ -1584,6 +1584,7 @@ p {
 /* NAV */
 .nav {
   z-index: 2;
+  border-bottom: 4px solid #fffff0;
   font-family: 'Oswald', sans-serif;
   position: fixed;
   top: 0;
@@ -1721,15 +1722,15 @@ p {
 @media screen and (min-width: 48rem) {
   .branding {
     background-color: #8B0000;
-    background-color: #242424;
     background-image: url("/assets/img/site/tmp8.svg"), url("/assets/img/site/pulpicons2.svg");
     background-repeat: no-repeat, repeat;
     background-size: 105%, 100%;
     background-position: center top;
     border-top: 4px solid #8B0000;
-    border-bottom: 4px solid #8B0000;
-    position: absolute;
-    top: 44px;
+    border-bottom: 3px solid #fffff0;
+    outline: 5px solid #8B0000;
+    position: relative;
+    top: 76px;
     /* -32px */
     width: 100.5%;
     height: 0;

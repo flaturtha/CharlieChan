@@ -5,7 +5,7 @@ title: Masthead
 category: masthead
 ---
 
-<div class="{{ page.title }}" style="padding-top: 14rem;">
+<div class="{{ page.title }}">
 
   <header class="header__about">
     <h1>About</h1>

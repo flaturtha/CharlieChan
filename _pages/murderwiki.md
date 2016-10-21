@@ -5,7 +5,7 @@ title: MurderWiki
 category: murderwiki
 ---
 
-<div class="{{ page.title }}" style="padding-top: 14rem;">
+<div class="{{ page.title }}">
 
   <header class="ss-toc">
     <div class="top">
