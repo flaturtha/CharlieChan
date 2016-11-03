@@ -17,8 +17,8 @@ $bgcolor2: darken($bgcolor, 5%);
 /* NAV */
 .nav {
   z-index: 2;
-  border-bottom: 4px solid $paper;
-  font-family: 'Oswald', sans-serif;
+  // border-bottom: 4px solid $paper;
+  font-family: 'Oswald',sans-serif;
   position: fixed;
   top: 0; /* 105px */
   width: 100%;
@@ -154,37 +154,16 @@ $bgcolor2: darken($bgcolor, 5%);
 
 /* BRANDING */
 .branding {
-  // background-color: $acolor;
-  // background-image: url('/assets/img/site/tmp8.svg'), url('/assets/img/site/pulpicons2.svg');
-  // background-repeat: no-repeat, repeat;
-  // background-size: 105%, 100%;
-  // background-position: center top;
-  // border-top: 4px solid $acolor;
-  // border-bottom: 4px solid $acolor;
-  // position: absolute;
-  // top: 50px; /* -32px */
-  // width: 100.5%;
-  // height: 0;
-  // padding-top: 11.5%;
-
-  // .title, .tagline {
-  //   font-family: 'Oswald', sans-serif;
-  //   text-align: center;
-  //   color: $bgcolor;
-  // }
-  // .title {
-  //   text-transform: uppercase;
-  // }
 
   @media screen and (min-width: 48rem) {
     background-color: $acolor;
     // background-color: $bgcolor;
-    background-image: url('/assets/img/site/tmp8.svg'), url('/assets/img/site/pulpicons2.svg');
+    background-image: url('/assets/img/site/tmp12.svg'), url('/assets/img/site/pulpicons2.svg');
     background-repeat: no-repeat, repeat;
     background-size: 105%, 100%;
     background-position: center top;
-    border-top: 4px solid $acolor;
-    border-bottom: 3px solid $paper;
+    border-top: 10px solid $acolor;
+    border-bottom: 10px solid $acolor;
     outline: 5px solid $acolor;
     position: relative;
     top: 76px; /* -32px */
@@ -201,46 +180,66 @@ $bgcolor2: darken($bgcolor, 5%);
       text-transform: uppercase;
     }
   }
-  // @media screen and (min-width: 64rem) {
-  //   height: 75px;
-  // }
-  // @media screen and (min-width: 75rem) {
-  //   height: 100px;
-  // }
-
-
-
-  // background: $bgcolor url('/assets/img/site/pulpicons2.svg');
-  // color: $paper;
-  // background-color: $paper;
-  // color: $bgcolor;
-  // padding-top: 75px;
-  // .title, .tagline {
-  //   font-family: 'Oswald', sans-serif;
-  //   text-align: center;
-  // }
-  // .title {
-  //   text-transform: uppercase;
-  //   text-align: center;
-  //   margin: 0.25rem -2.5rem;
-  //   // margin: 1rem 0 0 0;
-  //   font-size: 4rem;
-  //   overflow: hidden;
-  // }
-  // .tagline {
-  //   font-size: 1.5rem;
-  //   letter-spacing: 1.5px;
-  //   padding: 0 0 2rem 0;
-  //   span {
-  //     color: $acolor;
-  //     font-style: italic;
-  //   }
-  // }
 }
 
 
 .active {
   border-bottom: 4px solid $acolor;
+}
+
+
+.buttonY {
+  -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+  -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+  box-shadow:inset 0px 1px 0px 0px #ffffff;
+  background-color:#ffffff;
+  -moz-border-radius:6px;
+  -webkit-border-radius:6px;
+  border-radius:6px;
+  border:1px solid #dcdcdc;
+  display:inline-block;
+  cursor:pointer;
+  color:#666666;
+  font-family:Arial;
+  font-size:15px;
+  font-weight:bold;
+  padding:25px 76px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #ffffff;
+}
+.buttonY:hover {
+  background-color:#f6f6f6;
+}
+.buttonY:active {
+  position:relative;
+  top:1px;
+}
+
+.buttonN {
+  -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+  -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+  box-shadow:inset 0px 1px 0px 0px #ffffff;
+  background-color:#3d3d3d;
+  -moz-border-radius:6px;
+  -webkit-border-radius:6px;
+  border-radius:6px;
+  border:1px solid #dcdcdc;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:Arial;
+  font-size:15px;
+  font-weight:bold;
+  padding:25px 76px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #ffffff;
+}
+.buttonN:hover {
+  background-color:#f6f6f6;
+}
+.buttonN:active {
+  position:relative;
+  top:1px;
 }
 
 

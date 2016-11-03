@@ -542,101 +542,14 @@ h4, .h4 {
   line-height: 1; }
 
 /*==========  MODULES  ==========*/
-/* OPTIN1 */
-.optin1 {
+/*============================================
+=            EMAIL OPTIN DROPDOWN            =
+============================================*/
+.optin2 {
+  position: absolute;
+  background-color: yellow;
   color: #fffff0;
-  padding: 0;
-  margin: 250px auto 2rem; }
-  .optin1 h2 {
-    text-transform: uppercase;
-    text-align: center; }
-    .optin1 h2 span {
-      display: block;
-      font-size: 2rem;
-      text-decoration: underline; }
-  .optin1 a {
-    text-align: center; }
-    .optin1 a small {
-      display: block;
-      font-style: italic;
-      color: #9fa8af; }
-
-.optin__inner {
-  border: 8px solid transparent;
-  -webkit-border-image: url("/assets/img/misc/border2.png") 30% stretch;
-  -o-border-image: url("/assets/img/misc/border2.png") 30% stretch;
-  border-image: url("/assets/img/misc/border2.png") 30% stretch;
-  width: 100%;
-  max-width: 960px;
-  margin: 0 auto; }
-  .optin__inner h3, .optin__inner h4 {
-    text-align: right;
-    text-transform: uppercase;
-    color: #8B0000;
-    padding-right: 10rem; }
-  .optin__inner p {
-    width: 50%;
-    text-align: right; }
-
-.optinheader {
-  padding: 1rem;
   width: 100%; }
-  .optinheader h2 {
-    color: #f2f2d8;
-    color: #242424;
-    text-align: center;
-    text-transform: uppercase; }
-    .optinheader h2 span {
-      font-size: 2rem;
-      font-style: italic; }
-
-.buttonY {
-  -webkit-box-shadow: inset 0px 1px 0px 0px #ffffff;
-  box-shadow: inset 0px 1px 0px 0px #ffffff;
-  background-color: #ffffff;
-  -webkit-border-radius: 6px;
-  border-radius: 6px;
-  border: 1px solid #dcdcdc;
-  display: inline-block;
-  cursor: pointer;
-  color: #666666;
-  font-family: Arial;
-  font-size: 15px;
-  font-weight: bold;
-  padding: 25px 76px;
-  text-decoration: none;
-  text-shadow: 0px 1px 0px #ffffff; }
-
-.buttonY:hover {
-  background-color: #f6f6f6; }
-
-.buttonY:active {
-  position: relative;
-  top: 1px; }
-
-.buttonN {
-  -webkit-box-shadow: inset 0px 1px 0px 0px #ffffff;
-  box-shadow: inset 0px 1px 0px 0px #ffffff;
-  background-color: #3d3d3d;
-  -webkit-border-radius: 6px;
-  border-radius: 6px;
-  border: 1px solid #dcdcdc;
-  display: inline-block;
-  cursor: pointer;
-  color: #ffffff;
-  font-family: Arial;
-  font-size: 15px;
-  font-weight: bold;
-  padding: 25px 76px;
-  text-decoration: none;
-  text-shadow: 0px 1px 0px #ffffff; }
-
-.buttonN:hover {
-  background-color: #f6f6f6; }
-
-.buttonN:active {
-  position: relative;
-  top: 1px; }
 
 .header__about {
   text-transform: uppercase;
@@ -1282,6 +1195,29 @@ ol ol li:last-child {
       margin-right: 0.83333%; } }
 
 /*==========  LAYOUT  ==========*/
+/*=============================================
+=            BRANDING                         =
+=============================================*/
+a.logo {
+  background: url("/assets/img/site/logo-stacked.svg") no-repeat 0 0;
+  background-size: contain;
+  height: 50px;
+  width: 148px;
+  margin-top: 1rem; }
+  a.logo span {
+    margin-left: -9999px;
+    color: #fffff0;
+    text-transform: uppercase; }
+
+/*----------  .branding_TRF  ----------*/
+.branding_TRF {
+  width: 100%;
+  text-align: center;
+  font-family: "blakely", serif;
+  background-color: #8B0000; }
+  .branding_TRF h1, .branding_TRF h2 {
+    color: #fffff0; }
+
 /* ==========================================================================
    HOMEPAGE HEADER
    ========================================================================== */
@@ -1587,8 +1523,7 @@ p {
 /* NAV */
 .nav {
   z-index: 2;
-  border-bottom: 4px solid #fffff0;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Oswald',sans-serif;
   position: fixed;
   top: 0;
   /* 105px */
@@ -1725,12 +1660,12 @@ p {
 @media screen and (min-width: 48rem) {
   .branding {
     background-color: #8B0000;
-    background-image: url("/assets/img/site/tmp8.svg"), url("/assets/img/site/pulpicons2.svg");
+    background-image: url("/assets/img/site/tmp12.svg"), url("/assets/img/site/pulpicons2.svg");
     background-repeat: no-repeat, repeat;
     background-size: 105%, 100%;
     background-position: center top;
-    border-top: 4px solid #8B0000;
-    border-bottom: 3px solid #fffff0;
+    border-top: 10px solid #8B0000;
+    border-bottom: 10px solid #8B0000;
     outline: 5px solid #8B0000;
     position: relative;
     top: 76px;
@@ -1747,6 +1682,54 @@ p {
 
 .active {
   border-bottom: 4px solid #8B0000; }
+
+.buttonY {
+  -webkit-box-shadow: inset 0px 1px 0px 0px #ffffff;
+  box-shadow: inset 0px 1px 0px 0px #ffffff;
+  background-color: #ffffff;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  border: 1px solid #dcdcdc;
+  display: inline-block;
+  cursor: pointer;
+  color: #666666;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 25px 76px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #ffffff; }
+
+.buttonY:hover {
+  background-color: #f6f6f6; }
+
+.buttonY:active {
+  position: relative;
+  top: 1px; }
+
+.buttonN {
+  -webkit-box-shadow: inset 0px 1px 0px 0px #ffffff;
+  box-shadow: inset 0px 1px 0px 0px #ffffff;
+  background-color: #3d3d3d;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  border: 1px solid #dcdcdc;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 25px 76px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #ffffff; }
+
+.buttonN:hover {
+  background-color: #f6f6f6; }
+
+.buttonN:active {
+  position: relative;
+  top: 1px; }
 
 /* OPTIN BAR */
 .wbar {
@@ -1886,3 +1869,5 @@ a {
   mask-image: url("/assets/img/mytexture6.png");
   opacity: 0.5;
   filter: alpha(opacity=50); }
+
+/*----------  rotated text  ----------*/

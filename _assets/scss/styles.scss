@@ -20,7 +20,7 @@
 
 /*==========  MODULES  ==========*/
 // @import 'partials/modules/wbar';
-@import 'partials/modules/optin';
+@import 'partials/modules/optin2';
 @import 'partials/modules/about';
 @import 'partials/modules/card';
 @import 'partials/modules/article';
@@ -33,7 +33,7 @@
 /*==========  LAYOUT  ==========*/
 // @import 'partials/layout/header';  /* temp disabled */
 // @import 'partials/layout/nav';  /* temp disabled */
-// @import 'partials/layout/branding';  /* temp disabled */
+@import 'partials/layout/branding';
 @import 'partials/layout/home';
 @import 'partials/layout/footer';
 @import 'partials/layout/body';

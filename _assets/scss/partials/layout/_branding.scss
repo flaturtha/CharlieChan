@@ -21,3 +21,19 @@
   }
 // }
 
+
+
+
+/*----------  .branding_TRF  ----------*/
+
+.branding_TRF {
+  // position: absolute;
+  // top: 2px;
+  width: 100%;
+  text-align: center;
+  font-family: $header-font;
+  background-color: $acolor;
+  h1, h2 {
+    color: $paper;
+  }
+}
