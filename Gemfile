@@ -3,5 +3,5 @@
 source "https://rubygems.org"
 
 # Jekyll and Plugins
-gem 'jekyll'
-gem 'font-awesome-sass'
+gem 'jekyll', '~> 3.3.0'
+gem 'font-awesome-sass', '~> 4.7.0'

@@ -21,6 +21,14 @@ a {
   font-weight: bold;
 }
 
+.small {
+  font-size: 0.875rem;
+}
+
+.xsmall {
+  font-size: 0.625rem;
+}
+
 .companyname {
   text-transform: uppercase;
   color: $acolor;
