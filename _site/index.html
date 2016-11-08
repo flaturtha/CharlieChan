@@ -80,54 +80,58 @@
 
 </nav> <!-- end nav.nav -->
   <div id="optin-bar" class="optin-bar">
-	
-	<!-- <div class="optin-offer"> -->
-		<div class="optin-txt">
-			<p class="optin-mh">Want your own copy of <span class="optin-title">The&nbsp;Campaign for&nbsp;Vengeance?</span><span class="optin-sh">A thrilling tale of a murdered cop, and<wbr> the&nbsp;search&nbsp;for&nbsp;his&nbsp;killer&nbsp;by his sweet, innocent sister!</span></p>
-		</div>
 
-		<div class="optin-btns">
-			<button class="btnY">YES!</button>
-			<button class="btnN">No</button>
-		</div> <!-- end div.optin-btns -->
+	<div class="optin-txt">
+		<p class="optin-mh">Want your copy of the novella &mdash; <span class="optin-title">The&nbsp;Campaign for&nbsp;Vengeance?</span><span class="optin-sh">A thrilling tale of a murdered cop, and<wbr> the&nbsp;search&nbsp;for&nbsp;his&nbsp;killer&nbsp;by his sweet, innocent sister!</span></p>
+	</div>
 
-	 <!-- </div> end div.optin-offer -->
-
-<!-- 	<div class="optin-disclaimer">
-		<p>You'll also receive the weekly notice of new stories, plus coupons &amp; extra surprises!</p>
-		<p><i class="fa fa-lock" aria-hidden="true"></i> Your email is locked away in our ultra-secure safe. Unsubscribe anytime!</p>
-	</div> -->
-
+	<div class="optin-btns">
+		<a href="#modal-box--open" class="btnY">YES!</a>
+		<a href="#" class="btnN">No</a>
+	</div> <!-- end div.optin-btns -->
 
 </div> <!-- end div.optin-bar -->
 
 
 
-<!-- <br><small>I want to read <span class="optin-title">The Campaign for Vengeance</span>!</small>
 
-<br><small>I prefer to waste time on social media garbage.</small> -->
-
-
+<!-- alternate title :: A/B split test them! -->
+<!-- <p class="optin-mh">Want your copy of the novel &mdash; <span class="optin-title">The&nbsp;Spider&nbsp;Lily?</span><span class="optin-sh">A thrilling tale of a solider's post traumatic stress, the murder of his filandering wife and the aftermath of war!</span></p> -->
 
 
 
 
 
-<!-- <div class="optin2">
 
-<h2 style="text-align: center;">Do you love a good <span>murder?</span></h2>
 
-<div class="optin__buttons" style="text-align: center;">
-  <a href="#" class="buttonY">YES!<br><small>Get Stories By Email</small></a>
 
-  <a href="#" class="buttonN">NO!<br><small>Just read online</small></a>
+
+
+
+
+
+
+
+
+
+  <!-- MODAL -->
+
+<div id="modal-box--open" class="modal-box">
+    <a href="#modal-box--close" class="modal-box__overlay"></a>
+    <div class="modal-box__content">
+        <a href="#modal-box--close" class="modal-box--close">x</a>
+        <h3>Download your copy of <span>THE CAMPAIGN FOR VENGEANCE</span></h3>
+        <hr class="margin1r">
+        <p>Enter your email address where I can send your free copy of this exciting novella. Just click the appropriate link (Kindle or ePub) in the email and enjoy.</p>
+        <form action="#">
+        	<label for="#">Email Address</label>
+        	<input type="text" name="email">
+        	<input id="gimme" type="submit" value="Gimme!">
+        </form>
+        <p class="disclaimer">You'll also be signed up to received a weekly notification of new stories posted to the site, as well as subscriber-exclusive coupons and special offers. Unsubscribe anytime.</p>
+        <p class="disclaimer xsmall"><i class="fa fa-lock"></i>Your email address is locked securely away from prying eyes! NO SPAM EVER!</p>
+    </div>
 </div>
-
-</div> -->
-
-
-
-<!-- <br>I love murder mysteries!<small><br>Send me a FREE mystery ebook to read!</small> <br>Mysteries confuse me!<small>I don't want a FREE story!</small>-->
 
   <!-- include branding2.html %} -->
 
@@ -314,5 +318,21 @@
     <small><span class="rwd-line">Copyright 2014 &mdash; 2016 Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC. </span>All Rights Reserved.</small>
   </div>
 </footer>
+
+  
+<!-- <script src="/assets/js/vendor/modernizr.custom.34164.js"></script> -->
+
+<!--load jQuery, required-->
+<!-- <script src="/assets/vendor/js/jquery-3.1.1.slim.min.js"></script> -->
+
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script>
+
+<!-- TYPEKIT -->
+<script src="//use.typekit.net/gwl0zuj.js"></script>
+<!-- <script>try{Typekit.load();}catch(e){}</script> -->
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<script src="/assets/js/optin-bar.js"></script>
+
 
 </body>

@@ -2,9 +2,41 @@
 =            EMAIL OPTIN DROPDOWN            =
 ============================================*/
 
+/* DROP IN & JIGGLE */
+#optin-bar {
+  animation: animationFrames linear 0.8s;
+  animation-iteration-count: 1;
+  transform-origin: 50% 50%;
+}
+
+@keyframes animationFrames{
+  0% {
+    transform:  translate(0px,0px)  ;
+  }
+  15% {
+    transform:  translate(0px,-25px)  ;
+  }
+  30% {
+    transform:  translate(0px,0px)  ;
+  }
+  45% {
+    transform:  translate(0px,-15px)  ;
+  }
+  60% {
+    transform:  translate(0px,0px)  ;
+  }
+  75% {
+    transform:  translate(0px,-5px)  ;
+  }
+  100% {
+    transform:  translate(0px,0px)  ;
+  }
+}
+
+/* STYLES */
 .optin-bar {
   position: absolute;
-  top: -25px;
+  top: -25px; /* -95px */
   display: flex;
   flex-direction: column;
   // justify-content: space-between;
@@ -68,7 +100,7 @@
   	@media screen and (min-width: 48rem) {
   		margin: 0;
   	}
-  	& button {
+  	& a {
   		// width: 45px;
   		// min-height: 65px;
   		text-align: center;

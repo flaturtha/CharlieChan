@@ -545,9 +545,67 @@ h4, .h4 {
 /*============================================
 =            EMAIL OPTIN DROPDOWN            =
 ============================================*/
+/* DROP IN & JIGGLE */
+#optin-bar {
+  -webkit-animation: animationFrames linear 0.8s;
+          animation: animationFrames linear 0.8s;
+  -webkit-animation-iteration-count: 1;
+          animation-iteration-count: 1;
+  -webkit-transform-origin: 50% 50%;
+      -ms-transform-origin: 50% 50%;
+          transform-origin: 50% 50%; }
+
+@-webkit-keyframes animationFrames {
+  0% {
+    -webkit-transform: translate(0px, 0px);
+            transform: translate(0px, 0px); }
+  15% {
+    -webkit-transform: translate(0px, -25px);
+            transform: translate(0px, -25px); }
+  30% {
+    -webkit-transform: translate(0px, 0px);
+            transform: translate(0px, 0px); }
+  45% {
+    -webkit-transform: translate(0px, -15px);
+            transform: translate(0px, -15px); }
+  60% {
+    -webkit-transform: translate(0px, 0px);
+            transform: translate(0px, 0px); }
+  75% {
+    -webkit-transform: translate(0px, -5px);
+            transform: translate(0px, -5px); }
+  100% {
+    -webkit-transform: translate(0px, 0px);
+            transform: translate(0px, 0px); } }
+
+@keyframes animationFrames {
+  0% {
+    -webkit-transform: translate(0px, 0px);
+            transform: translate(0px, 0px); }
+  15% {
+    -webkit-transform: translate(0px, -25px);
+            transform: translate(0px, -25px); }
+  30% {
+    -webkit-transform: translate(0px, 0px);
+            transform: translate(0px, 0px); }
+  45% {
+    -webkit-transform: translate(0px, -15px);
+            transform: translate(0px, -15px); }
+  60% {
+    -webkit-transform: translate(0px, 0px);
+            transform: translate(0px, 0px); }
+  75% {
+    -webkit-transform: translate(0px, -5px);
+            transform: translate(0px, -5px); }
+  100% {
+    -webkit-transform: translate(0px, 0px);
+            transform: translate(0px, 0px); } }
+
+/* STYLES */
 .optin-bar {
   position: absolute;
   top: -25px;
+  /* -95px */
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -615,12 +673,12 @@ h4, .h4 {
     @media screen and (min-width: 48rem) {
       .optin-bar .optin-btns {
         margin: 0; } }
-    .optin-bar .optin-btns button {
+    .optin-bar .optin-btns a {
       text-align: center;
       padding: 0.625rem;
       margin: 1rem 0.5rem 0 0; }
       @media screen and (min-width: 768px) {
-        .optin-bar .optin-btns button {
+        .optin-bar .optin-btns a {
           width: 75px;
           margin: 0 0.5rem; } }
     .optin-bar .optin-btns .btnY {
@@ -651,6 +709,67 @@ h4, .h4 {
     margin: 1rem auto 0;
     color: rgba(139, 0, 0, 0.65);
     font-size: 0.75rem; }
+
+/*====================================================
+=            OPTIN MODAL SCSS                        =
+====================================================*/
+.modal-box {
+  z-index: 99999;
+  max-width: 90%; }
+  .modal-box h3 {
+    text-align: center; }
+    .modal-box h3 span {
+      display: block;
+      color: #8B0000; }
+  .modal-box form {
+    text-align: center; }
+  .modal-box__overlay {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    visibility: hidden;
+    opacity: 0;
+    background: rgba(0, 0, 0, 0.8);
+    -webkit-transition: opacity 0.1s ease-in;
+    transition: opacity 0.1s ease-in;
+    cursor: default; }
+  .modal-box__content {
+    position: absolute;
+    left: 50%;
+    top: 250px;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    width: 800px;
+    padding: 20px;
+    background: #fffff0;
+    opacity: 0; }
+  .modal-box:target .modal-box__overlay,
+  .modal-box:target .modal-box__content {
+    opacity: 1;
+    visibility: visible; }
+  .modal-box--close {
+    background: #606061;
+    color: #fffff0;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    right: -15px;
+    top: -15px;
+    padding: 0 10px; }
+
+.disclaimer {
+  color: #8B0000;
+  text-align: center;
+  margin: 1rem; }
+
+#gimme {
+  border: none;
+  padding: 0.5rem;
+  background-color: #8B0000;
+  color: #fffff0; }
 
 .header__about {
   text-transform: uppercase;
@@ -1865,9 +1984,6 @@ a {
   font-weight: bold;
   font-size: 0.85rem; }
 
-.small {
-  font-size: small; }
-
 .cf:after {
   content: "";
   clear: both;
@@ -1887,4 +2003,8 @@ a {
   opacity: 0.5;
   filter: alpha(opacity=50); }
 
-/*----------  rotated text  ----------*/
+.padding1r {
+  padding: 1rem; }
+
+.margin1r {
+  margin: 1rem; }

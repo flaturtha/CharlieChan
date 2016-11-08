@@ -36,9 +36,9 @@ a {
   font-size: 0.85rem;
 }
 
-.small {
-  font-size: small;
-}
+// .small {
+//   font-size: small;
+// }
 
 .cf {
   &:after {
@@ -80,5 +80,11 @@ a {
 }
 
 
-/*----------  rotated text  ----------*/
+.padding1r {
+  padding: 1rem;
+}
+
+.margin1r {
+  margin: 1rem;
+}
 
