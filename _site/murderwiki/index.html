@@ -87,7 +87,7 @@
 
 	<div class="optin-btns">
 		<a href="#modal-box--open" class="btnY">YES!</a>
-		<a href="#" class="btnN">No</a>
+		<a href="#" onclick="toggle_visibility('optin-bar')" class="btnN">No</a>
 	</div> <!-- end div.optin-btns -->
 
 </div> <!-- end div.optin-bar -->
@@ -116,8 +116,9 @@
 
   <!-- MODAL -->
 
-<div id="modal-box--open" class="modal-box">
+<div id="modal-box--open" class="modalDialog">
     <a href="#modal-box--close" class="modal-box__overlay"></a>
+    <!-- <a href="#close" title="Close" class="close">X</a> -->
     <div class="modal-box__content">
         <a href="#modal-box--close" class="modal-box--close">x</a>
         <h3>Download your copy of <span>THE CAMPAIGN FOR VENGEANCE</span></h3>
@@ -125,11 +126,26 @@
         <p>Enter your email address where I can send your free copy of this exciting novella. Just click the appropriate link (Kindle or ePub) in the email and enjoy.</p>
         <form action="#">
         	<label for="#">Email Address</label>
-        	<input type="text" name="email">
-        	<input id="gimme" type="submit" value="Gimme!">
+        	<input id="optin-email" type="text" name="email">
+        	<input id="gimme" type="submit" value="Click to Download!">
         </form>
         <p class="disclaimer">You'll also be signed up to received a weekly notification of new stories posted to the site, as well as subscriber-exclusive coupons and special offers. Unsubscribe anytime.</p>
         <p class="disclaimer xsmall"><i class="fa fa-lock"></i>Your email address is locked securely away from prying eyes! NO SPAM EVER!</p>
+    </div>
+</div>
+
+
+
+
+<!-- <a href="#openModal">Open Modal</a>
+
+<div id="openModal" class="modalDialog">
+    <div>   <a href="#close" title="Close" class="close">X</a>
+
+            <h2>Modal Box</h2>
+
+        <p>This is a sample modal box that can be created using the powers of CSS3.</p>
+        <p>You could do a lot of things here like have a pop-up ad that shows when your website loads, or create a login/register form for users.</p>
     </div>
 </div>
 
@@ -850,5 +866,16 @@
 
 <script src="/assets/js/optin-bar.js"></script>
 
+
+<script type="text/javascript">
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       e.style.display = 'none';
+       // if(e.style.display == 'block')
+       //    e.style.display = 'none';
+       // else
+       //    e.style.display = 'block';
+    }
+</script>
 
 </body>

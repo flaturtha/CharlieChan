@@ -618,6 +618,7 @@ h4, .h4 {
   background-color: yellow;
   color: #8B0000;
   width: 100%;
+  max-width: 100%;
   padding: 1rem 0;
   border-bottom: solid 2px #cccc00;
   -webkit-box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.2);
@@ -676,7 +677,9 @@ h4, .h4 {
     .optin-bar .optin-btns a {
       text-align: center;
       padding: 0.625rem;
-      margin: 1rem 0.5rem 0 0; }
+      margin: 1rem 0.5rem 0 0;
+      min-width: 65px;
+      min-height: 65px; }
       @media screen and (min-width: 768px) {
         .optin-bar .optin-btns a {
           width: 75px;
@@ -710,66 +713,84 @@ h4, .h4 {
     color: rgba(139, 0, 0, 0.65);
     font-size: 0.75rem; }
 
-/*====================================================
-=            OPTIN MODAL SCSS                        =
-====================================================*/
-.modal-box {
-  z-index: 99999;
-  max-width: 90%; }
-  .modal-box h3 {
-    text-align: center; }
-    .modal-box h3 span {
-      display: block;
-      color: #8B0000; }
-  .modal-box form {
-    text-align: center; }
-  .modal-box__overlay {
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    visibility: hidden;
-    opacity: 0;
-    background: rgba(0, 0, 0, 0.8);
-    -webkit-transition: opacity 0.1s ease-in;
-    transition: opacity 0.1s ease-in;
-    cursor: default; }
-  .modal-box__content {
-    position: absolute;
-    left: 50%;
-    top: 250px;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-        transform: translate(-50%, -50%);
-    width: 800px;
-    padding: 20px;
-    background: #fffff0;
-    opacity: 0; }
-  .modal-box:target .modal-box__overlay,
-  .modal-box:target .modal-box__content {
-    opacity: 1;
-    visibility: visible; }
-  .modal-box--close {
-    background: #606061;
-    color: #fffff0;
-    height: 30px;
-    line-height: 30px;
-    position: absolute;
-    right: -15px;
-    top: -15px;
-    padding: 0 10px; }
-
 .disclaimer {
   color: #8B0000;
   text-align: center;
   margin: 1rem; }
 
+#optin-email {
+  line-height: 2rem; }
+
 #gimme {
   border: none;
+  margin: 0.75rem;
   padding: 0.5rem;
   background-color: #8B0000;
   color: #fffff0; }
+
+.modalDialog {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 99999;
+  opacity: 0;
+  -webkit-transition: opacity 400ms ease-in;
+  transition: opacity 400ms ease-in;
+  pointer-events: none; }
+  .modalDialog h3 {
+    text-align: center; }
+    .modalDialog h3 span {
+      display: block;
+      color: #8B0000; }
+  .modalDialog form {
+    text-align: center; }
+
+.modalDialog:target {
+  opacity: 1;
+  pointer-events: auto; }
+
+.modalDialog > div {
+  width: 400px;
+  max-width: 90%;
+  position: relative;
+  margin: 10% auto;
+  padding: 5px 20px 13px 20px;
+  background: #fffff0;
+  -webkit-border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+          border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  border: 3px solid #8B0000; }
+
+.close {
+  background: #606061;
+  color: #FFFFFF;
+  line-height: 25px;
+  position: absolute;
+  right: -12px;
+  text-align: center;
+  top: -10px;
+  width: 24px;
+  text-decoration: none;
+  font-weight: bold;
+  -webkit-border-radius: 12px;
+  border-radius: 12px;
+  -webkit-box-shadow: 1px 1px 3px #000;
+  box-shadow: 1px 1px 3px #000; }
+
+.modal-box--close {
+  background: #606061;
+  color: #fffff0;
+  height: 30px;
+  line-height: 30px;
+  position: absolute;
+  right: -15px;
+  top: -15px;
+  padding: 0 10px; }
+
+.close:hover {
+  background: #00d9ff; }
 
 .header__about {
   text-transform: uppercase;
