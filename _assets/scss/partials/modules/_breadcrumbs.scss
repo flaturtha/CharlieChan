@@ -14,11 +14,15 @@
     display: inline;
     &:not(:last-child):after {
       content: "\00bb";
+      color: $acolor;
+    }
+    a {
+      color: lighten($pcolor, 15%);
     }
   }
   .active {
-    // color: blue;
-    // background-color: hotpink;
+    color: $acolor;
     border-bottom: none;
+    font-weight: bolder;
   }
 }

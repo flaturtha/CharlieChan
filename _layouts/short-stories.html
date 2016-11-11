@@ -2,7 +2,7 @@
 layout: default2
 ---
 
-<article style="padding-top: 14rem;">
+<article>
 
   <header class="story__header">
 
@@ -10,7 +10,6 @@ layout: default2
       <p class="xsmall"><span class="underline">Home</span> > <span class="underline">Short Stories</span> > <span class="bold">{{ page.title }}</span></p>  
     </section> end div.breadcrumbs -->
 
-    <aside class="casefilenum">CASEFILE NO. {{ page.casefileNumber }}</aside>
     <!-- README IF STATEMENT -->
   {% if site.readtime %}
     {% if site.wpm %}
@@ -21,15 +20,16 @@ layout: default2
   {% endif %}
 
 
+    <h1 class="story__title">{{ page.title }}</h1>
+    {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
+    <h2 class="story__author">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</span></h2>
+    <aside class="casefilenum">CASEFILE NO. {{ page.casefileNumber }}</aside>
     <figure class="story__img">
       <img src="{{ page.image }}" alt="{{ page.title }}">
       <figcaption class="excerpt">
         <p>{{ page.excerpt }}</p>
       </figcaption> <!-- end figcaption.excerpt -->
     </figure>
-    <h1 class="story__title">{{ page.title }}</h1>
-    {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
-    <h2 class="story__author">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</span></h2>
 
     <div class="story__meta">
 

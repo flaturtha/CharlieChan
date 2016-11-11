@@ -804,9 +804,14 @@ h4, .h4 {
   .breadcrumb li {
     display: inline; }
     .breadcrumb li:not(:last-child):after {
-      content: "\00bb"; }
+      content: "\00bb";
+      color: #8B0000; }
+    .breadcrumb li a {
+      color: #6a767f; }
   .breadcrumb .active {
-    border-bottom: none; }
+    color: #8B0000;
+    border-bottom: none;
+    font-weight: bolder; }
 
 .header__about {
   text-transform: uppercase;
@@ -1136,26 +1141,16 @@ a.readmore {
     font-variant: small-caps; }
 
 .story__meta {
+  background-color: hotpink;
   font-size: 0.85rem;
-  display: inline; }
+  display: inline;
+  margin-top: 1rem; }
   .story__meta:after {
     content: "";
     clear: both;
     display: table; }
-  @media (min-width: 530px) {
-    .story__meta .originalpub {
-      text-align: right;
-      width: 35%;
-      float: left;
-      margin-left: 1.25%;
-      margin-right: 1.25%; } }
-  @media (min-width: 530px) {
-    .story__meta .trf-issue {
-      text-align: left;
-      width: 35%;
-      float: left;
-      margin-left: 1.25%;
-      margin-right: 1.25%; } }
+  .story__meta .originalpub {
+    margin: 1rem; }
 
 @media (min-width: 775px) {
   .story {

@@ -215,24 +215,29 @@
 }
 
 .story__meta {
+  background-color: hotpink;
   @include cf;
   // @include span(4 at 3);
   // border-top: 1px solid $bgcolor;
   // border-bottom: 1px solid $bgcolor;
   font-size: 0.85rem;
   display: inline;
+  margin-top: 1rem;
+
+
   .originalpub {
-    @include susy-breakpoint($bp-med){
-      text-align: right;
-      @include span (3 at 2);
-    }
+    margin: 1rem;
+    // @include susy-breakpoint($bp-med){
+    //   text-align: right;
+    //   @include span (3 at 2);
+    // }
   }
-  .trf-issue {
-    @include susy-breakpoint($bp-med){
-      text-align: left;
-      @include span (3 at 5);
-    }
-  }
+  // .trf-issue {
+  //   @include susy-breakpoint($bp-med){
+  //     text-align: left;
+  //     @include span (3 at 5);
+  //   }
+  // }
 }
 
 .story {
