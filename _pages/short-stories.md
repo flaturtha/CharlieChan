@@ -2,12 +2,53 @@
 layout: default2
 permalink: /short-stories/
 title: Short Stories
+tagline: Find something good to read &hellip;
 category: short-stories
 ---
 
 <div class="{{ page.title }}">
 
-  <header class="ss-toc">
+  <header class="pagehead">
+    
+<!-- end    <section class="breadcrumbs">
+      <p class="xsmall"><span class="underline">Home</span> > <span class="bold">Short Stories</span></p>  
+    </section>  div.breadcrumbs -->
+    
+    <section class="pagetitle">
+      <h1>{{ page.title }}</h1>
+      <h2>{{ page.tagline }}</h2>
+    </section> <!-- end div.pagetitle -->
+    
+    <section class="sortsearch">
+      <div class="sort">
+        <p>Sort by:</p>
+        <ul>
+          <li>Length <i class="fa fa-caret-down" aria-hidden="true"></i><i class="fa fa-caret-up" aria-hidden="true"></i></li>
+          <li>Author <i class="fa fa-caret-down" aria-hidden="true"></i><i class="fa fa-caret-up" aria-hidden="true"></i></li>
+          <li>Genre <i class="fa fa-caret-down" aria-hidden="true"></i><i class="fa fa-caret-up" aria-hidden="true"></i></li>
+        </ul>
+      </div>
+      <div class="search">
+        <!-- <p>Search by:</p> -->
+        <p>{% include search.html %}</p>
+      </div>
+    </section> <!-- end div.searchsort -->
+
+  </header>
+
+  <div class="cf"></div>
+
+  <section class="card__container">
+
+    {% include card-ss.html %}
+
+  </section> <!-- end section .container .card__container -->
+
+
+</div>
+
+
+<!-- <header class="ss-toc">
     <div class="top">
       <h1>Short Stories</h1>
       <h2>Table of Contents</h2>
@@ -29,15 +70,4 @@ category: short-stories
       </div>
     </div>
 
-  </header>
-
-  <div class="cf"></div>
-
-  <section class="card__container">
-
-    {% include card-ss.html %}
-
-  </section> <!-- end section .container .card__container -->
-
-
-</div>
+  </header> -->

@@ -120,9 +120,10 @@
   		color: $acolor;
   		font-weight: bold;
   		border: solid 2px $acolor;
+  		padding-top: 1.25rem;
   		// padding-right: 1.5rem;
   		&:hover {
-  		box-shadow: 0 0 5px 2px hsla(0,0%,0%,.2);
+  		box-shadow: 0 0 10px 2px hsla(0,0%,0%,.5);
   			// background-color: green;
   			// color: yellow;
   			// border-color: green;
@@ -134,8 +135,9 @@
   		background-color: yellow;
   		color: rgba($acolor, .45);
   		border: solid 2px rgba($acolor, .45);
+  		padding-top: 1.25rem;
   		&:hover {
-  			box-shadow: 0 0 10px 4px hsla(0,0%,0%,.2);
+  			box-shadow: 0 0 10px 2px hsla(0,0%,0%,.5);
   			// background-color: rgba($acolor, .45);
   			// color: yellow;
   		}

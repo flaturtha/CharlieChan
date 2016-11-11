@@ -7,17 +7,26 @@ p {
   margin-bottom: 1rem;
 }
 
-.pagetitle {
-  @include susy-breakpoint($bp-med, $med){
-    @include span(2 at 2);
-    margin: 1rem 0 0 1rem;
-  }
-}
+// .pagetitle {
+//   @include susy-breakpoint($bp-med, $med){
+//     @include span(2 at 2);
+//     margin: 1rem 0 0 1rem;
+//   }
+// }
 
 .content {
   clear: both;
   @include span(1 at 2);
   @include susy-breakpoint($bp-med, $med){
     @include span(2 at 2);
+  }
+}
+
+.pageheader {
+  text-align: center;
+  h1 {
+    font-size: 3rem;
+    text-decoration: underline;
+    color: $pcolor;
   }
 }

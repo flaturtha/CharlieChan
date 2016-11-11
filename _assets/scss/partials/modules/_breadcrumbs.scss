@@ -1,0 +1,24 @@
+
+
+.breadcrumbs {
+  // color: lighten($pcolor, 15%);
+  border-bottom: 2px solid $bgcolor;
+  padding-bottom: 1rem;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.breadcrumb {
+  display: inline;
+  li {
+    display: inline;
+    &:not(:last-child):after {
+      content: "\00bb";
+    }
+  }
+  .active {
+    // color: blue;
+    // background-color: hotpink;
+    border-bottom: none;
+  }
+}
