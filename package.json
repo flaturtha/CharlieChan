@@ -21,5 +21,8 @@
     "type": "git",
     "url": "https://github.com/flaturtha/charliechan.git"
   },
-  "homepage": "https://github.com/flaturtha/charliechan"
+  "homepage": "https://github.com/flaturtha/charliechan",
+  "dependencies": {
+    "simple-jekyll-search": "^1.1.5"
+  }
 }

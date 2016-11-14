@@ -79,7 +79,7 @@
   </div>
 
 </nav> <!-- end nav.nav -->
-  
+  <!-- NOTE: TEMP DISABLED OPTIN2 & OPTIN-MODAL FOR OTHER DEV -->
   <div id="optin-bar" class="optin-bar">
 
 	<div class="optin-txt">
@@ -196,7 +196,7 @@
       <h2>Learn about murder mysteries &hellip;</h2>
     </section> <!-- end div.pagetitle -->
     
-    <section class="sortsearch">
+    <section class="sortsearch hidden">
       <div class="sort">
         <p>Sort by:</p>
         <ul>
@@ -205,9 +205,8 @@
           <li>Category <i class="fa fa-caret-down" aria-hidden="true"></i><i class="fa fa-caret-up" aria-hidden="true"></i></li>
         </ul>
       </div>
-      <div class="search">
-        <!-- <p>Search by:</p> -->
-        <p>
+      <p>Search by:</p>
+      <p>
 <!-- Powered by <a href="/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/">lunr.js</a>. -->
 
 <form action="get" id="site_search">
@@ -221,7 +220,6 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="/assets/js/search.js"></script>
 </p>
-      </div>
     </section> <!-- end div.searchsort -->
 
   </header>
@@ -903,5 +901,8 @@
        e.style.display = 'none';
     }
 </script>
+
+<!-- ISOTYPE -->
+<script src+"/assets/js/jquery.isotop.js"></script>
 
 </body>

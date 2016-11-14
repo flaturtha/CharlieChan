@@ -19,7 +19,7 @@ category: the-red-file
       <h2>{{ page.tagline }}</h2>
     </section> <!-- end div.pagetitle -->
     
-    <section class="sortsearch">
+    <section class="sortsearch hidden">
       <div class="sort">
         <p>Sort by:</p>
         <ul>
@@ -29,7 +29,7 @@ category: the-red-file
         </ul>
       </div>
       <div class="search">
-        <!-- <p>Search by:</p> -->
+        <p>Search by:</p>
         <p>{% include search.html %}</p>
       </div>
     </section> <!-- end div.searchsort -->

@@ -79,7 +79,7 @@
   </div>
 
 </nav> <!-- end nav.nav -->
-  
+  <!-- NOTE: TEMP DISABLED OPTIN2 & OPTIN-MODAL FOR OTHER DEV -->
   <div id="optin-bar" class="optin-bar">
 
 	<div class="optin-txt">
@@ -192,26 +192,47 @@
 
 	<header class="pagehead">
     
-<!-- end    <section class="breadcrumbs">
-      <p class="xsmall"><span class="underline">Home</span> > <span class="bold">Short Stories</span></p>  
-    </section>  div.breadcrumbs -->
-    
     <section class="pagetitle">
       <h1>Bookstore</h1>
       <h2>Buy something good to read &hellip;</h2>
     </section> <!-- end div.pagetitle -->
     
-    <section class="sortsearch">
-      <div class="sort">
-        <p>Sort by:</p>
-        <ul>
-          <li>Length <i class="fa fa-caret-down" aria-hidden="true"></i><i class="fa fa-caret-up" aria-hidden="true"></i></li>
-          <li>Author <i class="fa fa-caret-down" aria-hidden="true"></i><i class="fa fa-caret-up" aria-hidden="true"></i></li>
-          <li>Genre <i class="fa fa-caret-down" aria-hidden="true"></i><i class="fa fa-caret-up" aria-hidden="true"></i></li>
-        </ul>
-      </div>
+    <section class="sortsearch hidden">
+      
+      <div class="sort hidden"> <!-- hidden until fully functional -->
+  <p>Sort by:</p>
+  <ul>
+    <li>Length <i class="fa fa-caret-down" aria-hidden="true"></i><i class="fa fa-caret-up" aria-hidden="true"></i></li>
+    <li>Author <i class="fa fa-caret-down" aria-hidden="true"></i><i class="fa fa-caret-up" aria-hidden="true"></i></li>
+    <li>Genre <i class="fa fa-caret-down" aria-hidden="true"></i><i class="fa fa-caret-up" aria-hidden="true"></i></li>
+  </ul>
+</div> <!-- end div.sort -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       <div class="search">
-        <!-- <p>Search by:</p> -->
+        <p>Search by:</p>
         <p>
 <!-- Powered by <a href="/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/">lunr.js</a>. -->
 
@@ -270,5 +291,8 @@
        e.style.display = 'none';
     }
 </script>
+
+<!-- ISOTYPE -->
+<script src+"/assets/js/jquery.isotop.js"></script>
 
 </body>

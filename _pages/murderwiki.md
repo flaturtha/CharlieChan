@@ -14,7 +14,7 @@ category: murderwiki
       <h2>{{ page.tagline }}</h2>
     </section> <!-- end div.pagetitle -->
     
-    <section class="sortsearch">
+    <section class="sortsearch hidden">
       <div class="sort">
         <p>Sort by:</p>
         <ul>
@@ -23,10 +23,8 @@ category: murderwiki
           <li>Category <i class="fa fa-caret-down" aria-hidden="true"></i><i class="fa fa-caret-up" aria-hidden="true"></i></li>
         </ul>
       </div>
-      <div class="search">
-        <!-- <p>Search by:</p> -->
-        <p>{% include search.html %}</p>
-      </div>
+      <p>Search by:</p>
+      <p>{% include search.html %}</p>
     </section> <!-- end div.searchsort -->
 
   </header>
