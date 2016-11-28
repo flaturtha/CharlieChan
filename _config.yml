@@ -14,14 +14,10 @@ readtime: true
 wpm: 200
 
 collections:
-  bookstore:
-    output: true
-    permalink: /bookstore/:path/
-    title: Bookstore
-  the-red-file:
-    output: true
-    permalink: /the-red-file/:path/
-    title: The Red File
+  # bookstore:
+  #   output: true
+  #   permalink: /bookstore/:path/
+  #   title: Bookstore
   murderwiki:
     output: true
     permalink: /murderwiki/:path/
@@ -30,6 +26,19 @@ collections:
     output: true
     permalink: /short-stories/:path/
     title: Short Stories
+  novellas:
+    output: true
+    permalink: /novellas/:path/
+    title: Novellas
+  novels:
+    output: true
+    permalink: /novels/:path/
+    title: Novels
+  the-red-file:
+    output: true
+    permalink: /the-red-file/:path/
+    title: The Red File
+
 
 
 # paginate: 12

@@ -17,6 +17,7 @@ category: short-stories
     <section class="pagetitle">
       <h1>{{ page.title }}</h1>
       <h2>{{ page.tagline }}</h2>
+      <h3 style="text-align: center;font-size: 1rem;">For a quick escape!</h3>
     </section> <!-- end div.pagetitle -->
     
     <section class="sortsearch hidden">
