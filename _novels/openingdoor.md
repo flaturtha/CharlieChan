@@ -16,3 +16,5 @@ A really fun story that'll keep you guessing until the final chapter. And you'll
 ***PRICE: {{ page.price }}
 
 <a href="https://transactions.sendowl.com/products/489078/8C78A439/purchase" rel="nofollow"><img style="width: 150px;" src="https://transactions.sendowl.com/assets/external/buy-now.png" /></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+
+<a href="https://transactions.sendowl.com/products/489078/8C78A439/add_to_cart" rel="nofollow"><img style="width: 150px;" src="https://transactions.sendowl.com/assets/external/add-to-cart.png" /></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
