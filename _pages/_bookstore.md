@@ -14,16 +14,8 @@ category: bookstore
       <h1>{{ page.title }}</h1>
       <h2>{{ page.tagline }}</h2>
     </section> <!-- end div.pagetitle -->
-    
-    <section class="sortsearch hidden">
-      
-      {% include sort.html %}
 
-      <div class="search">
-        <p>Search by:</p>
-        <p>{% include search.html %}</p>
-      </div>
-    </section> <!-- end div.searchsort -->
+    <!-- add search here -->
 
   </header>
 

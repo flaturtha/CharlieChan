@@ -58,6 +58,7 @@ ul {
 }
 
 .hp__mw {
+  height: 500px;
   header {
     // border-bottom: 1px solid purple;
     // border-top: 1px solid purple;
@@ -83,310 +84,324 @@ ul {
 
 .mw__teasers {
   display: flex;
-  flex-direction: column;
-  height: 100px;
-  width: 50px;
+  // flex-direction: column;
+  // border: 1px solid purple;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.header_home {
-  height: 33vh;
-  margin-bottom: 1rem;
-  // padding: 1rem;
-  // margin: 1rem;
-  // background-size: contain;
-  // background-repeat: no-repeat;
-  background-color: $bgcolor;
-  background-image: url('/assets/img/site/site_logo4a_f.png'), url('/assets/img/site/pulpicons2.svg');
-  background-size: contain, auto;
-  background-repeat: no-repeat, repeat-x;
-  background-position: center center, center center;
+.mw__teaser {
+  border: 1px dotted green;
+  // display: flex;
+  min-width: 300px;
+  margin: 1rem;
   a {
-    color: $paper;
-    text-align: center;
-    vertical-align: middle;
-  }
-  nav {
-    margin-top: -1rem;
-  }
-}
-
-.featuredss {
-  @include span(8);
-  color: $paper;
-  border: 2px solid $acolor;
-  background-color: $bgcolor;
-  margin-bottom: gutter() * 2;
-  // .blog-index {
-  //   background-color: $paper;
-  // }
-  h2 {
-    background-color: $acolor;
-    padding: 0.25rem;
-    text-align: right;
-    font-size: 1rem;
-    color: $paper;
+    font-weight: bold;
+    border: none;
   }
   img {
-    @include span(8);
-    width: 100%;
-    margin: 0;
-    background-color: $paper;
-    @include susy-breakpoint($bp-large){
-      @include span(7 of 12);
-      // width: 100%;
-      margin: 0;
-    }
-  }
-  &__caption {
-    @include span(8);
-    background-color: $bgcolor;
-    padding: gutter();
-    @include susy-breakpoint($bp-large){
-      @include span(5 of 12);
-      // width: 100%;
-      // margin: 0;
-    }
-  }
-  &__title {
-    text-transform: uppercase;
-    padding: 1rem 0;
-    a {
-      color: $paper;
-    }
-  }
-  &__author {
-    // text-align: center;
-  }
-  p {
-    font-style: italic;
-  }
-  a {
-    background-color: $acolor;
-    color: $paper;
-    font-style: normal;
-    padding: 0.25rem 0.5rem;
+    float: left;
+    width: 100px;
+    height: auto;
+    margin-right: 0.5rem;
   }
 }
 
 
-.hp__murderwiki {
-  background-color: $paper;
-  border: 2px solid $acolor;
-  padding-bottom: gutter();
-  h2 {
-    background-color: $paper;
-    padding: 0.25rem;
-    text-align: left;
-    font-size: 1rem;
-    color: $acolor;
-  }
-  @include span(8);
-  // @include susy-breakpoint($bp-med){
-  //   @include span(4 of 8);
-  // }
-  @include susy-breakpoint($bp-large){
-    // @include span(6 of 12);
-  }
-  .mw {
-    &__teasers {
-      background-color: $acolor;
-      img {
-        background-color: $paper;
-      }
-      @include span(4);
-    }
-    &__title {
-    text-transform: uppercase;
-    padding: gutter()*2;
-    text-align: left;
-    line-height: 1rem;
-      a {
-        color: $paper;
-        font-size: 1rem;
-      }
-    }
-    &__subtitle {
-      padding: 0 gutter()*2;
-      text-align: left;
-      color: $paper;
-      font-weight: normal;
-    }
-    &__author {
-      padding: 0 gutter()*3 gutter()*3 gutter()*3;
-      text-align: left;
-      text-transform: capitalize;
-      font-size: 0.875rem;
-      color: $paper;
-    }
-    &__readmore {
-      background-color: $paper;
-      color: $acolor;
-      // font-style: normal;
-      padding: 0.25rem 0.5rem;
-    }
-  }
-}
 
 
-.hp__trf {
-  background-color: $acolor;
-  padding-bottom: gutter();
-  h2 {
-    background-color: $acolor;
-    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
-    text-align: left;
-    font-size: 1rem;
-    color: $paper;
-  }
-  @include span(8);
-  margin-top: gutter();
-  img {
-    @include span(6);
-    @include push(1);
-  }
-  .trf {
-    &__title {
-      @include span(8);
-      text-align: center;
-      padding: 1rem;
-      a {
-        color: $paper;
-      }
-    }
-    &__readmore {
-      color: $acolor;
-      background-color: $paper;
-      padding: 0.25rem;
-    }
-  }
-  @include susy-breakpoint($bp-large){
-    @include span(6 of 12);
-    margin-top: 0;
-  }
-}
 
 
-// .bookstore {
-//   background-color: purple;
-//   opacity: 0.45;
-//   color: $paper;
-//   text-align: center;
 
-//   @include span(8 of 8);
-//   margin-bottom: gutter();
-//   padding-bottom: gutter();
-//   @include susy-breakpoint($bp-large){
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// .header_home {
+//   height: 33vh;
+//   margin-bottom: 1rem;
+//   // padding: 1rem;
+//   // margin: 1rem;
+//   // background-size: contain;
+//   // background-repeat: no-repeat;
+//   background-color: $bgcolor;
+//   background-image: url('/assets/img/site/site_logo4a_f.png'), url('/assets/img/site/pulpicons2.svg');
+//   background-size: contain, auto;
+//   background-repeat: no-repeat, repeat-x;
+//   background-position: center center, center center;
+//   a {
+//     color: $paper;
+//     text-align: center;
+//     vertical-align: middle;
+//   }
+//   nav {
+//     margin-top: -1rem;
 //   }
 // }
 
-.bookimg {
-  padding: gutter();
-  @include span(4 of 8);
-  @include susy-breakpoint($bp-large){
-    @include span(3 of 12);
-  }
-}
-
-.storyimg {
-  padding: gutter();
-  @include span(8);
-}
-
-// .genre {
-//   @include span(4 of 8 at 2);
+// .featuredss {
+//   @include span(8);
+//   color: $paper;
+//   border: 2px solid $acolor;
+//   background-color: $bgcolor;
+//   margin-bottom: gutter() * 2;
+//   // .blog-index {
+//   //   background-color: $paper;
+//   // }
+//   h2 {
+//     background-color: $acolor;
+//     padding: 0.25rem;
+//     text-align: right;
+//     font-size: 1rem;
+//     color: $paper;
+//   }
+//   img {
+//     @include span(8);
+//     width: 100%;
+//     margin: 0;
+//     background-color: $paper;
+//     @include susy-breakpoint($bp-large){
+//       @include span(7 of 12);
+//       // width: 100%;
+//       margin: 0;
+//     }
+//   }
+//   &__caption {
+//     @include span(8);
+//     background-color: $bgcolor;
+//     padding: gutter();
+//     @include susy-breakpoint($bp-large){
+//       @include span(5 of 12);
+//       // width: 100%;
+//       // margin: 0;
+//     }
+//   }
+//   &__title {
+//     text-transform: uppercase;
+//     padding: 1rem 0;
+//     a {
+//       color: $paper;
+//     }
+//   }
+//   &__author {
+//     // text-align: center;
+//   }
+//   p {
+//     font-style: italic;
+//   }
+//   a {
+//     background-color: $acolor;
+//     color: $paper;
+//     font-style: normal;
+//     padding: 0.25rem 0.5rem;
+//   }
 // }
 
 
+// .hp__murderwiki {
+//   background-color: $paper;
+//   border: 2px solid $acolor;
+//   padding-bottom: gutter();
+//   h2 {
+//     background-color: $paper;
+//     padding: 0.25rem;
+//     text-align: left;
+//     font-size: 1rem;
+//     color: $acolor;
+//   }
+//   @include span(8);
+//   // @include susy-breakpoint($bp-med){
+//   //   @include span(4 of 8);
+//   // }
+//   @include susy-breakpoint($bp-large){
+//     // @include span(6 of 12);
+//   }
+//   .mw {
+//     &__teasers {
+//       background-color: $acolor;
+//       img {
+//         background-color: $paper;
+//       }
+//       @include span(4);
+//     }
+//     &__title {
+//     text-transform: uppercase;
+//     padding: gutter()*2;
+//     text-align: left;
+//     line-height: 1rem;
+//       a {
+//         color: $paper;
+//         font-size: 1rem;
+//       }
+//     }
+//     &__subtitle {
+//       padding: 0 gutter()*2;
+//       text-align: left;
+//       color: $paper;
+//       font-weight: normal;
+//     }
+//     &__author {
+//       padding: 0 gutter()*3 gutter()*3 gutter()*3;
+//       text-align: left;
+//       text-transform: capitalize;
+//       font-size: 0.875rem;
+//       color: $paper;
+//     }
+//     &__readmore {
+//       background-color: $paper;
+//       color: $acolor;
+//       // font-style: normal;
+//       padding: 0.25rem 0.5rem;
+//     }
+//   }
+// }
 
-.hp__ssteasers {
-  @include span(8);
-  margin-top: 1rem;
-  h2 {
-    font-size: 1rem;
-  }
-  .ssteaser {
-    background-color: $acolor;
-    margin-bottom: 1rem;
-    @include susy-breakpoint($bp-large){
-      @include span(6 of 12);
-    }
-    &__img {
-      background-color: $paper;
-      @include span(2);
-      height: 100px;
-      margin: gutter();
-    }
-    &__title {
-      padding-top: gutter();
-      text-transform: uppercase;
-      @include span(5);
-      color: $paper;
-      font-size: 1rem;
-    }
-    &__author {
-      @include span(5);
-      color: $paper;
-      font-weight: normal;
-      font-size: 0.9375rem;
-    }
-    &__opub {
-      @include span(5);
-      color: $paper;
-      font-size: 0.875rem;
-      padding-bottom: 0;
-      margin-bottom: 0;
-    }
-    &__readmore {
-      background-color: $paper;
-      border-bottom: 1px solid $acolor;
-      padding: gutter();
-      @include span(2 last);
-      text-transform: uppercase;
-      // transform: rotate(90deg);
 
-    }
-  }
-}
+// .hp__trf {
+//   background-color: $acolor;
+//   padding-bottom: gutter();
+//   h2 {
+//     background-color: $acolor;
+//     padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+//     text-align: left;
+//     font-size: 1rem;
+//     color: $paper;
+//   }
+//   @include span(8);
+//   margin-top: gutter();
+//   img {
+//     @include span(6);
+//     @include push(1);
+//   }
+//   .trf {
+//     &__title {
+//       @include span(8);
+//       text-align: center;
+//       padding: 1rem;
+//       a {
+//         color: $paper;
+//       }
+//     }
+//     &__readmore {
+//       color: $acolor;
+//       background-color: $paper;
+//       padding: 0.25rem;
+//     }
+//   }
+//   @include susy-breakpoint($bp-large){
+//     @include span(6 of 12);
+//     margin-top: 0;
+//   }
+// }
+
+
+// // .bookstore {
+// //   background-color: purple;
+// //   opacity: 0.45;
+// //   color: $paper;
+// //   text-align: center;
+
+// //   @include span(8 of 8);
+// //   margin-bottom: gutter();
+// //   padding-bottom: gutter();
+// //   @include susy-breakpoint($bp-large){
+
+// //   }
+// // }
+
+// .bookimg {
+//   padding: gutter();
+//   @include span(4 of 8);
+//   @include susy-breakpoint($bp-large){
+//     @include span(3 of 12);
+//   }
+// }
+
+// .storyimg {
+//   padding: gutter();
+//   @include span(8);
+// }
+
+// // .genre {
+// //   @include span(4 of 8 at 2);
+// // }
+
+
+
+// .hp__ssteasers {
+//   @include span(8);
+//   margin-top: 1rem;
+//   h2 {
+//     font-size: 1rem;
+//   }
+//   .ssteaser {
+//     background-color: $acolor;
+//     margin-bottom: 1rem;
+//     @include susy-breakpoint($bp-large){
+//       @include span(6 of 12);
+//     }
+//     &__img {
+//       background-color: $paper;
+//       @include span(2);
+//       height: 100px;
+//       margin: gutter();
+//     }
+//     &__title {
+//       padding-top: gutter();
+//       text-transform: uppercase;
+//       @include span(5);
+//       color: $paper;
+//       font-size: 1rem;
+//     }
+//     &__author {
+//       @include span(5);
+//       color: $paper;
+//       font-weight: normal;
+//       font-size: 0.9375rem;
+//     }
+//     &__opub {
+//       @include span(5);
+//       color: $paper;
+//       font-size: 0.875rem;
+//       padding-bottom: 0;
+//       margin-bottom: 0;
+//     }
+//     &__readmore {
+//       background-color: $paper;
+//       border-bottom: 1px solid $acolor;
+//       padding: gutter();
+//       @include span(2 last);
+//       text-transform: uppercase;
+//       // transform: rotate(90deg);
+
+//     }
+//   }
+// }

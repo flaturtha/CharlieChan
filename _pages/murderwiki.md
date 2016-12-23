@@ -14,18 +14,7 @@ category: murderwiki
       <h2>{{ page.tagline }}</h2>
     </section> <!-- end div.pagetitle -->
     
-    <section class="sortsearch hidden">
-      <div class="sort">
-        <p>Sort by:</p>
-        <ul>
-          <li>Length <i class="fa fa-caret-down" aria-hidden="true"></i><i class="fa fa-caret-up" aria-hidden="true"></i></li>
-          <li>Author <i class="fa fa-caret-down" aria-hidden="true"></i><i class="fa fa-caret-up" aria-hidden="true"></i></li>
-          <li>Category <i class="fa fa-caret-down" aria-hidden="true"></i><i class="fa fa-caret-up" aria-hidden="true"></i></li>
-        </ul>
-      </div>
-      <p>Search by:</p>
-      <p>{% include search.html %}</p>
-    </section> <!-- end div.searchsort -->
+    <!-- include search.html %} -->
 
   </header>
 

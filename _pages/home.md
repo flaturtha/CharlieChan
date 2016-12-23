@@ -12,16 +12,7 @@ category: home
     <p>Just released!!</p>
   </section> <!-- end section latestrelease -->
 
-  <section class="hp__mw">
-    <header>
-      <h2>MURDERWIKI</h2>
-      <a href="/murderwiki">Browse Articles &raquo;</a>
-    </header>
-    <p>Learn about the murder mystery &amp; crime genre</p>
-    <div class="hp__murderwiki">
-      {% include mw_detail.html %}
-    </div>
-  </section>
+  {% include mw_detail.html %}
 
 
   <section>

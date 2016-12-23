@@ -20,20 +20,7 @@ category: short-stories
       <h3 style="text-align: center;font-size: 1rem;">For a quick escape!</h3>
     </section> <!-- end div.pagetitle -->
     
-    <section class="sortsearch hidden">
-      <div class="sort">
-        <p>Sort by:</p>
-        <ul>
-          <li>Length <i class="fa fa-caret-down" aria-hidden="true"></i><i class="fa fa-caret-up" aria-hidden="true"></i></li>
-          <li>Author <i class="fa fa-caret-down" aria-hidden="true"></i><i class="fa fa-caret-up" aria-hidden="true"></i></li>
-          <li>Genre <i class="fa fa-caret-down" aria-hidden="true"></i><i class="fa fa-caret-up" aria-hidden="true"></i></li>
-        </ul>
-      </div>
-      <div class="search">
-        <p>Search by:</p>
-        <p>{% include search.html %}</p>
-      </div>
-    </section> <!-- end div.searchsort -->
+    <!-- add search here -->
 
   </header>
 

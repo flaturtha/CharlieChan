@@ -13,16 +13,16 @@
 
     <li class="card" {% if novellas.genre %} id="{{ novellas.genre | downcase }}"{% endif %}>
 
-      <header class="card__header" style="background-image:url(' {{ novellas.image }}');">
+      <header class="card__header" style="background-image:url('{{ novellas.image }}');">
 
-      <p class="card__genre">{{ novellas.genre }}</p>
-
-      <h2 class="card__meta">{{ novellas.title }} <span>{{ novellas.author }}</span></h2>
+      <!-- <p class="card__price">${{ novellas.price }}</p> -->
 
       </header> <!-- end header.card__header -->
 
-      <p class="TOCexcerpt">{{ novellas.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ novellas.url }}" class="readmore">Read&nbsp;the&nbsp;story&nbsp;&rsaquo;&rsaquo;</a> </p>
-      <p class="meta">{{ novellas.wordcount | thousands_separated }} words | {% if site.readtime %}
+      <h2 class="card__meta">{{ novellas.title }} <span>by {{ novellas.author }}</span></h2>
+
+      <!-- <p class="TOCexcerpt">{{ novellas.excerpt | remove: '<p>' | remove: '</p>' }}<br><br><a href="{{ novellas.url }}" class="readmore">BUY</a></p> -->
+      <p class="meta">{{ novellas.wordcount | thousands_separated }} <small class="bold">words</small> &hellip; {% if site.readtime %}
         {% if readtime > 60 %}
         {% assign readtime_hours = readtime | divided_by: 60 %}
         {% assign readtime_minutes = readtime | modulo:60 %}
@@ -31,8 +31,9 @@
           {% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} <span class="time">{{ readtime_minutes }}</span> min{% endif %}
         {% else %}
           {% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
-        {% endif %}
+        {% endif %} <small class="bold">read time</small>
         </p>
+        <p class="card__meta"><a href="{{ novellas.url }}" class="readmore">${{ novellas.price }}</a></p>
     </li>
 
 {% endfor %}
