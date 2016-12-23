@@ -1461,6 +1461,82 @@ ul {
     margin: 0;
     padding: 0; }
 
+.home .main {
+  margin-top: 0; }
+
+.siteintro {
+  background-color: #8B0000;
+  background-image: url("/assets/img/site/pulpicons2.svg");
+  background-repeat: repeat;
+  background-size: 100%;
+  background-position: center center;
+  padding-bottom: 1rem;
+  -webkit-box-shadow: 0px 5px 10px #242424;
+          box-shadow: 0px 5px 10px #242424; }
+  .siteintro h1 {
+    text-align: center;
+    background-color: #fffff0;
+    color: #8B0000;
+    border: 3px solid #fffff0;
+    -webkit-border-radius: 15px;
+            border-radius: 15px; }
+  .siteintro p {
+    text-align: center;
+    color: #fffff0; }
+
+.siteintro_top {
+  margin-top: 76px;
+  padding-top: 30px; }
+
+.homepage section {
+  border-bottom: 5px solid #8B0000;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  margin: 2rem 1rem 1rem; }
+  .homepage section h2 {
+    color: #8B0000; }
+
+.hp__mw header {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between; }
+
+.hp__mw h2 {
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  padding-top: 0.25rem; }
+
+.hp__mw a {
+  font-size: 0.85rem;
+  border: 1px solid #8B0000;
+  padding: 0.25rem 0.5rem; }
+  .hp__mw a:hover {
+    color: #fffff0;
+    background-color: #8B0000; }
+
+.mw__teasers {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  height: 100px;
+  width: 50px; }
+
 .header_home {
   height: 33vh;
   margin-bottom: 1rem;
@@ -1546,12 +1622,6 @@ ul {
     text-align: left;
     font-size: 1rem;
     color: #8B0000; }
-  @media (min-width: 775px) {
-    .hp__murderwiki {
-      width: 48.33333%;
-      float: left;
-      margin-left: 0.83333%;
-      margin-right: 0.83333%; } }
   .hp__murderwiki .mw__teasers {
     background-color: #8B0000;
     width: 47.5%;
@@ -1875,7 +1945,8 @@ p {
 /* nav */
 .social-nav {
   display: none;
-  background-color: #242424; }
+  float: right;
+  padding: 1.5rem 1rem 0 0; }
   .social-nav ul {
     display: -webkit-box;
     display: -webkit-flex;
@@ -1887,6 +1958,9 @@ p {
     width: 100px; }
   .social-nav .fa {
     color: #fffff0; }
+  @media screen and (min-width: 48rem) {
+    .social-nav {
+      display: inline; } }
 
 /* BRANDING */
 @media screen and (min-width: 48rem) {

@@ -1,9 +1,9 @@
 ---
 layout: default2
-permalink: /masthead/
+permalink: /about/
 title: Masthead
 tagline: Who we are, What we do &amp; why
-category: masthead
+category: about
 ---
 
 <div class="{{ page.title }}">

@@ -65,9 +65,18 @@
 
   <header class="header" role="banner">
 
-  <!-- include welcomebar.html %} -->
-
   <nav class="nav" role="navigation">
+
+  <div class="social-nav">
+    <h2 class="hidden">Social Media Submenu</h2>
+    <ul>
+      <!-- <li class="submenu__search"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li> -->
+      <li class="submenu__facebook"><a href=""><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+      <li class="submenu__twitter"><a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+      <li class="submenu__rss"><a href=""><i class="fa fa-rss-square" aria-hidden="true"></i></a></li>
+      <li class="submenu__slack"><a href=""><i class="fa fa-slack" aria-hidden="true"></i></a></li>
+    </ul>
+  </div>
 
   <div class="main-nav">
     <a class="logo" title="Tales of Murder" href="https://www.talesofmurder.com"><h1><span>Tales of Murder</span></h1></a>
@@ -82,71 +91,44 @@
       <li><a  href="/short-stories/"><span>Short Stories</span></a></li>
       <li><a  href="/novellas/"><span>Novellas</span></a></li>
       <li><a  href="/novels/"><span>Novels</span></a></li>
-      <li><a  href="/the-red-file/"><span>The Red File</span></a></li>
-      <!-- <li id="searchbar"><a href="#">Search</a></li> -->
+      <!-- <li><a  href="/the-red-file/"><span>The Red File</span></a></li>
+      <li id="searchbar"><a href="#">Search</a></li> -->
     </ul>
   </div> <!-- end .main-nav -->
 
-  <div class="social-nav">
-    <h2 class="hidden">Social Media Options</h2>
-    <ul>
-      <li><a href=""><i class="fa fa-search"></i></a></li>
-      <li><a href=""><i class="fa fa-facebook-official"></i></a></li>
-      <li><a href=""><i class="fa fa-twitter-square"></i></a></li>
-      <li><a href=""><i class="fa fa-rss-square"></i></a></li>
-    </ul>
-  </div>
+
 
 </nav> <!-- end nav.nav -->
-  <!-- NOTE: TEMP DISABLED OPTIN2 & OPTIN-MODAL FOR OTHER DEV -->
-  <!--  include optin2.html %}
-   include optin-modal.html %} -->
+  <!-- nav2 floats above since its stick so everything below it in the html starts at the top of the screen! -->
 
-  <div class="branding">
-  <h1 class="title hidden">Tales&nbsp;<span class="rotated-text">of</span>&nbsp;Murder</h1>
-
-  <!-- include optin2.html %} -->
+  <div class="siteintro">
+	<div class="siteintro_top">
+		<img src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
+	</div>
+	<div class="siteintro_bottom wrap">
+			<h1>Find something to read! <i class="fa fa-search"></i></h1> <!-- change this to a big-honkin' search bar -->
+			<p>DRM-free ebooks &mdash; short stories &middot; novellas &middot; novels<br>Buy any title and get <span class="underline">both</span> ePub &amp; Kindle <span class="small">(.mobi/.kf8)</span> formats &hellip; no extra charge!</p>
+	</div>
 
 </div>
-
-
-  <!-- include dateline.html -->
-
 
 </header>
 
-
-  <main class="main wrap">
-		
-		
-
+  <main class="main">
     <div class="Home homepage">
 
-  <div class="featuredss">
-    <h2>FEATURED SHORT STORY</h2>
-    <div class="blog-index">
-      
-      
-      
-<img src="/assets/img/short-stories/boomerang-bomb.svg" alt="The Case of the Boomerang Bomb" />
-<!-- <div class="cf"></div> -->
-<div class="featuredss__caption">
-  <h3 class="featuredss__title"><a href="/">The Case of the Boomerang Bomb</a></h3>
+  <section class="latestrelease">
+    <h2>LATEST RELEASE</h2>
+    <p>Just released!!</p>
+  </section> <!-- end section latestrelease -->
 
-    
-
-    <h4 class="featuredss__author"><span>A Dixon Hawke Mystery</span></h4>
-    <p>Before he met his frightful but not entirely unfitting death, Maurice Pollitt had had some life infused into him.</p>
-    <p><a href="/short-stories/boomerang-bomb/" class="readmore">Read&nbsp;the&nbsp;Story&nbsp;&rsaquo;&rsaquo;</a></p>
-</div>
-    </div>
-  </div> <!-- end div featuredss -->
-
-  <div class="cf"></div>
-
-  <div>
+  <section class="hp__mw">
+    <header>
+      <h2>MURDERWIKI</h2>
+      <a href="/murderwiki">Browse Articles &raquo;</a>
+    </header>
+    <p>Learn about the murder mystery &amp; crime genre</p>
     <div class="hp__murderwiki">
-      <h2>MURDERWIKI ARTICLES</h2>
       
 <div class="mw__teasers">
 
@@ -180,111 +162,90 @@
 
 </div> <!-- end div.mw__teasers -->
 
-    </div> <!-- end div murderwiki -->
+<div class="mw__teasers">
 
-    <!-- <div class="cf"></div> -->
+  <img src="/assets/img/murderwiki/Whistle_and_I%27ll_come_to_you_illustration.jpg" alt="Ghost Stories" />
+  <div class="mw__caption">
+    <h3 class="mw__title"><a href="/">Ghost Stories</a></h3>
 
-    <div class="hp__trf">
-      <h2>THE RED FILE &mdash; <span>Current Issue</span></h2>
-      
+    
 
-  <img src="/assets/img/trf/v1n3_cover.jpg" alt="Vol. 1 No. 3" />
-  <h3 class="trf__title"><a href="/">Vol. 1 No. 3 | 27 Sep 2015</a></h3>
-  <p><a href="/the-red-file/vol1no3/" class="trf__readmore">Subscribe &amp; Download&nbsp;the&nbsp;Issue&nbsp;&rsaquo;&rsaquo;</a></p>
-  <!-- <p class="trf__toc"></p> -->
+    <h4 class="mw__author">by <span>Carolyn Wells</span></h4>
+    <p><span class="hidden">Chapter 4 of <i>The Techniques of the Mystery</i>, published 1913.</span></p>
+    <p><a href="/murderwiki/ghost-stories/" class="mw__readmore">Read&nbsp;the&nbsp;Article&nbsp;&rsaquo;&rsaquo;</a></p>
 
+  </div> <!-- end div.mw__caption -->
 
+</div> <!-- end div.mw__teasers -->
+
+<div class="mw__teasers">
+
+  <img src="/assets/img/murderwiki/In_Black_and_White_cover_by_Rudyard_Kipling_1888.jpg" alt="History of the Mystery &amp; Riddle Stories" />
+  <div class="mw__caption">
+    <h3 class="mw__title"><a href="/">History of the Mystery &amp; Riddle Stories</a></h3>
+
+    
+
+    <h4 class="mw__author">by <span>Carolyn Wells</span></h4>
+    <p><span class="hidden">Chapters 3 &amp; 5 of <i>The Techniques of the Mystery</i>, published 1913.</span></p>
+    <p><a href="/murderwiki/history-and-riddle-stories/" class="mw__readmore">Read&nbsp;the&nbsp;Article&nbsp;&rsaquo;&rsaquo;</a></p>
+
+  </div> <!-- end div.mw__caption -->
+
+</div> <!-- end div.mw__teasers -->
+
+<div class="mw__teasers">
+
+  <img src="/assets/img/murderwiki/Wolfe-Fer-de-Lance-2.jpg" alt="Taxonomy of the Mystery" />
+  <div class="mw__caption">
+    <h3 class="mw__title"><a href="/">Taxonomy of the Mystery</a></h3>
+
+    <h5 class="mw__subtitle">36 Semi-Scientific Schema of Classification of the Types, Styles &amp; Subgenres of Mystery Fiction</h5>
+
+    <h4 class="mw__author">by <span>R. Cook</span></h4>
+    <p><span class="hidden">Amateur or professional sleuth, cozy, Golden Age, noir, hardboiled ... these are more than just terms booksellers use to figure out where to house a particular title. The taxonomy, or scheme of classification, of mystery stories is a vital part of knowing just what to expect in terms of conventions, styles, level of sex or violence and even the possible outcome of the story.</span></p>
+    <p><a href="/murderwiki/taxonomy-of-the-mystery/" class="mw__readmore">Read&nbsp;the&nbsp;Article&nbsp;&rsaquo;&rsaquo;</a></p>
+
+  </div> <!-- end div.mw__caption -->
+
+</div> <!-- end div.mw__teasers -->
+
+<div class="mw__teasers">
+
+  <img src="/assets/img/murderwiki/Friston-holmes.png" alt="The Detective" />
+  <div class="mw__caption">
+    <h3 class="mw__title"><a href="/">The Detective</a></h3>
+
+    <h5 class="mw__subtitle">The fictive detective and his methods</h5>
+
+    <h4 class="mw__author">by <span>Carolyn Wells</span></h4>
+    <p><span class="hidden">An examination of the fictive detective, including methods used by various types of criminal investigators.</span></p>
+    <p><a href="/murderwiki/the-detective/" class="mw__readmore">Read&nbsp;the&nbsp;Article&nbsp;&rsaquo;&rsaquo;</a></p>
+
+  </div> <!-- end div.mw__caption -->
+
+</div> <!-- end div.mw__teasers -->
 
     </div>
-  </div>
-
-<!--   <div class="bookstore">
-    <h2>BOOKSTORE</h2>
-      <ul>
-        <li><img class="bookimg" src="https://placehold.it/80x100?text=1" alt=""></li>
-        <li><img class="bookimg" src="https://placehold.it/80x100?text=2" alt=""></li>
-        <li><img class="bookimg" src="https://placehold.it/80x100?text=3" alt=""></li>
-        <li><img class="bookimg" src="https://placehold.it/80x100?text=4" alt=""></li>
-      </ul>
-  </div> -->
-
- <div class="hp__ssteasers">
-  <h2>SHORT STORIES &hellip;</h2>
-   
-<div class="ssteaser">
-
-  <!-- <img src="/assets/img/short-stories/candidate-for-death_right.svg" alt="Candidate for Death"> -->
-  <div class="ssteaser__img" style="background-image: url('/assets/img/short-stories/candidate-for-death_right.svg');background-repeat:no-repeat;background-size:cover;"></div>
-  <h3 class="ssteaser__title">Candidate for Death</h3>
-  <h4 class="ssteaser__author">by <span>Theodore A. Tinsley</span></h4>
-  <h4 class="ssteaser__opub">All Detective Magazine <br /> March 1933</h4>
-  <p><a href="/short-stories/candidate-for-death/" class="ssteaser__readmore">Read&nbsp;&rsaquo;&rsaquo;</a></p>
-  <div class="cf"></div>
-
-</div> <!-- end div.ss_teaser -->
-
-<div class="ssteaser">
-
-  <!-- <img src="/assets/img/short-stories/close-to-my-heart.svg" alt="Close To My Heart"> -->
-  <div class="ssteaser__img" style="background-image: url('/assets/img/short-stories/close-to-my-heart.svg');background-repeat:no-repeat;background-size:cover;"></div>
-  <h3 class="ssteaser__title">Close To My Heart</h3>
-  <h4 class="ssteaser__author">by <span>Chester S. Geier</span></h4>
-  <h4 class="ssteaser__opub">Mammoth Mystery <br /> Jan. 1946</h4>
-  <p><a href="/short-stories/close-to-my-heart/" class="ssteaser__readmore">Read&nbsp;&rsaquo;&rsaquo;</a></p>
-  <div class="cf"></div>
-
-</div> <!-- end div.ss_teaser -->
-
-<div class="ssteaser">
-
-  <!-- <img src="/assets/img/short-stories/con-is-green.svg" alt="The Con Is Green"> -->
-  <div class="ssteaser__img" style="background-image: url('/assets/img/short-stories/con-is-green.svg');background-repeat:no-repeat;background-size:cover;"></div>
-  <h3 class="ssteaser__title">The Con Is Green</h3>
-  <h4 class="ssteaser__author">by <span>Joe Archibald</span></h4>
-  <h4 class="ssteaser__opub">Ten Detective Aces <br /> November 1945</h4>
-  <p><a href="/short-stories/con-is-green/" class="ssteaser__readmore">Read&nbsp;&rsaquo;&rsaquo;</a></p>
-  <div class="cf"></div>
-
-</div> <!-- end div.ss_teaser -->
-
-<div class="ssteaser">
-
-  <!-- <img src="/assets/img/short-stories/daughter-of-the-pigeon.svg" alt="Daughter of the Pigeon"> -->
-  <div class="ssteaser__img" style="background-image: url('/assets/img/short-stories/daughter-of-the-pigeon.svg');background-repeat:no-repeat;background-size:cover;"></div>
-  <h3 class="ssteaser__title">Daughter of the Pigeon</h3>
-  <h4 class="ssteaser__author">by <span>Harry C. Hervey, Jr.</span></h4>
-  <h4 class="ssteaser__opub">The Black Mask <br /> Sept. 1920</h4>
-  <p><a href="/short-stories/daughter-of-the-pigeon/" class="ssteaser__readmore">Read&nbsp;&rsaquo;&rsaquo;</a></p>
-  <div class="cf"></div>
-
-</div> <!-- end div.ss_teaser -->
-
-<div class="ssteaser">
-
-  <!-- <img src="/assets/img/short-stories/dog-biter.svg" alt="The Case of the Dog-Biter"> -->
-  <div class="ssteaser__img" style="background-image: url('/assets/img/short-stories/dog-biter.svg');background-repeat:no-repeat;background-size:cover;"></div>
-  <h3 class="ssteaser__title">The Case of the Dog-Biter</h3>
-  <h4 class="ssteaser__author"><span>A Dixon Hawke Mystery</span></h4>
-  <h4 class="ssteaser__opub">Dixon Hawke's Casebook <br /> Spring 1940</h4>
-  <p><a href="/short-stories/dog-biter/" class="ssteaser__readmore">Read&nbsp;&rsaquo;&rsaquo;</a></p>
-  <div class="cf"></div>
-
-</div> <!-- end div.ss_teaser -->
-
-<div class="ssteaser">
-
-  <!-- <img src="/assets/img/short-stories/appearances.svg" alt="Appearances Are Deceiving"> -->
-  <div class="ssteaser__img" style="background-image: url('/assets/img/short-stories/appearances.svg');background-repeat:no-repeat;background-size:cover;"></div>
-  <h3 class="ssteaser__title">Appearances Are Deceiving</h3>
-  <h4 class="ssteaser__author">by <span>George B. Jenkins, Jr.</span></h4>
-  <h4 class="ssteaser__opub">The Black Mask <br /> Apr. 1922</h4>
-  <p><a href="/short-stories/appearances-are-deceiving/" class="ssteaser__readmore">Read&nbsp;&rsaquo;&rsaquo;</a></p>
-  <div class="cf"></div>
-
-</div> <!-- end div.ss_teaser -->
+  </section>
 
 
-  </div>
+  <section>
+    <h2>SHORT STORIES</h2>
+    <p>stories that take less than an hour to read</p>
+  </section>
+
+
+  <section>
+    <h2>NOVELLAS</h2>
+    <p>stories that take an hour or so to read</p>
+  </section>
+
+
+  <section>
+    <h2>NOVELS</h2>
+    <p>stories that take several hours to read</p>
+  </section>
 
 </div>
 <p><!-- end div homepage --></p>
@@ -297,7 +258,6 @@
     <small><span class="rwd-line">Copyright 2014 &mdash; 2016 Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC. </span>All Rights Reserved.</small>
   </div>
 </footer>
-
   
 <!-- <script src="/assets/js/vendor/modernizr.custom.34164.js"></script> -->
 

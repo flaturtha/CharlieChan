@@ -141,7 +141,9 @@ $bgcolor2: darken($bgcolor, 5%);
 
 .social-nav {
   display: none;
-  background-color: $bgcolor;
+  // background-color: $bgcolor;
+  float: right;
+  padding: 1.5rem 1rem 0 0;
   ul {
   display: flex;
   justify-content: space-around;
@@ -149,6 +151,16 @@ $bgcolor2: darken($bgcolor, 5%);
   }
   .fa {
     color: $paper;
+  }
+  // .submenu__facebook {
+  //   &:hover {
+  //     &:before {
+  //       content:"Facebook";
+  //     }
+  //   }
+  // }
+  @media screen and (min-width: 48rem) {
+    display: inline;
   }
 }
 

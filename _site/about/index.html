@@ -61,13 +61,24 @@
 
 
 
-<body  id="Masthead"  class="masthead">
+<body  id="Masthead"  class="about">
 
   <header class="header" role="banner">
 
   <!-- include welcomebar.html %} -->
 
   <nav class="nav" role="navigation">
+
+  <div class="social-nav">
+    <h2 class="hidden">Social Media Submenu</h2>
+    <ul>
+      <!-- <li class="submenu__search"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li> -->
+      <li class="submenu__facebook"><a href=""><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+      <li class="submenu__twitter"><a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+      <li class="submenu__rss"><a href=""><i class="fa fa-rss-square" aria-hidden="true"></i></a></li>
+      <li class="submenu__slack"><a href=""><i class="fa fa-slack" aria-hidden="true"></i></a></li>
+    </ul>
+  </div>
 
   <div class="main-nav">
     <a class="logo" title="Tales of Murder" href="https://www.talesofmurder.com"><h1><span>Tales of Murder</span></h1></a>
@@ -77,25 +88,17 @@
     <label for="nav">Menu</label>
     <ul>
       <li><a  href="/"><span>Home</span></a></li>
-      <li><a  href="/about"/><span>About</span></a></li>
+      <li><a  class="active"  href="/about"/><span>About</span></a></li>
       <li><a  href="/murderwiki/"><span>MurderWiki</span></a></li>
       <li><a  href="/short-stories/"><span>Short Stories</span></a></li>
       <li><a  href="/novellas/"><span>Novellas</span></a></li>
       <li><a  href="/novels/"><span>Novels</span></a></li>
-      <li><a  href="/the-red-file/"><span>The Red File</span></a></li>
-      <!-- <li id="searchbar"><a href="#">Search</a></li> -->
+      <!-- <li><a  href="/the-red-file/"><span>The Red File</span></a></li>
+      <li id="searchbar"><a href="#">Search</a></li> -->
     </ul>
   </div> <!-- end .main-nav -->
 
-  <div class="social-nav">
-    <h2 class="hidden">Social Media Options</h2>
-    <ul>
-      <li><a href=""><i class="fa fa-search"></i></a></li>
-      <li><a href=""><i class="fa fa-facebook-official"></i></a></li>
-      <li><a href=""><i class="fa fa-twitter-square"></i></a></li>
-      <li><a href=""><i class="fa fa-rss-square"></i></a></li>
-    </ul>
-  </div>
+
 
 </nav> <!-- end nav.nav -->
   <!-- NOTE: TEMP DISABLED OPTIN2 & OPTIN-MODAL FOR OTHER DEV -->
@@ -115,7 +118,6 @@
 
 </header>
 
-
   <main class="main wrap">
 		
 			<section class="breadcrumbs">
@@ -127,7 +129,7 @@
     
     <li class="active">
       
-        Masthead
+        About
       
     </li>
     

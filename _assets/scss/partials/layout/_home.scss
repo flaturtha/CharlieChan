@@ -12,12 +12,123 @@ ul {
   }
 }
 
-
-
-.homepage {
-  // background-color: hotpink;
-  // height: 800px;
+.home .main {
+    margin-top: 0;
 }
+
+.siteintro {
+  background-color: $acolor;
+  background-image: url('/assets/img/site/pulpicons2.svg');
+  background-repeat: repeat;
+  background-size: 100%;
+  background-position: center center;
+  padding-bottom: 1rem;
+  box-shadow: 0px 5px 10px $bgcolor;
+  // min-height: 75vh;
+  h1 {
+    text-align: center;
+    background-color: $paper;
+    color: $acolor;
+    border: 3px solid $paper;
+    border-radius: 15px;
+  }
+  p {
+    text-align: center;
+    color: $paper;
+  }
+
+  @media screen and (min-width: 48rem){
+    // min-height: 50vh;
+  }
+}
+
+.siteintro_top {
+  margin-top: 76px;
+  padding-top: 30px;
+}
+
+.homepage section {
+  border-bottom: 5px solid $acolor;
+  border-radius: 5px;
+  margin: 2rem 1rem 1rem;
+  // min-height: 200px;
+  h2 {
+    color: $acolor;
+  }
+}
+
+.hp__mw {
+  header {
+    // border-bottom: 1px solid purple;
+    // border-top: 1px solid purple;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  h2 {
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    padding-top: 0.25rem;
+  }
+  a {
+    font-size: 0.85rem;
+    border: 1px solid $acolor;
+    padding: 0.25rem 0.5rem;
+    &:hover {
+      color: $paper;
+      background-color: $acolor;
+    }
+  }
+}
+
+.mw__teasers {
+  display: flex;
+  flex-direction: column;
+  height: 100px;
+  width: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .header_home {
   height: 33vh;
@@ -39,10 +150,6 @@ ul {
   nav {
     margin-top: -1rem;
   }
-}
-
-
-.biglogo {
 }
 
 .featuredss {
@@ -120,7 +227,7 @@ ul {
   //   @include span(4 of 8);
   // }
   @include susy-breakpoint($bp-large){
-    @include span(6 of 12);
+    // @include span(6 of 12);
   }
   .mw {
     &__teasers {
