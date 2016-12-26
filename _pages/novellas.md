@@ -24,7 +24,7 @@ category: novellas
 
   <section class="card__container">
 
-    {% include card-novellas.html %}
+    {% include card-novellas2.html %}
 
   </section> <!-- end section .container .card__container -->
 

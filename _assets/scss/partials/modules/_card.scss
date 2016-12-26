@@ -2,54 +2,71 @@
    CARD MODULE
    ========================================================================== */
 
-$border-radius: 3px;
+
+$border-radius: 5px;
+$ribbon-background: yellow;
+$ribbon-size: 85px;
 
 .cards {
-  // border: 2px solid green;
-  @include cf;
-  line-height: 0;
-  list-style: none;
-  // font-size: 0;
-  p {
-    line-height: 1.5rem;
-    padding: 5px 10px;
-  }
+	// border: 3px solid green;
+	list-style: none;
+	font-size: 0;
+	// margin: 0 auto;
+	padding-left: 10px;
+	p {
+		line-height: 1.5rem;
+		padding: 5px 10px;
+	}
+	// a {
+	// 	color: $pcolor;
+	// }
+	// @media screen and (min-width: 480px) {
+	// 	// margin-left: -2.5%;
+	// }
+	// @media screen and (min-width: 960px) {
+	// 	padding-left: 17px;
+	// }
 }
 
 .card {
-  border: 1px double $bordercolor;
-  border-radius: $border-radius;
-  background-color: $paper;
-  opacity: 0.8;
-  // box-shadow: -4px 3px 4px $bordercolor;
-  margin-bottom: gutter() * 5;
-  .readmore {
-    border: 1px solid $acolor;
-    border-radius: 5px;
-    padding: 0.25rem;
-    margin: 1rem 0.25rem;
-  }
-  &:hover {
-    // border: 1px solid $acolor;
-    opacity: 1;
-    // box-shadow: -4px 8px 8px transparentize($acolor, .8);
-    .card__meta, .card__genre {
-      // color: #fff;
-      font-weight: bold;
-      // background: $acolor;
-    }
-    .meta {
-      // background-color: $acolor;
-      // color: #fff;
-      font-weight: bold;
-    }
-    .readmore {
-      font-weight: bold;
-      background-color: $acolor;
-      color: $paper;
-    }
-  }
-  @include susy-breakpoint($bp-med){
+	// position: relative;
+	// display: inline-block;
+	width: 320px;
+	// max-width: 100%;
+	// padding: 10px; /* adds white border around image */
+	margin-bottom: 20px; /* seperates cards vertically */
+	background-color: #fff;
+	border: 1px solid #ddd;
+	border-radius: $border-radius;
+	font-size: 16px;
+	font-size: 1rem;
+	vertical-align: top;
+	box-shadow: -4px 8px 8px silver;
+	@media screen and (min-width: 600px) {
+		width: 47.5%;
+		margin: 0 0 2.5% 0;
+	}
+	@media screen and (min-width: 960px) {
+		width: 30.83%;
+	}
+	&:hover {
+		border: 1px solid $acolor;
+		box-shadow: -4px 8px 8px transparentize($acolor, .8);
+		.card__meta, .card__genre {
+			color: #fff;
+			font-weight: bold;
+			background: $acolor;
+		}
+		.meta {
+			background-color: $acolor;
+			color: #fff;
+			font-weight: bold;
+		}
+		.readmore {
+			font-weight: bold;
+		}
+	}
+	@include susy-breakpoint($bp-med){
     @include gallery(4 of 8);
     margin-bottom: gutter();
   }
@@ -60,102 +77,60 @@ $border-radius: 3px;
 }
 
 .card__header {
-  width:auto;
-  height: 475px;
+	width:100%;
+  height: 385px;
   padding:0;
   margin:0;
-  background-position:top;
+  background-position:center;
   background-repeat:no-repeat;
   position:relative;
   overflow:hidden;
-  background-size: contain;
+  background-size: cover;
   border-radius-top: $border-radius *2;
   // border-radius-top: $border-radius;
 }
 
 h2.card__meta  {
+	position:absolute;
+  bottom:0;
   width:100%;
-  color:$bgcolor;
-  // background-color: $bgcolor;
-  // background:rgba(0,0,0,0.65);
+  color:white;
+  background:rgba(0,0,0,0.65);
   margin:0;
   padding:6px;
   border:none;
   font-size: 1.15rem;
-  text-transform: uppercase;
-  text-align: center;
-  span {
-    display: block;
-    font-size: 1rem;
-    text-transform: capitalize;
-  }
+	text-transform: uppercase;
+	text-align: center;
+	span {
+		display: block;
+		font-size: 1rem;
+		text-transform: capitalize;
+	}
 }
 
 .card__title {
-  margin: 0 0 5px;
-  text-transform: uppercase;
-  font-size: 19.654px;
+	margin: 0 0 5px;
+	text-transform: uppercase;
+	font-size: 19.654px;
 }
 
 .card__author {
-  // font-size: 2rem;
-  color: darken(#fff, 5%);
+	// font-size: 2rem;
+	color: darken(#fff, 5%);
 }
 
 .card__genre {
-  background-color: $bgcolor;
-  // background:rgba(0,0,0,0.65);
-  color:white;
-  text-align:center;
-  font-size:0.95rem;
-  font-weight:800;
-  letter-spacing: 0.15rem;
+	background:rgba(0,0,0,0.65);
+	color:white;
+	text-align:center;
+	font-size:0.95rem;
+	font-weight:800;
+	letter-spacing: 0.15rem;
 }
-
-.card__price {
-  position: absolute;
-  top: 10px;
-  right: 0;
-  // height: 75px;
-  width: 75px;
-  transform: rotate(45deg);
-  // border-radius: 50%;
-  background-color: yellow;
-  color:$acolor;
-  text-align:center;
-  font-size:0.95rem;
-  font-weight:800;
-  letter-spacing: 0.15rem;
-}
-
-.TOCexcerpt {
-  background-color: $paper;
-  font-size: 0.875rem;
-  line-height: 125% !important;
-}
-
-.meta {
-  // border-bottom: 2px solid $bgcolor;
-  background-color: $paper;
-  // background: saturate($bgcolor, 5%);
-  color: $pcolor;
-  text-align: center;
-  margin: 0 auto;
-  border-radius-bottom-left: $border-radius;
-}
-
-a.readmore {
-  color: $acolor;
-  text-transform: uppercase;
-  font-weight: bold;
-  font-size: 1.125rem;
-}
-
 
 .card__ribbonwrapper {
-    // @include size(85px);
-    height: nth(85px, 1);
-    width: 85px;
+    // @include size($ribbon-size);
     overflow: hidden;
     position: absolute;
     right: -1px;
@@ -163,8 +138,8 @@ a.readmore {
     z-index: 999;
 
     .card__ribbon {
-      transform: rotate(45deg);
-      background-color: yellow;
+      // @include transform(rotate(45deg));
+      background-color: $ribbon-background;
       box-shadow: 3px 3px 4px rgba(0,0,0,0.6);
       font-family: $header-font-family;
       color: $acolor;
@@ -179,3 +154,42 @@ a.readmore {
       width: 120px;
     }
   }
+
+.meta {
+	background: #eee;
+	color: $pcolor;
+	text-align: center;
+	margin: 0 auto;
+	border-radius-bottom-left: $border-radius;
+}
+
+a.readmore {
+	color: $acolor;
+	text-transform: uppercase;
+	font-size: 0.75rem;
+}
+
+
+
+.card__container {
+	// background-color: lightblue;
+}
+
+.iso-filter {
+	margin-bottom: 2rem;
+	ul li {
+		// background-color: green;
+		display: inline;
+		a {
+			color: white;
+			font-size: 0.9rem;
+			padding-right: 1rem;
+		}
+	}
+}
+
+
+
+
+
+

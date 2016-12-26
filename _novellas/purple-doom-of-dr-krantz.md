@@ -5,6 +5,7 @@ title: "The Purple Doom of Dr. Krantz"
 author: George Dilnot
 price: 2.99
 category: novellas
+descriptive: "A Dixon Hawke Mystery"
 image: /assets/img/novellas/purple-doom-of-dr-krantz.jpg
 wordcount: 28377
 ---

@@ -5,6 +5,7 @@ title: "Black Shadows"
 author: J. C. Kofoed
 price: 1.25
 category: novella
+descriptive: "Murder: for Money or Revenge"
 image: /assets/img/novellas/black-shadows.jpg
 wordcount: 13482
 ---

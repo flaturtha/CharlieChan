@@ -1,0 +1,21 @@
+<ul class="cards__small">
+{% for novellas in site.novellas %}
+
+  <li class="card__small" {% if novellas.genre %} id="{{ novellas.genre | downcase }}"{% endif %}>
+    
+    <a href="{{ novellas.url }}" class="readmore">
+    <img src="{{ novellas.image }}" alt="{{ novellas.title }} by {{ novellas.author }}"></a>
+    <h2 class="title">{{ novellas.title }}</h2>
+    <h3 class="author"><span>by</span> {{ novellas.author }}</h3>
+    <p class="descriptive">{{ novellas.descriptive }}</p>
+    <div class="price">
+      <p>${{ novellas.price }}</p>
+    </div>
+    <button class="buybutton"><a href="{{ novellas.url }}" style="color:#fffff0;">BUY</a></button>
+    <!-- <p class="buybutton">Buy</p> -->
+
+  </li>
+
+{% endfor %}
+
+</ul>
