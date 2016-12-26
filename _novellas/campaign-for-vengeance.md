@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: books
 casefileNumber: 55ccf75fb3901011515aef53
 title: "The Campaign for Vengeance"
 author: John Baer

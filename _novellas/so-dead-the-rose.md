@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: books
 casefileNumber: 55ccf75fb3901011515aef0a
 title: "So Dead the Rose"
 author: Sim Albert

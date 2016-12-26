@@ -265,12 +265,12 @@
 .metadata {
   // background-color: $acolor;
   // color: $paper;
-  padding: 0.5rem;
-  text-align: left;
-  @include span(4 wide);
-  @include susy-breakpoint($bp-med){
-    @include span (2);
-  }
+  // padding: 0.5rem;
+  // text-align: left;
+  // @include span(4 wide);
+  // @include susy-breakpoint($bp-med){
+  //   @include span (2);
+  // }
 }
 
 .wordcount, .etr {

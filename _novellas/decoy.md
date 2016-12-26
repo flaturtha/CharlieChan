@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: books
 casefileNumber: 55ccf75fb3901011515af012
 title: "The Decoy"
 author: Robert Murray

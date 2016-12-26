@@ -1,0 +1,127 @@
+---
+layout: default2
+---
+
+<article class="books">
+
+  <header class="books__header">
+    <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="book__img">
+
+    <!-- README IF STATEMENT -->
+    {% if site.readtime %}
+      {% if site.wpm %}
+        {% assign readtime = page.wordcount | divided_by:site.wpm %}
+      {% else %}
+        {% assign readtime = page.wordcount | divided_by:180 %}
+      {% endif %}
+    {% endif %}
+
+    <div class="book_details">
+      <h1 class="books__title">{{ page.title }}</h1>
+    {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
+
+    <h2 class="books__author">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</span></h2>
+    
+    <p class="metadata">
+      <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span>
+      <span class="etr">read time:
+        {% if site.readtime %}
+        {% if readtime > 60 %}
+        {% assign readtime_hours = readtime | divided_by: 60 %}
+        {% assign readtime_minutes = readtime | modulo:60 %}
+          {% if readtime_hours > 1 and readtime_hours < 2 %}1 hour
+          {% else %}<span class="hour">{{ readtime_hours }}</span> hr
+          {% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} and <span class="time">{{ readtime_minutes }}</span> min{% endif %}
+        {% else %}
+          {% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
+        {% endif %}
+        </span>
+    </p>
+    <p><span class="bold">Short Excerpt: </span>{{ page.excerpt }}</p>
+    </div>
+
+  </header> <!-- end header.books__header -->
+
+  <!--<aside class="excerpt">
+  </aside>  end aside.excerpt -->
+
+  <!-- <div class="cf"></div> -->
+
+  <div class="buyme">
+    <div class="buyme__details">
+      <i class="fa fa-book fa-2x"></i>
+      <p>${{ page.price }}</p>
+      <p>Kindle &amp; ePub Editions included:</p>
+    </div>
+    <a href="https://transactions.sendowl.com/packages/32887/32488429/add_to_cart" rel="nofollow"><img style="width: 150px;" src="https://transactions.sendowl.com/assets/external/add-to-cart.png" /></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+  </div>
+
+  <article class="books">
+    {{ content }}
+  </article>
+
+  <div class="meta" style="margin: 1rem;">
+    <ul>
+      <li>MBIN No: {{ page.casefilenumber }}</li>
+      <li>Length: {{ page.wordcount }}</li>
+      <li>Original Publication: </li>
+      <li>Republication Date: </li>
+    </ul>
+  </div>
+
+  <div class="download-sample" style="margin-top:1rem;">
+    <h4>Download a sample:</h4>
+    <div>
+      <p style="color:#fffff0;"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque sunt nostrum deleniti sit optio repellendus itaque odio maxime porro saepe iste, vero accusantium consequuntur natus dignissimos placeat, suscipit a aliquam.</span><span>Explicabo, iusto quaerat, amet voluptates adipisci expedita accusamus debitis molestias quas mollitia, architecto labore tenetur nihil ipsum at error temporibus minima eius cum dolorum dolore esse? Eveniet cumque error quidem?</span></p>
+    </div>
+  </div>
+
+  <footer>
+    <h4>You May Also Enjoy</h4>
+    <!-- {% if page.url contains 'short-stories' %} -->
+      <div class="relatedPosts">
+
+          {% assign maxRelated = 4 %}
+          {% assign minCommonTags =  1 %}
+          {% assign maxRelatedCounter = 0 %}
+
+          {% for short-stories in site.short-stories %}
+
+          {% assign sameTagCount = 0 %}
+          {% assign commonTags = '' %}
+          {% assign commonTags = .commonTags %}
+
+          {% for tag in short-stories.tags %}
+            {% if short-stories.url != page.url %}
+              {% if page.tags contains tag %}
+                {% assign sameTagCount = sameTagCount | plus: 1 %}
+                {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+                {% assign commonTags = commonTags | append: tagmarkup %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+
+          {% if sameTagCount >= minCommonTags %}
+
+              <div class="rel">
+                <a href="{{ short-stories.url }}">
+                <h5>{{ short-stories.title }}</h5>
+                <img src="{{ short-stories.image }}" alt="">
+                <h6>{{ commonTags }}</h6>
+                </a>
+              </div>
+
+            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+            {% if maxRelatedCounter >= maxRelated %}
+              {% break %}
+            {% endif %}
+          {% endif %}
+
+       {% endfor %}
+
+      <div class="cf"></div>
+      </div>
+    <!-- {% endif %} -->
+  </footer>
+
+</article>
