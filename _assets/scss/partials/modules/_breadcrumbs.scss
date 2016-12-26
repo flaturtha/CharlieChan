@@ -26,3 +26,25 @@
     font-weight: bolder;
   }
 }
+
+.showcart {
+  display: flex;
+  margin-right: 1rem;
+  width: 300px;
+}
+
+.fa-shopping-cart {
+  color: $acolor;
+  margin: 0 0.4rem 0 0;
+}
+
+#sendowl-cart-widget {
+  color: $acolor;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+.cart-count {
+  font-weight: bold;
+  font-style: italic;
+}

@@ -813,6 +813,27 @@ h4, .h4 {
     border-bottom: none;
     font-weight: bolder; }
 
+.showcart {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: 1rem;
+  width: 300px; }
+
+.fa-shopping-cart {
+  color: #8B0000;
+  margin: 0 0.4rem 0 0; }
+
+#sendowl-cart-widget {
+  color: #8B0000;
+  text-align: center;
+  margin-top: 0.5rem; }
+
+.cart-count {
+  font-weight: bold;
+  font-style: italic; }
+
 .header__about {
   text-transform: uppercase;
   text-align: center;
