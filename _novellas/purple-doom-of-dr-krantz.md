@@ -2,7 +2,7 @@
 layout: books
 casefileNumber: 55ccf75fb3901011515af01b
 title: "The Purple Doom of Dr. Krantz"
-author: George Dilnot
+author:
 price: 2.99
 category: novellas
 descriptive: "A Dixon Hawke Mystery"

@@ -2,7 +2,7 @@
 layout: short-stories
 casefileNumber: 
 title: "The Blonde in Black"
-author: Helen Reilly
+author: Ben Benson
 price: 6.99
 category: novels
 image: /assets/img/novels/BIB.jpg

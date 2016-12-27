@@ -3,14 +3,27 @@
       <h2>NOVELLAS</h2>
       <a href="/novellas">Browse All Novellas &raquo;</a>
     </header>
+ 
+    <ul class="cards__small">
+    {% for novellas in site.novellas | limit: 3 %}
 
-    <div class="novellas__teasers">
-      {% for post in site.novellas limit: 3 %}
-			<div class="novellas__teaser">
-			  <img src="{{ post.image }}" alt="{{ post.title }}">
-			  <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
-			  <p>{{ post.author }}</p>
-			</div> <!-- end div.novellas__teasers -->
-			{% endfor %}
-    </div>
+      <li class="card__small" {% if novellas.genre %} id="{{ novellas.genre | downcase }}"{% endif %}>
+        
+        <a href="{{ novellas.url }}" class="readmore">
+        <img src="{{ novellas.image }}" alt="{{ novellas.title }} by {{ novellas.author }}"></a>
+        <h2 class="title">{{ novellas.title }}</h2>
+        <h3 class="author"><span>by</span> {{ novellas.author }}</h3>
+        <p class="descriptive">{{ novellas.descriptive }}</p>
+        <div class="price">
+          <p>${{ novellas.price }}</p>
+        </div>
+        <button class="buybutton"><a href="{{ novellas.url }}" style="color:#fffff0;">Learn More</a></button>
+        <!-- <p class="buybutton">Buy</p> -->
+
+      </li>
+
+    {% endfor %}
+
+    </ul>
+
   </section>

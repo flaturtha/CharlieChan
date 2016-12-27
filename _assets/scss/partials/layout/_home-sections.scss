@@ -20,6 +20,18 @@
     letter-spacing: 0.1rem;
     padding-top: 0.25rem;
   }
+  h4 {
+    font-size: 1.125rem;
+    text-align: right;
+    color: $paper;
+    border-top: 2px solid $acolor;
+    // padding-right: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  .bloodbackground {
+    background-color: $acolor;
+    padding: 0.125rem 1rem 0.25rem;
+  }
   a {
     font-size: 0.85rem;
     // border: 1px solid $acolor;
@@ -39,15 +51,25 @@
 	}
 }
 
+.novel__featured {
+  // border-top: 2px solid $acolor;
+  // border-left: 2px solid $acolor;
+  // border-right: 2px solid $acolor;
+  h3 {
+    font-size: 1.125rem;
+    text-align: right;
+    color: $paper;
+    background-color: $acolor;
+    padding-right: 1rem;
+    margin-bottom: 1rem;
+  }
+}
+
 .novels__teasers {
   display: flex;
-  // flex-direction: column;
-  // border: 1px solid purple;
 }
 
 .novels__teaser {
-  // border: 1px dotted green;
-  // display: flex;
   min-width: 300px;
   width: span(6 of 12);
   margin: 1rem;
@@ -57,7 +79,7 @@
   }
   img {
     float: left;
-    width: 100px;
+    width: span(3 of 6);
     height: auto;
     margin-right: 0.5rem;
   }
@@ -76,10 +98,10 @@
 	// background-color: blue;
   header {
     border-top: 2px solid $acolor;
-    // border-top: 1px solid purple;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    margin-bottom: 1rem;
   }
   h2 {
     font-size: 1rem;
@@ -137,6 +159,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    margin-bottom: 1rem;
   }
   h2 {
     font-size: 1rem;
@@ -196,6 +219,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    margin-bottom: 1rem;
   }
   h2 {
     font-size: 1rem;

@@ -4,11 +4,15 @@ casefileNumber: 55ccf75fb3901011515aef28
 title: "Black Shadows"
 author: J. C. Kofoed
 price: 1.25
+opub: The Black Mask
+opubdate: Sep. 1922
+opubissue: Vol. 1, No. 6
+pubdate: 2016-11-15
 category: novella
 descriptive: "Murder: for Money or Revenge"
 excerpt: "When old man Guerney is found murdered in his locked study, then the prime suspect and a mysterious tattooed man are also found murdered, newspaperman Johnny Suggs is determined to prove Mildred Guerney's innocense and prove himself to his father."
 image: /assets/img/novellas/black-shadows.jpg
-wordcount: 13482
+wordcount: 13469
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita soluta, minima, totam ut a aut cum sunt doloribus dolores animi nam ipsa. Expedita culpa hic error laboriosam unde, earum esse!

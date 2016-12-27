@@ -105,9 +105,24 @@
 	display: flex;
 }
 
+.book__meta {
+	border-top: 2px solid $acolor;
+	margin: 1rem 0;
+	padding: 1rem 0;
+	font-size: 0.875rem;
+	h4 {
+		color: $acolor;
+		margin-bottom: 0.5rem;
+	}
+	li {
+		list-style-type: circle;
+	}
+}
 
-
-
+.pagelengthdisclaimer {
+	font-style: italic;
+	font-size: 0.75rem
+}
 
 
 

@@ -4,13 +4,22 @@
       <a href="/murderwiki">Browse All Articles &raquo;</a>
     </header>
 
-    <div class="mw__teasers">
-      {% for post in site.murderwiki limit: 6 %}
-			<div class="mw__teaser">
-			  <img src="{{ post.image }}" alt="{{ post.title }}">
-			  <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
-			  <p>{{ post.author }}</p>
-			</div> <!-- end div.mw__teasers -->
-			{% endfor %}
-    </div>
+    <ul class="cards__small">
+    {% for murderwiki in site.murderwiki | limit: 6 %}
+
+      <li class="card__small" {% if murderwiki.genre %} id="{{ murderwiki.genre | downcase }}"{% endif %}>
+        
+        <a href="{{ murderwiki.url }}" class="readmore">
+        <img src="{{ murderwiki.image }}" alt="{{ murderwiki.title }} by {{ murderwiki.author }}"></a>
+        <h2 class="title">{{ murderwiki.title }}</h2>
+        <h3 class="author"><span>by</span> {{ murderwiki.author }}</h3>
+        <p class="descriptive">{{ murderwiki.excerpt | truncate: 100}}</p>
+        <button class="buybutton"><a href="{{ murderwiki.url }}" style="color:#fffff0;">READ</a></button>
+        <!-- <p class="buybutton">Buy</p> -->
+
+      </li>
+
+    {% endfor %}
+
+    </ul>
   </section>

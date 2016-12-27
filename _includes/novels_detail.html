@@ -8,6 +8,7 @@
       {% for post in site.novels limit: 1 %}
       
       <div class="novel__featured">
+        <h4><span class="bloodbackground">LATEST RELEASE</span></h4>
         <img src="{{ post.image }}" alt="{{ post.title }} by {{ post.author }}" class="book__img">
         <div class="book-details" style="margin-left: 2rem;">
           <h1 class="books__title">{{ post.title }}</h1>
@@ -27,6 +28,7 @@
     </div> <!-- end div novels__featured -->
 
 
+    <h4><span class="bloodbackground">RECENT TITLES</span></h4>
     <div class="novels__teasers">
       {% for post in site.novels limit: 2 offset: 1 %}
       <div class="novels__teaser">
@@ -34,7 +36,7 @@
         <img src="{{ post.image }}" alt="{{ post.title }} by {{ post.author }}"></a>
         <h2 class="title">{{ post.title }}</h2>
         <h3 class="author"><span>by</span> {{ post.author }}</h3>
-        <p class="descriptive">{{ post.descriptive }}</p>
+        <p class="descriptive">{{ post.excerpt }}</p>
         <div class="price">
           <p>${{ post.price }}</p>
         </div>
