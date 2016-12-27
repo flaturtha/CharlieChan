@@ -1,0 +1,47 @@
+  <section class="hp__novels">
+    <header>
+      <h2>NOVELS</h2>
+      <a href="/novels">Browse All Novels &raquo;</a>
+    </header>
+  
+    <div class="novels__featured">
+      {% for post in site.novels limit: 1 %}
+      
+      <div class="novel__featured">
+        <h4><span class="bloodbackground">LATEST RELEASE</span></h4>
+        <img src="{{ post.image }}" alt="{{ post.title }} by {{ post.author }}" class="book__img">
+        <div class="book-details" style="margin-left: 2rem;">
+          <h1 class="books__title">{{ post.title }}</h1>
+          {% if post.subtitle %}<h3 class="subtitle">{{ post.subtitle }}</h3>{% endif %}
+
+          <h2 class="books__author">{% if post.author %}by <span>{{ post.author }}</span>{% else %}<span>{{ post.series }}</span>{% endif %}</h2>
+
+          <p>{{ post.content }}</p>
+        </div> <!-- end div.novel -->
+
+        <div>
+          <a href="{{ post.url }}" style="background-color:#8b0000;height:50px;width:150px;color:#fffff0;padding:1rem;margin-top:1rem;border-radius:5px;">Learn More &hellip;</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+        </div>
+
+      </div> <!-- end div.novel__featured -->
+      {% endfor %}
+    </div> <!-- end div novels__featured -->
+
+
+    <h4><span class="bloodbackground">RECENT TITLES</span></h4>
+    <div class="novels__teasers">
+      {% for post in site.novels limit: 2 offset: 1 %}
+      <div class="novels__teaser">
+        <a href="{{ post.url }}" class="readmore">
+        <img src="{{ post.image }}" alt="{{ post.title }} by {{ post.author }}"></a>
+        <h2 class="title">{{ post.title }}</h2>
+        <h3 class="author"><span>by</span> {{ post.author }}</h3>
+        <p class="descriptive">{{ post.excerpt }}</p>
+        <div class="price">
+          <p>${{ post.price }}</p>
+        </div>
+        <button class="buybutton"><a href="{{ post.url }}" style="color:#fffff0;">BUY</a></button>
+      </div> <!-- end div.novels__teasers -->
+      {% endfor %}
+    </div>
+  </section>

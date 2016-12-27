@@ -1121,6 +1121,9 @@ a.readmore {
     display: table; }
   .card__small img {
     width: 150px;
+    min-height: 210px;
+    -o-object-fit: cover;
+       object-fit: cover;
     height: auto;
     float: left;
     margin-right: 0.75rem;
@@ -1148,6 +1151,7 @@ a.readmore {
   .card__small .buybutton {
     background-color: #580000;
     color: #fffff0;
+    margin-top: 0.5rem;
     padding: 1rem;
     border: 1px solid #8B0000;
     -webkit-border-radius: 4px;
@@ -1188,6 +1192,39 @@ a.readmore {
         margin-left: 67.5%;
         margin-right: -100%;
         clear: none; } }
+
+.hp__novels__featured .cards__small {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 1rem;
+  width: 98.33333%;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around; }
+
+.hp__novels__featured .hp__card__small {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+
+.hp__novels__teasers .cards__small {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 1rem;
+  width: 98.33333%;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around; }
+
+.hp__card__small {
+  width: 31.66667%; }
+  .hp__card__small img {
+    float: right; }
 
 .lead {
   font-style: normal;
@@ -1741,9 +1778,18 @@ ul {
   padding-top: 30px; }
 
 .homepage section {
-  margin: 2rem 1rem 1rem; }
+  margin: 2rem 1rem 5rem; }
   .homepage section h2 {
     color: #8B0000; }
+
+.newnovels_temp {
+  text-align: center;
+  color: #8B0000; }
+  .newnovels_temp span {
+    padding: 2rem;
+    border: 1px solid #8B0000;
+    -webkit-border-radius: 5px;
+            border-radius: 5px; }
 
 .header_home {
   height: 33vh;

@@ -1,7 +1,7 @@
 ---
 layout: books
 casefileNumber: 55ccf75fb3901011515aef0a
-title: "So Dead the Rose"
+title: "So Dead the&nbsp;Rose"
 author: Sim Albert
 price: 0.99
 category: novellas

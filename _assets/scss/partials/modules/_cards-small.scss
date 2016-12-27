@@ -18,6 +18,8 @@
 	margin-bottom: 1rem;
 	img {
 		width: 150px;
+		min-height: 210px;
+		object-fit: cover;
 		height: auto;
 		float: left;
 		margin-right: 0.75rem;
@@ -61,7 +63,7 @@
 	.buybutton {
 		background-color: darken($acolor, 10%);
 		color: $paper;
-		// margin-top: 1rem;
+		margin-top: 0.5rem;
 		padding: 1rem;
 		border: 1px solid $acolor;
 		border-radius: 4px;
@@ -83,6 +85,37 @@
   }
 }
 
+.hp__novels__featured {
+	// background-color: green;
+	// display: flex;
+	// flex-direction: row !important;
+}
+
+.hp__novels__featured .cards__small {
+	display: flex;
+	margin-top: 1rem;
+	width: span(12 of 12);
+	justify-content: space-around;
+}
+
+.hp__novels__featured .hp__card__small {
+	// width: span(12 of 12);
+	display: flex;
+}
+
+.hp__novels__teasers .cards__small {
+	display: flex;
+	margin-top: 1rem;
+	width: span(12 of 12);
+	justify-content: space-around;
+}
+
+.hp__card__small {
+	width: span(4 of 12);
+	img {
+		float: right;
+	}
+}
 
 
 

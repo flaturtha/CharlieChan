@@ -50,12 +50,23 @@ ul {
 .homepage section {
   // border-bottom: 5px solid $acolor;
   // border-radius: 5px;
-  margin: 2rem 1rem 1rem;
+  margin: 2rem 1rem 5rem;
   // min-height: 200px;
   h2 {
     color: $acolor;
   }
 }
+
+.newnovels_temp {
+  text-align: center;
+  color: $acolor;
+  span {
+    padding: 2rem;
+    border: 1px solid $acolor;
+    border-radius: 5px;
+  }
+}
+
 
 // .hp__mw {
 //   height: 500px;
