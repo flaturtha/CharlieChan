@@ -1,11 +1,11 @@
 ---
 layout: short-stories
-casefileNumber: aldskj0-2-4knv2-2-k8
-title: "The Opening Door"
+casefileNumber: 
+title: "The Blonde in Black"
 author: Helen Reilly
 price: 6.99
 category: novels
-image: /assets/img/novels/OpeningDoor_cover3.jpg
+image: /assets/img/novels/BIB.jpg
 wordcount: 72804
 ---
 

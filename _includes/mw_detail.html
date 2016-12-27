@@ -1,14 +1,14 @@
   <section class="hp__mw">
     <header>
       <h2>MURDERWIKI</h2>
-      <a href="/murderwiki">Browse Articles &raquo;</a>
+      <a href="/murderwiki">Browse All Articles &raquo;</a>
     </header>
 
     <div class="mw__teasers">
-      {% for post in site.murderwiki limit: 3 %}
+      {% for post in site.murderwiki limit: 6 %}
 			<div class="mw__teaser">
 			  <img src="{{ post.image }}" alt="{{ post.title }}">
-			  <a href="{{ root_url }}{{ page.url }}">{{ post.title }}</a>
+			  <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
 			  <p>{{ post.author }}</p>
 			</div> <!-- end div.mw__teasers -->
 			{% endfor %}

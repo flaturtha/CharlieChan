@@ -1726,16 +1726,25 @@ ul {
   padding-top: 30px; }
 
 .homepage section {
-  border-bottom: 5px solid #8B0000;
-  -webkit-border-radius: 5px;
-          border-radius: 5px;
   margin: 2rem 1rem 1rem; }
   .homepage section h2 {
     color: #8B0000; }
 
-.hp__mw {
-  height: 500px; }
-  .hp__mw header {
+/* ==========================================================================
+   HOMEPAGE SECTIONS
+   ========================================================================== */
+/* NOVELS */
+.hp__novels {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column; }
+  .hp__novels header {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -1749,28 +1758,206 @@ ul {
     -webkit-justify-content: space-between;
         -ms-flex-pack: justify;
             justify-content: space-between; }
-  .hp__mw h2 {
+  .hp__novels h2 {
     font-size: 1rem;
     letter-spacing: 0.1rem;
     padding-top: 0.25rem; }
-  .hp__mw a {
+  .hp__novels a {
     font-size: 0.85rem;
-    border: 1px solid #8B0000;
     padding: 0.25rem 0.5rem; }
-    .hp__mw a:hover {
+    .hp__novels a:hover {
       color: #fffff0;
       background-color: #8B0000; }
 
-.mw__teasers {
+.novels__featured {
+  margin: 1rem 0;
+  width: 98.33333%;
+  float: left;
+  margin-left: 0.83333%;
+  margin-right: 0.83333%; }
+  .novels__featured img {
+    width: 40%;
+    float: left;
+    margin-left: 0.83333%;
+    margin-right: 0.83333%; }
+
+.novels__teasers {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex; }
 
-.mw__teaser {
-  border: 1px dotted green;
+.novels__teaser {
   min-width: 300px;
+  width: 48.33333%;
   margin: 1rem; }
+  .novels__teaser a {
+    font-weight: bold;
+    border: none; }
+  .novels__teaser img {
+    float: left;
+    width: 100px;
+    height: auto;
+    margin-right: 0.5rem; }
+
+/* NOVELLAS */
+.hp__novellas header {
+  border-top: 2px solid #8B0000;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between; }
+
+.hp__novellas h2 {
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  padding-top: 0.25rem; }
+
+.hp__novellas a {
+  font-size: 0.85rem;
+  padding: 0.25rem 0.5rem; }
+  .hp__novellas a:hover {
+    color: #fffff0;
+    background-color: #8B0000; }
+
+.novellas__teasers {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+
+.novellas__teaser {
+  min-width: 300px;
+  width: 48.33333%;
+  margin: 1rem; }
+  .novellas__teaser a {
+    font-weight: bold;
+    border: none; }
+  .novellas__teaser img {
+    float: left;
+    width: 100px;
+    height: auto;
+    margin-right: 0.5rem; }
+
+/* SHORT STORIES */
+.hp__short-stories header {
+  border-top: 2px solid #8B0000;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between; }
+
+.hp__short-stories h2 {
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  padding-top: 0.25rem; }
+
+.hp__short-stories a {
+  font-size: 0.85rem;
+  padding: 0.25rem 0.5rem; }
+  .hp__short-stories a:hover {
+    color: #fffff0;
+    background-color: #8B0000; }
+
+.short-stories__teasers {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal !important;
+  -webkit-box-direction: normal !important;
+  -webkit-flex-direction: row !important;
+      -ms-flex-direction: row !important;
+          flex-direction: row !important;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap; }
+  .short-stories__teasers:after {
+    content: "";
+    clear: both;
+    display: table; }
+
+.short-stories__teaser {
+  border: 1px solid black;
+  width: 31.66667%;
+  margin-bottom: 1rem; }
+  .short-stories__teaser a {
+    font-weight: bold;
+    border: none; }
+  .short-stories__teaser img {
+    float: left;
+    width: 100px;
+    height: auto;
+    margin-right: 0.5rem; }
+
+/* MURDERWIKI */
+.hp__mw header {
+  border-top: 2px solid #8B0000;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between; }
+
+.hp__mw h2 {
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  padding-top: 0.25rem; }
+
+.hp__mw a {
+  font-size: 0.85rem;
+  padding: 0.25rem 0.5rem; }
+  .hp__mw a:hover {
+    color: #fffff0;
+    background-color: #8B0000; }
+
+.mw__teasers {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap; }
+  .mw__teasers:after {
+    content: "";
+    clear: both;
+    display: table; }
+
+.mw__teaser {
+  width: 31.66667%;
+  margin-bottom: 1rem; }
   .mw__teaser a {
     font-weight: bold;
     border: none; }

@@ -1,0 +1,238 @@
+/* ==========================================================================
+   HOMEPAGE SECTIONS
+   ========================================================================== */
+
+/* NOVELS */
+
+.hp__novels {
+	// background-color: purple;
+	display: flex;
+	flex-direction: column;
+  header {
+    // border-top: 2px solid $acolor;
+    // border-top: 1px solid purple;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  h2 {
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    padding-top: 0.25rem;
+  }
+  a {
+    font-size: 0.85rem;
+    // border: 1px solid $acolor;
+    padding: 0.25rem 0.5rem;
+    &:hover {
+      color: $paper;
+      background-color: $acolor;
+    }
+  }
+}
+
+.novels__featured {
+	margin: 1rem 0;
+	@include span(12 of 12);
+	img {
+		@include span(5 of 12);
+	}
+}
+
+.novels__teasers {
+  display: flex;
+  // flex-direction: column;
+  // border: 1px solid purple;
+}
+
+.novels__teaser {
+  // border: 1px dotted green;
+  // display: flex;
+  min-width: 300px;
+  width: span(6 of 12);
+  margin: 1rem;
+  a {
+    font-weight: bold;
+    border: none;
+  }
+  img {
+    float: left;
+    width: 100px;
+    height: auto;
+    margin-right: 0.5rem;
+  }
+}
+
+
+
+
+
+
+
+
+
+/* NOVELLAS */
+.hp__novellas {
+	// background-color: blue;
+  header {
+    border-top: 2px solid $acolor;
+    // border-top: 1px solid purple;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  h2 {
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    padding-top: 0.25rem;
+  }
+  a {
+    font-size: 0.85rem;
+    // border: 1px solid $acolor;
+    padding: 0.25rem 0.5rem;
+    &:hover {
+      color: $paper;
+      background-color: $acolor;
+    }
+  }
+}
+
+.novellas__teasers {
+  display: flex;
+  // flex-direction: column;
+  // border: 1px solid purple;
+}
+
+.novellas__teaser {
+  // border: 1px dotted green;
+  // display: flex;
+	min-width: 300px;
+  width: span(6 of 12);
+  margin: 1rem;
+  a {
+    font-weight: bold;
+    border: none;
+  }
+  img {
+    float: left;
+    width: 100px;
+    height: auto;
+    margin-right: 0.5rem;
+  }
+}
+
+
+
+
+
+
+
+
+/* SHORT STORIES */
+.hp__short-stories {
+	// background-color: orange;
+  header {
+    border-top: 2px solid $acolor;
+    // border-top: 1px solid purple;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  h2 {
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    padding-top: 0.25rem;
+  }
+  a {
+    font-size: 0.85rem;
+    // border: 1px solid $acolor;
+    padding: 0.25rem 0.5rem;
+    &:hover {
+      color: $paper;
+      background-color: $acolor;
+    }
+  }
+}
+
+.short-stories__teasers {
+	@include cf;
+	// @include gallery(4 of 8);
+  display: flex;
+  flex-direction: row !important;
+  flex-wrap: wrap;
+  // max-width: 48rem;
+  // border: 1px solid purple;
+}
+
+.short-stories__teaser {
+  border: 1px solid black;
+  width: span(4 of 12);
+  margin-bottom: 1rem;
+  a {
+    font-weight: bold;
+    border: none;
+  }
+  img {
+    float: left;
+    width: 100px;
+    height: auto;
+    margin-right: 0.5rem;
+  }
+}
+
+
+
+
+
+
+
+
+/* MURDERWIKI */
+.hp__mw {
+	// background-color: chartreuse;
+  header {
+    border-top: 2px solid $acolor;
+    // border-top: 1px solid purple;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  h2 {
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    padding-top: 0.25rem;
+  }
+  a {
+    font-size: 0.85rem;
+    padding: 0.25rem 0.5rem;
+    &:hover {
+      color: $paper;
+      background-color: $acolor;
+    }
+  }
+}
+
+.mw__teasers {
+  @include cf;
+	// @include gallery(4 of 8);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  // flex-direction: column;
+  // border: 1px solid purple;
+}
+
+.mw__teaser {
+  width: span(4 of 12);
+  margin-bottom: 1rem;
+  a {
+    font-weight: bold;
+    border: none;
+  }
+  img {
+    float: left;
+    width: 100px;
+    height: auto;
+    margin-right: 0.5rem;
+  }
+}

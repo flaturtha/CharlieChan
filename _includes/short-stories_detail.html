@@ -1,0 +1,16 @@
+  <section class="hp__short-stories">
+    <header>
+      <h2>SHORT STORIES</h2>
+      <a href="/short-stories">Browse All Short Stories &raquo;</a>
+    </header>
+
+    <div class="short-stories__teasers">
+      {% for post in site.short-stories limit: 6 %}
+			<div class="short-stories__teaser">
+			  <img src="{{ post.image }}" alt="{{ post.title }}">
+			  <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+			  <p>{{ post.author }}</p>
+			</div> <!-- end div.short-stories__teasers -->
+			{% endfor %}
+    </div>
+  </section>
