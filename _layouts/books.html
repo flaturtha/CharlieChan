@@ -36,9 +36,19 @@ layout: default2
           {% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
         {% endif %}
         </span>
-    </p>
-    <p><span class="bold">Short Excerpt: </span>{{ page.excerpt }}</p>
+      </p>
+      <p>{{ page.excerpt }}</p>
+      
+      <p class="book__price">${{ page.price }}</p>
+
+      <div class="book__buttons">
+        <a href="https://transactions.sendowl.com/packages/32887/32488429/add_to_cart" rel="nofollow"><img style="width: 150px;" src="https://transactions.sendowl.com/assets/external/add-to-cart.png" /></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+
+        <a class="download-sample" href="#">Get Sample</a>
+      </div>
+
     </div>
+
 
   </header> <!-- end header.books__header -->
 
@@ -46,15 +56,6 @@ layout: default2
   </aside>  end aside.excerpt -->
 
   <!-- <div class="cf"></div> -->
-
-  <div class="buyme">
-    <div class="buyme__details">
-      <i class="fa fa-book fa-2x"></i>
-      <p>${{ page.price }}</p>
-      <p>Kindle &amp; ePub Editions included:</p>
-    </div>
-    <a href="https://transactions.sendowl.com/packages/32887/32488429/add_to_cart" rel="nofollow"><img style="width: 150px;" src="https://transactions.sendowl.com/assets/external/add-to-cart.png" /></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
-  </div>
 
   <article class="books">
     {{ content }}

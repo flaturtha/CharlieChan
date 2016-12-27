@@ -9,8 +9,9 @@
 
 .books__header {
 	// background-color: green;
-	// border: 3px solid orange;
+	border-bottom: 1px solid darken($paper, 75%);
 	margin: 1rem 0;
+	padding-bottom: 1rem;
 	display: flex;
 	flex-direction: column;
 	@media screen and (min-width: 48rem){
@@ -37,21 +38,25 @@
 .book_details {
 	display: flex;
 	flex-direction: column;
+	margin-left: 2rem;
 	align-self: center;
 	// @include span(6 of 12);
 }
 
 .books__title {
-	font-size: 5rem;
-	color: $paper;
-	background-color: $bgcolor;
+	font-size: 1.25rem;
+	color: $acolor;
+	margin: 0;
+	// background-color: $bgcolor;
 	text-transform: uppercase;
-	text-align: center;
+	// text-align: center;
 }
 
 .books__author {
 	font-style: italic;
-	text-align: center;
+	font-size: 1rem;
+	margin-bottom: 1rem;
+	// text-align: center;
 	span {
 		font-style: normal;
 		color: $acolor;
@@ -59,13 +64,13 @@
 }
 
 .buyme {
-	display: flex;
-	justify-content: space-between;
-	border: 1px solid lighten($acolor, 50%);
-	border-radius: 4px;
-	background-color: lighten($acolor, 50%);
-	color: $bgcolor;
-	margin: 1rem 0;
+	// display: flex;
+	// justify-content: space-between;
+	// border: 1px solid lighten($acolor, 50%);
+	// border-radius: 4px;
+	// background-color: lighten($acolor, 50%);
+	// color: $bgcolor;
+	// margin: 1rem 0;
 }
 
 .buyme__details {
@@ -74,9 +79,31 @@
 	margin-right: 1rem;
 }
 
+.book__price {
+	// border: 1px solid $acolor;
+	// border-radius: 5px;
+	// text-align: center;
+	font-weight: bold;
+	color: $acolor;
+	font-size: 1.5rem;
+}
 
+.download-sample {
+	background-color: #C02200;
+	border-radius: 5px;
+	color: $paper;
+	width: 150px;
+	height: 50px;
+	font-size: 1.125rem;
+	font-weight: normal;
+	padding: 1rem;
+	margin-left: 1rem;
+	text-align: center;
+}
 
-
+.book__buttons {
+	display: flex;
+}
 
 
 

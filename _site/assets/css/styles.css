@@ -1433,7 +1433,9 @@ ol ol li:last-child {
 =    BOOKS [NOVELLA & NOVELS] PAGE            =
 =============================================*/
 .books__header {
+  border-bottom: 1px solid #717100;
   margin: 1rem 0;
+  padding-bottom: 1rem;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -1477,39 +1479,24 @@ ol ol li:last-child {
   -webkit-flex-direction: column;
       -ms-flex-direction: column;
           flex-direction: column;
+  margin-left: 2rem;
   -webkit-align-self: center;
       -ms-flex-item-align: center;
           align-self: center; }
 
 .books__title {
-  font-size: 5rem;
-  color: #fffff0;
-  background-color: #242424;
-  text-transform: uppercase;
-  text-align: center; }
+  font-size: 1.25rem;
+  color: #8B0000;
+  margin: 0;
+  text-transform: uppercase; }
 
 .books__author {
   font-style: italic;
-  text-align: center; }
+  font-size: 1rem;
+  margin-bottom: 1rem; }
   .books__author span {
     font-style: normal;
     color: #8B0000; }
-
-.buyme {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  border: 1px solid #ff8b8b;
-  -webkit-border-radius: 4px;
-          border-radius: 4px;
-  background-color: #ff8b8b;
-  color: #242424;
-  margin: 1rem 0; }
 
 .buyme__details {
   display: -webkit-box;
@@ -1520,6 +1507,30 @@ ol ol li:last-child {
       -ms-flex-item-align: center;
           align-self: center;
   margin-right: 1rem; }
+
+.book__price {
+  font-weight: bold;
+  color: #8B0000;
+  font-size: 1.5rem; }
+
+.download-sample {
+  background-color: #C02200;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  color: #fffff0;
+  width: 150px;
+  height: 50px;
+  font-size: 1.125rem;
+  font-weight: normal;
+  padding: 1rem;
+  margin-left: 1rem;
+  text-align: center; }
+
+.book__buttons {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
 
 .murderwiki__article {
   width: 97.5%;
