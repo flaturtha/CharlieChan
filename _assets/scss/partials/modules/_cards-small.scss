@@ -14,17 +14,22 @@
 
 .card__small {
 	@include cf;
-	width: 300px;
+	width: span(8 of 8);
 	margin-bottom: 1rem;
 	img {
-		width: 150px;
+		width: span(4 of 8);
 		min-height: 210px;
+		float: left;
+		margin-right: 1rem;
 		object-fit: cover;
 		height: auto;
-		float: left;
-		margin-right: 0.75rem;
+		// margin-right: 0.75rem;
 		border: 1px solid black;
 		box-shadow: -4px 8px 8px transparentize($pcolor, .8);
+		@include susy-breakpoint($bp-med){
+			float: none;
+			width: span(8 of 8);
+		} 
 	}
 	h2 {
 		color: $acolor;
@@ -76,7 +81,7 @@
 		margin-top: 0.25rem;
 	}
 	@include susy-breakpoint($bp-med){
-    @include gallery(4 of 8);
+    @include gallery(4 of 12);
     margin-bottom: gutter();
   }
   @include susy-breakpoint($bp-large){
@@ -85,37 +90,63 @@
   }
 }
 
-.hp__novels__featured {
-	// background-color: green;
-	// display: flex;
-	// flex-direction: row !important;
+
+.hp__novels {
+	header {
+		margin-bottom: 1rem;
+	}
 }
 
-.hp__novels__featured .cards__small {
-	display: flex;
-	margin-top: 1rem;
-	width: span(12 of 12);
-	justify-content: space-around;
-}
-
-.hp__novels__featured .hp__card__small {
-	// width: span(12 of 12);
-	display: flex;
-}
-
-.hp__novels__teasers .cards__small {
-	display: flex;
-	margin-top: 1rem;
-	width: span(12 of 12);
-	justify-content: space-around;
+.hp__cards__small {
+	@include susy-breakpoint($bp-med){
+		@include gallery(8 of 8);
+	}
 }
 
 .hp__card__small {
-	width: span(4 of 12);
-	img {
-		float: right;
-	}
+	@include susy-breakpoint($bp-med){
+		@include gallery(4 of 8);
+	}	
 }
+
+
+
+
+
+
+
+
+// .hp__novels__featured {
+	// background-color: green;
+	// display: flex;
+	// flex-direction: row !important;
+// }
+
+// .hp__novels__featured .cards__small {
+// 	display: flex;
+// 	margin-top: 1rem;
+// 	width: span(12 of 12);
+// 	justify-content: space-around;
+// }
+
+// .hp__novels__featured .hp__card__small {
+// 	// width: span(12 of 12);
+// 	display: flex;
+// }
+
+// .hp__novels__teasers .cards__small {
+// 	display: flex;
+// 	margin-top: 1rem;
+// 	width: span(12 of 12);
+// 	justify-content: space-around;
+// }
+
+// .hp__card__small {
+// 	width: span(4 of 12);
+// 	img {
+// 		float: right;
+// 	}
+// }
 
 
 

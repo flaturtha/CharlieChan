@@ -5,12 +5,13 @@
 /* NOVELS */
 
 .hp__novels {
+  margin: 0 auto !important;
 	// background-color: purple;
 	display: flex;
 	flex-direction: column;
   header {
     // border-top: 2px solid $acolor;
-    // border-top: 1px solid purple;
+    border-bottom: 1px solid $acolor;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -95,9 +96,11 @@
 
 /* NOVELLAS */
 .hp__novellas {
+  margin: 0 auto !important;
 	// background-color: blue;
   header {
     border-top: 2px solid $acolor;
+    border-bottom: 1px solid $acolor;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -152,10 +155,11 @@
 
 /* SHORT STORIES */
 .hp__short-stories {
+  margin: 0 auto !important;
 	// background-color: orange;
   header {
     border-top: 2px solid $acolor;
-    // border-top: 1px solid purple;
+    border-bottom: 1px solid $acolor;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -212,10 +216,11 @@
 
 /* MURDERWIKI */
 .hp__mw {
+  margin: 0 auto !important;
 	// background-color: chartreuse;
   header {
     border-top: 2px solid $acolor;
-    // border-top: 1px solid purple;
+    border-bottom: 1px solid $acolor;
     display: flex;
     flex-direction: row;
     justify-content: space-between;

@@ -1,57 +1,30 @@
-  <section class="hp__novels">
+  <section class="hp__novels wrap">
+
     <header>
       <h2>NOVELS</h2>
-      <a href="/novels">Browse All Novels &raquo;</a>
+      <a href="/novels">Browse <span class="bold">{{ site.novels | size }}</span> Novels &raquo;</a>
     </header>
   
-    <h4 style="margin-top:1rem;"><span class="bloodbackground">LATEST RELEASE</span></h4>
-    <div class="hp__novels__featured">
-      <ul class="cards__small">
-      {% for novels in site.novels limit:1 %}
+    <ul class="hp__cards__small">
+    {% for novels in site.novels | limit: 2 %}
 
-        <li class="hp__card__small" {% if novels.genre %} id="{{ novels.genre | downcase }}"{% endif %}>
-          
-          <a href="{{ novels.url }}" class="readmore">
-            <img src="{{ novels.image }}" alt="{{ novels.title }} by {{ novels.author }}">
-          </a>
-          <div>
-            <h2 class="title">{{ novels.title }}</h2>
-            <h3 class="author"><span>by</span> {{ novels.author }}</h3>
-            <p class="descriptive">{{ novels.descriptive }}</p>
-            <div class="price">
-              <p>${{ novels.price }}</p>
-            </div>
-            <button class="buybutton"><a href="{{ novels.url }}" style="color:#fffff0;">BUY</a></button>
-          </div>
+      <li class="hp__card__small" {% if novels.genre %} id="{{ novels.genre | downcase }}"{% endif %}>
+        
+        <a href="{{ novels.url }}" class="readmore">
+        <img src="{{ novels.image }}" alt="{{ novels.title }} by {{ novels.author }}"></a>
+        <h2 class="title">{{ novels.title }}</h2>
+        <h3 class="author"><span>by</span> {{ novels.author }}</h3>
+        <p class="descriptive">{{ novels.descriptive }}</p>
+        <div class="price">
+          <p>${{ novels.price }}</p>
+        </div>
+        <button class="buybutton"><a href="{{ novels.url }}" style="color:#fffff0;">Learn More</a></button>
+        <!-- <p class="buybutton">Buy</p> -->
 
-        </li>
+      </li>
 
-      {% endfor %}
+    {% endfor %}
 
-      </ul>
-    </div> <!-- end div novels__featured -->
-
-
-    <h4><span class="bloodbackground">RECENT TITLES</span></h4>
-    <div class="hp__novels__teasers">
-      <ul class="cards__small">
-      {% for novels in site.novels limit:2 offset: 1 %}
-
-        <li class="hp__card__small" {% if novels.genre %} id="{{ novels.genre | downcase }}"{% endif %}>
-          
-          <a href="{{ novels.url }}" class="readmore">
-          <img src="{{ novels.image }}" alt="{{ novels.title }} by {{ novels.author }}"></a>
-          <h2 class="title">{{ novels.title }}</h2>
-          <h3 class="author"><span>by</span> {{ novels.author }}</h3>
-          <p class="descriptive">{{ novels.descriptive }}</p>
-          <div class="price">
-            <p>${{ novels.price }}</p>
-          </div>
-          <button class="buybutton"><a href="{{ novels.url }}" style="color:#fffff0;">BUY</a></button>
-        </li>
-
-      {% endfor %}
-
-      </ul>
-    </div>
+    </ul>
+    
   </section>

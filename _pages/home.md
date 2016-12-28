@@ -9,7 +9,7 @@ category: home
 
 
   <!-- NOVELS -->
-  <!-- include novels_temp.html %} -->
+  {% include novels_detail.html %}
     
   <!-- NOVELLAS -->
   {% include novellas_detail.html %}

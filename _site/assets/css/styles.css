@@ -1113,23 +1113,27 @@ a.readmore {
     padding: 5px 10px; }
 
 .card__small {
-  width: 300px;
+  width: 97.5%;
   margin-bottom: 1rem; }
   .card__small:after {
     content: "";
     clear: both;
     display: table; }
   .card__small img {
-    width: 150px;
+    width: 47.5%;
     min-height: 210px;
+    float: left;
+    margin-right: 1rem;
     -o-object-fit: cover;
        object-fit: cover;
     height: auto;
-    float: left;
-    margin-right: 0.75rem;
     border: 1px solid black;
     -webkit-box-shadow: -4px 8px 8px rgba(71, 79, 85, 0.2);
             box-shadow: -4px 8px 8px rgba(71, 79, 85, 0.2); }
+    @media (min-width: 530px) {
+      .card__small img {
+        float: none;
+        width: 97.5%; } }
   .card__small h2 {
     color: #8B0000;
     font-size: 1rem;
@@ -1164,15 +1168,19 @@ a.readmore {
     margin-top: 0.25rem; }
   @media (min-width: 530px) {
     .card__small {
-      width: 47.5%;
+      width: 31.66667%;
       float: left;
       margin-bottom: 1.25%; }
-      .card__small:nth-child(2n + 1) {
-        margin-left: 1.25%;
+      .card__small:nth-child(3n + 1) {
+        margin-left: 0.83333%;
         margin-right: -100%;
         clear: both; }
-      .card__small:nth-child(2n + 2) {
-        margin-left: 51.25%;
+      .card__small:nth-child(3n + 2) {
+        margin-left: 34.16667%;
+        margin-right: -100%;
+        clear: none; }
+      .card__small:nth-child(3n + 3) {
+        margin-left: 67.5%;
         margin-right: -100%;
         clear: none; } }
   @media (min-width: 775px) {
@@ -1193,38 +1201,30 @@ a.readmore {
         margin-right: -100%;
         clear: none; } }
 
-.hp__novels__featured .cards__small {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  margin-top: 1rem;
-  width: 98.33333%;
-  -webkit-justify-content: space-around;
-      -ms-flex-pack: distribute;
-          justify-content: space-around; }
+.hp__novels header {
+  margin-bottom: 1rem; }
 
-.hp__novels__featured .hp__card__small {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex; }
+@media (min-width: 530px) {
+  .hp__cards__small {
+    width: 97.5%;
+    float: left; }
+    .hp__cards__small:nth-child(1n + 1) {
+      margin-left: 1.25%;
+      margin-right: -100%;
+      clear: none; } }
 
-.hp__novels__teasers .cards__small {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  margin-top: 1rem;
-  width: 98.33333%;
-  -webkit-justify-content: space-around;
-      -ms-flex-pack: distribute;
-          justify-content: space-around; }
-
-.hp__card__small {
-  width: 31.66667%; }
-  .hp__card__small img {
-    float: right; }
+@media (min-width: 530px) {
+  .hp__card__small {
+    width: 47.5%;
+    float: left; }
+    .hp__card__small:nth-child(2n + 1) {
+      margin-left: 1.25%;
+      margin-right: -100%;
+      clear: both; }
+    .hp__card__small:nth-child(2n + 2) {
+      margin-left: 51.25%;
+      margin-right: -100%;
+      clear: none; } }
 
 .lead {
   font-style: normal;
@@ -2035,6 +2035,7 @@ ul {
    ========================================================================== */
 /* NOVELS */
 .hp__novels {
+  margin: 0 auto !important;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -2045,6 +2046,7 @@ ul {
       -ms-flex-direction: column;
           flex-direction: column; }
   .hp__novels header {
+    border-bottom: 1px solid #8B0000;
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -2118,34 +2120,35 @@ ul {
     margin-right: 0.5rem; }
 
 /* NOVELLAS */
-.hp__novellas header {
-  border-top: 2px solid #8B0000;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: row;
-      -ms-flex-direction: row;
-          flex-direction: row;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  margin-bottom: 1rem; }
-
-.hp__novellas h2 {
-  font-size: 1rem;
-  letter-spacing: 0.1rem;
-  padding-top: 0.25rem; }
-
-.hp__novellas a {
-  font-size: 0.85rem;
-  padding: 0.25rem 0.5rem; }
-  .hp__novellas a:hover {
-    color: #fffff0;
-    background-color: #8B0000; }
+.hp__novellas {
+  margin: 0 auto !important; }
+  .hp__novellas header {
+    border-top: 2px solid #8B0000;
+    border-bottom: 1px solid #8B0000;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    margin-bottom: 1rem; }
+  .hp__novellas h2 {
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    padding-top: 0.25rem; }
+  .hp__novellas a {
+    font-size: 0.85rem;
+    padding: 0.25rem 0.5rem; }
+    .hp__novellas a:hover {
+      color: #fffff0;
+      background-color: #8B0000; }
 
 .novellas__teasers {
   display: -webkit-box;
@@ -2167,34 +2170,35 @@ ul {
     margin-right: 0.5rem; }
 
 /* SHORT STORIES */
-.hp__short-stories header {
-  border-top: 2px solid #8B0000;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: row;
-      -ms-flex-direction: row;
-          flex-direction: row;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  margin-bottom: 1rem; }
-
-.hp__short-stories h2 {
-  font-size: 1rem;
-  letter-spacing: 0.1rem;
-  padding-top: 0.25rem; }
-
-.hp__short-stories a {
-  font-size: 0.85rem;
-  padding: 0.25rem 0.5rem; }
-  .hp__short-stories a:hover {
-    color: #fffff0;
-    background-color: #8B0000; }
+.hp__short-stories {
+  margin: 0 auto !important; }
+  .hp__short-stories header {
+    border-top: 2px solid #8B0000;
+    border-bottom: 1px solid #8B0000;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    margin-bottom: 1rem; }
+  .hp__short-stories h2 {
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    padding-top: 0.25rem; }
+  .hp__short-stories a {
+    font-size: 0.85rem;
+    padding: 0.25rem 0.5rem; }
+    .hp__short-stories a:hover {
+      color: #fffff0;
+      background-color: #8B0000; }
 
 .short-stories__teasers {
   display: -webkit-box;
@@ -2228,34 +2232,35 @@ ul {
     margin-right: 0.5rem; }
 
 /* MURDERWIKI */
-.hp__mw header {
-  border-top: 2px solid #8B0000;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: row;
-      -ms-flex-direction: row;
-          flex-direction: row;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  margin-bottom: 1rem; }
-
-.hp__mw h2 {
-  font-size: 1rem;
-  letter-spacing: 0.1rem;
-  padding-top: 0.25rem; }
-
-.hp__mw a {
-  font-size: 0.85rem;
-  padding: 0.25rem 0.5rem; }
-  .hp__mw a:hover {
-    color: #fffff0;
-    background-color: #8B0000; }
+.hp__mw {
+  margin: 0 auto !important; }
+  .hp__mw header {
+    border-top: 2px solid #8B0000;
+    border-bottom: 1px solid #8B0000;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    margin-bottom: 1rem; }
+  .hp__mw h2 {
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    padding-top: 0.25rem; }
+  .hp__mw a {
+    font-size: 0.85rem;
+    padding: 0.25rem 0.5rem; }
+    .hp__mw a:hover {
+      color: #fffff0;
+      background-color: #8B0000; }
 
 .mw__teasers {
   display: -webkit-box;
