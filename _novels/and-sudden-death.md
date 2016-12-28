@@ -3,7 +3,7 @@ layout: short-stories
 casefileNumber: 
 title: "And Sudden Death"
 author: Cleve F. Adams
-price: 6.99
+price: 7.99
 category: novels
 image: /assets/img/novels/AndSuddenDeath.jpg
 wordcount: 72804
