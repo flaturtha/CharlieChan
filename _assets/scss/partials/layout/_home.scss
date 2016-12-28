@@ -36,7 +36,12 @@ ul {
     text-align: center;
     color: $paper;
   }
-
+  a {
+    &:hover {
+      color: $acolor;
+      text-decoration: underline;
+    }
+  }
   @media screen and (min-width: 48rem){
     // min-height: 50vh;
   }

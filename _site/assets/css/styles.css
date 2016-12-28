@@ -795,6 +795,7 @@ h4, .h4 {
 
 .smallnav {
   border-top: 1px solid #5e6971;
+  border-bottom: 1px solid #5e6971;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -802,10 +803,14 @@ h4, .h4 {
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
-          justify-content: space-between; }
+          justify-content: space-between;
+  -webkit-box-align: baseline;
+  -webkit-align-items: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+  padding: 0.5rem 0; }
 
 .breadcrumbs {
-  padding-top: 1rem;
   font-size: 0.75rem;
   text-transform: uppercase; }
 
@@ -828,7 +833,7 @@ h4, .h4 {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  margin: 1rem 1rem 0 0;
+  margin-right: 1rem;
   height: 15px; }
 
 .fa-shopping-cart {
@@ -1132,6 +1137,9 @@ a.readmore {
     clear: both;
     display: table; }
   .card__small img {
+    opacity: 0.85;
+    -webkit-filter: saturate(75%);
+            filter: saturate(75%);
     width: 47.5%;
     min-height: 210px;
     float: left;
@@ -1142,6 +1150,10 @@ a.readmore {
     border: 1px solid black;
     -webkit-box-shadow: -4px 8px 8px rgba(71, 79, 85, 0.2);
             box-shadow: -4px 8px 8px rgba(71, 79, 85, 0.2); }
+    .card__small img:hover {
+      opacity: 1;
+      -webkit-filter: saturate(100%);
+              filter: saturate(100%); }
     @media (min-width: 530px) {
       .card__small img {
         float: none;
@@ -1327,8 +1339,7 @@ a.readmore {
   width: 100%;
   height: auto;
   margin-bottom: 1rem;
-  padding-bottom: 1rem;
-  border-bottom: 1px solid #5e6971; }
+  padding-bottom: 1rem; }
 
 .pagetitle {
   margin: 1rem; }
@@ -1858,6 +1869,9 @@ ul {
   .siteintro p {
     text-align: center;
     color: #fffff0; }
+  .siteintro a:hover {
+    color: #8B0000;
+    text-decoration: underline; }
 
 .siteintro_top {
   margin-top: 76px;
@@ -2428,6 +2442,7 @@ p {
 /* NAV */
 .nav {
   z-index: 2;
+  border-bottom: 4px solid #8B0000;
   font-family: 'Oswald',sans-serif;
   position: fixed;
   top: 0;

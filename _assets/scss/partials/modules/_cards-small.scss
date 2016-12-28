@@ -18,6 +18,12 @@
 	margin-bottom: 1rem;
 	margin-top: 1rem;
 	img {
+		opacity: 0.85;
+		filter: saturate(75%);
+		&:hover {
+			opacity: 1;
+			filter: saturate(100%);
+		}
 		width: span(4 of 8);
 		min-height: 210px;
 		float: left;

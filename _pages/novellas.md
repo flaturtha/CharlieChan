@@ -21,8 +21,9 @@ category: novellas
     {% else %}
       {% include breadcrumbs.html %}
     {% endif %}
-
-    <div style="margin-top:1rem;font-size:0.75rem;color:#8b0000;font-weight:bold;border-bottom:1px solid #8b0000;">SEARCH <i class="fa fa-search"></i></div>
+    
+    <!-- SEARCH -->
+    <!-- <div style="margin-top:1rem;font-size:0.75rem;color:#8b0000;font-weight:bold;border-bottom:1px solid #8b0000;">SEARCH <i class="fa fa-search"></i></div> -->
 
     {% include showcart.html %}
 
