@@ -11,14 +11,17 @@
         
         <a href="{{ novellas.url }}" class="readmore">
         <img src="{{ novellas.image }}" alt="{{ novellas.title }} by {{ novellas.author }}"></a>
-        <h2 class="title">{{ novellas.title }}</h2>
-        <h3 class="author"><span>by</span> {{ novellas.author }}</h3>
-        <p class="descriptive">{{ novellas.descriptive }}</p>
-        <div class="price">
-          <p>${{ novellas.price }}</p>
+        <div class="card__small__header">
+          <div>
+            <h2 class="title">{{ novellas.title }}</h2>
+            <h3 class="author"><span>by</span> {{ novellas.author }}</h3>
+          </div>
+          <div class="price">
+            <p>${{ novellas.price }}</p>
+          </div>
         </div>
-        <button class="buybutton"><a href="{{ novellas.url }}" style="color:#fffff0;">Learn More</a></button>
-        <!-- <p class="buybutton">Buy</p> -->
+          <p class="descriptive">{{ novellas.descriptive }}</p>
+        <button class="buybutton"><a href="{{ novellas.url }}">Learn More</a></button>
 
       </li>
 

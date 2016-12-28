@@ -7,7 +7,7 @@
   line-height: 0;
   list-style: none;
   p {
-    line-height: 1.5rem;
+    // line-height: 1.5rem;
     padding: 5px 10px;
   }
 }
@@ -16,6 +16,7 @@
 	@include cf;
 	width: span(8 of 8);
 	margin-bottom: 1rem;
+	margin-top: 1rem;
 	img {
 		width: span(4 of 8);
 		min-height: 210px;
@@ -35,6 +36,7 @@
 		color: $acolor;
 		font-size: 1rem;
 		text-transform: uppercase;
+		margin-top: 1rem;
 	}
 	h3 {
 		// color: $acolor;
@@ -52,26 +54,36 @@
 	.price {
 		font-weight: bolder;
 		font-size: 0.875rem;
-		// text-align: center;
-		// border-radius: 50%;
-		// background-color: darken($acolor, 10%);
-		// background-color: yellow;
+		text-align: center;
+		border: 1px solid $acolor;
 		color: $acolor;
-		margin: 0.5rem;
-		// padding-left: 0.5rem;
-		// position: relative;
-		// top: -50px;
-		// right: 0;
+		margin-top: 1rem;
+		padding: 1rem 0.25rem;
+		height: 25px;
+		width: 50px;
+	}
+	.card__small__header{
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
 		// width: 50px;
-		// height: 50px;
+		margin-bottom: 1rem;
+		@include susy-breakpoint($bp-large){
+			flex-direction: row;
+		}
 	}
 	.buybutton {
 		background-color: darken($acolor, 10%);
 		color: $paper;
 		margin-top: 0.5rem;
 		padding: 1rem;
+		height: 35px;
+		width: 125px;
 		border: 1px solid $acolor;
 		border-radius: 4px;
+		a {
+			color: $paper !important;
+		}
 	}
 	.descriptive {
 		font-size: 0.857rem;
@@ -104,6 +116,56 @@
 }
 
 .hp__card__small {
+	margin-bottom: 1rem;
+	h2 {
+		color: $acolor;
+		font-size: 1rem;
+		text-transform: uppercase;
+		margin-top: 1rem;
+	}
+	h3 {
+		// color: $acolor;
+		font-size: 0.75rem;
+		span {
+			color: $pcolor;
+			font-style: italic;
+			font-weight: normal;
+		}
+	}
+	p {
+		margin: 0;
+		padding: 0;
+	}
+	.price {
+		font-weight: bolder;
+		font-size: 0.875rem;
+		text-align: center;
+		border: 1px solid $acolor;
+		color: $acolor;
+		margin-top: 1rem;
+		padding: 1rem 0.25rem;
+		height: 25px;
+	}
+	.buybutton {
+		background-color: darken($acolor, 10%);
+		color: $paper;
+		margin-top: 0.5rem;
+		padding: 1rem;
+		height: 35px;
+		width: 125px;
+		border: 1px solid $acolor;
+		border-radius: 4px;
+		a {
+			color: $paper !important;
+		}
+	}
+	.descriptive {
+		font-size: 0.857rem;
+		font-style: italic;
+		color: lighten($pcolor, 10%);
+		line-height: 1;
+		margin-top: 0.25rem;
+	}
 	@include susy-breakpoint($bp-med){
 		@include gallery(4 of 8);
 	}	

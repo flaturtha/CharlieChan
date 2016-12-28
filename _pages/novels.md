@@ -5,9 +5,25 @@ title: Novels
 tagline: Find something good to read &hellip;
 category: novels
 ---
+<div class="{{ page.title }}">
 
-<div class="{{ page.title }}" style="margin:15rem 0;">
+  <header class="pagehead">
+        
+     <section class="pagetitle">
+      <h1>{{ page.title }}</h1>
+      <h2>{{ page.tagline }}</h2>
+      <h3 style="text-align: center;font-size: 1rem;">For a long weekend or day at the beach!</h3>
+    </section> <!-- end div.pagetitle --> 
+    
+    
+  </header>
 
-  <h1 class="newnovels_temp"><span>NEW NOVELS COMING SOON!</span></h1>
+  <div class="cf"></div>
+
+  <section class="card__container">
+
+    {% include card-novels.html %}
+
+  </section> <!-- end section .container .card__container -->
 
 </div>

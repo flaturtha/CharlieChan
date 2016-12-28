@@ -7,9 +7,10 @@ price: 0.99
 category: novellas
 image: /assets/img/novellas/so-dead-the-rose.jpg
 wordcount: 12268
+excerpt: "It was love that made him agree to make the payment, to protect her from her husband's infedelity. But will his love for her force him to take the rap for murder?"
 ---
 
-It was love that made him agree to make the payment, to protect her from his infedelity. But will his love for her force him to take the rap for murder?
+It was love that made him agree to make the payment, to protect her from her husband's infedelity. But will his love for her force him to take the rap for murder?
 
 *** PRICE: {{ page.price }}
 

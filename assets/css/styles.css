@@ -793,9 +793,19 @@ h4, .h4 {
 .close:hover {
   background: #00d9ff; }
 
+.smallnav {
+  border-top: 1px solid #5e6971;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between; }
+
 .breadcrumbs {
-  border-bottom: 2px solid #242424;
-  padding-bottom: 1rem;
+  padding-top: 1rem;
   font-size: 0.75rem;
   text-transform: uppercase; }
 
@@ -818,7 +828,8 @@ h4, .h4 {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  margin-right: 1rem; }
+  margin: 1rem 1rem 0 0;
+  height: 15px; }
 
 .fa-shopping-cart {
   color: #8B0000;
@@ -827,7 +838,8 @@ h4, .h4 {
 #sendowl-cart-widget {
   color: #8B0000;
   text-align: center;
-  margin-top: 0.5rem; }
+  margin-top: 0.2rem;
+  font-size: 0.875rem; }
 
 .cart-count {
   font-weight: bold;
@@ -1109,12 +1121,12 @@ a.readmore {
     clear: both;
     display: table; }
   .cards__small p {
-    line-height: 1.5rem;
     padding: 5px 10px; }
 
 .card__small {
   width: 97.5%;
-  margin-bottom: 1rem; }
+  margin-bottom: 1rem;
+  margin-top: 1rem; }
   .card__small:after {
     content: "";
     clear: both;
@@ -1137,7 +1149,8 @@ a.readmore {
   .card__small h2 {
     color: #8B0000;
     font-size: 1rem;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    margin-top: 1rem; }
   .card__small h3 {
     font-size: 0.75rem; }
     .card__small h3 span {
@@ -1150,16 +1163,47 @@ a.readmore {
   .card__small .price {
     font-weight: bolder;
     font-size: 0.875rem;
+    text-align: center;
+    border: 1px solid #8B0000;
     color: #8B0000;
-    margin: 0.5rem; }
+    margin-top: 1rem;
+    padding: 1rem 0.25rem;
+    height: 25px;
+    width: 50px; }
+  .card__small .card__small__header {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    margin-bottom: 1rem; }
+    @media (min-width: 775px) {
+      .card__small .card__small__header {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: row;
+            -ms-flex-direction: row;
+                flex-direction: row; } }
   .card__small .buybutton {
     background-color: #580000;
     color: #fffff0;
     margin-top: 0.5rem;
     padding: 1rem;
+    height: 35px;
+    width: 125px;
     border: 1px solid #8B0000;
     -webkit-border-radius: 4px;
             border-radius: 4px; }
+    .card__small .buybutton a {
+      color: #fffff0 !important; }
   .card__small .descriptive {
     font-size: 0.857rem;
     font-style: italic;
@@ -1213,18 +1257,61 @@ a.readmore {
       margin-right: -100%;
       clear: none; } }
 
-@media (min-width: 530px) {
-  .hp__card__small {
-    width: 47.5%;
-    float: left; }
-    .hp__card__small:nth-child(2n + 1) {
-      margin-left: 1.25%;
-      margin-right: -100%;
-      clear: both; }
-    .hp__card__small:nth-child(2n + 2) {
-      margin-left: 51.25%;
-      margin-right: -100%;
-      clear: none; } }
+.hp__card__small {
+  margin-bottom: 1rem; }
+  .hp__card__small h2 {
+    color: #8B0000;
+    font-size: 1rem;
+    text-transform: uppercase;
+    margin-top: 1rem; }
+  .hp__card__small h3 {
+    font-size: 0.75rem; }
+    .hp__card__small h3 span {
+      color: #474F55;
+      font-style: italic;
+      font-weight: normal; }
+  .hp__card__small p {
+    margin: 0;
+    padding: 0; }
+  .hp__card__small .price {
+    font-weight: bolder;
+    font-size: 0.875rem;
+    text-align: center;
+    border: 1px solid #8B0000;
+    color: #8B0000;
+    margin-top: 1rem;
+    padding: 1rem 0.25rem;
+    height: 25px; }
+  .hp__card__small .buybutton {
+    background-color: #580000;
+    color: #fffff0;
+    margin-top: 0.5rem;
+    padding: 1rem;
+    height: 35px;
+    width: 125px;
+    border: 1px solid #8B0000;
+    -webkit-border-radius: 4px;
+            border-radius: 4px; }
+    .hp__card__small .buybutton a {
+      color: #fffff0 !important; }
+  .hp__card__small .descriptive {
+    font-size: 0.857rem;
+    font-style: italic;
+    color: #5e6971;
+    line-height: 1;
+    margin-top: 0.25rem; }
+  @media (min-width: 530px) {
+    .hp__card__small {
+      width: 47.5%;
+      float: left; }
+      .hp__card__small:nth-child(2n + 1) {
+        margin-left: 1.25%;
+        margin-right: -100%;
+        clear: both; }
+      .hp__card__small:nth-child(2n + 2) {
+        margin-left: 51.25%;
+        margin-right: -100%;
+        clear: none; } }
 
 .lead {
   font-style: normal;
@@ -1241,7 +1328,7 @@ a.readmore {
   height: auto;
   margin-bottom: 1rem;
   padding-bottom: 1rem;
-  border-bottom: 2px solid #242424; }
+  border-bottom: 1px solid #5e6971; }
 
 .pagetitle {
   margin: 1rem; }
@@ -1364,9 +1451,8 @@ span.etr {
   display: block; }
 
 .excerpt {
-  letter-spacing: 1.5px;
   font-size: 0.875rem;
-  padding: 1rem 0.5rem 0.25rem 1rem;
+  line-height: 1.25rem;
   text-align: left; }
 
 .toc {
@@ -2122,7 +2208,7 @@ ul {
 
 /* NOVELLAS */
 .hp__novellas {
-  margin: 0 auto !important; }
+  margin: 5rem auto 0 !important; }
   .hp__novellas header {
     border-top: 2px solid #8B0000;
     border-bottom: 1px solid #8B0000;
@@ -2172,7 +2258,7 @@ ul {
 
 /* SHORT STORIES */
 .hp__short-stories {
-  margin: 0 auto !important; }
+  margin: 5rem auto 0 !important; }
   .hp__short-stories header {
     border-top: 2px solid #8B0000;
     border-bottom: 1px solid #8B0000;
@@ -2234,7 +2320,7 @@ ul {
 
 /* MURDERWIKI */
 .hp__mw {
-  margin: 0 auto !important; }
+  margin: 5rem auto 0 !important; }
   .hp__mw header {
     border-top: 2px solid #8B0000;
     border-bottom: 1px solid #8B0000;

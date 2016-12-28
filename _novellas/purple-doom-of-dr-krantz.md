@@ -8,6 +8,7 @@ category: novellas
 descriptive: "A Dixon Hawke Mystery"
 image: /assets/img/novellas/purple-doom-of-dr-krantz.jpg
 wordcount: 28377
+excerpt: "Will Dixon Hawke's wiley wisdom be enough to allow him to penetrate Hitler's inner sanctum and destroy the secret weapon created by Nazi scientist Dr. Krantz or will he be found out as a British Spy?"
 ---
 
 Will Dixon Hawke's wiley wisdom be enough to allow him to penetrate Hitler's inner sanctum and destroy the secret weapon created by Nazi scientist Dr. Krantz or will he be found out as a British Spy?

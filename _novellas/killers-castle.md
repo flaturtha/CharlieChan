@@ -7,6 +7,7 @@ price: 2.99
 category: novellas
 image: /assets/img/novellas/killers-castle.jpg
 wordcount: 28377
+excerpt: "Magda Stewart had asked for his help and now she was missing. Could Elver find the girl before it was too late?"
 ---
 
 Magda Stewart had asked for his help and now she was missing. Could Elver find the girl before it was too late?

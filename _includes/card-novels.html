@@ -1,39 +1,20 @@
-<ul class="cards">
+<ul class="cards__small">
 {% for novels in site.novels %}
 
-<!-- README IF STATEMENT -->
-{% if site.readtime %}
-  {% if site.wpm %}
-    {% assign readtime = novels.wordcount | divided_by:site.wpm %}
-  {% else %}ƒ
-    {% assign readtime = novels.wordcount | divided_by:180 %}
-  {% endif %}
-{% endif %}
+  <li class="card__small" {% if novels.genre %} id="{{ novels.genre | downcase }}"{% endif %}>
+    
+    <a href="{{ novels.url }}" class="readmore">
+    <img src="{{ novels.image }}" alt="{{ novels.title }} by {{ novels.author }}"></a>
+    <h2 class="title">{{ novels.title }}</h2>
+    <h3 class="author"><span>by</span> {{ novels.author }}</h3>
+    <p class="descriptive">{{ novels.descriptive }}</p>
+    <div class="price">
+      <p>${{ novels.price }}</p>
+    </div>
+    <p class="excerpt">{{ novels.excerpt }}</p>
+    <button class="buybutton"><a href="{{ novels.url }}">BUY</a></button>
 
-
-    <li class="card" {% if novels.genre %} id="{{ novels.genre | downcase }}"{% endif %}>
-
-      <header class="card__header" style="background-image:url(' {{ novels.image }}');">
-
-      <p class="card__genre">{{ novels.genre }}</p>
-
-      <h2 class="card__meta">{{ novels.title }} <span>{{ novels.author }}</span></h2>
-
-      </header> <!-- end header.card__header -->
-
-      <p class="TOCexcerpt">{{ novels.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ novels.url }}" class="readmore">Read&nbsp;the&nbsp;story&nbsp;&rsaquo;&rsaquo;</a> </p>
-      <p class="meta">{{ novels.wordcount | thousands_separated }} words | {% if site.readtime %}
-        {% if readtime > 60 %}
-        {% assign readtime_hours = readtime | divided_by: 60 %}
-        {% assign readtime_minutes = readtime | modulo:60 %}
-          {% if readtime_hours > 1 and readtime_hours < 2 %}1 hour
-          {% else %}<span class="hour">{{ readtime_hours }}</span> hr
-          {% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} <span class="time">{{ readtime_minutes }}</span> min{% endif %}
-        {% else %}
-          {% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
-        {% endif %}
-        </p>
-    </li>
+  </li>
 
 {% endfor %}
 

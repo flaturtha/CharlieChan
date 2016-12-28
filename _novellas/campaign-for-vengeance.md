@@ -7,6 +7,7 @@ price: 1.49
 category: novellas
 image: /assets/img/novellas/campaign-for-vengeance.jpg
 wordcount: 15158
+excerpt: "After her beloved brother, Captain Jimmy Cornell, was found dead, with a small, white card on his chest bearing the words, The Mogal, Marguerite swore she’d bring the killers to justice."
 ---
 
 After her beloved brother, Captain Jimmy Cornell, was found dead, with a small, white card on his chest bearing the words, The Mogal, Marguerite swore she’d bring the killers to justice.

@@ -7,6 +7,7 @@ price: 6.99
 category: novels
 image: /assets/img/novels/BIB.jpg
 wordcount: 72804
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad eaque distinctio vel illo beatae aliquid mollitia iure similique accusantium! Voluptatem a repellendus officia sit praesentium vitae earum vel maiores dolore."
 ---
 
 ***BACK OF THE BOOK COPY:

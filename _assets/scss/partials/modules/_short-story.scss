@@ -8,7 +8,7 @@
   height: auto;
   margin-bottom: 1rem;
   padding-bottom: 1rem;
-  border-bottom: 2px solid $bgcolor;
+  border-bottom: 1px solid #5e6971;
 }
 
 .pagetitle {
@@ -283,9 +283,11 @@ span.etr {
 }
 
 .excerpt {
-  letter-spacing: 1.5px;
+  // letter-spacing: 1.5px;
   font-size: 0.875rem;
-  padding: 1rem 0.5rem 0.25rem 1rem;
+  line-height: 1.25rem;
+  // color: blue;
+  // padding: 1rem 0.5rem 0.25rem 1rem;
   // margin: 1rem 1rem 2rem;
   text-align: left;
   // border-bottom: 2px solid $acolor;
