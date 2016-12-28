@@ -1782,14 +1782,15 @@ ul {
   .homepage section h2 {
     color: #8B0000; }
 
-.newnovels_temp {
-  text-align: center;
-  color: #8B0000; }
-  .newnovels_temp span {
-    padding: 2rem;
-    border: 1px solid #8B0000;
-    -webkit-border-radius: 5px;
-            border-radius: 5px; }
+.whitebar {
+  background-color: #fffff0;
+  color: #8B0000;
+  padding: 0.5rem 1rem;
+  font-weight: bold;
+  font-size: 0.8rem; }
+  @media screen and (min-width: 466px) {
+    .whitebar {
+      font-size: 1rem; } }
 
 .header_home {
   height: 33vh;

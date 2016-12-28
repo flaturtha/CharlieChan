@@ -57,13 +57,14 @@ ul {
   }
 }
 
-.newnovels_temp {
-  text-align: center;
+.whitebar {
+  background-color: $paper;
   color: $acolor;
-  span {
-    padding: 2rem;
-    border: 1px solid $acolor;
-    border-radius: 5px;
+  padding: 0.5rem 1rem;
+  font-weight: bold;
+  font-size: 0.8rem;
+  @media screen and (min-width: 466px) {
+    font-size: 1rem;
   }
 }
 
