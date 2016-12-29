@@ -1,5 +1,5 @@
 ---
-layout: post_mw
+layout: short-stories
 layoutTag: post
 title: "The Eternal Curious & the Literature of the Mystery"
 author: Carolyn Wells

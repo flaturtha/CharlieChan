@@ -69,7 +69,7 @@
 
   <nav class="nav" role="navigation">
 
-  <div class="social-nav">
+  <div class="social-nav hidden">
     <h2 class="hidden">Social Media Submenu</h2>
     <ul>
       <!-- <li class="submenu__search"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li> -->
@@ -105,12 +105,10 @@
   <!--  include optin2.html %}
    include optin-modal.html %} -->
 
-  <div class="branding">
-  <h1 class="title hidden">Tales&nbsp;<span class="rotated-text">of</span>&nbsp;Murder</h1>
+	
+  
 
-  <!-- include optin2.html %} -->
 
-</div>
 
 
   <!-- include dateline.html -->
@@ -122,19 +120,65 @@
     <div class="Novels">
 
   <header class="pagehead">
-        
      <section class="pagetitle">
-      <h1>Novels</h1>
-      <h2>Find something good to read &hellip;</h2>
-      <h3 style="text-align: center;font-size: 1rem;">For a long weekend or day at the beach!</h3>
+      
+      <img src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!" />
+
+      <h1><span>Novels</span></h1>
+      <!-- <p><span >For a long weekend or day at the beach!</span></p> -->
+      <!-- <p style="text-align: center;font-size: 1rem;">For a long weekend or day at the beach!</p> -->
     </section> <!-- end div.pagetitle --> 
     
+    <section class="smallnav">
+  
+    <section class="breadcrumbs">
+
+
+  <ul class="breadcrumb">
+    <li><a href="/">HOME </a></li>
+    
+    
+    <li class="active">
+      
+        Novels
+      
+    </li>
+    
+  </ul>
+
+</section>
+
+
+
+
+
+
+ <!-- <section class="breadcrumbs">
+  <p class="xsmall"><span class="underline">Home</span> > <span class="bold">Novels</span></p>  
+</section>end div.breadcrumbs -->
+  
+  
+  <!-- SEARCH -->
+  <!-- <div style="margin-top:1rem;font-size:0.75rem;color:#8b0000;font-weight:bold;border-bottom:1px solid #8b0000;">SEARCH <i class="fa fa-search"></i></div> -->
+
+  <div class="showcart" id="showcart">
+    <script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js"></script>
+    <a href="https://transactions.sendowl.com/cart?merchant_id=32054" rel="nofollow"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
+    <script>sendOwl.cartWidget({merchantID: 32054,
+                                cartPhrase: "Cart: ",
+                                parent: document.getElementById("showcart"),
+                                useCartImage: false,
+                                customStyle: true
+    });</script>
+</div>
+
+</section>
     
   </header>
 
   <div class="cf"></div>
 
-  <section class="card__container">
+  <section class="card__container wrap">
 
     <ul class="cards__small">
 
@@ -142,12 +186,15 @@
   <li class="card__small">
     
     <a href="/novels/and-sudden-death/" class="readmore">
-    <img src="/assets/img/novels/AndSuddenDeath.jpg" alt="And Sudden Death by Cleve F. Adams" /></a>
-    <h2 class="title">And Sudden Death</h2>
-    <h3 class="author"><span>by</span> Cleve F. Adams</h3>
-    <p class="descriptive"></p>
-    <div class="price">
-      <p>$7.99</p>
+      <img src="/assets/img/novels/AndSuddenDeath.jpg" alt="And Sudden Death by Cleve F. Adams" /></a>
+    <div class="card__small__header">
+      <div>
+        <h2 class="title">And Sudden Death</h2>
+        <h3 class="author"><span>by</span> Cleve F. Adams</h3>
+      </div>
+      <div class="price">
+        <p>$7.99</p>
+      </div>
     </div>
     <p class="excerpt">Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him &hellip; ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings &amp; Loan.</p>
     <button class="buybutton"><a href="/novels/and-sudden-death/">BUY</a></button>
@@ -159,12 +206,15 @@
   <li class="card__small">
     
     <a href="/novels/blonde-in-black/" class="readmore">
-    <img src="/assets/img/novels/BIB.jpg" alt="The Blonde in Black by Ben Benson" /></a>
-    <h2 class="title">The Blonde in Black</h2>
-    <h3 class="author"><span>by</span> Ben Benson</h3>
-    <p class="descriptive"></p>
-    <div class="price">
-      <p>$6.99</p>
+      <img src="/assets/img/novels/BIB.jpg" alt="The Blonde in Black by Ben Benson" /></a>
+    <div class="card__small__header">
+      <div>
+        <h2 class="title">The Blonde in Black</h2>
+        <h3 class="author"><span>by</span> Ben Benson</h3>
+      </div>
+      <div class="price">
+        <p>$6.99</p>
+      </div>
     </div>
     <p class="excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad eaque distinctio vel illo beatae aliquid mollitia iure similique accusantium! Voluptatem a repellendus officia sit praesentium vitae earum vel maiores dolore.</p>
     <button class="buybutton"><a href="/novels/blonde-in-black/">BUY</a></button>
@@ -176,17 +226,17 @@
   <li class="card__small">
     
     <a href="/novels/openingdoor/" class="readmore">
-    <img src="/assets/img/novels/OpeningDoor_cover3.jpg" alt="The Opening Door by Helen Reilly" /></a>
-    <h2 class="title">The Opening Door</h2>
-    <h3 class="author"><span>by</span> Helen Reilly</h3>
-    <p class="descriptive"></p>
-    <div class="price">
-      <p>$6.99</p>
+      <img src="/assets/img/novels/OpeningDoor_cover3.jpg" alt="The Opening Door by Helen Reilly" /></a>
+    <div class="card__small__header">
+      <div>
+        <h2 class="title">The Opening Door</h2>
+        <h3 class="author"><span>by</span> Helen Reilly</h3>
+      </div>
+      <div class="price">
+        <p>$6.99</p>
+      </div>
     </div>
-    <p class="excerpt"><p>***BACK OF THE BOOK COPY:
-A really fun story that’ll keep you guessing until the final chapter. And you’ll never believe whodunit or why!!</p>
-
-</p>
+    <p class="excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus maiores perspiciatis vitae, aliquid dolore architecto provident itaque laudantium, et adipisci assumenda ipsam asperiores, culpa atque accusantium modi. Quis, ad, temporibus.</p>
     <button class="buybutton"><a href="/novels/openingdoor/">BUY</a></button>
 
   </li>
@@ -196,16 +246,17 @@ A really fun story that’ll keep you guessing until the final chapter. And you�
   <li class="card__small">
     
     <a href="/novels/target-in-taffeta/" class="readmore">
-    <img src="/assets/img/novels/AndSuddenDeath.jpg" alt="Target in Taffetta by Ben Benson" /></a>
-    <h2 class="title">Target in Taffetta</h2>
-    <h3 class="author"><span>by</span> Ben Benson</h3>
-    <p class="descriptive"></p>
-    <div class="price">
-      <p>$6.99</p>
+      <img src="/assets/img/novels/AndSuddenDeath.jpg" alt="Target in Taffetta by Ben Benson" /></a>
+    <div class="card__small__header">
+      <div>
+        <h2 class="title">Target in Taffetta</h2>
+        <h3 class="author"><span>by</span> Ben Benson</h3>
+      </div>
+      <div class="price">
+        <p>$6.99</p>
+      </div>
     </div>
-    <p class="excerpt"><p>Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him … ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings &amp; Loan.</p>
-
-</p>
+    <p class="excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus maiores perspiciatis vitae, aliquid dolore architecto provident itaque laudantium, et adipisci assumenda ipsam asperiores, culpa atque accusantium modi. Quis, ad, temporibus.</p>
     <button class="buybutton"><a href="/novels/target-in-taffeta/">BUY</a></button>
 
   </li>

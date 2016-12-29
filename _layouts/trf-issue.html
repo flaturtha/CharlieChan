@@ -1,7 +1,22 @@
 ---
 layout: default2
 ---
-<div id="theredfile" class="{{ page.layout }}">
+
+<header class="pagehead">
+   <section class="pagetitle">
+    
+    <img style="padding-bottom: 1rem;" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
+
+    <!-- <h1><span>{{ page.category | replace:'-',' ' | capitalize | append:'s' }}</span></h1> -->
+    <!-- <p><span >{{ page.tagline }}</span></p> -->
+    <!-- <p style="text-align: center;font-size: 1rem;">For a long weekend or day at the beach!</p> -->
+  </section> <!-- end div.pagetitle --> 
+  
+  {% include smallnav.html %}
+  
+</header>
+
+<div class="theredfile" id="theredfile" class="{{ page.layout }}">
 
 	<article class="trf__content" id="story-main" style="margin-bottom: 2rem;">
 		<figure>

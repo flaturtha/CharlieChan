@@ -1,5 +1,5 @@
 ---
-layout: post_mw
+layout: short-stories
 layoutTag: post
 title: "What is a Detective Story?"
 author: Carolyn Wells

@@ -30,7 +30,7 @@ ul {
     background-color: $paper;
     color: $acolor;
     border: 3px solid $paper;
-    border-radius: 15px;
+    border-radius: 5px;
   }
   p {
     text-align: center;
@@ -46,6 +46,11 @@ ul {
     // min-height: 50vh;
   }
 }
+
+// .siteintro2 {
+//   @extend .siteintro;
+//   padding-bottom: 10rem;
+// }
 
 .siteintro_top {
   margin-top: 76px;

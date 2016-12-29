@@ -1,5 +1,5 @@
 ---
-layout: post_mw
+layout: short-stories
 layoutTag: post
 title: "History of the Mystery & Riddle Stories"
 author: Carolyn Wells

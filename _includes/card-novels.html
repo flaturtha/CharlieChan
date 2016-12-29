@@ -4,12 +4,15 @@
   <li class="card__small" {% if novels.genre %} id="{{ novels.genre | downcase }}"{% endif %}>
     
     <a href="{{ novels.url }}" class="readmore">
-    <img src="{{ novels.image }}" alt="{{ novels.title }} by {{ novels.author }}"></a>
-    <h2 class="title">{{ novels.title }}</h2>
-    <h3 class="author"><span>by</span> {{ novels.author }}</h3>
-    <p class="descriptive">{{ novels.descriptive }}</p>
-    <div class="price">
-      <p>${{ novels.price }}</p>
+      <img src="{{ novels.image }}" alt="{{ novels.title }} by {{ novels.author }}"></a>
+    <div class="card__small__header">
+      <div>
+        <h2 class="title">{{ novels.title }}</h2>
+        <h3 class="author"><span>by</span> {{ novels.author }}</h3>
+      </div>
+      <div class="price">
+        <p>${{ novels.price }}</p>
+      </div>
     </div>
     <p class="excerpt">{{ novels.excerpt }}</p>
     <button class="buybutton"><a href="{{ novels.url }}">BUY</a></button>

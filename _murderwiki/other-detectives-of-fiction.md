@@ -1,5 +1,5 @@
 ---
-layout: post_mw
+layout: short-stories
 layoutTag: post
 title: "Other Detectives of Fiction"
 author: Carolyn Wells

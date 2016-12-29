@@ -2,25 +2,30 @@
 layout: default2
 permalink: /novels/
 title: Novels
-tagline: Find something good to read &hellip;
+tagline: For a long weekend or day at the beach!
 category: novels
 ---
+
+
 <div class="{{ page.title }}">
 
   <header class="pagehead">
-        
      <section class="pagetitle">
-      <h1>{{ page.title }}</h1>
-      <h2>{{ page.tagline }}</h2>
-      <h3 style="text-align: center;font-size: 1rem;">For a long weekend or day at the beach!</h3>
+      
+      <img src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
+
+      <h1><span>{{ page.title }}</span></h1>
+      <!-- <p><span >{{ page.tagline }}</span></p> -->
+      <!-- <p style="text-align: center;font-size: 1rem;">For a long weekend or day at the beach!</p> -->
     </section> <!-- end div.pagetitle --> 
     
+    {% include smallnav.html %}
     
   </header>
 
   <div class="cf"></div>
 
-  <section class="card__container">
+  <section class="card__container wrap">
 
     {% include card-novels.html %}
 

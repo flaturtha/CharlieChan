@@ -1,5 +1,5 @@
 ---
-layout: post_mw
+layout: short-stories
 layoutTag: post
 title: "The Detective"
 subtitle: The fictive detective and his methods

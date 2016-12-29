@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: books
 casefileNumber: 
 title: "And Sudden Death"
 author: Cleve F. Adams

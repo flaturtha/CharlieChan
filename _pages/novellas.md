@@ -9,28 +9,17 @@ category: novellas
 <div class="{{ page.title }}">
 
   <header class="pagehead">
-   
-    <section class="pagetitle">
-      <h1>{{ page.title }}</h1>
-      <h2>{{ page.tagline }}</h2>
-      <h3 style="text-align: center;font-size: 1rem;">For a lazy Saturday afternoon!</h3>
-    </section> <!-- end div.pagetitle -->
+     <section class="pagetitle">
+      
+      <img src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
 
-    <section class="smallnav">
-    {% if page.url == "/" %}
-    {% else %}
-      {% include breadcrumbs.html %}
-    {% endif %}
+      <h1><span>{{ page.title }}</span></h1>
+      <!-- <p><span >{{ page.tagline }}</span></p> -->
+      <!-- <p style="text-align: center;font-size: 1rem;">For a long weekend or day at the beach!</p> -->
+    </section> <!-- end div.pagetitle --> 
     
-    <!-- SEARCH -->
-    <!-- <div style="margin-top:1rem;font-size:0.75rem;color:#8b0000;font-weight:bold;border-bottom:1px solid #8b0000;">SEARCH <i class="fa fa-search"></i></div> -->
-
-    {% include showcart.html %}
-
-    </section>
+    {% include smallnav.html %}
     
-    <!-- include search.html %} -->
-
   </header>
 
   <div class="cf"></div>

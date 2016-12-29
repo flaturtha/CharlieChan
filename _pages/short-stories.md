@@ -9,19 +9,17 @@ category: short-stories
 <div class="{{ page.title }}">
 
   <header class="pagehead">
-    
-<!-- end    <section class="breadcrumbs">
-      <p class="xsmall"><span class="underline">Home</span> > <span class="bold">Short Stories</span></p>  
-    </section>  div.breadcrumbs -->
-    
-    <section class="pagetitle">
-      <h1>{{ page.title }}</h1>
-      <h2>{{ page.tagline }}</h2>
-      <h3 style="text-align: center;font-size: 1rem;">For a quick escape!</h3>
-    </section> <!-- end div.pagetitle -->
-    
-    <!-- add search here -->
+     <section class="pagetitle">
+      
+      <img src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
 
+      <h1><span>{{ page.title }}</span></h1>
+      <!-- <p><span >{{ page.tagline }}</span></p> -->
+      <!-- <p style="text-align: center;font-size: 1rem;">For a long weekend or day at the beach!</p> -->
+    </section> <!-- end div.pagetitle --> 
+    
+    {% include smallnav.html %}
+    
   </header>
 
   <div class="cf"></div>

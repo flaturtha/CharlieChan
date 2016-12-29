@@ -3,30 +3,48 @@
 =============================================*/
 
 .pagehead {
-  // border: 1px solid blue;
+  // border: 4px solid blue;
   width: 100%;
   height: auto;
-  margin-bottom: 1rem;
+  margin: -1rem 0 1rem 0;
   padding-bottom: 1rem;
   // border-bottom: 1px solid #5e6971;
 }
 
 .pagetitle {
-  // border: 1px solid green;
-  h1, h2 {
-    text-align: center;
-    text-transform: uppercase;
+  min-width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  // border: 10px solid green;
+  background-color: $acolor;
+  background-image: url('/assets/img/site/pulpicons2.svg');
+  background-repeat: repeat;
+  background-size: 100%;
+  background-position: center center;
+  padding: 2rem 0 0.05rem 0;
+  img {
+    padding-bottom: 1rem;
   }
   h1 {
-    font-size: 2rem;
+    text-align: center;
     color: $acolor;
-    margin: 0 auto;
+    text-transform: uppercase;
+    span {
+    background-color: $paper;
+    border: 3px solid $paper;
+    border-radius: 5px;
+    padding: 0 5rem;
+    }
   }
-  h2 {
-    font-size: 1rem;
-    color: lighten($pcolor, 10%);
+  p {
+    text-align: center;
+    color: $paper;
   }
-  margin: 1rem;
+  a {
+    &:hover {
+      color: $acolor;
+      text-decoration: underline;
+    }
+  }
 }
 
 .sortsearch {

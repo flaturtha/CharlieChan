@@ -7,7 +7,13 @@
   <!--  include optin2.html %}
    include optin-modal.html %} -->
 
-  {% include branding2.html %}
+	{% if page.url == "/" %}
+	  {% include branding2.html %}
+  {% else %}
+  {% endif %}
+
+
+
 
   <!-- include dateline.html -->
 

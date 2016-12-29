@@ -1,5 +1,5 @@
 ---
-layout: post_mw
+layout: short-stories
 layoutTag: post
 title: "The Handling of the Crime"
 author: Carolyn Wells

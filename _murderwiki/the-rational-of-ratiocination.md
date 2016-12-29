@@ -1,5 +1,5 @@
 ---
-layout: post_mw
+layout: short-stories
 layoutTag: post
 title: "The Rational of Ratiocination"
 subtitle: "Detectives & Their Methods For Solving Crime"

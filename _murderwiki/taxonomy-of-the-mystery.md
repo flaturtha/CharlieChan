@@ -1,5 +1,5 @@
 ---
-layout: post_mw
+layout: short-stories
 layoutTag: post
 title: "Taxonomy of the Mystery"
 subtitle: "36 Semi-Scientific Schema of Classification of the Types, Styles & Subgenres of Mystery Fiction"

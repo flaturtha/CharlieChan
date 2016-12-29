@@ -1,5 +1,5 @@
 ---
-layout: post_mw
+layout: short-stories
 layoutTag: post
 title: "Footprints and Fingerprints"
 author: Carolyn Wells

@@ -1,5 +1,5 @@
 ---
-layout: post_mw
+layout: short-stories
 layoutTag: post
 title: "The Complete History of the Mystery"
 subtitle: A Survey of the Development of Mystery Genre Form Throughout History

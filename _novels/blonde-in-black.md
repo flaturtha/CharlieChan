@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: books
 casefileNumber: 
 title: "The Blonde in Black"
 author: Ben Benson

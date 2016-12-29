@@ -1,7 +1,7 @@
 ---
 layout: default2
 permalink: /about/
-title: Masthead
+title: About
 tagline: Who we are, What we do &amp; why
 category: about
 ---
@@ -9,12 +9,17 @@ category: about
 <div class="{{ page.title }}">
 
   <header class="pagehead">
-    
-    <section class="pagetitle">
-      <h1>{{ page.title }}</h1>
-      <h2>{{ page.tagline }}</h2>
-    </section> <!-- end div.pagetitle -->
+     <section class="pagetitle">
       
+      <img src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
+
+      <h1><span>{{ page.title }}</span></h1>
+      <!-- <p><span >{{ page.tagline }}</span></p> -->
+      <!-- <p style="text-align: center;font-size: 1rem;">For a long weekend or day at the beach!</p> -->
+    </section> <!-- end div.pagetitle --> 
+    
+    {% include smallnav.html %}
+    
   </header>
 
   {% include eboard.html %}

@@ -159,6 +159,7 @@
 		padding: 1rem;
 		height: 35px;
 		width: 125px;
+		max-width: 80%; /* added to see if it'll fix Dads text overlap issue */
 		border: 1px solid $acolor;
 		border-radius: 4px;
 		a {
