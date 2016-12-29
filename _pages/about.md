@@ -11,7 +11,7 @@ category: about
   <header class="pagehead">
      <section class="pagetitle">
       
-      <img src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
+      <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
 
       <h1><span>{{ page.title }}</span></h1>
       <!-- <p><span >{{ page.tagline }}</span></p> -->

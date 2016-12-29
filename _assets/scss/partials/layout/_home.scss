@@ -12,6 +12,13 @@ ul {
   }
 }
 
+.hideonmobile {
+  display: none;
+  @media screen and (min-width: 48rem){
+    display: inline;
+  }
+}
+
 .home .main {
     margin-top: 0;
 }
@@ -30,7 +37,7 @@ ul {
     background-color: $paper;
     color: $acolor;
     border: 3px solid $paper;
-    border-radius: 5px;
+    border-radius: 8px;
   }
   p {
     text-align: center;

@@ -838,6 +838,7 @@ h4, .h4 {
       margin-bottom: 0; } }
 
 .breadcrumb {
+  border-bottom: 1px dotted #8B0000;
   display: inline; }
   .breadcrumb li {
     display: inline; }
@@ -850,6 +851,9 @@ h4, .h4 {
     color: #8B0000;
     border-bottom: none;
     font-weight: bolder; }
+  @media screen and (min-width: 48rem) {
+    .breadcrumb {
+      border-bottom: none; } }
 
 .showcart {
   display: -webkit-box;
@@ -857,7 +861,8 @@ h4, .h4 {
   display: -ms-flexbox;
   display: flex;
   margin-right: 1rem;
-  height: 15px; }
+  height: 15px;
+  margin-top: 0.5rem; }
 
 .fa-shopping-cart {
   color: #8B0000;
@@ -1234,11 +1239,13 @@ a.readmore {
     padding: 1rem;
     height: 35px;
     width: 125px;
-    border: 1px solid #8B0000;
+    border: 1px solid #580000;
     -webkit-border-radius: 4px;
             border-radius: 4px; }
     .card__small .buybutton a {
       color: #fffff0 !important; }
+    .card__small .buybutton:hover {
+      background-color: #8B0000; }
   .card__small .descriptive {
     font-size: 0.857rem;
     font-style: italic;
@@ -1326,11 +1333,13 @@ a.readmore {
     width: 125px;
     max-width: 80%;
     /* added to see if it'll fix Dads text overlap issue */
-    border: 1px solid #8B0000;
+    border: 1px solid #580000;
     -webkit-border-radius: 4px;
             border-radius: 4px; }
     .hp__card__small .buybutton a {
       color: #fffff0 !important; }
+    .hp__card__small .buybutton:hover {
+      background-color: #8B0000; }
   .hp__card__small .descriptive {
     font-size: 0.857rem;
     font-style: italic;
@@ -1375,25 +1384,27 @@ a.readmore {
   background-repeat: repeat;
   background-size: 100%;
   background-position: center center;
-  padding: 2rem 0 0.05rem 0; }
+  padding: 0.5rem 0 0.05rem 0; }
   .pagetitle img {
     padding-bottom: 1rem; }
   .pagetitle h1 {
     text-align: center;
-    color: #8B0000;
+    color: #fffff0;
     text-transform: uppercase; }
     .pagetitle h1 span {
-      background-color: #fffff0;
       border: 3px solid #fffff0;
-      -webkit-border-radius: 5px;
-              border-radius: 5px;
-      padding: 0 5rem; }
+      -webkit-border-radius: 8px;
+              border-radius: 8px;
+      padding: 0 2rem; }
   .pagetitle p {
     text-align: center;
     color: #fffff0; }
   .pagetitle a:hover {
     color: #8B0000;
     text-decoration: underline; }
+  @media screen and (min-width: 48rem) {
+    .pagetitle {
+      padding-top: 2rem; } }
 
 .sortsearch {
   display: -webkit-box;
@@ -1889,6 +1900,12 @@ ul {
     margin: 0;
     padding: 0; }
 
+.hideonmobile {
+  display: none; }
+  @media screen and (min-width: 48rem) {
+    .hideonmobile {
+      display: inline; } }
+
 .home .main {
   margin-top: 0; }
 
@@ -1906,8 +1923,8 @@ ul {
     background-color: #fffff0;
     color: #8B0000;
     border: 3px solid #fffff0;
-    -webkit-border-radius: 5px;
-            border-radius: 5px; }
+    -webkit-border-radius: 8px;
+            border-radius: 8px; }
   .siteintro p {
     text-align: center;
     color: #fffff0; }
@@ -2220,8 +2237,7 @@ ul {
     font-size: 0.85rem;
     padding: 0.25rem 0.5rem; }
     .hp__novels a:hover {
-      color: #fffff0;
-      background-color: #8B0000; }
+      color: #fffff0; }
 
 .novels__featured {
   margin: 1rem 0;
@@ -2290,8 +2306,7 @@ ul {
     font-size: 0.85rem;
     padding: 0.25rem 0.5rem; }
     .hp__novellas a:hover {
-      color: #fffff0;
-      background-color: #8B0000; }
+      color: #fffff0; }
 
 .novellas__teasers {
   display: -webkit-box;
@@ -2340,8 +2355,7 @@ ul {
     font-size: 0.85rem;
     padding: 0.25rem 0.5rem; }
     .hp__short-stories a:hover {
-      color: #fffff0;
-      background-color: #8B0000; }
+      color: #fffff0; }
 
 .short-stories__teasers {
   display: -webkit-box;
@@ -2402,8 +2416,7 @@ ul {
     font-size: 0.85rem;
     padding: 0.25rem 0.5rem; }
     .hp__mw a:hover {
-      color: #fffff0;
-      background-color: #8B0000; }
+      color: #fffff0; }
 
 .mw__teasers {
   display: -webkit-box;
@@ -2512,7 +2525,7 @@ p {
     .nav .main-nav a.logo {
       display: inline-block;
       margin: 1rem -2rem 1rem 1rem;
-      background: url("/assets/img/site/tmp9.svg") no-repeat;
+      background: url("/assets/img/site/logo_mobile.svg") no-repeat;
       background-size: contain;
       height: 50px;
       width: 70%; }
@@ -2590,7 +2603,12 @@ p {
       display: block;
       opacity: 1;
       height: 100vh;
-      visibility: visible; }
+      min-height: 100%;
+      visibility: visible;
+      overflow: scroll; }
+      @media screen and (min-width: 450px) {
+        .nav .main-nav input[type=checkbox]:checked ~ ul {
+          height: 81vh; } }
     .nav .main-nav label {
       /* CLOSE X when menu open?? */
       float: right;

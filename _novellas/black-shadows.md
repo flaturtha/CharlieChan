@@ -13,7 +13,11 @@ descriptive: "Murder: for Money or Revenge"
 excerpt: "When old man Guerney is found murdered in his locked study, then the prime suspect and a mysterious tattooed man are also found murdered, newspaperman Johnny Suggs is determined to prove Mildred Guerney's innocense and prove himself to his father."
 image: /assets/img/novellas/black-shadows.jpg
 wordcount: 13469
+buybutton:
+downloadsamplebutton: 
 ---
+
+<a href="https://transactions.sendowl.com/products/501935/2E59FECC/add_to_cart" rel="nofollow"><img src="https://transactions.sendowl.com/assets/external/add-to-cart.png" /></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita soluta, minima, totam ut a aut cum sunt doloribus dolores animi nam ipsa. Expedita culpa hic error laboriosam unde, earum esse!
 

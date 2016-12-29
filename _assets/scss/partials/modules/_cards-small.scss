@@ -85,10 +85,13 @@
 		padding: 1rem;
 		height: 35px;
 		width: 125px;
-		border: 1px solid $acolor;
+		border: 1px solid darken($acolor, 10%);
 		border-radius: 4px;
 		a {
 			color: $paper !important;
+		}
+		&:hover {
+			background-color: $acolor;
 		}
 	}
 	.descriptive {
@@ -160,10 +163,13 @@
 		height: 35px;
 		width: 125px;
 		max-width: 80%; /* added to see if it'll fix Dads text overlap issue */
-		border: 1px solid $acolor;
+		border: 1px solid darken($acolor, 10%);
 		border-radius: 4px;
 		a {
 			color: $paper !important;
+		}
+		&:hover {
+			background-color: $acolor;
 		}
 	}
 	.descriptive {

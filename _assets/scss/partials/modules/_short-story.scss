@@ -20,19 +20,19 @@
   background-repeat: repeat;
   background-size: 100%;
   background-position: center center;
-  padding: 2rem 0 0.05rem 0;
+  padding: 0.5rem 0 0.05rem 0;
   img {
     padding-bottom: 1rem;
   }
   h1 {
     text-align: center;
-    color: $acolor;
+    color: $paper;
     text-transform: uppercase;
     span {
-    background-color: $paper;
+    // background-color: $paper;
     border: 3px solid $paper;
-    border-radius: 5px;
-    padding: 0 5rem;
+    border-radius: 8px;
+    padding: 0 2rem;
     }
   }
   p {
@@ -44,6 +44,9 @@
       color: $acolor;
       text-decoration: underline;
     }
+  }
+  @media screen and (min-width: 48rem){
+    padding-top: 2rem;
   }
 }
 
