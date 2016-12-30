@@ -1301,6 +1301,8 @@ a.readmore {
 
 .hp__card__small {
   margin-bottom: 1rem; }
+  .hp__card__small img {
+    border: 1px solid #242424; }
   .hp__card__small h2 {
     color: #8B0000;
     font-size: 1rem;
@@ -1810,6 +1812,17 @@ ol ol li:last-child {
 .opubchapter {
   color: #8B0000; }
 
+.the-red-file h2 {
+  color: #8B0000;
+  text-align: center; }
+
+.the-red-file span.blotter {
+  font-style: italic;
+  display: block; }
+
+.the-red-file ul li {
+  list-style: circle; }
+
 .trf__issues {
   width: 97.5%;
   float: left;
@@ -1937,6 +1950,59 @@ ol ol li:last-child {
   margin: 3rem auto;
   width: 800px;
   max-width: 90%; }
+
+#mc_embed_signup.hide:after, #mc_embed_signup.hide:before {
+  display: none; }
+
+form {
+  height: 200px;
+  width: 500px;
+  max-width: 98%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center; }
+
+label {
+  margin-bottom: 0.375rem  !important;
+  font-size: 16px;
+  text-transform: uppercase;
+  text-align: center !important;
+  color: #fffff0 !important;
+  background-image: url("/assets/img/5blue.jpg"); }
+
+#mc_embed_signup input[type=submit] {
+  position: relative;
+  font-size: 24px;
+  color: #CA9969;
+  text-align: center;
+  opacity: 1;
+  background: url("/assets/img/5red4.jpg");
+  cursor: pointer; }
+
+#mc_embed_signup input:hover[type=submit] {
+  color: #435c70; }
+
+#mc_embed_signup input[type=email] {
+  border: 1px solid #333;
+  background-color: #dec07b; }
+  #mc_embed_signup input[type=email]::-webkit-input-placeholder {
+    color: #8B0000;
+    text-align: center;
+    opacity: 0.45;
+    font-size: 0.75rem; }
+  #mc_embed_signup input[type=email]::-ms-input-placeholder {
+    color: #8B0000;
+    text-align: center;
+    opacity: 0.45;
+    font-size: 0.75rem; }
+  #mc_embed_signup input[type=email]::-moz-placeholder {
+    color: #8B0000;
+    text-align: center;
+    opacity: 0.45;
+    font-size: 0.75rem; }
+
+.mcform {
+  background-color: #8B0000; }
 
 /*==========  LAYOUT  ==========*/
 /*=============================================

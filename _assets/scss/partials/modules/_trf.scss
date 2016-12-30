@@ -1,4 +1,16 @@
-
+.the-red-file {
+  h2 {
+    color: $acolor;
+    text-align: center;
+  }
+  span.blotter {
+    font-style: italic;
+    display: block;
+  }
+  ul li {
+    list-style: circle;
+  }
+}
 
 .trf__issues {
   @include span(8);

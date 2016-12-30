@@ -126,6 +126,9 @@
 
 .hp__card__small {
 	margin-bottom: 1rem;
+	img {
+		border: 1px solid $bgcolor;
+	}
 	h2 {
 		color: $acolor;
 		font-size: 1rem;
