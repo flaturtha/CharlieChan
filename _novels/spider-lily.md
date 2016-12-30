@@ -1,7 +1,7 @@
 ---
 layout: books
 casefileNumber: 
-title: "Target in Taffetta"
+title: "Spider Lily"
 author: Ben Benson
 price: 6.99
 category: novels

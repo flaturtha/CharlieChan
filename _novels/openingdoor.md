@@ -5,7 +5,7 @@ title: "The Opening Door"
 author: Helen Reilly
 price: 6.99
 category: novels
-image: /assets/img/novels/OpeningDoor_cover3.jpg
+image: /assets/img/novels/comingsoon.png
 wordcount: 72804
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus maiores perspiciatis vitae, aliquid dolore architecto provident itaque laudantium, et adipisci assumenda ipsam asperiores, culpa atque accusantium modi. Quis, ad, temporibus."
 ---
