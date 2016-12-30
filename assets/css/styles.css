@@ -1665,10 +1665,12 @@ ol ol li:last-child {
   -webkit-flex-direction: column;
       -ms-flex-direction: column;
           flex-direction: column;
-  margin-left: 2rem;
   -webkit-align-self: center;
       -ms-flex-item-align: center;
           align-self: center; }
+  @media screen and (min-width: 48rem) {
+    .book_details {
+      margin-left: 2rem; } }
 
 .books__title {
   font-size: 1.25rem;

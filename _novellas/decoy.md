@@ -4,18 +4,18 @@ casefileNumber: 55ccf75fb3901011515af012
 title: "The Decoy"
 author: Robert Murray
 price: 2.99
-opub: The Black Mask
-opubdate: Sep. 1922
-opubissue: Vol. 1, No. 6
+opub: The Thriller
+opubdate: Dec. 28, 1929
+opubissue: Vol. 1, No. 47
 pubdate: 2016-11-15
 category: novellas
 descriptive: "Murder: for Money or Revenge"
 excerpt: "The door was flung open and the tall crook stormed into the room in which the gang were grouped. His finger shot out towards Rackway. \"That man,\" he snarled.\" That man is an impostor — a spy!\""
 tags: Robert Murray, spies
 image: /assets/img/novellas/decoy.jpg
-wordcount: 27614
-buybutton: <a href="https://transactions.sendowl.com/packages/32886/8695C23E/add_to_cart" rel="nofollow" class="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
-downloadsamplebutton: <a href="https://transactions.sendowl.com/products/502078/05C4F183/add_to_cart" rel="nofollow" class="download-sample">Get Sample</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+wordcount: 28754
+buybutton: <a href="https://transactions.sendowl.com/packages/33180/2827273C/add_to_cart" rel="nofollow" class="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+downloadsamplebutton: <a href="https://transactions.sendowl.com/packages/33181/48180432/add_to_cart" rel="nofollow" class="add-to-cart">Get Sample</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 ---
 
 ### Chapter 1

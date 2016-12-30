@@ -38,9 +38,10 @@
 .book_details {
 	display: flex;
 	flex-direction: column;
-	margin-left: 2rem;
 	align-self: center;
-	// @include span(6 of 12);
+	@media screen and (min-width: 48rem){
+		margin-left: 2rem;
+	}
 }
 
 .books__title {
