@@ -11,33 +11,56 @@ pubdate: 2016-11-15
 category: novella
 descriptive: "Murder: for Money or Revenge"
 excerpt: "When old man Guerney is found murdered in his locked study, then the prime suspect and a mysterious tattooed man are also found murdered, newspaperman Johnny Suggs is determined to prove Mildred Guerney's innocense and prove himself to his father."
+tags: J. C. Kofoed, noir, murder, revenge
 image: /assets/img/novellas/black-shadows.jpg
 wordcount: 13469
-buybutton:
-downloadsamplebutton: 
+buybutton: <a href="https://transactions.sendowl.com/packages/32887/32488429/add_to_cart" rel="nofollow" class="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+downloadsamplebutton: <a href="https://transactions.sendowl.com/products/501935/2E59FECC/add_to_cart" rel="nofollow" class="download-sample">Get Sample</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 ---
 
-<a href="https://transactions.sendowl.com/products/501935/2E59FECC/add_to_cart" rel="nofollow"><img src="https://transactions.sendowl.com/assets/external/add-to-cart.png" /></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+### Chapter 1
+{: .chapternumber }
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita soluta, minima, totam ut a aut cum sunt doloribus dolores animi nam ipsa. Expedita culpa hic error laboriosam unde, earum esse!
+### Something’s Wrong
+{: .chaptertitle }
 
-Illum excepturi dolor consequuntur cupiditate alias error dolorum. Provident itaque nostrum quis fugiat est, laboriosam, dolores iste ullam facere, rem explicabo? Exercitationem sed veritatis, officia atque facilis magnam blanditiis animi.
+The limousine drew up beside the curb. A correctly garbed chauffeur leaped from his seat, opened the door, and stood stiffly at attention as J. Sylvester Jones stepped out. Jones was garbed in a manner that should have made the lilies of the field blush with shame at their shabbiness. 
 
-Laboriosam culpa voluptas laudantium odit ea repellat enim, eum molestias architecto quis assumenda fugit dolorem earum ullam ut, voluptatum animi quisquam voluptate sint voluptates at repudiandae, temporibus ratione! Dignissimos, molestiae.
+From thirty-dollar hat to forty-dollar shoes, he was impeccable. 
 
-Doloremque ducimus aspernatur est alias ullam dolore quibusdam quae numquam inventore reprehenderit recusandae officiis repellendus quisquam, consequuntur, dicta natus quis nisi excepturi. Suscipit vitae quibusdam temporibus repellendus, odio velit officiis?
+"You may wait, Hawker," he said, in a tone that meant, "Hawker, I graciously give you permission to continue living." 
 
-Quia, aut earum! Quod sed voluptatum incidunt, vero aperiam perspiciatis quis animi in fugit nobis cum cumque illo quos aut, nostrum amet minus quaerat. Quidem, sit aliquam! Voluptas, facilis, velit.
+He separated a key from the others on his ring, and languidly ascended the steps of Strickland Guerney's ornate house. It was coming on to dusk, and the great hall was almost dark. Jones switched on the light and looked about curiously. 
 
+"Bradley," he called. 
 
-**Table of Contents**
+A round shouldered, misty eyed little butler came pattering from somewhere in the rear of the house. 
 
-1. Something’s Wrong
-2. An Impression Of The Lock
-3. A Mysterious Note From Bradley
-4. Two Dead Men
-5. Bradley’s Denial
-6. The Chauffer’s Alibi
-7. Guerney’s Daughter
+"I am astonished at this carelessness, Bradley," reproved Jones. "Where are the servants?" 
 
+"Ah, Mr. Sylvester, sir, I'm glad you've come." The old butler pointed a skinny, shaking hand toward the ceiling. "Something's wrong, Mr. Sylvester; I know it in my bones." 
 
+"Wrong? What could be wrong?"
+
+The story continues &hellip; buy it today and find out "what could be wrong!"
+{: .tobecontinued }
+
+<hr>
+<br>
+
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li>Something’s Wrong</li>
+		<li>An Impression Of The Lock</li>
+		<li>A Mysterious Note From Bradley</li>
+		<li>Two Dead Men</li>
+		<li>Bradley’s Denial</li>
+		<li>The Chauffer’s Alibi</li>
+		<li>Guerney’s Daughter</li>
+	</ol>
+
+</div>

@@ -81,7 +81,7 @@
   }
 }
 
-.policies, .terms {
+.policies, .terms, .manifesto {
   @include span(8);
   // @include push(1);
   &__header {

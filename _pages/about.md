@@ -22,7 +22,7 @@ category: about
     
   </header>
 
-  {% include eboard.html %}
+  <!-- include eboard.html %} -->
 
   {% include lfte.html %}
 
@@ -30,6 +30,6 @@ category: about
 
   {% include terms.html %}
 
-  <!-- include contact.html  -->
+  {% include contact.html %}
 
-</div>
+<!-- </div> -->

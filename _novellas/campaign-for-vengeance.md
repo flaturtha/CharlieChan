@@ -4,14 +4,15 @@ casefileNumber: 55ccf75fb3901011515aef53
 title: "The Campaign for Vengeance"
 author: John Baer
 price: 1.49
+opub: The Black Mask
+opubdate: Sep. 1922
+opubissue: Vol. 1, No. 6
 category: novellas
+descriptive: "Murder: for Money or Revenge"
+excerpt: "After her beloved brother, Captain Jimmy Cornell, was found dead, with a small, white card on his chest bearing the words, The Mogal, Marguerite swore she’d bring the killers to justice."
+tags: John Baer, revenge, female protagonist
 image: /assets/img/novellas/campaign-for-vengeance.jpg
 wordcount: 15158
-excerpt: "After her beloved brother, Captain Jimmy Cornell, was found dead, with a small, white card on his chest bearing the words, The Mogal, Marguerite swore she’d bring the killers to justice."
+buybutton:
+downloadsamplebutton:
 ---
-
-After her beloved brother, Captain Jimmy Cornell, was found dead, with a small, white card on his chest bearing the words, The Mogal, Marguerite swore she’d bring the killers to justice.
-
-*** PRICE: {{ page.price }}
-
-<a href="https://transactions.sendowl.com/packages/32889/273BD150/add_to_cart" rel="nofollow"><img style="width: 150px;" src="https://transactions.sendowl.com/assets/external/add-to-cart.png" /></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>

@@ -88,10 +88,11 @@
 	font-size: 1.5rem;
 }
 
-.download-sample {
-	background-color: #C02200;
+.download-sample, .add-to-cart {
+	background-color: $paper;
+	color: darken($acolor, 10%);
+	border: 1px solid darken($acolor, 10%);
 	border-radius: 5px;
-	color: $paper;
 	width: 150px;
 	height: 50px;
 	font-size: 1.125rem;
@@ -99,6 +100,10 @@
 	padding: 1rem;
 	margin-left: 1rem;
 	text-align: center;
+	&:hover {
+		background-color: darken($acolor, 10%);
+		color: $paper;
+	}
 }
 
 .book__buttons {
@@ -124,5 +129,9 @@
 	font-size: 0.75rem
 }
 
-
+.tobecontinued {
+	font-weight: bold;
+	text-align: center;
+	font-size: 1.25rem;
+}
 
