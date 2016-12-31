@@ -11,7 +11,7 @@ pubdate: 2016-11-15
 category: novellas
 descriptive: "A Dixon Hawke Mystery"
 excerpt: "Will Dixon Hawke's wiley wisdom be enough to allow him to penetrate Hitler's inner sanctum and destroy the secret weapon created by Nazi scientist Dr. Krantz or will he be found out as a British Spy?"
-tags: world war 2, Hitler, espionage
+tags: novella, world war 2, Hitler, espionage
 image: /assets/img/novellas/purple-doom-of-dr-krantz.jpg
 wordcount: 17454
 buybutton: <a href="https://transactions.sendowl.com/packages/33176/421F8364/add_to_cart" rel="nofollow" class="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>

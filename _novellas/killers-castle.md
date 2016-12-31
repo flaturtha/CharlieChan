@@ -11,7 +11,7 @@ pubdate: 2016-11-15
 category: novellas
 descriptive: 
 excerpt: "Magda Stewart had asked for his help and now she was missing. Could Elver find the girl before it was too late?"
-tags: England, kidnapping
+tags: novella, England, kidnapping
 image: /assets/img/novellas/killers-castle.jpg
 wordcount: 28377
 buybutton: <a href="https://transactions.sendowl.com/packages/33172/02170A8F/add_to_cart" rel="nofollow" class="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>

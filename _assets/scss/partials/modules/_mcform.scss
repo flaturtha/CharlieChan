@@ -39,7 +39,7 @@ label {
   font-size: 16px;
   text-transform: uppercase;
   text-align: center !important;
-  color: $acolor !important;
+  color: $acolor;
   // opacity: 0.5;
 }
 
@@ -53,6 +53,7 @@ label {
   background-color: darken($acolor, 10%);
   color: $paper;
   text-align: center;
+  max-width: 90%;
   // opacity: 1;
   cursor: pointer;
   &:hover {
@@ -62,6 +63,10 @@ label {
   }
 }
 
+#mce-EMAIL {
+  max-width: 90%;
+}
+
 // #mc_embed_signup input:hover[type=submit] {font-weight: bold;}
 
 #mc_embed_signup input[type=email] {
@@ -69,4 +74,6 @@ label {
   // box-shadow: inset 2px -2px 4px 2px rgba(0,0,0,0.4);
   background-color: darken($paper, 5%);
   font-size: 1.5rem;
+  color: $acolor;
+  padding-left: 0.5rem;
 }

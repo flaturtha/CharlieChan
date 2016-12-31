@@ -1837,15 +1837,6 @@ ol ol li:last-child {
 .the-red-file span.blotter {
   font-style: italic; }
 
-.the-red-file ul {
-  width: 600px;
-  max-width: 90%;
-  margin: 1rem auto; }
-  .the-red-file ul li {
-    list-style: initial;
-    margin: initial;
-    padding: 0 0 0 40px; }
-
 .trf__main {
   width: 800px;
   max-width: 90%;
@@ -2054,7 +2045,7 @@ label {
   font-size: 16px;
   text-transform: uppercase;
   text-align: center !important;
-  color: #8B0000 !important; }
+  color: #8B0000; }
 
 #mc_embed_signup input[type=submit] {
   margin-top: 1rem;
@@ -2067,16 +2058,45 @@ label {
   background-color: #580000;
   color: #fffff0;
   text-align: center;
+  max-width: 90%;
   cursor: pointer; }
   #mc_embed_signup input[type=submit]:hover {
     background-color: #fffff0;
     color: #580000;
     border: 1px solid #580000; }
 
+#mce-EMAIL {
+  max-width: 90%; }
+
 #mc_embed_signup input[type=email] {
   border: 1px solid #333;
   background-color: #ffffd7;
-  font-size: 1.5rem; }
+  font-size: 1.5rem;
+  color: #8B0000;
+  padding-left: 0.5rem; }
+
+/*=============================================
+=    DOWNLOADS PAGE            								=
+=============================================*/
+.page-intro h2 {
+  text-align: center;
+  color: #8B0000;
+  border: 2px solid #8B0000;
+  -webkit-border-radius: 8px;
+          border-radius: 8px;
+  margin-bottom: 2rem; }
+
+.download-instructions {
+  border-top: 1px solid #242424;
+  border-bottom: 1px solid #242424;
+  margin: 1rem; }
+
+.download__smallprint {
+  font-size: 0.875rem;
+  width: 500px;
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 1rem; }
 
 /*==========  LAYOUT  ==========*/
 /*=============================================

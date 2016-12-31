@@ -1,0 +1,27 @@
+/*=============================================
+=    DOWNLOADS PAGE            								=
+=============================================*/
+
+.page-intro {
+	h2 {
+		text-align: center;
+		color: $acolor;
+		border: 2px solid $acolor;
+		border-radius: 8px;
+		margin-bottom: 2rem;
+	}
+}
+
+.download-instructions {
+	border-top: 1px solid $bgcolor;
+	border-bottom: 1px solid $bgcolor;
+	margin: 1rem;
+}
+
+.download__smallprint {
+	font-size: 0.875rem;
+	width: 500px;
+	max-width: 80%;
+	margin: 0 auto;
+	padding: 1rem;
+}

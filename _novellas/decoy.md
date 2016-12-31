@@ -11,7 +11,7 @@ pubdate: 2016-11-15
 category: novellas
 descriptive: "Murder: for Money or Revenge"
 excerpt: "The door was flung open and the tall crook stormed into the room in which the gang were grouped. His finger shot out towards Rackway. \"That man,\" he snarled.\" That man is an impostor — a spy!\""
-tags: Robert Murray, spies
+tags: novella, spies, "Robert Murray"
 image: /assets/img/novellas/decoy.jpg
 wordcount: 28754
 buybutton: <a href="https://transactions.sendowl.com/packages/33180/2827273C/add_to_cart" rel="nofollow" class="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>

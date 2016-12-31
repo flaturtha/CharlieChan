@@ -11,7 +11,7 @@ pubdate: 2016-11-15
 category: novella
 descriptive: "Murder: for Money or Revenge"
 excerpt: "When old man Guerney is found murdered in his locked study, then the prime suspect and a mysterious tattooed man are also found murdered, newspaperman Johnny Suggs is determined to prove Mildred Guerney's innocense and prove himself to his father."
-tags: J. C. Kofoed, noir, murder, revenge
+tags: novella, noir, murder, revenge, "J. C. Kofoed"
 image: /assets/img/novellas/black-shadows.jpg
 wordcount: 13469
 buybutton: <a href="https://transactions.sendowl.com/packages/33166/417B8FBF/add_to_cart" rel="nofollow" class="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>

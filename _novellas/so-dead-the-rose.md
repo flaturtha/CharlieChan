@@ -11,7 +11,7 @@ pubdate: 2016-11-15
 category: novellas
 descriptive: 
 excerpt: "It was love that made him agree to make the payment, to protect her from her husband's infedelity. But will his love for her force him to take the rap for murder?"
-tags: cruise liner, murder, blackmail, Sim Albert
+tags: novella, cruise liner, murder, blackmail, "Sim Albert"
 image: /assets/img/novellas/so-dead-the-rose.jpg
 wordcount: 12268
 buybutton: <a href="https://transactions.sendowl.com/packages/33174/4921A3F2/add_to_cart" rel="nofollow" class="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
