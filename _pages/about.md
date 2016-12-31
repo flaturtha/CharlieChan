@@ -24,12 +24,18 @@ category: about
 
   <!-- include eboard.html %} -->
 
+  <div class="about__intro">
+    <p>Welcome to the online home of <span class="companyname">Tales of Murder Press, LLC</span>, an independent publisher of classic and out&#8208;of&#8208;print murder mystery and related novels and short stories.</p>
+
+    <p>If it's a story that involves murder or violent, unnatural death in any component, or involves crime and detectives, whether professional or amateur, we publish it.</p>
+  </div>
+
   {% include lfte.html %}
 
   {% include policies.html %}
 
   {% include terms.html %}
 
-  {% include contact.html %}
+   <!-- include contact.html %} -->
 
 <!-- </div> -->

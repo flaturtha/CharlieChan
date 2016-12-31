@@ -162,7 +162,7 @@
 		background-color: darken($acolor, 10%);
 		color: $paper;
 		margin-top: 0.5rem;
-		padding: 1rem;
+		// padding: 1rem; /* to fix the scrunched LEARN MORE on Mom's computer! */
 		height: 35px;
 		width: 125px;
 		max-width: 80%; /* added to see if it'll fix Dads text overlap issue */
