@@ -1,15 +1,34 @@
 .the-red-file {
+  hr {
+    margin-bottom: 1rem;
+  }
   h2 {
     color: $acolor;
     text-align: center;
+    border: 2px solid $acolor;
+    border-radius: 8px;
+    margin-bottom: 2rem;
   }
   span.blotter {
     font-style: italic;
-    display: block;
+    // display: block;
   }
-  ul li {
-    list-style: circle;
+  ul {
+    width: 600px;
+    max-width: 90%;
+    margin: 1rem auto;
+    li {
+      list-style: initial;
+      margin: initial;
+      padding: 0 0 0 40px;
+    }
   }
+}
+
+.trf__main {
+  width: 800px;
+  max-width: 90%;
+  margin: 0 auto;
 }
 
 .trf__issues {
@@ -35,3 +54,46 @@
     @include push(2);
   }
 }
+
+.trf__dl {
+  width: 600px;
+  max-width: 90%;
+  margin: 1rem auto;
+  dt {
+    color: $acolor;
+    font-weight: bold;
+    margin-top: 1rem;
+  }
+  dd {
+    font-weight: bold;
+    margin: 0 0 0 2rem;
+    span.price {
+      font-style: italic;
+    }
+  }
+}
+
+.freebie {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem auto;
+  // height: 250px;
+    max-width: 95%;
+  img {
+    width: 300px;
+    height: auto;
+    // float: left;
+    margin-right: 1rem;
+  }
+  .freebie__inner{
+    margin: 1rem 0;
+    align-self: center;
+  }
+  @media screen and (min-width: 48rem){
+    flex-direction: row;
+    height: 500px;
+  }
+}
+
+
+

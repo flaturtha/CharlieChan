@@ -12,6 +12,14 @@
   }
 }
 
+.hp__link {
+	&:hover {
+		color: $acolor !important;
+		// background-color: $acolor;
+		font-style: italic;
+	}
+}
+
 .card__small {
 	@include cf;
 	width: span(8 of 8);

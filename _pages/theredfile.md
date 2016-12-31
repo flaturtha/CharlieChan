@@ -22,33 +22,53 @@ category: the-red-file
     
   </header>
 
-  <h2>THE RED FILE <span class="blotter">Weekly Blotter</span></h2>
+  <main class="trf__main">
+    <h2>THE RED FILE :: <span class="blotter">Weekly&nbsp;Blotter</span></h2>
 
-  <p>Thanks for your interest in our FREE weekly email subscription!</p>
+    <h3 class="intro">Thanks for your interest in the FREE weekly email subscription to the <span class="blotter">Weekly&nbsp;Blotter</span>!</h3>
 
-  <p>By subscribing today, you'll instantly recieve your copy of this exciting murder mystery novella, as well as get a weekly email with:</p>
+    <p>A FREE weekly version of our soon-to-be available digital magazine THE RED FILE, the <span class="blotter">Weekly&nbsp;Blotter</span> keeps murder mystery &amp; crime fiction fans informed about the latest short stories, novellas, novels and MurderWiki articles available on the site.</p>
 
-  <ul>
-    <li>links to newly posted short stories &amp; MURDERWIKI articles available online</li>
-    <li>download links for all longer short stories that are only readible via download</li>
-    <li>one free novella, normally selling for between $0.99 and $2.99 on this site &hellip; one free each week when you sign up now!</li>
-    <li>a list of newly release, and soon-to-be-released novels</li>
-    <li>a weekly discount code you can use on any or all products on the site</li>
-  </ul>
+    <hr>
 
-  <p>Please fill in the form below to active your subscription and recieve your copy of THE CAMPAIGN FOR VENGEANCE, which sells on this site for $1.49</p>
-  
-  <div class="mcform">
-    {% include MC_form1.html %}
-  </div>
+    <p class="bold">By subscribing today, you'll instantly recieve a copy of the exciting murder mystery novella:</p>
 
+    <div class="freebie">
+      <img src="/assets/img/novellas/campaign-for-vengeance.jpg" alt="The Campaign for Vengeance by John Baer">
+      <div class="freebie__inner">
+        <p class="books__title">THE CAMPAIGN FOR VENGEANCE</p>
+        <p class="books__author">by <span>John Baer</span></p>
+        <p class="etr">READ TIME: 1 HR AND 15 MINS</p>
+        <p>After her beloved brother, Captain Jimmy Cornell, was found dead, with a small, white card on his chest bearing the words, The Mogal, Marguerite swore she’d bring the killers to justice.</p>
+        <p class="book__price"><span class="strikethru">$1.49</span> FREE when you subscribe today!</p>
+      </div>
+    </div>
 
+    <hr>
 
+    <p>As a subscriber, you'll also get a weekly email with:</p>
 
+    <dl class="trf__dl">
+      <dt>NEW SHORT STORIES</dt>
+      <dd>Direct links to new stories posted online.</dd>
+      <dt>INSTANT DOWNLOADS</dt>
+      <dd>Download longer short stories directly from your email!</dd>
+      <dt>FREE WEEKLY NOVELLA</dt>
+      <dd>Access to a novella-length story, normally <span class="price">$0.99 - 3.99.</span></dd>
+      <dt>EARLY NOTIFICATION OF NEWLY RELEASE NOVELS</dt>
+      <dd>Buy them pre-launch for discounted prices, as much as 50% off!</dd>
+      <dt>WEEKLY DISCOUNT CODE</dt>
+      <dd>Subscriber-only discount codes for up to 15% off everything in our store.</dd>
+    </dl>
 
+    <p style="color:#8b0000;font-size:1.125rem;margin:2rem;"><span class="bold">Don't hesitate</span> &mdash; Enter your best email address below, get comfortable in your favorite chair, and enjoy a good mystery!</p>
+    
+    <div class="mcform">
+      {% include MC_form1.html %}
+    </div>
 
-
-  <!-- include card-trf.html %} -->
+    <!-- include card-trf.html %} -->
+  </main>
 
 </div>
 
