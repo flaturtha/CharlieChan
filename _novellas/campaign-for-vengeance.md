@@ -9,7 +9,7 @@ opubdate: Sep. 1922
 opubissue: Vol. 1, No. 6
 category: novellas
 descriptive: "Murder: for Money or Revenge"
-excerpt: "After her beloved brother, Captain Jimmy Cornell, was found dead, with a small, white card on his chest bearing the words, The Mogal, Marguerite swore she’d bring the killers to justice."
+descriptor: "After her beloved brother, Captain Jimmy Cornell, was found dead, with a small, white card on his chest bearing the words, The Mogal, Marguerite swore she’d bring the killers to justice."
 tags: revenge, female protagonist, police, novella, "John Baer"
 image: /assets/img/novellas/campaign-for-vengeance.jpg
 wordcount: 15158

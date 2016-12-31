@@ -10,7 +10,7 @@ opubissue:
 pubdate: 2016-11-15
 category: novellas
 descriptive: 
-excerpt: "Magda Stewart had asked for his help and now she was missing. Could Elver find the girl before it was too late?"
+descriptor: "Magda Stewart had asked for his help and now she was missing. Could Elver find the girl before it was too late?"
 tags: novella, England, kidnapping
 image: /assets/img/novellas/killers-castle.jpg
 wordcount: 28377

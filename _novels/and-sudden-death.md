@@ -7,7 +7,7 @@ price: 7.99
 category: novels
 image: /assets/img/novels/andsuddendeath_comingsoon.jpg
 wordcount: 72804
-excerpt: "Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him &hellip; ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings & Loan."
+descriptor: "Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him &hellip; ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings & Loan."
 ---
 
 Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him &hellip; ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings & Loan.

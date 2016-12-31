@@ -51,16 +51,25 @@ layout: default2
           {% endif %}
           </span>
         </p>
-        <p>{{ page.excerpt }}</p>
+        <p>{{ page.descriptor }}</p>
         
         <p class="book__price">${{ page.price }}</p>
 
         <div class="book__buttons">
-          {{ page.buybutton }}
-          {{ page.downloadsamplebutton }}
+          {% if page.buybutton %}
+            {{ page.buybutton }}
+            {{ page.downloadsamplebutton }}
+          {% else %}
+            <div style="border:1px solid #8b0000;">
+              <p style="color:#8b0000;padding:1rem 1rem 0 1rem;">NOT YET RELEASED</p>
+            </div>
+          {% endif %}
+          
         </div>
         <br>
-        <p class="small">NOTE: Samples are added to your shopping cart with a $0.00 charge. If only samples are in your cart, you will <span class="bold">NOT</span> be required to provide a credit card, only an email address for delivery.</p>
+        {% if page.buybutton %}
+          <p class="small">NOTE: Samples are added to your shopping cart with a $0.00 charge. If only samples are in your cart, you will <span class="bold">NOT</span> be required to provide a credit card, only an email address for delivery.</p>
+        {% endif %}
 
     </div>
 
