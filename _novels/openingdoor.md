@@ -5,7 +5,7 @@ title: "The Opening Door"
 author: Helen Reilly
 price: 6.99
 category: novels
-image: /assets/img/novels/comingsoon.png
+image: /assets/img/novels/comingsoon.svg
 wordcount: 72,804
 descriptor: "Eve Flavell has news. News that will deepen the rift between her and her father. But then a murder of one of the household. What does the murder tell of the deep secrets in the Flavell household?"
 ---

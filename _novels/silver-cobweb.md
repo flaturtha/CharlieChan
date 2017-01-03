@@ -5,7 +5,7 @@ title: "Silver Cobweb"
 author: Ben Benson
 price: 4.99
 category: novels
-image: /assets/img/novels/comingsoon.png
+image: /assets/img/novels/comingsoon.svg
 wordcount: 49,493
 descriptor: "She was bad news and caught up in the murder of two young teens, but somehow I couldn't stay away."
 buybutton:
