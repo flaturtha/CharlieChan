@@ -1,7 +1,10 @@
 <ul class="cards">
-{% for short-stories in site.short-stories %}
 
-{% if short-stories.wordcount < 3501 %}
+{% assign sort1 = site.short-stories | sort: 'wordcount' %}
+
+{% for short-stories in sort1 %}
+
+<!-- if short-stories.wordcount < 3501 %} -->
 
 <!-- README IF STATEMENT -->
 {% if site.readtime %}
@@ -45,7 +48,7 @@
         </p>
     </li>
 
-{% endif %}
+ <!-- endif %} -->
 
 {% endfor %}
 

@@ -1,10 +1,11 @@
 <ul class="cards">
 
-{% assign sort1 = site.short-stories | sort: 'wordcount' %}
+<!--  assign sort1 = site.short-stories | sort: 'wordcount' %}
 
-{% for short-stories in sort1 %}
+ for short-stories in sort1 %} -->
+ {% for short-stories in site.short-stories %}
 
-<!-- if short-stories.wordcount < 3501 %} -->
+ <!-- if short-stories.wordcount < 3001 %} -->
 
 <!-- README IF STATEMENT -->
 {% if site.readtime %}
@@ -34,8 +35,13 @@
 
       </header> <!-- end header.card__header -->
 
-      <p class="TOCexcerpt">{{ short-stories.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ short-stories.url }}" class="readmore">Read&nbsp;the&nbsp;story&nbsp;&rsaquo;&rsaquo;</a> </p>
-      <p class="meta">{{ short-stories.wordcount | thousands_separated }} words | {% if site.readtime %}
+      <p class="TOCexcerpt">{{ short-stories.excerpt | remove: '<p>' | remove: '</p>' }}<br><a href="{{ short-stories.url }}" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+        {% if short-stories.wordcount < 3001 %}
+          Read&nbsp;online&nbsp;&rsaquo;&rsaquo;</a></p>
+        {% else %}
+          Download&nbsp;&amp;&nbsp;read&nbsp;&rsaquo;&rsaquo;</a></p>
+        {% endif %}
+        <p class="meta">{{ short-stories.wordcount | thousands_separated }} words | {% if site.readtime %}
         {% if readtime > 60 %}
         {% assign readtime_hours = readtime | divided_by: 60 %}
         {% assign readtime_minutes = readtime | modulo:60 %}
@@ -48,7 +54,7 @@
         </p>
     </li>
 
- <!-- endif %} -->
+<!-- endif %} -->
 
 {% endfor %}
 

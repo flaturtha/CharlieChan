@@ -14,6 +14,11 @@ category: short-stories
       <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
 
       <h1><span>{{ page.title }}</span></h1>
+      <!-- <div style="background-color:#fffff0;padding:0.25rem;width:300px;margin:0 auto 1rem;">
+        <p style="color:#8b0000;">All stories free.<br>Email sign up required to download &amp; read PREMIUM stories.</p>
+      </div> -->
+
+
       <!-- <p><span >{{ page.tagline }}</span></p> -->
       <!-- <p style="text-align: center;font-size: 1rem;">For a long weekend or day at the beach!</p> -->
     </section> <!-- end div.pagetitle --> 
