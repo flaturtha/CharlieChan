@@ -2,11 +2,16 @@
 layout: short-stories
 layoutTag: post
 title: "Structure"
+subtitle: "The Differences in the Structure of the Short Story &amp; the Novel"
+opub: "The Techniques of the Mystery"
+opub_date: 1913
+chapter: "Chapter 23"
 author: Carolyn Wells
-date: 2016-08-29-16
+date: 2016-08-29
 category: murderwiki
-excerpt: Chapter 23 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: "A Detective Story depends so much on the logic and plausibility of its conditions, that a vague or uncertain touch on the practical or material details greatly mars the effect."
+image: /assets/img/murderwiki/A_Study_in_Scarlet_Friston_02.png
+caption: "\"As he spoke, his nimble fingers were flying here, there, and everywhere.\"<br>From 'A Study in Scarlet' by Sir Arthur Conan Doyle"
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 3421

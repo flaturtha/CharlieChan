@@ -2,11 +2,17 @@
 layout: short-stories
 layoutTag: post
 title: "Close Observation"
+subtitle: "On of the High Cards of the Fiction Detective's Game"
+opub: "The Techniques of the Mystery Story"
+chapter: "Chapter 11"
 author: Carolyn Wells
-date: 2016-08-29-16
+opub_date: 1913
+date: 2016-08-29
 category: murderwiki
-excerpt: Chapter 11 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: "There is a fascination about the solving of a big murder mystery by a bit of a broken cuff-link; or the tracing of a professional burglar by a speck of cigarette ash. Of course, the philosophy is that these clues are so small as to be unnoticed by the criminal who so conveniently leaves them behind him. Also they are unnoticed by the amateur or the Central Office sleuth, and so redound to the glory of the Transcendent Detective."
+image: /assets/img/murderwiki/The_Purloined_Letter.png
+caption: "Illustration to \'The Purloined Letter\' by Edgar Allen Poe. Drawn by Frederic Lix (1830 - 1897), before 1864."
+sizeoverride: contain
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 3826

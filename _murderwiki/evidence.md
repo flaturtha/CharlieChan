@@ -2,11 +2,16 @@
 layout: short-stories
 layoutTag: post
 title: "Evidence"
+subtitle: "How Fictive Detectives Uncover, Decipher, &amp; Use Evidence to Unmask A Fictional Killer"
+chapter: "Chapter 22"
+opub: "The Techniques of the Mystery Story"
 author: Carolyn Wells
+opub_date: 1913
 date: 2016-08-29-16
 category: murderwiki
-excerpt: Chapter 22 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: Nobody wants to read of a dead leaf fallen from a tree, merely to prove that it is autumn. And so it is the author's work to provide clues that lead to something, and that pique the reader into endeavoring to find out for himself what it is.
+image: /assets/img/murderwiki/cockrobin.jpg
+caption: "The Fly and the Spider,<br>from 'Who Killed Cock Robin?'"
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 6587

@@ -3,11 +3,15 @@ layout: short-stories
 layoutTag: post
 title: "The Motive"
 author: Carolyn Wells
-date: 2016-08-29-16
+subtitle: "The Principle Part of Any Mystery"
+chapter: "Chapter 21"
+opub: "The Techniques of the Mystery Story"
+opub_date: 1913
+date: 2016-08-29
 category: murderwiki
-excerpt: Chapter 21 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
-genre: The Techniques of the Mystery
+excerpt: "Only a small percentage, however, of recorded murders are adaptable to fiction plots. A study of the causes of real murders is useful, if one has discrimination in choice."
+image: /assets/img/murderwiki/arthur-train.jpg
+genre: The Techniques of the Mystery Story
 wordcount: 556
 tags: Carolyn Wells, The Techniques of the Mystery
 ---

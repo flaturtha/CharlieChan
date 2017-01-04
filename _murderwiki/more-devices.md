@@ -2,11 +2,16 @@
 layout: short-stories
 layoutTag: post
 title: "More Devices"
+subtitle: "The Use &amp; Often Misuse of Clues, and How to Properly Display Them in a Detective Story"
+opub: "The Techniques of the Mystery Story"
+chapter: Chapter 26
 author: Carolyn Wells
-date: 2016-08-29-16
+opub_date: 1913
+date: 2016-08-29
 category: murderwiki
-excerpt: Chapter 16 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: A Detective Story Writer uses many devices to lead the detective and the reader down many paths, some of which are legitimate, but others that are mere red herrings.
+image: /assets/img/murderwiki/pocketwatch.jpg
+caption: "A trite and greatly worn device is the watch that stopped presumably when the crime was committed."
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 4730

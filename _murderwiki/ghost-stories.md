@@ -2,11 +2,17 @@
 layout: short-stories
 layoutTag: post
 title: "Ghost Stories"
+subtitle: "Mystery Stories with an Inexplicable Supernatural Manifestation"
+opub: "The Techniques of the Mystery Story"
+chapter: "Chapter 4"
 author: Carolyn Wells
+opub_date: 1913
 date: 2016-08-16-16
 category: murderwiki
-excerpt: Chapter 4 of <i>The Techniques of the Mystery</i>, published 1913.
+excerpt: "The fascination of this realm of experience, which is traditional from age to age, yet always elusive, is undeniable. Few men have seen ghosts, or will confess that they have seen them. But almost everybody knows some one of the few. Haunted houses are familiar in all neighborhoods, with the same story of the roistering sceptic who will gladly pass the night alone in the haunted chamber, and give monsieur the ghost a warm welcome; but who, if not found dead in the morning, emerges pale and haggard, with a settled terror in his look, and his lips sealed forever upon the awful story of the night."
 image: /assets/img/murderwiki/Whistle_and_I%27ll_come_to_you_illustration.jpg
+caption: "\'It leapt towards him upon the instant.\'<br>Illustration by James McBryde for M. R. James's story \"Oh, Whistle, And I'll Come To You, My Lad\", first published \"All Hallows Eve 1904\"."
+sizeoverride: contain
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 3521

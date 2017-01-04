@@ -2,11 +2,16 @@
 layout: short-stories
 layoutTag: post
 title: "Persons in the Story"
+subtitle: "An Exploration of the Victims, Criminals, Suspects &amp; Other Characters in the Mystery Story"
+opub: "The Techniques of the Mystery Story"
+chapter: "Chapter 19"
 author: Carolyn Wells
-date: 2016-08-29-16
+opub_date: 1913
+date: 2016-08-29
 category: murderwiki
-excerpt: Chapter 19 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: "Each of these characters must have a positive and definite reason for being, and, if at all prominent, must be an inherent part of the plot. They are the pence of a Detective Story, and must be taken care of; though in this case it does not follow that the pounds will take care of themselves."
+image: /assets/img/murderwiki/Houn-05_-_Hound_of_Baskervilles%2C_page_24.png
+caption: "\"There in the centre lay the unhappy maid where she had fallen.\"<br>An page scan of a book <i>The Hound of the Baskervilles</i> by Arthur Conan Doyle. Illustration appeared in \'The Strand\' Magazine in August, 1901."
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 3901

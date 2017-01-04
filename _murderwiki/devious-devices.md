@@ -2,11 +2,16 @@
 layout: short-stories
 layoutTag: post
 title: "Devious Devices"
+subtitle: "Common Techniques, Often Unfair or Hackneyed, Used By Detetive Story Writers to Arrest the Reader &amp; the&nbsp;Killer"
+chapter: "Chapter 14"
+opub: "The Techniques of the Mystery Story"
 author: Carolyn Wells
-date: 2016-08-29-16
+opub_date: 1913
+date: 2016-08-29
 category: murderwiki
-excerpt: Chapter 14 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: "Of the many devices introduced by detective writers to arrest and hold the readers&#39; attention, some are admittedly legitimate and used by best authors. Others are unfair; and still others were permissible but have become so hackneyed as to be taboo."
+image: /assets/img/murderwiki/Secret_Panel.png
+caption: "\"The secret panel in the wall. After BRADDON.\" Illustration for \"Selina Sedilia\" in Bret Harte's Condensed Novels."
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 2443

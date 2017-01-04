@@ -2,11 +2,14 @@
 layout: short-stories
 layoutTag: post
 title: "Murder in General"
+opub: "The Techniques of the Mystery Story"
+chapter: "Chapter 18"
 author: Carolyn Wells
 date: 2016-08-29-16
 category: murderwiki
-excerpt: Chapter 18 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: "If the reader is thrilled, it is through the intellect, not through the emotions. Sympathy is not called for; pity is not kindled; every situation is viewed by the cold light of reasoning. The whole affair is entirely divested of the sentiment that would surround it in real life."
+image: /assets/img/murderwiki/Thomas_de_Quincey_by_Sir_John_Watson-Gordon.jpg
+caption: "<i>Thomas de Quincey</i>, by Sir John Watson-Gordon (died 1864), given to the National Portrait Gallery, London in 1865."
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 3901

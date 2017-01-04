@@ -2,11 +2,16 @@
 layout: short-stories
 layoutTag: post
 title: "Deduction"
+subtitle: "The Process of Reasoning &amp; Crime Solving by A Fictional Detective From Inconspicuous Clues"
+opub: "The Techniques of the Mystery Story"
+chapter: "Chapter 8"
 author: Carolyn Wells
+opub_date: 1913
 date: 2016-08-19
 category: murderwiki
-excerpt: Chapter 8 of <i>The Techniques of the Mystery</i>, published 1913.
+excerpt: "Deduction, in a definite and restricted sense, is the motif of most of the detective stories of today. It is an unusually perspicacious analytic deduction from inconspicuous clues that we call ratiocination, or more familiarly, the detective instinct."
 image: /assets/img/murderwiki/Painting_depicts_Bahram_Gur.jpg
+caption: "The painting depicts Bahram Gur (central figure) on horseback hunting three doe, from a \'Khamseh of Amir Khusrau Dihlavi\', an illustrated manuscript containing early stories that use deduction in solving their riddles."
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 4417

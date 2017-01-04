@@ -2,11 +2,16 @@
 layout: short-stories
 layoutTag: post
 title: "The Handling of the Crime"
+subtitle: "The Method of The Murder"
+opub: "The Techniques of the Mystery"
+chapter: "Chapter 20"
 author: Carolyn Wells
-date: 2016-08-29-16
+date: 2016-08-29
 category: murderwiki
-excerpt: Chapter 19 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: "A weapon picked up on the spot has the advantage of not necessitating its concealment after use, for it incriminates no one in particular. Oftenest this weapon is a dagger used as a paper cutter, and so lying at hand on a table. Or a dagger or sword which is one of a decorative group on the wall of the room."
+image: /assets/img/murderwiki/Webley-Mk-IV-p1030100.png
+sizeoverride: contain
+caption: "Webley & Scott Mk VI. Caliber .455"
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 1480

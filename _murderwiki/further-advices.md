@@ -2,11 +2,16 @@
 layout: short-stories
 layoutTag: post
 title: "Further Advices"
+subtitle: "Coincidence, Melodrama &amp; How The Best Writers, Often Women, Create Unique Plots"
+chapter: "Chapter 22"
+opub: "The Techniques of the Mystery Story"
 author: Carolyn Wells
-date: 2016-08-29-16
+opub_date: 1913
+date: 2016-08-29
 category: murderwiki
-excerpt: Chapter 25 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: "\"The mystery-story is just the one species of story that can not be told impromptu or altered at the last moment, seeing that it demands the most careful piecing together and the most elaborate dove-tailing.\" &mdash; Israel Zangwill"
+image: /assets/img/murderwiki/Anna_Katherine_Green.jpg
+caption: "Anna Katherine Green is far and away the best [detective fiction writer] in our home field."
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 2618

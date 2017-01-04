@@ -7,7 +7,7 @@ author: R. Cook
 date: 2016-08-08
 category: murderwiki
 genre: History
-excerpt: From the earliest versions of the mystery story through the modern age, the mystery story has evolved from simple riddles to complex plots involving a myriad of detective types, plot devices and styles. What was once merely a puzzle, has evolved into a full-blown literary style and remains one of the most popular forms of fiction.
+excerpt: "From the earliest versions of the mystery story through the modern age, the mystery story has evolved from simple riddles to complex plots involving a myriad of detective types, plot devices and styles. What was once merely a puzzle, has evolved into a full-blown literary style and remains one of the most popular forms of fiction."
 image: /assets/img/murderwiki/newgate.png
 wordcount: 4046
 ---

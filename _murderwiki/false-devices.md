@@ -2,11 +2,16 @@
 layout: short-stories
 layoutTag: post
 title: "False Devices"
+subtitle: "Mistaken Beliefs of Mystery Story Writers &amp; Readers"
+opub: "The Techniques of the Mystery Story"
+chapter: "Chapter 17"
 author: Carolyn Wells
-date: 2016-08-29-16
+opub_date: 1913
+date: 2016-08-29
 category: murderwiki
-excerpt: Chapter 17 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: "Aside from these false and erroneous notions which are common, let the writer of detective fiction be careful to avoid absolute mistakes, paradoxes, or anachronisms. In this class of story, accuracy and logic are imperative, and nothing can excuse carelessness in descriptive details or sequential happenings."
+image: /assets/img/murderwiki/Mystery_of_Marie_Roget.png
+caption: "Illustration of the short story \'The Mystery of Marie Roget\' by Edgar Allan Poe. From \"Tales of Mystery, Imagination, & Humour: And Poems By Edgar Allan Poe\". Published Henry Vizetelly, 1852."
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 3005

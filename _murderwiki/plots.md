@@ -2,11 +2,16 @@
 layout: short-stories
 layoutTag: post
 title: "Plots"
+subtitle: "The <i>Problem &amp; Solution</i> of a Detective Story, Long or Short"
+chapter: "Chapter 24"
+opub: "The Techniques of the Mystery Story"
 author: Carolyn Wells
 date: 2016-08-29-16
 category: murderwiki
-excerpt: Chapter 24 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: The reader who is unversed in the arts and crafts of detective fiction cannot be expected to value the skill shown in the great presentations of The Problem and its Solution..
+image: /assets/img/murderwiki/GBurgess-construct.png
+caption: "The Architectural Story Diagram, designed by Gelett Burgess, to plot his stories."
+sizeoverride: contain
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 4162

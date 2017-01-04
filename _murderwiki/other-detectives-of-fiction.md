@@ -2,11 +2,16 @@
 layout: short-stories
 layoutTag: post
 title: "Other Detectives of Fiction"
+subtitle: "Apart from the Emminent Holmes, Fictional Detectives Find Their Own Uniqueness"
+opub: "The Techniques of the Mystery Story"
+chapter: "Chapter 12"
 author: Carolyn Wells
-date: 2016-08-29-16
+opub_date: 1913
+date: 2016-08-29
 category: murderwiki
-excerpt: Chapter 12 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: "Some authors try to give their detectives prominence by using methods exactly opposite to those of Sherlock Holmes. But it is a dangerous experiment for inexperienced authors to put forward views heterodox to the accepted laws of Detective Fiction, and it must be done with skill and judgment."
+image: /assets/img/murderwiki/Leroux_Chambre_Jaune.jpg
+caption: "Cover page of the first edition in book form of Gaston Leroux's <i>The Mystery of the Yellow Room</i>, Edition Pierre Lafitte, 1908."
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 2821

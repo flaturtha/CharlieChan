@@ -2,11 +2,20 @@
 layout: short-stories
 layoutTag: post
 title: "Portraits"
+subtitle: "How fictional detectives are described, from physical descriptions to mannerisms and favorite phrases"
+opub: "The Techniques of the Mystery Story"
+chapter: "Chapter 13"
 author: Carolyn Wells
 date: 2016-08-29-16
 category: murderwiki
-excerpt: Chapter 13 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: "Eccentricities or freakish habits on the part of his detective
+are permissible if not harped upon too continuously. But let them be of a pleasant or at least of
+an unobjectionable nature, and not like a habit attributed to a detective in a series of stories now
+current, who pulled at the lobe of his ear, until a fastidious reader was fain to close the book in
+disgust."
+image: /assets/img/murderwiki/Holmes_by_Paget.png
+caption: "Sherlock Holmes, by Sidney Padget for \'The Strand\' magazine."
+sizeoverride: contain
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 5882

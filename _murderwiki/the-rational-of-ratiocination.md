@@ -4,13 +4,15 @@ layoutTag: post
 title: "The Rational of Ratiocination"
 subtitle: "Detectives & Their Methods For Solving Crime"
 chapter: "Chapter 10"
-book: The Techniques of the Mystery
+opub: "The Techniques of the Mystery Story"
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-19
 category: murderwiki
-excerpt:
+excerpt: "\"Like all Holmes' reasoning the thing seemed simplicity itself when it was once explained. He read the thought upon my features, and his smile had a tinge of bitterness.\" &mdash; Dr. Watson"
 image: /assets/img/murderwiki/Sherlock6.jpg
+caption: "From \'The Adventure of the Greek Interpreter\'. Engraving by Sidney Paget, a British illustrator who's worked accompanied Doyle's stories in <i>The Strand Magazine</i>. September 1893."
+sizeoverride: contain
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 4417

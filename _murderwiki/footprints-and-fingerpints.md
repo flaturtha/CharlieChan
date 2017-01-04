@@ -2,11 +2,15 @@
 layout: short-stories
 layoutTag: post
 title: "Footprints and Fingerprints"
+subtitle: "How Fictional Detectives Rely On Mostly Impossible Evidence"
+opub: "The Techniques of the Mystery Story"
+chapter: Chapter 15
 author: Carolyn Wells
-date: 2016-08-29-16
+opub_date: 1913
+date: 2016-08-29
 category: murderwiki
-excerpt: Chapter 15 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: "Without a doubt the most woefully overdone and mix-done evidence is that of footprints. The trouble began with Gaboriau and M. Lecoq."
+image: /assets/img/murderwiki/footprints-in-the-snow.jpg
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 4730

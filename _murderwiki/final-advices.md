@@ -2,11 +2,17 @@
 layout: short-stories
 layoutTag: post
 title: "Final Advices"
+subtitle: "The Last Word on The Qualities of the Detective Story; &amp; Other Final Thoughts"
+opub: "The Techniques of the Mystery Story"
+chapter: Chapter 26
 author: Carolyn Wells
-date: 2016-08-29-16
+opub_date: 1913
+date: 2016-08-29
 category: murderwiki
-excerpt: Chapter 26 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: "\"It is certain that no transports of literary creation will pay the coal bill or settle an account at the grocer's. Necessity knows no law, and a man may be forced to drudgery with the pen as with the pickaxe. To him, however, who is willing and able to sacrifice material to intellectual ends, what I have said is of actual and practical application.\""
+image: /assets/img/murderwiki/Edgar_Allan_Poe_-_Stella_Daguerreotype%2C_1849.jpg
+caption: Daguerreotype portrait of Edgar Allan Poe, commonly known as the "Stella" Daguerreotype.
+sizeoverride: contain
 genre: The Techniques of the Mystery
 tags: Carolyn Wells, The Techniques of the Mystery
 wordcount: 2968
