@@ -60,7 +60,11 @@ layout: default2
 
 
   <article class="story">
-    {{ content }}
+    <!--  if page.wordcount > 3000 %}
+       content | truncatewords:   }}
+     else %} -->
+      {{ content }}
+     <!-- endif %} -->
   </article>
 
   <div class="cf"></div>

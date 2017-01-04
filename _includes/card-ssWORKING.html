@@ -1,0 +1,52 @@
+<ul class="cards">
+{% for short-stories in site.short-stories %}
+
+{% if short-stories.wordcount < 3501 %}
+
+<!-- README IF STATEMENT -->
+{% if site.readtime %}
+  {% if site.wpm %}
+    {% assign readtime = short-stories.wordcount | divided_by:site.wpm %}
+  {% else %}
+    {% assign readtime = short-stories.wordcount | divided_by:180 %}
+  {% endif %}
+{% endif %}
+
+
+    <li class="card" {% if short-stories.genre %} id="{{ short-stories.genre | downcase }}"{% endif %}>
+
+      <header class="card__header" style="background-image:url(' {{ short-stories.image }}');">
+
+      <p class="card__genre">{{ short-stories.genre }}</p>
+
+      <h2 class="card__meta">{{ short-stories.title }} 
+        <span>
+          {% if short-stories.author %}
+            {{ short-stories.author }}
+          {% else %}
+            {{ short-stories.series }}
+          {% endif %}
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">{{ short-stories.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ short-stories.url }}" class="readmore">Read&nbsp;the&nbsp;story&nbsp;&rsaquo;&rsaquo;</a> </p>
+      <p class="meta">{{ short-stories.wordcount | thousands_separated }} words | {% if site.readtime %}
+        {% if readtime > 60 %}
+        {% assign readtime_hours = readtime | divided_by: 60 %}
+        {% assign readtime_minutes = readtime | modulo:60 %}
+          {% if readtime_hours > 1 and readtime_hours < 2 %}1 hour
+          {% else %}<span class="hour">{{ readtime_hours }}</span> hr
+          {% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} <span class="time">{{ readtime_minutes }}</span> min{% endif %}
+        {% else %}
+          {% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
+        {% endif %}
+        </p>
+    </li>
+
+{% endif %}
+
+{% endfor %}
+
+</ul>

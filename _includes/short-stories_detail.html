@@ -12,7 +12,13 @@
         <a href="{{ short-stories.url }}" class="readmore">
         <img src="{{ short-stories.image }}" alt="{{ short-stories.title }} by {{ short-stories.author }}"></a>
         <h2 class="title">{{ short-stories.title }}</h2>
-        <h3 class="author"><span>by</span> {{ short-stories.author }}</h3>
+        <h3 class="author">
+          {% if short-stories.author %}
+            <span>by</span> {{ short-stories.author }}
+          {% else %}
+            {{ short-stories.series }}
+          {% endif %}
+        </h3>
         <p class="descriptive">{{ short-stories.excerpt | truncate: 100 }}</p>
         <!-- <div class="price">
           <p>${{ short-stories.price }}</p>

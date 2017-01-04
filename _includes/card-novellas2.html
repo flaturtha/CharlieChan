@@ -8,7 +8,13 @@
     <div class="card__small__header">
       <div>
         <h2 class="title">{{ novellas.title }}</h2>
-        <h3 class="author"><span>by</span> {{ novellas.author }}</h3>
+        <h3 class="author">
+          {% if novellas.author %}
+            <span>by</span> {{ novellas.author }}
+          {% else %}
+            {{ novellas.series }}
+          {% endif %}
+        </h3>
       </div>
       <div class="price">
         <p>${{ novellas.price }}</p>
