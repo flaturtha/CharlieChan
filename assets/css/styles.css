@@ -542,61 +542,6 @@ h4, .h4 {
   line-height: 1; }
 
 /*==========  MODULES  ==========*/
-/* OPIN3 */
-.optin3 {
-  border: 4px solid #242424;
-  width: 100%;
-  max-width: 50rem;
-  margin: 2rem auto 0; }
-  .optin3 .optin__header {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    background: #242424 url("/assets/img/site/pulpicons2.svg");
-    background-size: cover;
-    color: #fffff0;
-    padding: 0.5rem; }
-    .optin3 .optin__header img {
-      height: 45px;
-      width: 30px;
-      margin-right: 1rem; }
-    .optin3 .optin__header h2 {
-      font-size: 1rem;
-      text-align: center;
-      letter-spacing: 2px;
-      -webkit-align-self: center;
-          -ms-flex-item-align: center;
-              align-self: center; }
-      .optin3 .optin__header h2 span {
-        display: block;
-        font-size: 0.9375rem; }
-  .optin3 .optin__content {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    padding: 2rem; }
-    .optin3 .optin__content img {
-      width: 100px;
-      height: 162px;
-      margin-right: 1rem;
-      border: 1px solid #242424; }
-    .optin3 .optin__content h3 span {
-      display: block;
-      font-size: 0.875rem;
-      color: #5e6971; }
-
-/* OPTIN1 */
 .smallnav {
   border-top: 1px solid #5e6971;
   border-bottom: 1px solid #5e6971;
@@ -1930,6 +1875,194 @@ label {
   margin: 0 auto;
   padding: 1rem; }
 
+/* OPTIN4 */
+.optin4 {
+  border: 2px solid #8B0000;
+  background-color: #ffffeb;
+  color: #8B0000;
+  width: 750px;
+  max-width: 98%;
+  margin: 1.5rem auto -1rem;
+  padding: 20px;
+  text-align: center; }
+  .optin4 header {
+    border: 1px solid #8B0000;
+    -webkit-border-radius: 8px;
+            border-radius: 8px;
+    color: #8B0000;
+    margin-bottom: 1rem;
+    padding: 0.5rem; }
+    .optin4 header span {
+      font-style: italic; }
+    .optin4 header p {
+      margin: 0.5rem 0; }
+  .optin4 .optin__title {
+    display: inline-block;
+    padding: 0.5rem;
+    font-weight: bold;
+    background-color: #8B0000;
+    color: #fffff0;
+    margin: 0.25rem 0; }
+
+/* OPTIN3 */
+.optin3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  border: 4px solid #242424;
+  background-color: #ffffe6;
+  -webkit-box-shadow: 0px 3px 15px #575757;
+          box-shadow: 0px 3px 15px #575757;
+  width: 95%;
+  max-width: 60rem;
+  margin: 2rem auto 0;
+  padding: 1rem; }
+  .optin3 .optin__header {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    background: #242424 url("/assets/img/site/pulpicons2.svg");
+    background-size: cover;
+    color: #fffff0;
+    margin: -1rem -1rem 1rem -1rem;
+    padding: 0.5rem; }
+    .optin3 .optin__header h2 {
+      font-size: 1rem;
+      text-align: center;
+      letter-spacing: 2px;
+      -webkit-align-self: center;
+          -ms-flex-item-align: center;
+              align-self: center; }
+      .optin3 .optin__header h2 span {
+        display: block;
+        font-size: 0.9375rem; }
+  .optin3 .optin__top {
+    max-width: 75%;
+    margin: 0 auto; }
+    .optin3 .optin__top h3 {
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 1.25rem;
+      color: #8B0000;
+      margin-bottom: 1rem; }
+    .optin3 .optin__top p {
+      font-size: 1rem;
+      text-align: center;
+      max-width: 75%;
+      margin: 0 auto; }
+  .optin3 .optin__content {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    max-width: 90%;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin: 0 auto; }
+    .optin3 .optin__content img {
+      width: 300px;
+      height: auto;
+      margin: 0 0 1rem 0;
+      border: 1px solid #242424;
+      -webkit-align-self: center;
+          -ms-flex-item-align: center;
+              align-self: center; }
+    .optin3 .optin__content h3 span {
+      display: block;
+      font-size: 0.875rem;
+      color: #5e6971; }
+    @media screen and (min-width: 48rem) {
+      .optin3 .optin__content {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: row;
+            -ms-flex-direction: row;
+                flex-direction: row; }
+        .optin3 .optin__content img {
+          margin: 0 1rem 0 0;
+          width: 200px; } }
+  .optin3 .optin__footer {
+    background: #242424 url("/assets/img/site/pulpicons2.svg");
+    background-size: cover;
+    color: #fffff0;
+    margin: 1rem -1rem -1rem -1rem;
+    padding: 1rem 1rem 0 1rem;
+    text-align: center; }
+    .optin3 .optin__footer p {
+      letter-spacing: 1px; }
+
+.optin__buttons {
+  max-width: 90%;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center; }
+  .optin__buttons .optin__button {
+    display: block;
+    width: 200px;
+    border: 1px solid #8B0000;
+    -webkit-border-radius: 8px;
+            border-radius: 8px;
+    -webkit-box-shadow: 0px 5px 5px #474F55;
+            box-shadow: 0px 5px 5px #474F55;
+    text-align: center;
+    padding: 1rem;
+    margin: 0.5rem;
+    font-size: 2rem; }
+    .optin__buttons .optin__button span {
+      display: block;
+      font-size: 0.75rem;
+      color: #5e6971; }
+    .optin__buttons .optin__button:hover {
+      background-color: #8B0000;
+      color: #fffff0; }
+      .optin__buttons .optin__button:hover span {
+        color: #fffff0; }
+  @media screen and (min-width: 48rem) {
+    .optin__buttons {
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: row;
+          -ms-flex-direction: row;
+              flex-direction: row;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+          -ms-flex-pack: center;
+              justify-content: center; } }
+
+/* OPTIN1 */
 /*==========  LAYOUT  ==========*/
 /*=============================================
 =            BRANDING                         =

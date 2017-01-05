@@ -14,7 +14,7 @@ category: home
   <!-- NOVELLAS -->
   {% include novellas_detail.html %}
 
-
+  {% include optin4.html %}
 
   <!-- SHORT STORIES -->
   {% include short-stories_detail.html %}
@@ -22,7 +22,7 @@ category: home
   <!-- MURDERWIKI -->
   {% include mw_detail.html %}
 
-
+  {% include optin4.html %}
 
 
 </div> <!-- end div homepage -->
