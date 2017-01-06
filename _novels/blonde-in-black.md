@@ -3,9 +3,10 @@ layout: books
 casefileNumber: 
 title: "The Blonde in Black"
 author: Ben Benson
+date: 2017-01-05
 price: 5.99
 category: novels
-image: /assets/img/novels/comingsoon.svg
+image: /assets/img/novels/blonde-in-black.jpg
 wordcount: 51,822
 descriptor: "Sex was Junie's trademark, the wiggle, the tight black dress, the sultry voice. George Pringle, president of Micro Records, set it up that way."
 excerpt: "Sex was Junie's trademark, the wiggle, the tight black dress, the sultry voice. George Pringle, president of Micro Records, set it up that way. \n\n

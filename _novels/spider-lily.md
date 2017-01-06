@@ -3,9 +3,10 @@ layout: books
 casefileNumber: 
 title: "Spider Lily"
 author: Bruno Fischer
+date: 2017-01-05
 price: 7.99
 category: novels
-image: /assets/img/novels/comingsoon.svg
+image: /assets/img/novels/spider-lily.jpg
 wordcount: 75518
 descriptor: "Alec Linn returns home after two years in the Air Force, fighting the Japs in India to find his wife, Lily, not waiting for him at the train station and his family unwilling to tell him where she is. Then Lily turns up dead and Alec is accused of her murder."
 ---
