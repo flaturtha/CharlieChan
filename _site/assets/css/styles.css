@@ -2926,6 +2926,11 @@ p {
 .hidden {
   display: none !important; }
 
+.hidden2 {
+  -webkit-transition: all 2s;
+  transition: all 2s;
+  display: none !important; }
+
 a {
   text-decoration: none; }
   a:hover {

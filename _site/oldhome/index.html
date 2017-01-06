@@ -608,7 +608,21 @@
 
 
 <!-- HIDE DIV -->
-<script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<script> 
+	$(document).ready(function(){
+		$(".nobutton").click(function() {
+			$(".optin4").fadeOut("normal", function() {
+				$(this).remove();
+			});
+		});
+	});
+</script> 
+
+			
+
+<!-- <script>
 function myFunction() {
   var x = document.getElementsByClassName("optin4");
   var i;
@@ -616,7 +630,7 @@ function myFunction() {
       x[i].style.display = "none";
   }
 }	
-</script>
+</script> -->
 
 
 

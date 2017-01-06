@@ -923,7 +923,7 @@
 	<div class="optin__buttons">
 		<a href="/the-red-file/" rel="nofollow" class="optin__button obYES">YES!<span>More Details!</span></a>
 
-		<a href="#hide" rel="nofollow" onclick="myFunction()" id="nobutton" class="optin__button obNO">NO&hellip;<span>I hate free stuff.</span></a> 
+		<a href="#hide" rel="nofollow" id="nobutton" class="optin__button nobutton">NO&hellip;<span>I hate free stuff.</span></a> 
 	</div>
 </div>
 
@@ -965,7 +965,21 @@
 
 
 <!-- HIDE DIV -->
-<script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<script> 
+	$(document).ready(function(){
+		$(".nobutton").click(function() {
+			$(".optin4").fadeOut("normal", function() {
+				$(this).remove();
+			});
+		});
+	});
+</script> 
+
+			
+
+<!-- <script>
 function myFunction() {
   var x = document.getElementsByClassName("optin4");
   var i;
@@ -973,7 +987,7 @@ function myFunction() {
       x[i].style.display = "none";
   }
 }	
-</script>
+</script> -->
 
 
 
