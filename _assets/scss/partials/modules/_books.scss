@@ -137,3 +137,58 @@
 	font-size: 1.25rem;
 }
 
+.prebuy {
+	display: flex;
+	flex-direction: column;
+	// align-items: center;
+	a {
+		margin-left: 0;
+	}
+	.prebuy-disclaimer {
+		font-size: 0.75rem;
+		margin: 0.5rem 0;
+	}
+}
+
+.prebuy-pitch {
+	background-color: yellow;
+	font-size: 1rem;
+}
+
+.prebuyh {
+	font-size: 1.25rem;
+	text-align: center;
+	// background-color: yellow;
+	color: $acolor;
+	margin: 0 auto 1rem;
+	padding: 0.5rem;
+	border: 2px double $acolor;
+	h3 {
+		font-size: 1.5rem;
+	}
+	.discount {
+		text-align: center;
+		color: $acolor;
+		font-weight: bold;
+		font-size: 1rem;
+		margin-top: 1rem;
+		span {
+			padding: 0.25rem;
+			background-color: yellow;
+		}
+	}
+	.note {
+		font-size: 0.75rem;
+		text-align: left;
+	}
+}
+
+
+
+
+
+
+
+
+
+

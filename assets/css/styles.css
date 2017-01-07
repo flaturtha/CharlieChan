@@ -1534,6 +1534,48 @@ ol ol li:last-child {
   text-align: center;
   font-size: 1.25rem; }
 
+.prebuy {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column; }
+  .prebuy a {
+    margin-left: 0; }
+  .prebuy .prebuy-disclaimer {
+    font-size: 0.75rem;
+    margin: 0.5rem 0; }
+
+.prebuy-pitch {
+  background-color: yellow;
+  font-size: 1rem; }
+
+.prebuyh {
+  font-size: 1.25rem;
+  text-align: center;
+  color: #8B0000;
+  margin: 0 auto 1rem;
+  padding: 0.5rem;
+  border: 2px double #8B0000; }
+  .prebuyh h3 {
+    font-size: 1.5rem; }
+  .prebuyh .discount {
+    text-align: center;
+    color: #8B0000;
+    font-weight: bold;
+    font-size: 1rem;
+    margin-top: 1rem; }
+    .prebuyh .discount span {
+      padding: 0.25rem;
+      background-color: yellow; }
+  .prebuyh .note {
+    font-size: 0.75rem;
+    text-align: left; }
+
 .murderwiki__article {
   width: 97.5%;
   float: left;

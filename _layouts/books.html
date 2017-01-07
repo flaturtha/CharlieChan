@@ -35,6 +35,14 @@ layout: default2
       {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
 
       <h2 class="books__author">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
+
+      {% if page.preprice %}
+        <div class="prebuyh">
+          <h3>NOT YET RELEASED!</h3>
+          <p class="discount"><span>Prebuy today &amp; get 50% off!</span></p>
+          <p class="note">NOTE: Only sample available now. Complete novel sent by email upon release.</span></p>
+        </div>
+      {% endif %}
       
       <p class="metadata">
         <!-- <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span> -->
@@ -53,12 +61,21 @@ layout: default2
         </p>
         <p>{{ page.descriptor }}</p>
         
-        <p class="book__price">${{ page.price }}</p>
+        {% if page.preprice %}
+          <p class="book__price"><span class="strikethru">${{ page.price }}</span> ${{ page.preprice }} <span class="prebuy-pitch"> PRELAUNCH PRICE!</span></p>
+        {% else %}
+          <p class="book__price">${{ page.price }}</p>
+        {% endif %}
 
         <div class="book__buttons">
           {% if page.buybutton %}
             {{ page.buybutton }}
             {{ page.downloadsamplebutton }}
+          {% else if prebuybutton %}
+            <div class="prebuy">
+              {{ page.prebuybutton }}
+              <p class="prebuy-disclaimer">Prebuy now and download a full sample. Complete novel will be automatically sent when relased.</p>
+            </div>
           {% else %}
             <div style="border:1px solid #8b0000;">
               <p style="color:#8b0000;padding:1rem 1rem 0 1rem;">NOT YET RELEASED</p>
