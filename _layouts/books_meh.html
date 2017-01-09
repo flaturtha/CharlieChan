@@ -36,6 +36,14 @@ layout: default2
 
       <h2 class="books__author">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
 
+      {% if page.preprice %}
+        <div class="prebuyh">
+          <h3>NOT YET RELEASED!</h3>
+          <p class="discount"><span>Prebuy today &amp; get 50% off!</span></p>
+          <p class="note">NOTE: Only sample available now. Complete novel sent by email upon release.</span></p>
+        </div>
+      {% endif %}
+      
       <p class="metadata">
         <!-- <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span> -->
         <span class="etr">read time:
@@ -51,15 +59,6 @@ layout: default2
           {% endif %}
           </span>
         </p>
-
-        {% if page.preprice %}
-        <div class="prebuyh">
-          <h3>NOT YET RELEASED!</h3>
-          <p class="discount"><span>Pre-Buy today &amp; get 50% off!</span></p>
-          <p class="note">NOTE: Only sample available now. Complete novel sent by email upon release.</span></p>
-        </div>
-      {% endif %}
-
         <p>{{ page.descriptor }}</p>
         
         {% if page.preprice %}
@@ -72,27 +71,17 @@ layout: default2
           {% if page.buybutton %}
             {{ page.buybutton }}
             {{ page.downloadsamplebutton }}
-          {% else if prebuybutton %}
+          {% else page.prebuybutton %}
             <div class="prebuy">
               {{ page.prebuybutton }}
-              <p class="prebuy-disclaimer">Pre-buy now and download a full sample. Complete novel will be automatically sent when released.</p>
+              <p class="prebuy-disclaimer">Prebuy now and download a full sample. Complete novel will be automatically sent when released.</p>
             </div>
-            <div class="prebuysample">
+            <div class="prebuy">
               {{ page.downloadsamplebutton }}
               <p class="prebuy-disclaimer">NOTE: Samples are added to your shopping cart with a $0.00 charge. If only samples are in your cart, you will <span class="bold">NOT</span> be required to provide a credit card, only an email address for delivery.</p>
             </div>
-          {% else %}
-            <div style="border:1px solid #8b0000;">
-              <p style="color:#8b0000;padding:1rem 1rem 0 1rem;">NOT YET RELEASED</p>
-            </div>
           {% endif %}
-          
         </div>
-        <br>
-        {% if page.buybutton %}
-          <p class="small">NOTE: Samples are added to your shopping cart with a $0.00 charge. If only samples are in your cart, you will <span class="bold">NOT</span> be required to provide a credit card, only an email address for delivery.</p>
-        {% endif %}
-
     </div>
 
 
@@ -122,21 +111,21 @@ layout: default2
 
   <footer>
     <h4>You May Also Enjoy</h4>
-    <!-- {% if page.url contains 'novels' %} -->
+    <!-- {% if page.url contains 'novellas' %} -->
       <div class="relatedPosts">
 
           {% assign maxRelated = 4 %}
           {% assign minCommonTags =  1 %}
           {% assign maxRelatedCounter = 0 %}
 
-          {% for novels in site.novels %}
+          {% for novellas in site.novellas %}
 
           {% assign sameTagCount = 0 %}
           {% assign commonTags = '' %}
           {% assign commonTags = .commonTags %}
 
-          {% for tag in novels.tags %}
-            {% if novels.url != page.url %}
+          {% for tag in novellas.tags %}
+            {% if novellas.url != page.url %}
               {% if page.tags contains tag %}
                 {% assign sameTagCount = sameTagCount | plus: 1 %}
                 {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
@@ -148,9 +137,9 @@ layout: default2
           {% if sameTagCount >= minCommonTags %}
 
               <div class="rel">
-                <a href="{{ novels.url }}">
-                <!-- <h5>{{ novels.title }}</h5> -->
-                <img src="{{ novels.image }}" alt="">
+                <a href="{{ novellas.url }}">
+                <!-- <h5>{{ novellas.title }}</h5> -->
+                <img src="{{ novellas.image }}" alt="">
                 <!-- <h6>{{ commonTags }}</h6> -->
                 </a>
               </div>

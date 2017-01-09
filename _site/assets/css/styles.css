@@ -1512,7 +1512,10 @@ ol ol li:last-child {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
-  display: flex; }
+  display: flex;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around; }
 
 .book__meta {
   border-top: 2px solid #8B0000;
@@ -1534,7 +1537,7 @@ ol ol li:last-child {
   text-align: center;
   font-size: 1.25rem; }
 
-.prebuy {
+.prebuy, .prebuysample {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -1543,12 +1546,14 @@ ol ol li:last-child {
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
       -ms-flex-direction: column;
-          flex-direction: column; }
-  .prebuy a {
+          flex-direction: column;
+  margin: 1rem; }
+  .prebuy a, .prebuysample a {
     margin-left: 0; }
-  .prebuy .prebuy-disclaimer {
+  .prebuy .prebuy-disclaimer, .prebuysample .prebuy-disclaimer {
     font-size: 0.75rem;
-    margin: 0.5rem 0; }
+    margin: 0.5rem 0;
+    width: 150px; }
 
 .prebuy-pitch {
   background-color: yellow;
@@ -1557,7 +1562,8 @@ ol ol li:last-child {
 .prebuyh {
   font-size: 1.25rem;
   text-align: center;
-  color: #8B0000;
+  background-color: #8B0000;
+  color: #fffff0;
   margin: 0 auto 1rem;
   padding: 0.5rem;
   border: 2px double #8B0000; }
@@ -1737,10 +1743,17 @@ ol ol li:last-child {
       height: 500px; } }
 
 .relatedPosts {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
-  padding-top: 15px;
-  margin: 0 auto; }
+  padding-top: 15px; }
 
 .rel {
   width: 47.5%;
