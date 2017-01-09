@@ -4,11 +4,15 @@ casefileNumber:
 title: "And Sudden Death"
 author: Cleve F. Adams
 date: 2017-01-05
-price: 7.99
+price: 4.99
+preprice: 2.49
 category: novels
 image: /assets/img/novels/andsuddendeath.jpg
-wordcount: 72804
+wordcount: 46403
 descriptor: "Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him &hellip; ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings & Loan."
+prebuybutton: <a href="https://transactions.sendowl.com/products/507863/4044F76F/add_to_cart" rel="nofollow" class="add-to-cart">Pre-Buy</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+buybutton:
+downloadsamplebutton: 
 ---
 
 Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him &hellip; ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings & Loan.

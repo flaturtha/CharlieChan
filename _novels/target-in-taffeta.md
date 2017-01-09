@@ -3,6 +3,7 @@ layout: books
 casefileNumber: 
 title: "Target in Taffetta"
 author: Ben Benson
+date: 2017-01-15
 price: 4.99
 category: novels
 image: /assets/img/novels/comingsoon.svg
