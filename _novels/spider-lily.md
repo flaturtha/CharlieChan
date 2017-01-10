@@ -1,18 +1,20 @@
 ---
 layout: books
-casefileNumber: 
+casefileNumber: 5875381bfda8f27d5695e8eb
 title: "Spider Lily"
 author: Bruno Fischer
 date: 2017-01-05
 price: 7.99
-preprice: 3.99
+opub: Mammoth Magazine
+opubdate: Jan. 1946
+opubissue: Vol. 2, No. 1
+pubdate: 2017-01-10
 category: novels
 image: /assets/img/novels/spider-lily.jpg
 wordcount: 75013
 descriptor: "Alec Linn returns home after two years in the Air Force, fighting the Japs in India to find his wife, Lily, not waiting for him at the train station and his family unwilling to tell him where she is. Then Lily turns up dead and Alec is accused of her murder."
 tags: novel
-prebuybutton: <a href="https://transactions.sendowl.com/products/507897/3321B926/add_to_cart" rel="nofollow" class="add-to-cart">Pre-Buy</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
-buybutton:
+buybutton: <a href="https://transactions.sendowl.com/products/507897/3321B926/add_to_cart" rel="nofollow" class="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 downloadsamplebutton: <a href="https://transactions.sendowl.com/products/507933/C766E81E/add_to_cart" rel="nofollow" class="add-to-cart">Get Sample</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 ---
 

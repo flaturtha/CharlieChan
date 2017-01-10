@@ -1,17 +1,19 @@
 ---
 layout: books
-casefileNumber: 
+casefileNumber: 587537d0fda8f27d5695e8e9
 title: "And Sudden Death"
 author: Cleve F. Adams
 date: 2017-01-05
 price: 4.99
-preprice: 2.49
+opub: Red Star News Company
+opubdate: 1939
+pubdate: 2017-01-10
 category: novels
 image: /assets/img/novels/andsuddendeath.jpg
 wordcount: 46403
 descriptor: "Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him &hellip; ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings & Loan."
 tags: novel
-prebuybutton: <a href="https://transactions.sendowl.com/products/507863/4044F76F/add_to_cart" rel="nofollow" class="add-to-cart">Pre-Buy</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+buybutton: <a href="https://transactions.sendowl.com/products/507863/4044F76F/add_to_cart" rel="nofollow" class="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 downloadsamplebutton: <a href="https://transactions.sendowl.com/products/507929/DE6BF4BF/add_to_cart" rel="nofollow" class="add-to-cart">Get Sample</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 ---
 

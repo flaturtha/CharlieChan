@@ -1,18 +1,19 @@
 ---
 layout: books
-casefileNumber: 
+casefileNumber: 58753737fda8f27d5695e8e8
 title: "The Blonde in Black"
 author: Ben Benson
 date: 2017-01-05
 price: 5.99
-preprice: 2.99
+opub: M. S. Mill
+opubdate: 1958
+pubdate: 2017-01-10
 category: novels
 image: /assets/img/novels/blonde-in-black.jpg
 wordcount: 51,822
 descriptor: "Sex was Junie's trademark, the wiggle, the tight black dress, the sultry voice. But now George Pringle, president of Micro Records, is dead &hellip; did Junie hit a sour note and kill the man who made her singing career?"
 tags: novel
-prebuybutton: <a href="https://transactions.sendowl.com/products/507367/D6DBDEC0/add_to_cart" rel="nofollow" class="add-to-cart">Pre-Buy</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
-buybutton:
+buybutton: <a href="https://transactions.sendowl.com/products/507367/D6DBDEC0/add_to_cart" rel="nofollow" class="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 downloadsamplebutton: <a href="https://transactions.sendowl.com/products/507934/90834312/add_to_cart" rel="nofollow" class="add-to-cart">Get Sample</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 ---
 

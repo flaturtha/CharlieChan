@@ -1,6 +1,6 @@
 ---
 layout: books
-casefileNumber: 
+casefileNumber: 587537fafda8f27d5695e8ea
 title: "Silver Cobweb"
 author: Ben Benson
 date: 2017-01-15
