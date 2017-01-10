@@ -1457,7 +1457,10 @@ ol ol li:last-child {
           flex-direction: column;
   -webkit-align-self: center;
       -ms-flex-item-align: center;
-          align-self: center; }
+          align-self: center;
+  padding: 0 1rem; }
+  .book_details h1, .book_details .contact h2, .contact .book_details h2, .book_details h2, .book_details p {
+    padding: 0 1rem; }
   @media screen and (min-width: 48rem) {
     .book_details {
       margin-left: 2rem; } }
@@ -1565,7 +1568,7 @@ ol ol li:last-child {
   background-color: #8B0000;
   color: #fffff0;
   margin: 0 auto 1rem;
-  padding: 0.5rem;
+  padding: 0.5rem 1rem;
   border: 2px double #8B0000; }
   .prebuyh h3 {
     font-size: 1.5rem; }

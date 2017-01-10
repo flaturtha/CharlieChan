@@ -37,9 +37,14 @@
 }
 
 .book_details {
+	// background-color: blue;
 	display: flex;
 	flex-direction: column;
 	align-self: center;
+	padding: 0 1rem;
+	h1, h2, p {
+		padding: 0 1rem;
+	}
 	@media screen and (min-width: 48rem){
 		margin-left: 2rem;
 	}
@@ -172,7 +177,7 @@
 	background-color: $acolor;
 	color: $paper;
 	margin: 0 auto 1rem;
-	padding: 0.5rem;
+	padding: 0.5rem 1rem;
 	border: 2px double $acolor;
 	h3 {
 		font-size: 1.5rem;
@@ -194,6 +199,9 @@
 	}
 }
 
+.addmargin {
+	// padding: 0 1rem;
+}
 
 
 

@@ -60,13 +60,15 @@ layout: default2
         </div>
       {% endif %}
 
-        <p>{{ page.descriptor }}</p>
+        <div class="addmargin">
+          <p>{{ page.descriptor }}</p>
         
         {% if page.preprice %}
           <p class="book__price"><span class="strikethru">${{ page.price }}</span> ${{ page.preprice }} <span class="prebuy-pitch"> PRELAUNCH PRICE!</span></p>
         {% else %}
           <p class="book__price">${{ page.price }}</p>
         {% endif %}
+        </div>
 
         <div class="book__buttons">
           {% if page.buybutton %}
