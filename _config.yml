@@ -5,8 +5,15 @@ email: contact@talesofmurder.com
 description: A murder mystery short story &amp; novel site.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.talesofmurder.com" # the base hostname & protocol for your site ... change to "/NOS" for gh-pages
-twitter_username: talesofmurder
+twitter:
+  username: talesofmurder
 github_username:  flaturtha
+# facebook:
+#   app_id: 1818289131771471
+#   publisher:
+#   admins:
+logo: /assets/img/site/atticus_fffff0.svg
+
 locale: en_US
 
 # Read Time is a calculator to provide post Estimated Reading Time (ERT) based on word count. Usage is recommended.
