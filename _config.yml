@@ -1,30 +1,36 @@
 # Site settings
-title: Tales of Murder
-subtitle: For readers with time to kill!
+title: "Tales of Murder"
+subtitle: "Murder Mystery & Crime Stories ... For readers with time to kill!"
 email: contact@talesofmurder.com
 description: A murder mystery short story &amp; novel site.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.talesofmurder.com" # the base hostname & protocol for your site ... change to "/NOS" for gh-pages
+logo: /assets/img/site/atticus_fffff0.svg
+baseurl: ""
+url: "https://www.talesofmurder.com"
+repository: "flaturtha/charliechan"
+
+locale: "en_US"
+
 twitter:
-  username: talesofmurder
-github_username:  flaturtha
+  username: "talesofmurder"
+
+social:
+  name: "Rich Cook"
+  links:
+    - "https://twitter.com/TalesofMurder"
+    - "https://business.facebook.com/theredfile"
+
+
 # facebook:
 #   app_id: 1818289131771471
 #   publisher:
 #   admins:
-logo: /assets/img/site/atticus_fffff0.svg
 
-locale: en_US
 
 # Read Time is a calculator to provide post Estimated Reading Time (ERT) based on word count. Usage is recommended.
 readtime: true
 wpm: 200
 
 collections:
-  # bookstore:
-  #   output: true
-  #   permalink: /bookstore/:path/
-  #   title: Bookstore
   murderwiki:
     output: true
     permalink: /murderwiki/:path/
