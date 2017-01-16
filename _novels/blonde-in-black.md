@@ -15,9 +15,6 @@ description: "Sex was Junie's trademark, the wiggle, the tight black dress, the 
 tags: novel
 buybutton: <a href="https://transactions.sendowl.com/products/507367/D6DBDEC0/add_to_cart" rel="nofollow" class="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 downloadsamplebutton: <a href="https://transactions.sendowl.com/products/507934/90834312/add_to_cart" rel="nofollow" class="add-to-cart">Get Sample</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
-seo:
- name: some random name
- type: Product
 ---
 
 Sex was Junie's trademark, the wiggle, the tight black dress, the sultry voice. George Pringle, president of Micro Records, set it up that way.

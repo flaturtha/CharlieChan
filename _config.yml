@@ -11,10 +11,11 @@ repository: "flaturtha/charliechan"
 locale: "en_US"
 
 twitter:
-  username: "talesofmurder"
+  username: "@talesofmurder"
 
 social:
   name: "Rich Cook"
+  email: rich@talesofmurder.com
   links:
     - "https://twitter.com/TalesofMurder"
     - "https://business.facebook.com/theredfile"
@@ -74,7 +75,7 @@ markdown: kramdown
 
 gems:
   - jekyll-sitemap
-  - jekyll-seo-tag
+  # - jekyll-seo-tag
   - jekyll-feed
 
 kramdown:

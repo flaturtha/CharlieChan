@@ -13,7 +13,10 @@ layout: default2
   
 </header>
 
+
 <article class="books" itemscope itemtype="http://schema.org/Product">
+  
+  {% include jsonld_novels.html %}
 
   <header class="books__header">
     <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="book__img" itemprop="image">

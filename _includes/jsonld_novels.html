@@ -1,0 +1,38 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "CreativeWork",
+  "additionalType": "Product",
+  "mainEntity": {
+    "@type": "Book",
+    "name": "{{ page.title }}",
+    "author": {
+      "@type": "Person",
+      "name": "{{ page.author }}",
+      "birthDate": "{{ authors.name.birthDate }}",
+      "deathDate": "{{ authors.name.deathDate }}"
+    },
+    "image": "{{ site.url }}{{ page.image }}",
+    "description": "{{ page.description }}",
+    "bookFormat": "ePub, Kindle",
+    "genre": "{{ page.category }}",
+    "numberOfPages": "{{ page.wordcount | divided_by:350 }}",
+    // "keywords": "[{{ page.tags }}]",
+    "url": "{{ site.url }}{{ page.url }}",
+    "editor": {
+      "@type": "Person",
+      "name": "{{ site.social.name }}",
+      "email": "{{ site.social.email }}"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "{% if page.price %}{{ page.price }}{% else %}FREE{% endif %}",
+      "priceCurrency": "USD"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Tales of Murder Press, LLC"
+    }
+  }
+}
+</script>

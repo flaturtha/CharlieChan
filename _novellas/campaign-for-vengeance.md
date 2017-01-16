@@ -10,7 +10,12 @@ opubissue: Vol. 1, No. 6
 category: novellas
 descriptive: "Murder: for Money or Revenge"
 descriptor: "After her beloved brother, Captain Jimmy Cornell, was found dead, with a small, white card on his chest bearing the words, The Mogal, Marguerite swore she’d bring the killers to justice."
-tags: revenge, female protagonist, police, novella, "John Baer"
+tags: 
+ - revenge
+ - female protagonist
+ - police
+ - novella
+ - "John Baer"
 image: /assets/img/novellas/campaign-for-vengeance.jpg
 wordcount: 15158
 buybutton: <a href="https://transactions.sendowl.com/packages/33168/1A5285B4/add_to_cart" rel="nofollow" class="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>

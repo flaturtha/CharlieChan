@@ -5,6 +5,6 @@ source "https://rubygems.org"
 # Jekyll and Plugins
 gem 'jekyll', '~> 3.3.0'
 gem 'font-awesome-sass', '~> 4.7.0'
-gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 gem 'jekyll-feed'
+# gem 'jekyll-seo-tag' /* deleted because it doesn't compile book data correctly */

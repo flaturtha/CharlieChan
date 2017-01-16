@@ -5,6 +5,9 @@ title: Home
 category: home
 ---
 
+{% include jsonld_home.html %}
+
+
 <div class="{{ page.title }} homepage">
 
 
