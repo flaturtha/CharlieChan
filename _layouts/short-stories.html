@@ -4,10 +4,10 @@ layout: default2
 
 {% include smallnav.html %}
 
-<article>
+<article itemscope itemtype="http://schema.org/Blog">
 
 <header class="books__header">
-    <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="book__img">
+    <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="book__img" itemprop="image">
     <!-- <p>{{ page.caption }}</p> -->
 
     <!-- README IF STATEMENT -->
@@ -23,7 +23,7 @@ layout: default2
       <h1 class="books__title">{{ page.title }}</h1>
       {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
 
-      <h2 class="books__author">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
+      <h2 class="books__author" itemprop="name">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
       
       <p class="metadata">
         <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span>

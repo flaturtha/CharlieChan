@@ -8,7 +8,7 @@ price: 4.99
 category: novels
 image: /assets/img/novels/comingsoon.svg
 wordcount: 46261
-descriptor: "She didn't witness the murder; just when the hood stuffed the body down a manhole in front of her house. Now she's the target of villany. Can Wade Paris keep his witness alive long enough to testigy?"
+description: "She didn't witness the murder; just when the hood stuffed the body down a manhole in front of her house. Now she's the target of villany. Can Wade Paris keep his witness alive long enough to testigy?"
 ---
 
 
