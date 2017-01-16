@@ -7,19 +7,16 @@ layout: default2
     
     <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
 
-    <!-- <h1><span>{{ page.category | capitalize | append:'s' }}</span></h1> -->
-    <!-- <p><span >{{ page.tagline }}</span></p> -->
-    <!-- <p style="text-align: center;font-size: 1rem;">For a long weekend or day at the beach!</p> -->
   </section> <!-- end div.pagetitle --> 
   
   {% include smallnav.html %}
   
 </header>
 
-<article class="books">
+<article class="books" itemscope itemtype="http://schema.org/Product">
 
   <header class="books__header">
-    <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="book__img">
+    <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="book__img" itemprop="image">
 
     <!-- README IF STATEMENT -->
     {% if site.readtime %}
@@ -31,10 +28,10 @@ layout: default2
     {% endif %}
 
     <div class="book_details">
-      <h1 class="books__title">{{ page.title }}</h1>
+      <h1 class="books__title" itemprop="name">{{ page.title }}</h1>
       {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
 
-      <h2 class="books__author">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
+      <h2 class="books__author" itemprop="author">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
 
       <p class="metadata">
         <!-- <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span> -->
@@ -61,12 +58,12 @@ layout: default2
       {% endif %}
 
         <div class="addmargin">
-          <p>{{ page.descriptor }}</p>
+          <p itemprop="description">{{ page.descriptor }}</p>
         
         {% if page.preprice %}
           <p class="book__price"><span class="strikethru">${{ page.price }}</span> ${{ page.preprice }} <span class="prebuy-pitch"> PRELAUNCH PRICE!</span></p>
         {% else %}
-          <p class="book__price">${{ page.price }}</p>
+          <p class="book__price" itemprop="price">${{ page.price }}</p>
         {% endif %}
         </div>
 
@@ -108,8 +105,8 @@ layout: default2
     <h4>Additional Info</h4>
     <ul>
       <li class="book__cfn"><span class="bold">MBIN No: </span>{{ page.casefileNumber }}</li>
-      <li class="book__length"><span class="bold">Length: </span>~ {{ page.wordcount | divided_by: 375 }} pages <span class="pagelengthdisclaimer">(depending on ereader font and font size)</span></li>
-      <li class="book__opub"><span class="bold">Original Publication: </span><span class="italics">{{ page.opub }}</span> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</li>
+      <li class="book__length" itemprop="numberOfPages"><span class="bold">Length: </span>~ {{ page.wordcount | divided_by: 375 }} pages <span class="pagelengthdisclaimer">(depending on ereader font and font size)</span></li>
+      <li class="book__opub" itemprop=""><span class="bold">Original Publication: </span><span class="italics">{{ page.opub }}</span> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</li>
       <li class="book__repub"><span class="bold">Republication Date: </span>
         {% if page.pubdate %}
           {{ page.pubdate | date: "%b %d, %Y"}}
