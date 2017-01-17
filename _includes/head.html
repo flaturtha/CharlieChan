@@ -4,9 +4,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- JSON-LD stuff -->
-  
-  <!-- end JSON-LD stuff -->
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
+
+
+  {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
+
+  <!-- JSON-LD/SEO stuff -->
+    <!-- JSON-LD -->
+    {% include jsonld_novels.html %}
+    <!-- TWITTER -->
+    {% include twittercard.html %}
+    <!-- OG -->
+    <!-- incl. og.html %} -->
+  <!-- end JSON-LD/SEO stuff -->
 
   <link rel="sitemap" type="application/xml" href="{{ site.url }}/sitemap.xml">
 

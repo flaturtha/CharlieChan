@@ -2,7 +2,7 @@
 title: "Tales of Murder"
 subtitle: "Murder Mystery & Crime Stories ... For readers with time to kill!"
 email: contact@talesofmurder.com
-description: A murder mystery short story &amp; novel site.
+description: "A murder mystery short story, novella & novel website. Buy thrilling murder mystery & crime stories to read on any ebook device or app."
 logo: /assets/img/site/atticus_fffff0.svg
 baseurl: ""
 url: "https://www.talesofmurder.com"
@@ -21,8 +21,8 @@ social:
     - "https://business.facebook.com/theredfile"
 
 
-# facebook:
-#   app_id: 1818289131771471
+facebook:
+  app_id: 1035153329907183
 #   publisher:
 #   admins:
 
