@@ -5,7 +5,7 @@ var prefix              = require('gulp-autoprefixer');
 var cleanCSS            = require('gulp-clean-css');
 var concat              = require('gulp-concat');
 var uglify              = require('gulp-uglify');
-// var pump                = require('pump');
+var uncss               = require('gulp-uncss');
 // var imagemin            = require('gulp-imagemin');
 var cp                  = require('child_process');
 
@@ -41,6 +41,19 @@ gulp.task('jsconcat', function () {
     .pipe(uglify('scripts.js'))
     .pipe(gulp.dest('assets/js'));
 });
+
+/**
+ * UNCSS
+ */
+gulp.task('uncss', function(){
+  return gulp.src('_site/assets/css/styles.css')
+    .pipe(uncss({
+      html: ['index.html']
+    }))
+    .pipe(gulp.dest('./out'));
+});
+
+
 
 
 
@@ -87,6 +100,9 @@ gulp.task('copyimg', function () {
     onError: browserSync.notify
   }))
   .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
+  .pipe(uncss({
+    html: ['./**/*.html']
+  }))
   .pipe(cleanCSS({compatibility: 'ie8'}))
   .pipe(gulp.dest('assets/css'))
   .pipe(browserSync.reload({stream:true}))

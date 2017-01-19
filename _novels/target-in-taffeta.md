@@ -3,7 +3,7 @@ layout: books
 casefileNumber: 58753842fda8f27d5695e8ec
 title: "Target in Tafetta"
 author: Ben Benson
-date: 2017-01-15
+date: 2017-01-31
 price: 4.99
 category: novels
 image: /assets/img/novels/comingsoon.svg

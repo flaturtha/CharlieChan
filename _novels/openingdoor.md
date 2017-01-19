@@ -3,7 +3,7 @@ layout: books
 casefileNumber: 587538f0fda8f27d5695e8ed
 title: "The Opening Door"
 author: Helen Reilly
-date: 2017-01-15
+date: 2017-01-31
 price: 6.99
 category: novels
 image: /assets/img/novels/comingsoon.svg

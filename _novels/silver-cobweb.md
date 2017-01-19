@@ -3,7 +3,7 @@ layout: books
 casefileNumber: 587537fafda8f27d5695e8ea
 title: "Silver Cobweb"
 author: Ben Benson
-date: 2017-01-15
+date: 2017-01-31
 price: 4.99
 category: novels
 image: /assets/img/novels/comingsoon.svg
