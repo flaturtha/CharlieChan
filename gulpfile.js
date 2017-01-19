@@ -100,9 +100,9 @@ gulp.task('copyimg', function () {
     onError: browserSync.notify
   }))
   .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
-  .pipe(uncss({
-    html: ['./**/*.html']
-  }))
+  // .pipe(uncss({
+  //   html: ['./**/*.html']
+  // }))
   .pipe(cleanCSS({compatibility: 'ie8'}))
   .pipe(gulp.dest('assets/css'))
   .pipe(browserSync.reload({stream:true}))
