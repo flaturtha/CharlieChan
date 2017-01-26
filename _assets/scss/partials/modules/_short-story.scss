@@ -233,17 +233,20 @@
   // }
 }
 
-
 .story__img {
-  background-color: $bgcolor;
-  color: $paper;
-  img {
-    background-color: $paper;
-    @include susy-breakpoint($bp-large){
-      max-width: 960px;
-    }
-  }
+  // background-color: chartreuse;
+  min-height: 300px;
 }
+
+
+// .story__img {
+//   // background-color: $bgcolor;
+//   color: $paper;
+//   img {
+//     background-color: $paper;
+//     width: ;
+//   }
+// }
 
 .casefilenum {
   @include span(8);
@@ -454,3 +457,55 @@ ol ol li:last-child {margin-bottom:0;}
   text-align: center;
   font-size: 0.75rem;
 }
+
+
+
+/*=============================================
+=            SHORT STORY DOWNLOAD             =
+=============================================*/
+
+.downloadss {
+  width: 600px;
+  max-width: 90%;
+  border: 2px solid $bgcolor;
+  background-color: darken($paper, 2%);
+  margin: 1rem auto;
+  padding: 1rem;
+  div.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  h3 {
+    text-align: center;
+    color: $acolor;
+    span {
+      color: $paper;
+      background-color: $acolor; 
+      border-radius: 5px;
+      padding-top: 0.25rem;
+      text-transform: uppercase;
+      font-size: 1.5rem;
+      display: block;
+      margin: 0.25rem 0;
+    }
+  }
+  p {
+    font-size: 0.875rem;
+    text-align: center;
+  }
+  .pfirst {
+    font-weight: bold;
+    margin-top: 0.5rem;
+  }
+}
+
+
+
+
+
+
+
+
+
+
