@@ -17,8 +17,8 @@ wordcount: 6316
 trfissue: Vol. 2 No. 13
 trfdate: 2016-03-27
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: 
+epub: 
 ---
 
 <section id="toc" class="toc">

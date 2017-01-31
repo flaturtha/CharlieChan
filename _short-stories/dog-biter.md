@@ -17,8 +17,8 @@ wordcount: 3184
 trfissue: Vol. 1 No. 1
 trfdate: Jan. 3, 2016
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: 
+epub: 
 ---
 
 <section id="toc" class="toc">

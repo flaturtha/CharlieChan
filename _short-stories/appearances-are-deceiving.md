@@ -17,8 +17,8 @@ wordcount: 4348
 trfissue: Vol. 3 No. 17
 trfdate: Apr. 24, 2016
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: 
+epub: 
 ---
 
 <section id="toc" class="toc">

@@ -14,8 +14,8 @@ image: /assets/img/short-stories/odds-are-on-death.svg
 genre: Hardboiled PI
 wordcount: 3724
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: 
+epub: 
 ---
 
 <section id="toc" class="toc">

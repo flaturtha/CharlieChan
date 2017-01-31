@@ -14,8 +14,8 @@ image: /assets/img/short-stories/ghost-town-slays.svg
 genre: Professional Sleuth
 wordcount: 4095
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: 
+epub: 
 ---
 
 <section id="toc" class="toc">

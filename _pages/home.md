@@ -10,14 +10,13 @@ category: home
 
 <div class="{{ page.title }} homepage">
 
-
   <!-- NOVELS -->
   {% include novels_detail.html %}
     
   <!-- NOVELLAS -->
   {% include novellas_detail.html %}
 
-  {% include optin6.html %}
+   <!-- include optin6.html %} -->
 
   <!-- SHORT STORIES -->
   {% include short-stories_detail.html %}
@@ -25,8 +24,7 @@ category: home
   <!-- MURDERWIKI -->
   {% include mw_detail.html %}
 
-  {% include optin5.html %}
-
+  <!-- include optin5.html %} -->
 
 </div> <!-- end div homepage -->
 

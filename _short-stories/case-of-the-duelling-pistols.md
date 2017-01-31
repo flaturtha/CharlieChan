@@ -12,8 +12,8 @@ image: /assets/img/short-stories/duelling-pistols.svg
 genre: Professional Sleuth
 wordcount: 3414
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: 
+epub: 
 ---
 
 <section id="toc" class="toc">

@@ -14,8 +14,8 @@ image: /assets/img/short-stories/planned-by-the-stars.svg
 genre: Crook
 wordcount: 3551
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: 
+epub: 
 ---
 
 <section id="toc" class="toc">

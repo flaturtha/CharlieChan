@@ -11,8 +11,8 @@ image: /assets/img/short-stories/deuces-dealt-for-death.svg
 genre: Noir
 wordcount: 4904
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: 
+epub: 
 ---
 
 <section id="toc" class="toc">

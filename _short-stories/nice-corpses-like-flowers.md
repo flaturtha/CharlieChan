@@ -14,8 +14,8 @@ image: /assets/img/short-stories/nice-corpses-like-flowers.svg
 genre: Professional Sleuth
 wordcount: 4625
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: 
+epub: 
 ---
 
 <section id="toc" class="toc">

@@ -14,8 +14,8 @@ image: /assets/img/short-stories/fear.png
 genre: Crime
 wordcount: 4547
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: 
+epub: 
 ---
 
 <section id="toc" class="toc">

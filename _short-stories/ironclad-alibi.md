@@ -14,8 +14,8 @@ image: /assets/img/short-stories/ironclad-alibi.svg
 genre: Crook
 wordcount: 1743
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: 
+epub: 
 ---
 
 <section id="toc" class="toc">

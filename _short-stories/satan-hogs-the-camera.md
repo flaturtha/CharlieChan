@@ -14,8 +14,8 @@ image: /assets/img/short-stories/satan-hogs-the-camera.svg
 genre: Amateur Sleuth
 wordcount: 4722
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: 
+epub:
 ---
 
 <section id="toc" class="toc">

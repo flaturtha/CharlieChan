@@ -17,8 +17,8 @@ wordcount: 3360
 trfissue: Vol. 2 No. 8
 trfdate: Feb. 2, 2016
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: 
+epub: 
 ---
 
 <section id="toc" class="toc">

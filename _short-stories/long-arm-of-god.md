@@ -14,8 +14,8 @@ image: /assets/img/short-stories/long-arm-of-god.svg
 genre: Murder
 wordcount: 3712
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: 
+epub: 
 ---
 
 <section id="toc" class="toc">
