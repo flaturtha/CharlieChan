@@ -66,7 +66,8 @@ description: "A weekly digital publication, readable on any ebook device or app,
     <p style="color:#8b0000;font-size:1.125rem;margin:2rem;"><span class="bold">Don't hesitate</span> &mdash; Enter your best email address below, get comfortable in your favorite chair, and enjoy a good mystery!</p>
     
     <div class="mcform">
-      {% include MC_form1.html %}
+       <!-- include MC_form1.html %} -->
+       {% include D_form1.html %}
     </div>
 
     <!-- include card-trf.html %} -->
