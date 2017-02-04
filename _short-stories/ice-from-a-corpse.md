@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: "The killers had the doc in a tight spot, but the old medico still had a few tricks up his sleeve."
 image: /assets/img/short-stories/ice-from-a-corpse.svg
+imgh: 300px
 genre: Amateur Sleuth
 wordcount: 1752
 timetoread: EST TIME TO READ

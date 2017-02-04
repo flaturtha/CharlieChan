@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: "Corcoran looked like a sucker in the gambling Joint, but he was really a private dick, and a tough one at that!"
 image: /assets/img/short-stories/odds-are-on-death.svg
+imgh: 300px
 genre: Hardboiled PI
 wordcount: 3724
 timetoread: EST TIME TO READ

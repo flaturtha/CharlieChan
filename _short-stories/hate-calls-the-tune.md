@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: "I had the louse I hated in the palm of my hand, but could I really pin this hot murder rap on him?"
 image: /assets/img/short-stories/hate-calls-the-tune.svg
+imgh: 300px
 genre: Professional Sleuth
 wordcount: 4355
 timetoread: EST TIME TO READ

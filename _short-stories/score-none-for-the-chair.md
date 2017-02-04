@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: “Look, bub, when you’ve been in the crime-chipping business as long as I have, you’ll learn that a criminal investigator has two duties. One is to prove guilt; the other is to prove innocence.”
 image: /assets/img/short-stories/score-none-for-the-chair.svg
+imgh: 300px
 genre: Professional Sleuth
 wordcount: 1878
 timetoread: EST TIME TO READ

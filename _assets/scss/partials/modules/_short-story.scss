@@ -236,7 +236,14 @@
 .story__img {
   // background-color: chartreuse;
   min-height: 300px;
+  width: auto;
 }
+
+.image-box {
+  // border: 2px dashed hotpink;
+  align-self: center;
+}
+
 
 
 // .story__img {

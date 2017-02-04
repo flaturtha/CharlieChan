@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: "It all came back to him — the lamp-lit Australian water-front, the slinking shadows along the quay, the sickening emotions following the blow and the return to consciousness in the hold of the trading brig bound for eleven degrees south of the equator."
 image: /assets/img/short-stories/two-bells.svg
+imgh: 300px
 genre: Adventure
 wordcount: 8881
 timetoread: EST TIME TO READ

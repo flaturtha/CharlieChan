@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: "When the movie company came in, it looked as if a bad-man gambler had returned from Boothill to get in a few more killings!"
 image: /assets/img/short-stories/ghost-town-slays.svg
+imgh: 300px
 genre: Professional Sleuth
 wordcount: 4095
 timetoread: EST TIME TO READ

@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: "\"Murder!\" She said quietly. \"At midnight you come upon this earth and at midnight the stars plan that you shall be removed from it.\""
 image: /assets/img/short-stories/planned-by-the-stars.svg
+imgh: 300px
 genre: Crook
 wordcount: 3551
 timetoread: EST TIME TO READ

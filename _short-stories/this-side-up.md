@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: "There’s no glamour in crime, particularly when a sixteen-year-old kid turns bank-bandit and killer. A true story of a boy whom no one ever love &hellip;"
 image: /assets/img/short-stories/this-side-up.svg
+imgh: 300px
 genre: Amateur Sleuth
 wordcount: 3400
 timetoread: EST TIME TO READ

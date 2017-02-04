@@ -11,6 +11,7 @@ opubissue: Vol. 5, No. 1
 category: short-stories
 excerpt: It was the perfect crime, until Garbett took the wrong chance and lost it all.
 image: /assets/img/short-stories/appearances.svg
+imgh: 300px
 genre: Crook
 tags: crook, "George B. Jenkins, Jr.", Black Mask
 wordcount: 4348

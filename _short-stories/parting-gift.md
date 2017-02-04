@@ -11,6 +11,7 @@ date: 2015-09-10
 category: short-stories
 excerpt: "The jealous husband had a perfect plan to get rid of his wife and her boy friend—until Fate took a hand."
 image: /assets/img/short-stories/parting-gift.svg
+imgh: 300px
 genre: Noir
 wordcount: 1703
 timetoread: EST TIME TO READ

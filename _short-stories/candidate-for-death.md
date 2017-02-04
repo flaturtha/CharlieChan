@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: Hired guns gave their wolf cry when the Scarlet Ace passed the word, but they forgot the law of the pack until they paid the price of fear.
 image: /assets/img/short-stories/candidate-for-death_right.svg
+imgh: 300px
 genre: Crook
 tags: crook, All Detective, Tinsley
 wordcount: 7622

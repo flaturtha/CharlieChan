@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: "All he could remember was the beautiful dead girl. But who was she—and why had he killed her?"
 image: /assets/img/short-stories/how-dead-can-you-get.svg
+imgh: 300px
 genre: Noir
 wordcount: 4093
 timetoread: EST TIME TO READ

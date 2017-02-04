@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: "He’d been a good cop once, then, when Frank Bard's wife was killed, he went off his nut, became an alcoholic bum who thought Jeanie was still with him all the time &mdash; until &hellip;"
 image: /assets/img/short-stories/you-remember-jeanie.svg
+imgh: 300px
 genre: Professional Sleuth
 wordcount: 3831
 timetoread: EST TIME TO READ

@@ -9,6 +9,7 @@ date: 2015-09-14
 category: short-stories
 excerpt: “I didn’t kill him, Mr. Hawke! I swear I didn’t kill him!” The famous criminologist had been called to the jail by the personal appeal of the prisoner, who was well known to him.
 image: /assets/img/short-stories/duelling-pistols.svg
+imgh: 300px
 genre: Professional Sleuth
 wordcount: 3414
 timetoread: EST TIME TO READ

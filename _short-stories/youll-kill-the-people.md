@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: "Right after he first appeared on TV, Buddy Burton began to receive warnings&#58; get out while you’re still alive! It didn’t seem to make any sense, but Buddy found that the party sending them mean business, and &hellip;"
 image: /assets/img/short-stories/youll-kill-the-people.svg
+imgh: 300px
 genre: Noir
 wordcount: 4758
 timetoread: EST TIME TO READ

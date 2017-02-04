@@ -9,6 +9,7 @@ date: 2015-09-14
 category: short-stories
 excerpt: “A present, Janie—from an unknown admirer! Try one of the goldpaper ones—they’re Benedictine.” Almost grudgingly Nurse Wilmot put her hand into the box and took a liqueur chocolate wrapped in gold-coloured foil.
 image: /assets/img/short-stories/frivolous-wife.svg
+imgh: 300px
 genre: Professional Sleuth
 wordcount: 3843
 timetoread: EST TIME TO READ

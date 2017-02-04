@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: "\"Then how,\" the coroner leaned over the desk to ask the question, \"do you account for the undeniable fact that your fingerprints are on the handle of the dagger?\""
 image: /assets/img/short-stories/the-unbelievable1.svg
+imgh: 300px
 genre: Professional Sleuth
 wordcount: 7992
 timetoread: EST TIME TO READ
@@ -243,7 +244,8 @@ Then he rose and began to pace the room.
 
 “Miss Granger,” he said at last, pausing before the woman whose eyes did not falter beneath his steady gaze. “In China men are taught to respect certain things as sacred. One of these is the faith of a good woman. I respect your faith in your fiancé’s innocence. I am inclined to do my small best to help you justify it.But tell me what it is that makes you so sure of Mr. Grover’s innocence. As I recall the evidence brought out at the inquest, it was strongly against him.”
 
-![She brushed her hand across her forehead, swaying backward.](/assets/img/the-unbelievable2cap.svg)
+![She brushed her hand across her forehead, swaying backward.](/assets/img/the-unbelievable2cap.svg
+imgh: 300px)
 
 With the Chinaman’s words a gleam of hope had come to Sylvia Granger.
 

@@ -11,6 +11,7 @@ opubissue: No. 4
 category: short-stories
 excerpt: “When a man dies, my dear Hawke,” said Dr. Wilthorpe, lighting a cigar, “he usually gives up playing the fool, but not so Alderman Wickham."
 image: /assets/img/short-stories/dog-biter.svg
+imgh: 300px
 genre: Professional Sleuth
 tags: Dixon Hawke, Professional Sleuth
 wordcount: 3184

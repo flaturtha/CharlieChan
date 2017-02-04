@@ -8,6 +8,7 @@ date: 2015-08-26
 category: short-stories
 excerpt: Slitting the throat of the fourth of Clinsey's quartet quarry should be as easy as falling off a log, that vengeance stayer figured. But Clinsey should have known that when success goes to a kilter's head, it may be even easier for him to fall from a gallows first.
 image: /assets/img/short-stories/deuces-dealt-for-death.svg
+imgh: 300px
 genre: Noir
 wordcount: 4904
 timetoread: EST TIME TO READ

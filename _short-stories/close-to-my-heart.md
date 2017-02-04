@@ -11,6 +11,7 @@ opubissue: Vol. 2, No. 1
 category: short-stories
 excerpt: Hatred caused Reece to send his rival a gift to be worn next to the heart. But he forgot to say whose heart …
 image: /assets/img/short-stories/close-to-my-heart.svg
+imgh: 300px
 genre: Noir
 tags: noir, Geier, Mammoth Mystery
 wordcount: 4859

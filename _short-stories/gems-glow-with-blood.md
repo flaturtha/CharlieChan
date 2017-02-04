@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: "I’m not too honest a private dick, but I draw the line when MURDER lines up on the wrong side."
 image: /assets/img/short-stories/gems-glow-with-blood.svg
+imgh: 300px
 genre: Hardboiled PI
 wordcount: 4576
 timetoread: EST TIME TO READ

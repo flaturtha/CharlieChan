@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: "Good-hearted Benny Kerr only wanted to hand that mislaid meat parcel back to its loser. But when it turned out that the package contained an axe-maniac's tidbit, it was the murder-mad chopper that wanted to make Benny the red-handed receiver."
 image: /assets/img/short-stories/murder-in-small-packages.svg
+imgh: 300px
 genre: Amateur Sleuth
 wordcount: 5038
 timetoread: EST TIME TO READ

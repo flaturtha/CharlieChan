@@ -11,6 +11,8 @@ opubissue: No. 4
 category: short-stories
 excerpt: Before he met his frightful but not entirely unfitting death, Maurice Pollitt had had some life infused into him.
 image: /assets/img/short-stories/boomerang-bomb.svg
+imgh: 300px
+imgh: 300px
 genre: Professional Sleuth
 tags: Dixon Hawke, Professional Sleuth
 wordcount: 3360

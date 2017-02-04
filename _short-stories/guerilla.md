@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: "The man walked past the building, turned, and after a quick glance about, entered the tenement’s hallway."
 image: /assets/img/short-stories/guerilla.svg
+imgh: 300px
 genre: Noir
 wordcount: 2735
 timetoread: EST TIME TO READ

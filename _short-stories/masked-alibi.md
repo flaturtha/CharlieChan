@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: "Hal Robberts of the State Police played a long hunch on &hellip;"
 image: /assets/img/short-stories/masked-alibi.svg
+imgh: 300px
 genre: Professional Sleuth
 wordcount: 3202
 timetoread: EST TIME TO READ

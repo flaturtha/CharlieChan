@@ -11,6 +11,7 @@ opubissue:
 category: short-stories
 excerpt: "When the cops couldn’t figure out how Big Ben Landis was passing his counterfeit cash to his gang, the DA’s younger brother decided to see if he could solve the mystery and catch Landis with the dirty money."
 image: /assets/img/short-stories/mountain-comes-to-mohammed.svg
+imgh: 300px
 genre: Amateur Sleuth
 wordcount: 1799
 timetoread: EST TIME TO READ
