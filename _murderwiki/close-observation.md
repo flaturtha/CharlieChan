@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Close Observation"
 subtitle: "On of the High Cards of the Fiction Detective's Game"
@@ -14,7 +14,7 @@ image: /assets/img/murderwiki/The_Purloined_Letter.png
 caption: "Illustration to \'The Purloined Letter\' by Edgar Allen Poe. Drawn by Frederic Lix (1830 - 1897), before 1864."
 sizeoverride: contain
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 3826
 ---
 
@@ -87,8 +87,10 @@ As to Sherlock Holmes, it is not necessary to refer to his microscopic examinati
 But this close observation must have something to observe; the magnifying glass must have something to magnify; and these things must be of vital importance as evidence.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Search for Clues
+### The Search for Clues
+{: .chaptertitle }
 
 This could rarely be compassed in real life, but it is, of course, easy for the author to provide the tiny clues necessary to his hero&#39;s microscope work.
 
@@ -125,8 +127,10 @@ A case in point, is this bit from &quot;The Whispering Man:&quot;
 It was this that Lowell had in mind, when he said that Poe &quot;combined in a very remarkable manner two faculties which are seldom found united,—a power of influencing the mind of the reader by the impalpable shadows of mystery, and a minuteness of detail which does not leave a pin or a button unnoticed. Both are, in truth, the natural results of the predominating quality of his mind, to which we have before alluded,—analysis.&quot; And the same principle is approved of in real life by Mr. Arthur C. Train&#39;s assertion: &quot;The discovery and proper proof of minute facts which tend to demonstrate the guilt of an accused are the joy of the natural prosecutor, and he may in his enthusiasm spend many thousands of dollars on what seems, and often is, an immaterial matter.&quot;
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Bizarre in Crime
+### The Bizarre in Crime
+{: .chaptertitle }
 
 A deep conviction of the Transcendent Detective is that a crime containing unusual or even bizarre characteristics is more easy of solution than a commonplace one. This is a somewhat disingenuous proposition; for the real reason that the bizarre crime is preferable, is because it offers greater dramatic and spectacular opportunities. But of course the author is not admitting this. No, he puts into the mouth of his detective such theories as these.
 
@@ -155,8 +159,10 @@ Indeed, so fond is Sherlock Holmes of the bizarre that he prefers that character
 >&quot;So much so,&quot; I remarked, &quot;that of the last six cases which I have added to my notes, three have been entirely free of any legal crime.&quot;
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Value of the Trivial
+### The Value of the Trivial
+{: .chaptertitle }
 
 But in the following extract, perhaps because he is in a disputatious mood, he acknowledges a liking for trivial and lowly manifestations of his art:
 
@@ -175,8 +181,10 @@ But Watson himself confesses to the dangers of this literary Scylla and Charybdi
 >&quot;In glancing over the somewhat incoherent series of Memoirs with which I have endeavored to illustrate a few of the mental peculiarities of my friend Mr. Sherlock Holmes, I have been struck by the difficulty which I have experienced in picking out examples which shall in every way answer my purpose. For in those cases in which Holmes has performed some tour de force of analytical reasoning, and has demonstrated the value of his peculiar methods of investigation, the facts themselves have often been so slight or so commonplace that I could not feel justified in laying them before the public. On the other hand, it has frequently happened that he has been concerned in some research where the facts have been of the most remarkable and dramatic character, but where the share which he has himself taken in determining their causes has been less pronounced than I, as his biographer, could wish. The small matter which I have chronicled under the heading of &#39;A Study in Scarlet,1 and that other later one connected with the loss of the Gloria Scott, may serve as examples of this Scylla and Charybdis which are forever threatening the historian. It may be that in the business of which I am now about to write the part which my friend played is not sufficiently accentuated; and yet the whole train of circumstances is so remarkable that I cannot bring myself to omit it entirely from this series.&quot;
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Tricks of Imitation
+### The Tricks of Imitation
+{: .chaptertitle }
 
 These tricks of the trade are of course faithfully copied by the imitators and successors of these great authors. An example in point is this from Jacques Futrelle&#39;s &quot;The Thinking Machine;&quot;
 
@@ -209,3 +217,4 @@ In &quot;The Master of Mysteries,&quot; Mr. Gelett Burgess puts this principle i
 >&quot;It will probably be easy and interesting,&quot; he remarked to his assistant Valeska, who had been present at the interview with McGraw. &quot;It is these cases which are apparently so extraordinary that are most easily solved. Given any remarkable variation in the aspect of a crime, and you know immediately where to begin. This will be only play, I fancy.&quot;
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

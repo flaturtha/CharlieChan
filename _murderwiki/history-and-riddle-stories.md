@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "History of the Mystery & Riddle Stories"
 chapter: "Chapters 3 & 5"
@@ -12,7 +12,7 @@ excerpt: "To trace the origin and history of the mystery story is simply to trac
 image: /assets/img/murderwiki/In_Black_and_White_cover_by_Rudyard_Kipling_1888.jpg
 caption: "In Black and White is a collection of eight short stories by Rudyard Kipling which was first published in a booklet of 108 pages as no. 3 of A H Wheeler & Co.’s Indian Railway Library in 1888."
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 3118
 ---
 
@@ -30,7 +30,8 @@ To trace the origin and history of the mystery story is simply to trace the orig
 
 There is no country which has not its quota of traditional and folk-lore tales, founded almost invariably on some element of mystery, surprise or suspense. And why? Because the interest of the eternal audience is &quot;gripped&quot; by a desire to know the unknown. Because the ancients told and retold stories of mystery with never failing success. These tales lived. Translated, rewritten, paraphrased, they are still living, because of their ever new appeal to the very human trait of curiosity.
 
-## Ancient Mystery Tales
+### Ancient Mystery Tales
+{: .chaptertitle }
 
 Take the story of &quot;The Clever Thief.&quot; It comes from the Tibetan, from an ancient Buddhist book that goes back nearly a thousand years. But even then it was not new. Missionaries had carried it thither from India in an odd corner of their bags, or in some chamber of the memory not filled with the riddles of being. Where did they get it? Who can say? It was old when Herodotus wandered through sun-lit Egypt twenty-four centuries ago, gleaning tales from the priests of Amen and of Ptah. He tells it, point for point, as did those Buddhist missionaries, but lays it in the days of Rameses, nigh four thousand years ago. Everything is there; the cutting off of the head to elude detection, the tricks by which the relatives mourn over the headless trunk, the snare set for the thief and his outwitting it. And that same tale, like good merchandise, was carried both east and west. It found its way to India, over the vast Himalayas, to the gray roof of the world. It came with equal charm to the Mediterranean isles, up the Adriatic coasts, and as far as Venice. There Ser Giovanni told it, transmogrifying Pharaoh of the Nile into a worshipful Doge, as he had already been made over into a Buddhist magnate, but in no way altering the motive, the suspense, the artfulness of the tale. What is this story then? Is it Venetian? Is it Pharonic? Is it Greek? Is it Tibetan? It is all these, and perhaps something more, vastly older than them all. Its craft, mayhap, goes back tot that primal serpent who, more subtle than all the beasts of the field, has ever inspired darkling feints and strategies.
 
@@ -57,11 +58,13 @@ The story of &quot;The Visakha&quot; is nearly a thousand years old, but the fol
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## RIDDLE STORIES
+### RIDDLE STORIES
+{: .chaptertitle }
 
 Riddle Stories, as we have chosen to designate them, are Mystery Stories concerned with a question and answer of absorbing interest, but one which in no way implies or includes the work of a detective, either professional or amateur. As a rule, Riddle Stories are not based upon a crime, but on some mysterious situation which is apparently inexplicable, but which turns out to have a most rational and logical explanation.
 
-## Some Notable Riddle Stories
+### Some Notable Riddle Stories
+{: .chaptertitle }
 
 &quot;The Sending Of Dana Da&quot; by Kipling, is one of the best stories of this type.
 
@@ -114,7 +117,8 @@ The secret of Collins&#39;s power lies not in mere description but in suggestion
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Nature of the Riddle Story and its Types
+### The Nature of the Riddle Story and its Types
+{: .chaptertitle }
 
 The distinguishing feature of the Riddle Story is that the reader should be confronted with a number of mysterious facts of which the explanation is reserved till the end. Now this reservation of the final solution, in order to pique the reader&#39;s curiosity, excite his ingenuity, and lead him on to an unexpected climax, is a quite legitimate artistic effect. The only question to be asked about it in any particular instance is whether it succeeds, whether the effect is really accomplished? And for its success two primary qualifications are necessary,—first, that the mystery should really be mysterious; second, that the explanation should really explain.
 
@@ -137,3 +141,4 @@ Poe&#39;s &quot;Gold Bug&quot; includes both the cryptogram and the buried treas
 A novel by James DeMille is called &quot;The Cryptogram,&quot; and the cypher is the main point of the story. But more often, cypher or secret writing is used as a side issue or a picturesque device in a stronger mystery plot.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

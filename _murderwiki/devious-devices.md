@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Devious Devices"
 subtitle: "Common Techniques, Often Unfair or Hackneyed, Used By Detetive Story Writers to Arrest the Reader &amp; the&nbsp;Killer"
@@ -13,7 +13,7 @@ excerpt: "Of the many devices introduced by detective writers to arrest and hold
 image: /assets/img/murderwiki/Secret_Panel.png
 caption: "\"The secret panel in the wall. After BRADDON.\" Illustration for \"Selina Sedilia\" in Bret Harte's Condensed Novels."
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 2443
 ---
 
@@ -29,7 +29,8 @@ wordcount: 2443
 
 Of the many devices introduced by detective writers to arrest and hold the readers&#39; attention, some are admittedly legitimate and used by best authors. Others are unfair; and still others were permissible but have become so hackneyed as to be taboo.
 
-## Snow and Rain
+### Snow and Rain
+{: .chaptertitle }
 
 In &quot;Monsieur Lecoq&quot; much depends on the footprints in the snow. Thereafter in the first chapter of nearly every detective story we are informed that &quot;a light snow had fallen the evening before.&quot; Then witnesses are brought to prove the exact hour the snow began to fall, and the moment it stopped. This fixes the time of the murder, and the footprints in the snow lead to or from the criminal as the author may decree.
 
@@ -44,8 +45,10 @@ This is the same accurately scheduled, time-lock rain, but it is a little more l
 If possible, then, act along without the light snow or the gentle rain or even the torrents. They seem almost indispensable, but endeavor for once to construct a crime without them.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Some Particularly Hackneyed Devices
+### Some Particularly Hackneyed Devices
+{: .chaptertitle }
 
 Fog, though not so much of a factor here, is incessantly used in English detective stories. It is so obviously a convenient device for concealing crime, that it is the foundation of Richard Harding Davis&#39;s &quot;In the Fog&quot; and also of &quot;A Mysterious Disappearance,&quot; &quot;Big Bow Mystery,&quot; &quot;The Masquerader,&quot; and scores of others.
 
@@ -88,8 +91,10 @@ Omit the use of a magpie, raven or parrot as an instrument for stealing jewels. 
 And oh, young writer, avoid, as you would the plague, the introduction of shreds or threads of wearing apparel as incriminating evidence! Probably this began with Lecoq&#39;s discovery of a few threads of brown wool, which were tom off by splinters, as a man wiped snow from a beam with his coat sleeve. This was credible and even plausible, and as it was the first time such a device had appeared in detective fiction it was acceptable. But how that poor detail has been abused and tortured ever since!
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Devices Which Are Not Plausible
+### Devices Which Are Not Plausible
+{: .chaptertitle }
 
 In &quot;The Accomplice,&quot; an unusually good court-room story, by Frederick Trevor Hill, we have this sort of evidence reduced almost to an absurdity. To quote from page 13:
 
@@ -138,3 +143,4 @@ It is wise to be careful in the use of shreds and threads that the author may no
 It would be interesting to see a hand that could tear a piece out of a coat of rough Irish tweed! The strength of such a clutch would put to blush the feats of the Murderer of the Rue Morgue.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

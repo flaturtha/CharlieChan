@@ -13,7 +13,7 @@ excerpt: Hired guns gave their wolf cry when the Scarlet Ace passed the word, bu
 image: /assets/img/short-stories/candidate-for-death_right.svg
 imgh: 300px
 genre: Crook
-tags: crook, All Detective, Tinsley
+tags: short-story, crook, All Detective, Tinsley
 wordcount: 7622
 trfissue: Vol. 2 No. 9
 trfdate: Feb. 28, 2016

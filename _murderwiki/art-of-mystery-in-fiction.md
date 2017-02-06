@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Art of Mystery in Fiction"
 author: George Manville Fenn
@@ -13,6 +13,7 @@ image: /assets/img/murderwiki/Michael_Pacher_004.jpg
 caption: <i>Saint Wolfgang et le diable</i>, 1483.<br>Painted by Michael Pacher (1430-1498),<br>oil on panel, 103 x 91 cm (40.6 x 35.8 in).
 genre: Art of Fiction
 wordcount: 2963
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -25,7 +26,8 @@ wordcount: 2963
 </div>
 </section> <!-- table-of-contents -->
 
-## The Hunt for Mystery
+### The Hunt for Mystery
+{: .chaptertitle }
 
 The original inventor of the legend of how a man sold himself to the Prince of Darkness, taking for his share of the bargain renewed youth and unbounded riches, certainly deserves to be awarded the palm for the most wondrous and mysterious plot that ever emanated from the human brain.
 
@@ -42,8 +44,10 @@ It is this strong passion to know the unknown that is seized upon by the writer 
 The flaire is prepared, the scent is there, and the hunt for the elucidation begins. If cleverely arranged the hunter grows warmer and more breathless chapter by chapter, and at this rate he would soon run the mystery down; but he is carried off on false leads, disappointed, sent back to the true, and goes on with repetitions of the trick of which he is delightfully ignorant, till the last chapter is near, the quarry—the mystery—almost in sight, and finally, after a breathless chase, the aim of writer and reader is achieved.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Hidden in Fiction: Literary Devices in Fiction
+### The Hidden in Fiction: Literary Devices in Fiction
+{: .chaptertitle }
 
 Without going back to the most ancient utilizers of the hidden in fiction, it is a far-enough cry from the _Mysteries of Udolpho_, to the _Mysteries of a Hansom Cab_; from secret passage, dark dungeon, and strange appearances, to murder most foul and unnatural. Between those two points how innumerable have been the devices adopted to catch the reader&#39;s attention!
 
@@ -72,8 +76,10 @@ It is not great, perhaps, this art of mystery in fiction, partaking as it does o
 The novels of a century or so back were manly but coarse, and many a clever work retains its place on the bookshelves on account of its being licensed in its licentiousness by the brand, or hall mark, &quot;classic.&quot; Then, as refinement obtained, we went through a phase of the morbidly sentimental, followed up by the sentimental romantic, which gave place in turn to productions of sterling worth lasting up to and continued in the present day.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Mystery Novels of France
+### Mystery Novels of France
+{: .chaptertitle }
 
 In company with all these, of course, there were the importations from across the Channel&mdash;clever, unprincipled, immoral, often filthy to a degree. In these, for the most part, the art of mystery was wanting. There was no room for it. The text was in ninety-nine cases out of a hundred sexuality. These had their readers naturally enough, but the hot-blooded exotic novel was neither popular nor plentiful. Now we have changed all that.
 
@@ -84,8 +90,10 @@ The French novel, in short, a score or so of years ago, was read and not named; 
 One casts no slur upon the ability of the writers of these romances. They are Frenchmen, of France, and their ways are not ours. But the insidious work is going on and is having its effect.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Mystery in the Hands of the So-called Weaker Sex
+### The Mystery in the Hands of the So-called Weaker Sex
+{: .chaptertitle }
 
 Naturally our writers are ruled by the demand. The success of one brings forth many imitators, and the result is that many of the books now published, notably those written by the so-called weaker sex, grow broader and stronger—certainly in more senses than one.
 
@@ -94,8 +102,10 @@ The school of writers to whom we owe this advance, this imitative effort in lett
 The influence is daily growing, and an example of its effects is plainly before us—an example almost ludicrous—for we find one of our principal newspapers giving its assurance (in answer to certain rumors) that the novel appearing in its columns has not been expurgated, but is exactly as it came from the novelist&#39;s pen.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Sensationalism in the Mystery
+### Sensationalism in the Mystery
+{: .chaptertitle }
 
 One might expect that with the advance of this class of narrative with naturalism so strongly to the fore, the old school of sensationalism would be beaten out of the field, but though the new writer basing his fiction upon his French master may out-Herod Herod and cause a massacre among the innocents he contemns, the mystery-lover will never be convinced, but will seek after his favorite food with as great a zest as ever.
 
@@ -108,8 +118,10 @@ The answer is simple. It is the mystery of the story and the curiosity excited.
 These have a peculiar charm for most readers—most, for a tale of this kind with an ingenious, well-constructed plot partakes somewhat of the nature of the fabled Maelstrom.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Popular Sensation Story
+### The Popular Sensation Story
+{: .chaptertitle }
 
 Even the lover of the vapid style of society novel, or of those dealing with afternoon calls and tea, liberally amalgamated with upholstery and the latest fashions; the lady worshipper of the athletic giants who crush the gentle violets of society and break hearts because it is their nature to, and consequently go on macadamizing their life path with these brittle objects so liberally offered to them—in novels; the patron of the libraries who is content with nothing less than character-studies, analysis of life, struggles against temptation, sexual or religious infidelity, stories of pure-minded church dignitaries fighting against doubt, or Barham&#39;s worst devil of all—the &quot; laughing woman with two bright eyes,&quot; and who go through three volumes representing in Book I. the flitting fly, in Book II. the contact with the web and the vain struggles, and in Book III. the rescue and cleansing of the tangled wings by faith, fighting or death; all these readers fall at times to the ordinary mystery in fiction.
 
@@ -128,8 +140,10 @@ One joins issue here. Is it such trash when it has been so constructed and so wr
 These effects are produced by a combination of nature and art; nature worked upon by art most artfully; but it is given to few—this power of piquing a reader&#39;s brain. Once touched, though, the novelist has a wonderful ally in his victim, who colors up the pictures, and represents them to his mind&#39;s eye to suit his own taste, and often renders that which is dull bright in the extreme—to himself.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Young Reader to the Mysterious Bones
+### The Young Reader to the Mysterious Bones
+{: .chaptertitle }
 
 One might exemplify how strongly this is the case in many of the stories of adventure that have been written for boys, which, so to speak, have been merely skeletons—hard, dry bones, but well set up, strong, and perfectly articulated. Every joint has been carefully placed, and the form is without a flaw.
 
@@ -140,8 +154,10 @@ The skeleton is alive and full of action, while the scene in which it begins to 
 And, though in a less degree, the adult reader, albeit his or her brain is a little thicker in its _pia_ or _dura mater_, and more difficult to impress, also helps the author in his work.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Natural Desire for the Weird and Wonderful
+### The Natural Desire for the Weird and Wonderful
+{: .chaptertitle }
 
 One who has studied these questions from many points of view, and, above all, noted how a story will &quot;catch on,&quot; and almost electrically seize the imagination of the reading world, will constantly see that in the majority of cases the most popular fiction of the day is that in which mystery plays a prominent part—a mystery which is well concealed. It is no secret.
 
@@ -152,3 +168,4 @@ It is no forbidden fruit that he should offer, only an apple that is hard to pic
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "The Philosophy of Composition"
 subtitle: "An Examination of the Rigid, Mathmatical Approach to Compose His Works, as Demonstrated Through \'The Raven'"
@@ -13,6 +13,7 @@ image: /assets/img/murderwiki/Graham%27s_April_1846_Poe_Phil_Comp.png
 caption: "Cover of the April, 1846 issue of <i>Graham's Magazine</i>, published by George R. Graham, containing the essay \"The Philosophy of Composition\" by Edgar Allan Poe."
 genre: Composition of Fiction
 wordcount: 4680
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -47,7 +48,8 @@ I select &#39;The Raven&#39; as most generally known. It is my design to render 
 
 Let us dismiss, as irrelevant to the poem, per se, the circumstance — or say the necessity — which, in the first place, gave rise to the intention of composing a poem that should suit at once the popular and the critical taste.
 
-## The Length of the Poem
+### The Length of the Poem
+{: .chaptertitle }
 
 We commence, then, with this intention.
 
@@ -61,7 +63,8 @@ It appears evident, then, that there is a distinct limit, as regards length, to 
 
 Holding in view these considerations, as well as that degree of excitement which I deemed not above the popular, while not below the critical taste, I reached at once what I conceived the proper length for my intended poem — a length of about one hundred lines. It is, in fact, a hundred and eight.
 
-## The Choice of An Impression Or Effect To Be Conveyed
+### The Choice of An Impression Or Effect To Be Conveyed
+{: .chaptertitle }
 
 My next thought concerned the choice of an impression, or effect, to be conveyed: and here I may as well observe that throughout the construction, I kept steadily in view the design of rendering the work universally appreciable. I should be carried too far out of my immediate topic were I to demonstrate a point upon which I have repeatedly insisted, and which, with the poetical, stands not in the slightest need of demonstration — the point, I mean, that Beauty is the sole legitimate province of the poem.
 
@@ -77,7 +80,8 @@ It by no means follows, from anything here said, that passion, or even truth, ma
 
 Regarding, then, Beauty as my province, my next question referred to the tone of its highest manifestation — and all experience has shown that this tone is one of sadness. Beauty of whatever kind in its supreme development invariably excites the sensitive soul to tears. Melancholy is thus the most legitimate of all the poetical tones.
 
-## The Refrain: A Sense of Identity in Repetition
+### The Refrain: A Sense of Identity in Repetition
+{: .chaptertitle }
 
 The length, the province, and the tone, being thus determined, I betook myself to ordinary induction, with the view of obtaining some artistic piquancy which might serve me as a key-note in the construction of the poem — some pivot upon which the whole structure might turn.
 
@@ -91,7 +95,8 @@ The question now arose as to the character of the word. Having made up my mind t
 
 The sound of the refrain being thus determined, it became necessary to select a word embodying this sound, and at the same time in the fullest possible keeping with that melancholy which I had pre-determined as the tone of the poem. In such a search it would have been absolutely impossible to overlook the word &quot;Nevermore.&quot; In fact it was the very first which presented itself.
 
-## A Search for A Reason in the Repetition of the Refrain
+### A Search for A Reason in the Repetition of the Refrain
+{: .chaptertitle }
 
 The next desideratum was a pretext for the continuous use of the one word &quot;nevermore.&quot; In observing the difficulty which I had at once found in inventing a sufficiently plausible reason for its continuous repetition, I did not fail to perceive that this difficulty arose solely from the preassumption that the word was to be so continuously or monotonously spoken by a human being — I did not fail to perceive, in short, that the difficulty lay in the reconciliation of this monotony with the exercise of reason on the part of the creature repeating the word.
 
@@ -113,7 +118,8 @@ And here it was that I saw at once the opportunity afforded for the effect on wh
 
 Perceiving the opportunity thus afforded me, or, more strictly, thus forced upon me in the progress of the construction, I first established in my mind the climax or concluding query — that query to which &quot;Nevermore&quot; should be in the last place an answer — that query in reply to which this word &quot;Nevermore&quot; should involve the utmost conceivable amount of sorrow and despair.
 
-## Beginning At the End
+### Beginning At the End
+{: .chaptertitle }
 
 Here then the poem may be said to have had its beginning — at the end where all works of art should begin — for it was here at this point of my preconsiderations that I first put pen to paper in the composition of the stanza:
 
@@ -131,7 +137,8 @@ Here then the poem may be said to have had its beginning — at the end where al
 
 I composed this stanza, at this point, first that, by establishing the climax, I might the better vary and graduate, as regards seriousness and importance, the preceding queries of the lover, and secondly, that I might definitely settle the rhythm, the metre, and the length and general arrangement of the stanza, as well as graduate the stanzas which were to precede, so that none of them might surpass this in rhythmical effect. Had I been able in the subsequent composition to construct more vigorous stanzas I should without scruple have purposely enfeebled them so as not to interfere with the climacteric effect.
 
-## The First Objective - Originality
+### The First Objective - Originality
+{: .chaptertitle }
 
 And here I may as well say a few words of the versification. My first object (as usual) was originality. The extent to which this has been neglected in versification is one of the most unaccountable things in the world. Admitting that there is little possibility of variety in mere rhythm, it is still clear that the possible varieties of metre and stanza are absolutely infinite, and yet, for centuries, no man, in verse, has ever done, or ever seemed to think of doing, an original thing.
 
@@ -141,7 +148,8 @@ Of course I pretend to no originality in either the rhythm or metre of the &quot
 
 Now, each of these lines taken individually has been employed before, and what originality the &quot;Raven&quot; has, is in their combination into stanza; nothing even remotely approaching this has ever been attempted. The effect of this originality of combination is aided by other unusual and some altogether novel effects, arising from an extension of the application of the principles of rhyme and alliteration.
 
-## Locale and its Effect Upon the Poetical Thesis
+### Locale and its Effect Upon the Poetical Thesis
+{: .chaptertitle }
 
 The next point to be considered was the mode of bringing together the lover and the Raven — and the first branch of this consideration was the locale. For this the most natural suggestion might seem to be a forest, or the fields — but it has always appeared to me that a close circumscription of space is absolutely necessary to the effect of insulated incident — it has the force of a frame to a picture. It has an indisputable moral power in keeping concentrated the attention, and, of course, must not be confounded with mere unity of place.
 
@@ -153,7 +161,8 @@ I made the night tempestuous, first to account for the Raven&#39;s seeking admis
 
 I made the bird alight on the bust of Pallas, also for the effect of contrast between the marble and the plumage — it being understood that the bust was absolutely suggested by the bird — the bust of Pallas being chosen, first, as most in keeping with the scholarship of the lover, and secondly, for the sonorousness of the word, Pallas, itself.
 
-## The Force of Contrast
+### The Force of Contrast
+{: .chaptertitle }
 
 About the middle of the poem, also, I have availed myself of the force of contrast, with a view of deepening the ultimate impression. For example, an air of the fantastic — approaching as nearly to the ludicrous as was admissible — is given to the Raven&#39;s entrance. He comes in &quot;with many a flirt and flutter.&quot;
 
@@ -195,7 +204,8 @@ From this epoch the lover no longer jests — no longer sees anything even of th
 
 With the denouement proper — with the Raven&#39;s reply, &quot;Nevermore,&quot; to the lover&#39;s final demand if he shall meet his mistress in another world — the poem, in its obvious phase, that of a simple narrative, may be said to have its completion.
 
-## The Limits of the Accountable
+### The Limits of the Accountable
+{: .chaptertitle }
 
 So far, everything is within the limits of the accountable — of the real. A raven, having learned by rote the single word &quot;Nevermore,&quot; and having escaped from the custody of its owner, is driven at midnight, through the violence of a storm, to seek admission at a window from which a light still gleams — the chamber-window of a student, occupied half in poring over a volume, half in dreaming of a beloved mistress deceased.
 
@@ -207,7 +217,8 @@ With the indulgence, to the extreme, of this self-torture, the narration, in wha
 
 But in subjects so handled, however skillfully, or with however vivid an array of incident, there is always a certain hardness or nakedness which repels the artistical eye. Two things are invariably required — first, some amount of complexity, or more properly, adaptation; and, secondly, some amount of suggestiveness — some under-current, however indefinite, of meaning. It is this latter, in especial, which imparts to a work of art so much of that richness (to borrow from colloquy a forcible term), which we are too fond of confounding with the ideal.
 
-## The Excess of the Suggested Meaning
+### The Excess of the Suggested Meaning
+{: .chaptertitle }
 
 It is the excess of the suggested meaning — it is the rendering this the upper instead of the under-current of the theme — which turns into prose (and that of the very flattest kind), the so-called poetry of the so-called transcendentalists.
 
@@ -238,7 +249,8 @@ It will be observed that the words, &quot;from out my heart,&quot; involve the f
   <figcaption>Gustave Doré's (1832-1883) illustration for 'The Raven' 1864.</figcaption>
 </figure>
 
-## The Raven
+### The Raven
+{: .chaptertitle }
 
 >Once upon a midnight dreary, while I pondered, weak and weary,
 
@@ -493,3 +505,4 @@ It will be observed that the words, &quot;from out my heart,&quot; involve the f
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

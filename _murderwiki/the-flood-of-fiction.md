@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "The Flood of Fiction"
 author: unknown author
@@ -13,6 +13,7 @@ image: /assets/img/murderwiki/stack-of-books-vintage-books-book-books.jpg
 caption:
 genre:
 wordcount: 3770
+tags: murderwiki
 ---
 
 <!-- <section id="toc" class="toc">
@@ -126,3 +127,4 @@ He is not a man of many words, but he took his pipe out of his mouth and spoke. 
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

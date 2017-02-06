@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "The Detective Story"
 subtitle: "Six Requisites of a Good Detective Story"
@@ -15,6 +15,7 @@ image: /assets/img/murderwiki/A_Double-Barrelled_Detective_Story.jpg
 caption: "A page from \"A Double-Barrelled Detective Story\" published by Harper & Brothers in 1902."
 genre:
 wordcount: 916
+tags: murderwiki
 ---
 
 <!-- <section id="toc" class="toc">
@@ -54,3 +55,4 @@ Then, when he thinks that he has caught the Master Idea, and that you are not so
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

@@ -13,6 +13,7 @@ excerpt: "He’d been a good cop once, then, when Frank Bard's wife was killed, 
 image: /assets/img/short-stories/you-remember-jeanie.svg
 imgh: 300px
 genre: Professional Sleuth
+tag: short-story
 wordcount: 3831
 timetoread: EST TIME TO READ
 kindle: 

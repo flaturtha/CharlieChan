@@ -13,6 +13,7 @@ excerpt: "It all came back to him — the lamp-lit Australian water-front, the s
 image: /assets/img/short-stories/two-bells.svg
 imgh: 300px
 genre: Adventure
+tag: short-story
 wordcount: 8881
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Two_Bells.mobi

@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Structure"
 subtitle: "The Differences in the Structure of the Short Story &amp; the Novel"
@@ -13,7 +13,7 @@ excerpt: "A Detective Story depends so much on the logic and plausibility of its
 image: /assets/img/murderwiki/A_Study_in_Scarlet_Friston_02.png
 caption: "\"As he spoke, his nimble fingers were flying here, there, and everywhere.\"<br>From 'A Study in Scarlet' by Sir Arthur Conan Doyle"
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 3421
 ---
 
@@ -27,9 +27,10 @@ wordcount: 3421
 </div>
 </section> <!-- table-of-contents -->
 
-In the construction of our story we must consider the question of length.
+### Length
+{: .chaptertitle }
 
-## Length
+In the construction of our story we must consider the question of length.
 
 First, and in the opinion of many authorities best there is the short-story. With exceptions, the best mystery stories are short-stories. A short-story lends itself peculiarly to a mystery plot, principally because it is not easy to keep wonder and curiosity alive through a long story.
 
@@ -42,8 +43,10 @@ Another form is the serial, in which each installment must have its own climax, 
 And last of all, there is the full-sized book, where the interest may or may not be broken before the denouement and solution.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Short-Story and the Novel
+### The Short-Story and the Novel
+{: .chaptertitle }
 
 Of making many books concerning and dissecting the short- story there is no end. As many probably there are regarding the construction of the novel; and between these two forms they tell us there is a great gulf fixed. But the fixing of this gulf is largely a matter of opinion, and the opinions are somewhat diversified.
 
@@ -62,8 +65,10 @@ Again, as a distinction, we are told that the novel is expansive and the short-s
 But these differentiations regarding short-stories and novels are fully explained and discussed in books exclusively devoted to such technique. And though the fine distinctions therein drawn are of highest importance to other branches of fiction, they are almost, if not entirely, negligible in the case of Detective Stories. For the inherent difference between a novel and a short-story is one of plot. Whereas, since Detective Stories have but one solitary plot,—&quot;the problem and its solution,11—the difference in the detective short-story or the detective novel is merely that of length.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Singleness of Plot in the Detective Story
+### Singleness of Plot in the Detective Story
+{: .chaptertitle }
 
 The single plot that makes a Detective Story may be likened to an accordion; it may be pulled out to an extraordinary length, or compressed to a minimum. A detective novel may have minor complications, more characterization and more elaborate setting; but the plot must not vary from the plot of a detective short-story, being only the propounding of the riddle and the revealing of its answer. The longer the story the more numerous and bewildering the conditions of the riddle and the windings of the maze, but all tend definitely to the one end,—the answer.
 
@@ -72,8 +77,10 @@ In a short-story the plot rushes on breathlessly, bare and straight to its end. 
 If the work is to be published in two or three parts, or if it is a longer serial, then the plan is so far changed as to present a definite climax at the end of each installment. But these must be all minor climaxes and all bearing successively and cumulatively on the final revelation.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Question of Length
+### The Question of Length
+{: .chaptertitle }
 
 Now, in writing detective fiction, unlike other kinds, the length of his story is entirely at the option of the author. For the detective plot possesses the characteristics of a piece of string; it differs from its fellows only in length. The story of &quot;The Moonstone&quot; could have been told in a hundred pages, but Wilkie Collins gives it five hundred. &quot;The Murders in the Rue Morgue&quot; could have been a full-sized book as well as &quot;The Leavenworth Case.&quot; The inquest scene in the latter fills seventy pages, while Poe&#39;s story details the inquest in six pages.
 
@@ -116,8 +123,10 @@ As a rule, an author of detective fiction writes either short- stories or novels
 So we conclude that length is a matter of taste, and the detective fiction writer may use his own judgment as to the length of his works.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Narrator in the Detective Story
+### The Narrator in the Detective Story
+{: .chaptertitle }
 
 The Teller of the Detective Story is an important factor in its technique. Many a good plot is spoiled because it is narrated by the wrong person.
 
@@ -142,8 +151,10 @@ While not always effective in other fiction, the diary is a most useful form for
 But whatever narrator is chosen, let the choice be made after careful consideration of the conditions of the story. If there is a great surprise which must be concealed until the end, the narrator must be kept in ignorance of it until the end. If the story hinges on the marvelous brain work of a transcendent detective, give him a Dr. Watson to expatiate on it and to be awed by it. If a scientific or other straightforward recital of procedure, it may be told by the author. These points can best be learned and understood by reading the works of the best authors and noting what kind of narrator they choose and why.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Setting
+### The Setting
+{: .chaptertitle }
 
 The setting of the story will of course depend on the plot; but, other things being equal, do not choose too low life for your scenes. The facts of a murder are in themselves sufficiently unattractive to make it unnecessary to add to the distastefulness of the story by unpleasant surroundings. Let the people in your story be at least fairly well to do, of at least moderately good position and of a decent education. Unless absolutely necessary to have it otherwise, let the house or the scene of the crime be attractive or interesting, and let even the subordinate characters be of refined and intelligent type. For one reader who enjoys tales of slum life there are a dozen who prefer ladies and gentlemen, if not lords and ladies.
 
@@ -154,3 +165,4 @@ It goes without saying that the locality and social customs of the story must be
 Let us see to it, then, that our setting and our atmosphere are free from mistake or anachronism. Economy of attention demands that we keep the reader&#39;s mind wholly intent on the solution of the problem; and this may not be done if we allow questionable or contradictory work on the minor interests.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

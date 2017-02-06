@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "What is a Detective Story?"
 subtitle: "A Critical Examination of the Detective Story, Its Rise in Popularity and Fact vs. Fiction"
@@ -13,7 +13,7 @@ excerpt: "The Detective Story as we know it was first written by Poe, yet he nev
 image: /assets/img/murderwiki/true-stories-of-celebrated-crimes.jpg
 caption: "\"It was the impression of a blood-stained hand on the door.\"<br>From \'True Stories of Celebrated Crimes,\' published in 1909."
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 5924
 ---
 
@@ -52,7 +52,8 @@ But this old story is not a Detective Story according to our classification, it 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Rise of the Detective Story
+### Rise of the Detective Story
+{: .chaptertitle }
 
 The Detective Story as we know it was first written by Poe, yet he never used the descriptive word, nor was Dupin a detective, either professional or amateur, for when Poe wrote his immortal Dupin tales, the name &quot;Detective&quot; Stories had not been invented; the detective of fiction not having been as yet discovered. And the title is still something of a misnomer, for many narratives involving a puzzle of some sort, though belonging to the category which we shall discuss, are handled by the writer without expert detective aid. Sometimes the puzzle solves itself through operation of circumstance; sometimes somebody who professes no special detective skill happens upon the secret of its mystery; once in a while some venturesome genius has the courage to leave his enigma unexplained. But ever since Gaboriau created his Lecoq, the transcendent detective has been in favor; and Conan Doyle&#39;s famous gentleman analyst has given him a fresh lease of life, and reanimated the stage by reverting to the method of Poe. Sherlock Holmes is Dupin redivivus, and mutatus mutandis; personally he is a more stirring and engaging companion, but so far as kinship to probabilities or even possibilities is concerned, perhaps the older version of him is the more presentable. But in this age of marvels we seem less difficult to suit in this respect than our forefathers were.
 
@@ -73,7 +74,8 @@ Poe goes further in saying Dupin&#39;s work was &quot;The result of an excited o
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Detective: Fictive and Real
+### The Detective: Fictive and Real
+{: .chaptertitle }
 
 But it is this very principle that marks the difference between the detective in fiction and in real life. The cleverest detectives in life are not men of diseased intellect, however greatly developed may be their powers of ratiocination. It is just that touch of abnormality, of superhuman reasoning, that makes a Transcendent Detective.
 
@@ -102,7 +104,8 @@ And if one would realize the immense superiority of the fiction detective for fi
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Fiction versus Fact
+### Fiction versus Fact
+{: .chaptertitle }
 
 Many years ago, old-fashioned family papers published stories, beneath whose titles a line in parenthesis read, &quot;Founded on fact.&quot; Such tales were invariably uninteresting, and at last the editors learned not to publish them.
 
@@ -201,7 +204,8 @@ The stories in this book may be interesting to a lover of human documents, but t
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Interest of the Detective Story
+### The Interest of the Detective Story
+{: .chaptertitle }
 
 Poe says, in speaking of the writer&#39;s plan:
 
@@ -238,8 +242,10 @@ Doctor Doyle admits frankly his indebtedness to Poe, and though he claims anothe
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## A Summing Up
+### A Summing Up
+{: .chaptertitle }
 
 To sum up, then, we must agree that for devotees the Detective Story sets a stirring mental exercise, with just enough of the complex background of life to distinguish it from a problem in mathematics. Whatever thrills of horror are excited come by way of the intellect, never starting directly in the emotions. The reader divests himself of sympathy, and applies to every situation the dry light of reason. It is only when one&#39;s reason is baffled, leaving the murder unexplained or the ghost at large, that one feels privileged to shudder. And such a shudder is remarkably different from a start that is unthinking. The Detective Story applies reason to some of the big half-mysteries of human conduct; and the result for the ordinary reader is not dissimilar to that felt by the philosopher when trying to square with his poor apparatus the secrets of Nature and Providence.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

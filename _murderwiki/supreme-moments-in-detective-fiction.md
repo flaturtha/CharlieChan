@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Supreme Moments in Detective Fiction"
 subtitle: "Four Literary Detectives Who Are Considered Classic"
@@ -17,6 +17,7 @@ caption: "Arthur Conan Doyle, \"The Adventure of Silver Blaze\" (1892), Illustra
 sizeoverride: contain
 genre: Literature
 wordcount: 3729
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -46,7 +47,8 @@ In short, among all the detectives, amateur and professional, who have appeared 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Supreme Moments of Detective Fiction
+### Supreme Moments of Detective Fiction
+{: .chaptertitle }
 
 With Dupin, it was undoubtedly the moment when, standing before the window of the house in the Rue Morgue, he told himself that the nail which seemed to secure it could not really do so. It was a question, you will remember, of how the assassin of the two women had escaped. He could not have gone by the door, since there were some people on the stair, nor by the chimney, since it was too narrow, nor by the front windows, since there was a crowd in the street outside.
 
@@ -81,7 +83,8 @@ The letter, it will be remembered, had been thrust into a card-rack, where it re
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Six Words Sum Up the Science of Detection: It Must Be All or Nothing
+### Six Words Sum Up the Science of Detection: It Must Be All or Nothing
+{: .chaptertitle }
 
 Twenty years after Poe&#39;s death, Émile Gaboriau began that series of detective stories which still remain, on the whole, the best of their class. There is probably no scene more satisfying than that in which Tabaret arrives at the place of the murder in _The Lerouge Case_, and, after a short investigation, proceeds to reconstruct the crime.
 
@@ -108,7 +111,8 @@ Those six words sum up the whole science of detection: it must be all or nothing
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Clues Subtle &amp; Convincing; Clues Absurd &amp; Illogical
+### Clues Subtle &amp; Convincing; Clues Absurd &amp; Illogical
+{: .chaptertitle }
 
 In the Lerouge case, Tabaret built such an edifice; but Gaboriau carries coincidence too far. It is admissible that both the real murderer and the man suspected of the crime should, on that particular evening, have been carrying an umbrella and wearing a high hat; perhaps it is admissible, since they are the same age and about the same build, that their shoes should be of the same size and shape; but when the author equips them both with lavender kid gloves he adds one coincidence too many. In his desire to strengthen the chain of evidence, he overleaps himself and loses the confidence of the reader.
 
@@ -127,7 +131,8 @@ In so far as detective work goes, Gaboriau&#39;s stories are far better than Con
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Holmes&#39; Puerile Deductions &amp; Other Errors of Conan Doyle&#39;s Detective
+### Holmes&#39; Puerile Deductions &amp; Other Errors of Conan Doyle&#39;s Detective
+{: .chaptertitle }
 
 Which brings one to Sherlock Holmes — whom one does not love. Indeed, it is not always easy to respect him. Wholly deplorable are those puerile &quot;deductions&quot; with which so many of the stories open. And in the whole series of his adventures, only three or four great moments can be recalled. His greatest, unquestionably, is in &quot;Silver Blaze,&quot; one of the best of the stories. Silver Blaze, the favourite for the Wessex Cup, has disappeared, having been taken from his stable at night, while the boy on guard is sleeping off the effects of a dose of opium. His trainer has been found in a depression in the moor near by with his skull smashed in and a peculiar thin-bladed knife in his hand, such a knife as is used in the very delicate operation for cataract. Here is the great moment:
 
@@ -180,3 +185,4 @@ It is difficult to believe that even such a dunderhead as Watson should never ha
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

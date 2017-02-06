@@ -11,6 +11,7 @@ excerpt: “I didn’t kill him, Mr. Hawke! I swear I didn’t kill him!” The 
 image: /assets/img/short-stories/duelling-pistols.svg
 imgh: 300px
 genre: Professional Sleuth
+tag: short-story, 
 wordcount: 3414
 timetoread: EST TIME TO READ
 kindle: 

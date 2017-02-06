@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Ghost Stories"
 subtitle: "Mystery Stories with an Inexplicable Supernatural Manifestation"
@@ -14,7 +14,7 @@ image: /assets/img/murderwiki/Whistle_and_I%27ll_come_to_you_illustration.jpg
 caption: "\'It leapt towards him upon the instant.\'<br>Illustration by James McBryde for M. R. James's story \"Oh, Whistle, And I'll Come To You, My Lad\", first published \"All Hallows Eve 1904\"."
 sizeoverride: contain
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 3521
 ---
 
@@ -40,7 +40,8 @@ In &quot;The Technique of the Novel&quot; Prof. Chas. F. Horne thus discusses th
 >
 >&quot;4. The novel of the unknown, the story of strange suggestion, which reaches beyond man&#39;s knowledge of his cosmos, not to terrify and amaze, but to analyze and understand, to suggest possibilities and questions, to see human nature in new lights, as Hawthorne does in &quot;Sep- timius Felton,&quot; or Mr. Wells in his &#39;War with Mars&#39;.&quot;
 
-## A Working Classification
+### A Working Classification
+{: .chaptertitle }
 
 But it is obvious that the various types or kinds of mystery story cannot be classified with exactness; so they may be generally divided into three groups—a broad classification which will best suit our purpose: Ghost stories. Riddle stories, and Detective stories.
 
@@ -59,7 +60,8 @@ The story founded on the supernatural is a distinct branch of the Mystery Story,
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Ghost Story
+### The Ghost Story
+{: .chaptertitle }
 
 The fascination of this realm of experience, which is traditional from age to age, yet always elusive, is undeniable. Few men have seen ghosts, or will confess that they have seen them. But almost everybody knows some one of the few. Haunted houses are familiar in all neighborhoods, with the same story of the roistering sceptic who will gladly pass the night alone in the haunted chamber, and give monsieur the ghost a warm welcome; but who, if not found dead in the morning, emerges pale and haggard, with a settled terror in his look, and his lips sealed forever upon the awful story of the night.
 
@@ -102,7 +104,8 @@ And yet it is the strange fascination of this fear that attracts the reader to a
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Famous Ghost Stories
+### Famous Ghost Stories
+{: .chaptertitle }
 
 &quot;What Was It?&quot; by Fitzjames O&#39;Brien, is a typical Ghost Story of horror. The dreadfulness of the experience is graphically pictured and the hold on the reader&#39;s attention is entirely that of the supernatural.
 
@@ -151,7 +154,8 @@ Perhaps unique amongst Ghost Stories is the one by Mr. Crawford entitled &quot;T
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Humorous Ghost Story
+### The Humorous Ghost Story
+{: .chaptertitle }
 
 Rarely, and only in the hands of a master, may a Ghost Story be treated with levity. The humorous touch is dangerous in connection with the supernatural. But the whimsical genius of Frank R. Stockton surmounted all difficulties and gave us two delicious humorous Ghost Stories, of which we quote a few lines.
 
@@ -196,3 +200,4 @@ Rarely, and only in the hands of a master, may a Ghost Story be treated with lev
 >I have glorious news! At last I am transferred! Not forty minutes ago a Russian nobleman as murdered by the Nihilists. Nobody ever thought of him in connection with an immediate ghostship. My friends instantly applied for the situation for me, and obtained my transfers.&quot;
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

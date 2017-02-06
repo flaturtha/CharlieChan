@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "The Handling of the Crime"
 subtitle: "The Method of The Murder"
@@ -13,8 +13,9 @@ image: /assets/img/murderwiki/Webley-Mk-IV-p1030100.png
 sizeoverride: contain
 caption: "Webley & Scott Mk VI. Caliber .455"
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 1480
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -80,3 +81,4 @@ Other crimes than those we have considered, such as forgery, arson, blackmail, e
 Some authors incline to such subjects as Nihilism and the workings of secret societies. These are not of such general interest as the ones we have been discussing, but they offer picturesque possibilities and scope for melodrama.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

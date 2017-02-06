@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Edgar Allen Poe"
 subtitle: ""
@@ -16,6 +16,7 @@ image: /assets/img/murderwiki/Ligeia-Clarke.png
 caption: "Illustration for Edgar Allan Poe's story \"Ligeia\" by Harry Clarke (1889-1931); Printed in Poe's <i>Tales of Mystery and Imagination</i>, 1919."
 genre:
 wordcount: 5559
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -61,7 +62,8 @@ The night-walking ghost of the grim tale would be transformed into &quot;the blo
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Philosophical Element of Poe&#39;s Story-telling
+### The Philosophical Element of Poe&#39;s Story-telling
+{: .chaptertitle }
 
 The importance of this philosophical element in Poe&#39;s story-telling is not to be measured by the opportunity which it presents for discussions in comparative literature. Its real importance lies in the effect upon the short story.
 
@@ -96,7 +98,8 @@ Deeper than the vivid, gloriously rhythmic style, deeper than the study of the h
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Poe&#39;s Narrative Construction
+### Poe&#39;s Narrative Construction
+{: .chaptertitle }
 
 But _The MS. Found in a Bottle_ is not completely typical even of Poe&#39;s earliest narrative work. We must add to our critical analysis a study of what seems to have been his earliest experiment in the introspective story, _Berenice_, a tale composed probably in 1833, and published in 1835. _Berenice_ is one of the most distinctly unpleasant stories in literature. Terror of the soul in this case becomes torture of the stomach.
 
@@ -123,7 +126,8 @@ The question that remains is the unsolved middle of the problem. How did it come
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Development of Poe&#39;s Structure
+### The Development of Poe&#39;s Structure
+{: .chaptertitle }
 
 The reason, in general, is that the urge of the time upon the first genius who should devote himself to this narrative of the emotions was necessarily towards a development of structure. Apparitions, double personalities, all the new plots which the romantic movement had provided and the story-tellers experimented with, were current and had failed of any great literary success.
 
@@ -158,7 +162,8 @@ And the reader will notice, in these ratiocinative stories, sentences, paragraph
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Technique in Poe&#39;s Short Stories
+### Technique in Poe&#39;s Short Stories
+{: .chaptertitle }
 
 It is tiresome to be always talking of technique, and yet it is very difficult to speak of Poe and leave technique out of the question. The stories of ratiocination, barring the style, and such a conception as that of M. Dupin, are all technique. The tales of the grotesque would be impossible, so subtle are their effects, without the technique.
 
@@ -183,7 +188,8 @@ Poe lacked a good sense of humor. What he had was precisely of the clown-jesting
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Master of Technique, Lord of the Bizarre
+### The Master of Technique, Lord of the Bizarre
+{: .chaptertitle }
 
 One more eulogistic paragraph remains to be added. Like a corona about Poe&#39;s serious stories is an effusion of beauty and power — beauty from the solemn, rhythmic style, and the perfect tone of the setting, power from the force of the ideas, the precision of the images even when most fantastic. And this beauty and power is dependent upon no literary influences, upon no development culminating in this one man; it is the flower of his own genius, with a value absolute and for itself. Without other consideration, it gives to Poe&#39;s tales a rank among the masterpieces of style.
 
@@ -194,3 +200,4 @@ Next, he is also the undisputed lord of the bizarre, the terrible, the mysteriou
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

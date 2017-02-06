@@ -13,6 +13,7 @@ excerpt: "Good-hearted Benny Kerr only wanted to hand that mislaid meat parcel b
 image: /assets/img/short-stories/murder-in-small-packages.svg
 imgh: 300px
 genre: Amateur Sleuth
+tag: short-story
 wordcount: 5038
 timetoread: EST TIME TO READ
 kindle: 

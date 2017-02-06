@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Fingerprints as Detectives"
 author:
@@ -13,6 +13,7 @@ image: /assets/img/murderwiki/Fingerprint.png
 caption: "Fingerprint of the right little finger of a woman."
 genre:
 wordcount: 1589
+tags: murderwiki
 ---
 
 <!-- <section id="toc" class="toc">
@@ -70,3 +71,4 @@ The comparison of any disputed document with the official fingerprint would affo
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

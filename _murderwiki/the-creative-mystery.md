@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "The Creative Mystery"
 author: Wilfred L. Randel
@@ -13,6 +13,7 @@ image: /assets/img/murderwiki/hetlab.jpg
 caption: "By Paul K. From: <a href=\"http://bibliodyssey.blogspot.com/2008/10/architecture-of-fantasy-i.html\">BibliOdyssey, The Architecture of Fantasy I</a>"
 genre:
 wordcount: 2717
+tags: murderwiki
 ---
 
 <!-- <section id="toc" class="toc">
@@ -96,3 +97,4 @@ Astonishingly, indeed, have we travelled in our quest: We have seen that the cre
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

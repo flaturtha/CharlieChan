@@ -13,6 +13,7 @@ excerpt: "A gypsy who can see into the minds of men and see the darkness of thei
 image: /assets/img/short-stories/brand-of-cain.svg
 imgh: 300px
 genre: Professional Sleuth
+tags: short-story
 wordcount: 3256
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Brand_of_Cain.mobi

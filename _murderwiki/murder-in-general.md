@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Murder in General"
 opub: "The Techniques of the Mystery Story"
@@ -11,7 +11,7 @@ excerpt: "If the reader is thrilled, it is through the intellect, not through th
 image: /assets/img/murderwiki/Thomas_de_Quincey_by_Sir_John_Watson-Gordon.jpg
 caption: "<i>Thomas de Quincey</i>, by Sir John Watson-Gordon (died 1864), given to the National Portrait Gallery, London in 1865."
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 3901
 ---
 
@@ -29,7 +29,8 @@ It cannot be denied that the greatest Detective Stories, short or long, have bee
 
 Human nature thinks more lightly of robbery, or arson; but murder stirs up a spirit of righteous indignation and a desire for justice or revenge. &quot;A life for a life&quot; is the logical sequence of &quot;an eye for an eye&quot; and a murder mystery will hold a reader&#39;s interest when a lesser crime will pall.
 
-## Murder Considered in the Abstract
+### Murder Considered in the Abstract
+{: .chaptertitle }
 
 But, first of all, let us dissociate the real horror felt at a real murder, from a murder plot used as a peg on which to hang the absorbing puzzle meant to enthrall the intellect. People who say, &quot;How can you enjoy reading about such a revolting subject as murder?&quot; are unable to discern the difference between a realistic newspaper story and a carefully planned romance.
 
@@ -64,8 +65,10 @@ One need not be of a murderous instinct to enjoy the story of &quot;Murders in t
 No, the devotee of the Detective Story must be willing, for the time being, to look upon murder as a fine art.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Murder as a Fine Art
+### Murder as a Fine Art
+{: .chaptertitle }
 
 The exact point of view is perfectly set forth in De Quincey&#39;s essay with that title. I wish I might quote it all here the delicious satire that is yet sound philosophy, is marred by separation from its context.
 
@@ -134,8 +137,10 @@ Though written in a whimsical vein, these observations of De Quincey apply defin
 Shakespeare&#39;s murders are calmly accepted on the stage, and our children are placidly told Who Killed Cock Robin because these killings are not true, but are merely the manufactures of art.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Murder Theme
+### The Murder Theme
+{: .chaptertitle }
 
 As a proof that murder, or apparent murder, or attempted murder, is the favorite theme with our best detective writers, we may note these statistics.
 
@@ -152,8 +157,10 @@ And so on, through all the books of short stories, each volume of which narrates
 Novels of detective fiction almost invariably use a murder plot. &quot;The Moonstone&quot; is an exception; but nearly all of Gaboriau&#39;s, Du Boisgobey&#39;s, Anna Katharine Green&#39;s and Ottolengui&#39;s are murder mysteries.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Robbery Theme
+### The Robbery Theme
+{: .chaptertitle }
 
 After murder, robbery is next in favor as a crime for detective fiction. It is not easy to create intense interest in a robbery.
 
@@ -190,8 +197,10 @@ Any article will do for fiction robbery, provided it be of exceeding great value
 In the Sherlock Holmes stories, one-quarter hinge on robbery as against one-half on murder. Next in favor is mysterious disappearance, or abduction.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Mysterious Disappearance
+### The Mysterious Disappearance
+{: .chaptertitle }
 
 The kidnapping of children is unpopular, as it is difficult to eliminate personal feeling when a child is brought into the story.
 
@@ -228,3 +237,4 @@ A man is abducted in &quot;The Adventure of the Missing Three- Quarter,&quot; va
 Other authors average much the same as Conan Doyle; and, to sum up, we find that throughout Detective Fiction half of the stories are murder mysteries, one quarter are robberies, and the other quarter is divided among crimes more or less dramatic or picturesque. These include forgery, counterfeiting, blackmail, arson, dynamiting, body-snatching, and other rare and even unique crimes invented by a daring author for a jaded public.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

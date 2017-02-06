@@ -13,6 +13,7 @@ excerpt: “Look, bub, when you’ve been in the crime-chipping business as long
 image: /assets/img/short-stories/score-none-for-the-chair.svg
 imgh: 300px
 genre: Professional Sleuth
+tag: short-story
 wordcount: 1878
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Score_None_for_the_Chair.mobi

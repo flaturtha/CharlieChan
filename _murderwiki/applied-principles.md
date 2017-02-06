@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Applied Principles"
 subtitle: "How Poe, Doyle and Gaboriau Portrayed the Unconventional Habits &amp; Individuality of Their Fictional Detectives: Dupin, Holmes and Lecoq"
@@ -13,7 +13,7 @@ excerpt: "The fictional detectives of Edgar Allen Poe, Sir Arthur Conan Doyle an
 image: /assets/img/murderwiki/Joseph_Bell.jpg
 caption: Joseph Bell, one of Conan Doyles' instructors at the Edinburgh Royal Infirmary where he trained to be a doctor, has been credited as being the true inspiration for Doyle's Sherlock Holmes.
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 4417
 ---
 
@@ -27,7 +27,11 @@ wordcount: 4417
 </div>
 </section> <!-- table-of-contents -->
 
-## The Detectives of Poe, Doyle, and Gaboriau
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
+### The Detectives of Poe, Doyle, and Gaboriau
+{: .chaptertitle }
 
 Conan Doyle&#39;s Detective Stories, being short-stories, more closely resemble Poe&#39;s tales than Gaboriau&#39;s novels do. Perhaps this is due more to a certain analogy of structure than to the actual working mentality of the detective. Dupin and his historian have rooms together, just as Holmes and Watson do. In each case the curiosity of the historian is first aroused by noticing the unconventional habits and studies of his companion. Dupin has his detractors among the official police, just as Holmes has his Greyson and his Lestrade, and Lecoq his Gevrol.
 
@@ -81,7 +85,11 @@ However, Dupin himself refers to his own work thus:
 
 >&quot;I said &#39;legitimate deductions;1 but my meaning is not thus fully expressed. I designed to imply that the deductions are the sole proper ones, and that the suspicion arises inevitably from them as the single result.&quot;
 
-## Individuality of these Detectives
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
+### Individuality of these Detectives
+{: .chaptertitle }
 
 The attitude of the Transcendent Detective toward other detectives with whom he comes in contact is—doubtless because of the fierce light that beats upon his throne—one of complacent superiority.
 
@@ -123,7 +131,11 @@ In &quot;The Moonstone&quot; the superiority of Sergeant Cuff to the Police offi
 
 Mr. Edmund Clarence Stedman tells us that, &quot;Poe could teach Continental writers very little in the art of perfecting their own romance. His analytic tales made a great impression. Their ratiocination, applied to the solution of criminal mysteries, captured the Parisian fancy more readily than the quality of his other prose writings. Since then, detective stories of high and low degree have been written in France, England, and America; but no amateur, with a genius approximating to that of &#39;Monsieur C. Auguste Dupin,&#39; has appeared, and had his exploits recounted, in our own or foreign literature.&quot;
 
-## The Real Sherlock Holmes
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
+### The Real Sherlock Holmes
+{: .chaptertitle }
 
 Conan Doyle himself, or rather a friend of his, one Doctor Harold Emery Jones, denies Sherlock Holmes&#39; dependence on any fictional detective. Thus Doctor Jones on the subject:
 
@@ -162,3 +174,8 @@ Regarding this matter Conan Doyle thus writes:
 Then Conan Doyle began building up a scientific system by which everything might be logically reasoned out. Along purely intellectual lines Poe had done that before with M. Dupin. Sherlock Holmes was practical and systematic, and where he differed from Dupin was that in consequence of his previous scientific education he possessed a vast fund of exact knowledge from which to draw.
 
 When he had written twenty-six stories about Sherlock Holmes, Conan Doyle determined that it would be bad policy to continue and decided to put an end to his hero. He feared that Holmes was becoming tiresome to others as well as to himself. Above all, he was afraid that the public would come to think that he had only one idea and could write only one kind of story. Dr. Doyle was in Switzerland at the time. One day, while on a walking tour through the country, he came to a waterfall, and immediately saw in it a romantic spot for anyone who wished to meet a spectacular death. Then and there he mentally mapped out &quot;The Final Problem,&quot; in which Holmes and Moriarty settled accounts. But Holmes&#39;s death, instead of being welcomed, roused indignant protest. One lady wrote a letter to the author which began &quot;You beast.&quot;
+
+<p id="theend">~ The End ~</p>
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

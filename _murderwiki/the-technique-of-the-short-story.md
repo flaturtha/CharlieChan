@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "The Technique of the Short Story"
 subtitle: ""
@@ -16,6 +16,7 @@ image: /assets/img/murderwiki/Gustave_Moreau_-_Chariot_of_Apollo_or_Phoebus_Apol
 caption: "<i>The Chariot of Apollo</i> or <i>Phoebus Apollo</i> by Gustave Moreau, circa 1880."
 genre:
 wordcount: 1957
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -39,8 +40,10 @@ Most of the ammunition, in the discussion of the short story which has continued
 But critical subtlety has so far been chiefly busied with the difference between short story and merely short story and with all which would serve to define what Poe and his successors had given us. Nor have unnecessary complications been wanting in a not very simple matter, for each succeeding writer has tried to make his definition a new one.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Definitions
+### Definitions
+{: .chaptertitle }
 
 In reviewing definitions, let us adopt a pragmatic plagiarism. Professor Brander Matthews, harking back to Poe&#39;s often quoted distinctions, began the whole discussion with his essay on _The Philosophy of the Short-story_, first printed, in its entirety, in 1885.
 
@@ -63,8 +66,10 @@ This higher unity was sought first by a mind full of sharp and terrible impressi
 And thus, while the new short story was only a modification of the old short story, at its best there was just the distinction that exists between the chronometer and the watch, the chemist&#39;s balance and the grocer&#39;s scales. It was a variety constructed for difficult and unusual services.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Climax
+### The Climax
+{: .chaptertitle }
 
 Thus a real necessity lay behind the change which gave us a short story that was ponderable and yet brief. The means by which this change came about I have already discussed at length in the chapter upon Poe. It was that shift of emphasis to the climax which inevitably followed upon a conscious impressionistic purpose.
 
@@ -81,8 +86,10 @@ And then one recalls that such excellence has come only because, in order to do 
 Thus, like Phoebus Apollo, the new short story relies upon the arrow it looses straight for the heart or the head, and this arrow, this impression, carries the sum total of the energy of the narrative. Does &quot;an impression &quot; seem a vague and bookish phrase? If so, consider a modern instance, the situation of a cultivated sceptic and rationalist who feels himself falling victim to the splendid beauty of the Roman ritual and the austere assurance of the Roman creed. Try to make a story of that situation—it is reasonably typical of modern short-story material—and, fail or succeed, you will understand sympathetically the task of the modern short-story teller.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## A Needful Qualification of the Short Story
+### A Needful Qualification of the Short Story
+{: .chaptertitle }
 
 Finally, a needful qualification. This discussion of the typical short story of our century in no sense can be used to cover all current short narrative. Beside the consciously impressionistic tales are to be found survivals of earlier types, and innumerable stories which are scarcely typical enough for exact classification. But one can roughly group them all.
 
@@ -99,3 +106,4 @@ And this is true because its fashion of telling does so much with the short-stor
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

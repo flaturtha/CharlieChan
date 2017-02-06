@@ -13,6 +13,7 @@ excerpt: "When the movie company came in, it looked as if a bad-man gambler had 
 image: /assets/img/short-stories/ghost-town-slays.svg
 imgh: 300px
 genre: Professional Sleuth
+tag: short-story
 wordcount: 4095
 timetoread: EST TIME TO READ
 kindle: 

@@ -13,6 +13,7 @@ excerpt: "\"Then how,\" the coroner leaned over the desk to ask the question, \"
 image: /assets/img/short-stories/the-unbelievable1.svg
 imgh: 300px
 genre: Professional Sleuth
+tag: short-story
 wordcount: 7992
 timetoread: EST TIME TO READ
 kindle: 

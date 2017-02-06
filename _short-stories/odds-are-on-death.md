@@ -13,6 +13,7 @@ excerpt: "Corcoran looked like a sucker in the gambling Joint, but he was really
 image: /assets/img/short-stories/odds-are-on-death.svg
 imgh: 300px
 genre: Hardboiled PI
+tag: short-story
 wordcount: 3724
 timetoread: EST TIME TO READ
 kindle: 

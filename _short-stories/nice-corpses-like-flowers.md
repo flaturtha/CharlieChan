@@ -13,6 +13,7 @@ excerpt: "The only clue was a gilt letter U clutched in the dead man's stiffenin
 image: /assets/img/short-stories/nice-corpses-like-flowers.svg
 imgh: 300px
 genre: Professional Sleuth
+tag: short-story
 wordcount: 4625
 timetoread: EST TIME TO READ
 kindle: 

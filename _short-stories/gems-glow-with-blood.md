@@ -13,6 +13,7 @@ excerpt: "I’m not too honest a private dick, but I draw the line when MURDER l
 image: /assets/img/short-stories/gems-glow-with-blood.svg
 imgh: 300px
 genre: Hardboiled PI
+tag: short-story
 wordcount: 4576
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Gems_Glow_With_Blood.mobi

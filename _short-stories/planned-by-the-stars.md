@@ -13,6 +13,7 @@ excerpt: "\"Murder!\" She said quietly. \"At midnight you come upon this earth a
 image: /assets/img/short-stories/planned-by-the-stars.svg
 imgh: 300px
 genre: Crook
+tag: short-story
 wordcount: 3551
 timetoread: EST TIME TO READ
 kindle: 

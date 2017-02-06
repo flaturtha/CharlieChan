@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "The Rational of Ratiocination"
 subtitle: "Detectives & Their Methods For Solving Crime"
@@ -14,7 +14,7 @@ image: /assets/img/murderwiki/Sherlock6.jpg
 caption: "From \'The Adventure of the Greek Interpreter\'. Engraving by Sidney Paget, a British illustrator who's worked accompanied Doyle's stories in <i>The Strand Magazine</i>. September 1893."
 sizeoverride: contain
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 4417
 ---
 
@@ -30,7 +30,8 @@ wordcount: 4417
 
 In one of Doyle&#39;s stories, Sherlock Holmes himself states definitely his principles of deduction in what purports to be a magazine article written by himself. The opening paragraph, however, is in the words of the faithful Dr. Watson.
 
-## Sherlock Holmes&#39; Method
+### Sherlock Holmes&#39; Method
+{: .chaptertitle }
 
 Its somewhat ambitious title was &quot;The Book of Life,11 and it attempted to show how much an observant man might learn by an accurate and systematic examination of all that came in his way. It struck me as being a remarkable mixture of shrewdness and absurdity. The reasoning was close and intense, but the deductions appeared to me to be far-fetched and exaggerated. The writer claimed by a momentary expression, a twitch of a muscle, or a glance of an eye, to fathom a man&#39;s inmost thoughts. Deceit, according to him, was an impossibility in the case of one trained to observation and analysis. His conclusions were as infallible as so many propositions of Euclid. So startling would his results appear to the uninitiated that, until they learned the processes by which be had arrived at them, they might well consider him a necromancer.
 
@@ -152,7 +153,8 @@ In his early acquaintance Watson doubted Holmes ability at this sort of deductio
 
 >&quot;Quite so! You have not observed. And yet you have seen. That is just my point. Now, I know that there are seventeen steps, because I have both seen and observed.&quot;
 
-## Lecoq&#39;s Method
+### Lecoq&#39;s Method
+{: .chaptertitle }
 
 Lecoq announces his deductions with rather more dramatic circumlocution. With nothing to deduce from but footprints in the snow, he at last cries triumphantly:
 
@@ -170,7 +172,8 @@ After the usual, &quot;this is too much!&quot; he continues his recital:
 
 >&quot;We have come, old fellow, to the moment when the accomplice had mounted guard here, and the time seemed to him rather long. To make the time pass, he walked backward and forward the length of the beam, and every now and then stopped to listen, so as to break the monotony of his promenade. As he heard nothing he stamped his feet, doubtless saying to himself, &#39;What the deuce is the other fellow doing down there?1 He had walked up and down thirty times, for I have counted them, when a dull sound broke the silence—the two women were coming.&quot;
 
-## Other Methods
+### Other Methods
+{: .chaptertitle }
 
 All of this is purely and simply the reasoning of Zadig and the early Orientals. On the whole this sort of &quot;spurious profundity&quot; is not difficult in detective fiction, however often it might fail to prove in real life.
 
@@ -204,7 +207,8 @@ All of this is purely and simply the reasoning of Zadig and the early Orientals.
 
 As it turned out, being fiction, these astute deductions were correct in every particular, and led ultimately to the conviction of the criminal!
 
-## Holmes&#39; Method Evaluated
+### Holmes&#39; Method Evaluated
+{: .chaptertitle }
 
 A side light on Sherlock Holmes&#39; character is shown by his attitude regarding the explanation of his own deduction. Doctor Watson thus expresses it:
 
@@ -228,7 +232,8 @@ But much of this profound reasoning is far from spurious. In a moment of a serio
 
 >It is not so impossible, however, that a man should possess all knowledge which is likely to be useful to him in his work, and this I have endeavored in my case to do.&quot;
 
-## The Inductive and the Deductive Methods
+### The Inductive and the Deductive Methods
+{: .chaptertitle }
 
 It is not easy for the untutored reader or writer of detective stories always to differentiate between inductive and deductive reasoning. Perhaps some light may be thrown on this abstruse subject by reading carefully this extract from a book by Arlo Bates, entitled &quot;Talks on Writing English.&quot;
 
@@ -238,7 +243,8 @@ It is not easy for the untutored reader or writer of detective stories always to
 
 >&quot;Deduction is the converse of this, and consists in drawing out particular truths from general ones. A universal proposition may be regarded as a bundle in which are bound together many individual ones. It is the work of deduction to take these out,—to separate any one of them from the rest. The general truth, &#39;All metals are elements,1 includes in it the especial truths, &#39;Iron is an element,&#39; &#39;Gold is an Element,&#39; and so on for each metal which could be named. Deduction is the process of separating one of these from the whole. Speaking broadly, scientific reasoning is more likely to be inductive, while other reasoning is more likely to be deductive.&quot;
 
-## Two Striking Examples
+### Two Striking Examples
+{: .chaptertitle }
 
 A favorite exploit of the Transcendent Detective, is to follow silently another&#39;s train of thought; and then suddenly and seemingly with clairvoyance, announce what the other&#39;s thoughts are.
 

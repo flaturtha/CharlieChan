@@ -13,6 +13,7 @@ excerpt: "The jealous husband had a perfect plan to get rid of his wife and her 
 image: /assets/img/short-stories/parting-gift.svg
 imgh: 300px
 genre: Noir
+tag: short-story
 wordcount: 1703
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Parting_Gift.mobi

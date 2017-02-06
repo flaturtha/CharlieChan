@@ -13,6 +13,7 @@ excerpt: "I had the louse I hated in the palm of my hand, but could I really pin
 image: /assets/img/short-stories/hate-calls-the-tune.svg
 imgh: 300px
 genre: Professional Sleuth
+tag: short-story
 wordcount: 4355
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Hate_Calls_the_Tune.mobi

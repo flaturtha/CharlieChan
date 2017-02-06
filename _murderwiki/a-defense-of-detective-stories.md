@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "A Defence of Detective Stories"
 author: G. K. Chesterton
@@ -12,6 +12,7 @@ image: /assets/img/murderwiki/G._K._Chesterton_at_work.jpg
 caption: G.K. Chesterton at work.
 genre: Detective Stories
 wordcount: 1227
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -24,7 +25,8 @@ wordcount: 1227
 </div>
 </section> <!-- table-of-contents -->
 
-## The Artistic Merit of the Detective Story
+### The Artistic Merit of the Detective Story
+{: .chaptertitle }
 
 In attempting to reach the genuine psychological reason for the popularity of detective stories, it is necessary to rid ourselves of many mere phrases. It is not true, for example, that the populace prefer bad literature to good, and accept detective stories because they are bad literature. The mere absence of artistic subtlety does not make a book popular.
 
@@ -37,8 +39,10 @@ The trouble in this matter is that many people do not realize that there is such
 There is, however, between a good detective story and a bad detective story as much, or, rather more, difference than there is between a good epic and a bad one. Not only is a detective story a perfectly legitimate form of art, but it has certain definite and real advantages as an agent of the public weal.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Essential Value of the Detective Story: The Poetry of Modern Life
+### The Essential Value of the Detective Story: The Poetry of Modern Life
+{: .chaptertitle }
 
 The first essential value of the detective story lies in this, that it is the earliest and only form of popular literature in which is expressed some sense of the poetry of modern life.
 
@@ -65,8 +69,10 @@ But this instinct of the age to look back, like Lot&#39;s wife, could not go on 
 There is, however, another good work that is done by detective stories. While it is the constant tendency of the Old Adam to rebel against so universal and automatic a thing as civilization, to preach departure and rebellion, the romance of police activity keeps in some sense before the mind the fact that civilization itself is the most sensational of departures and the most romantic of rebellions.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Detectives in Fiction Are the Unsleeping Sentinels Who Guard the Outposts of Society
+### Detectives in Fiction Are the Unsleeping Sentinels Who Guard the Outposts of Society
+{: .chaptertitle }
 
 By dealing with the unsleeping sentinels who guard the outposts of society, it tends to remind us that we live in an armed camp, making war with a chaotic world, and that the criminals, the children of chaos, are nothing but the traitors within our gates.
 
@@ -77,3 +83,4 @@ The romance of the police force is thus the whole romance of man. It is based on
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

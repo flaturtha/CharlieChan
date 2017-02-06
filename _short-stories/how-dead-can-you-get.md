@@ -13,6 +13,7 @@ excerpt: "All he could remember was the beautiful dead girl. But who was she—a
 image: /assets/img/short-stories/how-dead-can-you-get.svg
 imgh: 300px
 genre: Noir
+tag: short-story
 wordcount: 4093
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/How_Dead_Can_You_Get.mobi

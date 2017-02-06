@@ -12,7 +12,7 @@ category: short-stories
 excerpt: "If Danny Blure could get out fast, he'd have a small fortune in jewelry. And if Agnew's boys would take the rap for the murder Danny'd unintentionally committed &mdash; he'd covered himself that far when he planted evidence at the scene of what he'd meant to only be a robbery &hellip;"
 image: /assets/img/short-stories/double-crosser.svg
 imgh: 300px
-genre: Crook
+genre: Crook, short-story
 wordcount: 4718
 timetoread: EST TIME TO READ
 kindle: 

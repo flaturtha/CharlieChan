@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "More Devices"
 subtitle: "The Use &amp; Often Misuse of Clues, and How to Properly Display Them in a Detective Story"
@@ -13,7 +13,7 @@ excerpt: A Detective Story Writer uses many devices to lead the detective and th
 image: /assets/img/murderwiki/pocketwatch.jpg
 caption: "A trite and greatly worn device is the watch that stopped presumably when the crime was committed."
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 4730
 ---
 
@@ -31,7 +31,8 @@ Chapter 16
 
 # MORE DEVICES
 
-## Tabulated Clues
+### Tabulated Clues
+{: .chaptertitle }
 
 A good device for the use of the Detective Story Writer is a list or catalog of clues, evidences, or suspects. A distinct tabulation serves to lay the conditions of the story clearly before the reader, and arouses his curiosity as to their meaning and consequences. Of course, if need be, the clues may be misleading; but if done properly, that, too, is a legitimate device.
 
@@ -150,8 +151,10 @@ Here much of the problem is clearly stated in the first half of the list, and th
 Listed suggestions are more useful in books than in short- stories; for in the former the complexities of the plot are more likely to need occasional rounding up and recalling to view.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Worn-out Devices
+### Worn-out Devices
+{: .chaptertitle }
 
 A trite and greatly worn device is the watch that stopped presumably when the crime was committed.
 
@@ -206,8 +209,10 @@ But attentive reading of the best detective stories will soonest teach a writer 
 Perhaps the longest roll of hackneyed devices in one book is found in &quot;That Mainwaring Affair,&quot; by A.M. Barbour. This is a most excellent and interesting story and of exceedingly good construction. The surprise is perfect and the plot original, but old and time-worn devices are repeatedly used. It includes the return of a long-lost brother, supposed to have been shipwrecked years before; stolen family jewels, a missing will; a twin brother; a birthmark identification; an illegitimate son of a designing housekeeper; a suspected private secretary; whispered words conveying the secret; a dragged lake; and innumerable disguises. All of these are justifiable, but a writer will do well to strike out on more original lines.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Use of Disguise
+### The Use of Disguise
+{: .chaptertitle }
 
 Disguise is not so much employed now as in former years when Lecoq was young. And the general public is now more keen to see through false whiskers than in the old days when Vidocq made his fame. Both these celebrated detectives were experts in the art of disguise. To quote from Vidocq&#39;s Memoirs:
 
@@ -252,8 +257,10 @@ And so perfectly did Larsan&#39;s wigs fit him, as well as all the other details
 Sherlock Holmes often assumed disguise, but Conan Doyle does not make a strong point of it, relying not so much on physical appearances as on acute mentality.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Other &quot;Properties&quot;
+### Other &quot;Properties&quot;
+{: .chaptertitle }
 
 A pet device is the discovery of a torn bit of paper containing part of a written communication. The writing is usually readable, but incomprehensible for want of context.
 
@@ -288,3 +295,4 @@ The Weapon, the Papers, the Jewels, the Safe, the Alibi, are all his rightful be
 If he can afford to ignore such as these, and use The Monkey&#39;s Paw, or The Speckled Band, so much the better for his originality.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

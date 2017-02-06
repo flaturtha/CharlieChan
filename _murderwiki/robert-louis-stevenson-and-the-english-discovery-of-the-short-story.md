@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Robert Louis Stevenson"
 subtitle: "and the English Discovery of the New Short Story"
@@ -16,6 +16,7 @@ image: /assets/img/murderwiki/Robert_Louis_Stevenson_by_Henry_Walter_Barnett.jpg
 caption: "Robert Louis Stevenson, by Henry Walter Barnett, 1893"
 genre:
 wordcount: 1875
+tags: murderwiki
 ---
 
 <!-- <section id="toc" class="toc">
@@ -87,3 +88,4 @@ Nevertheless, the vividness of his moral stories, the grace of his lighter tales
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

@@ -13,6 +13,7 @@ excerpt: "The man walked past the building, turned, and after a quick glance abo
 image: /assets/img/short-stories/guerilla.svg
 imgh: 300px
 genre: Noir
+tag: short-story
 wordcount: 2735
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Guerilla.mobi

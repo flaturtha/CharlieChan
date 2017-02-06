@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Further Advices"
 subtitle: "Coincidence, Melodrama &amp; How The Best Writers, Often Women, Create Unique Plots"
@@ -13,7 +13,7 @@ excerpt: "\"The mystery-story is just the one species of story that can not be t
 image: /assets/img/murderwiki/Anna_Katherine_Green.jpg
 caption: "Anna Katherine Green is far and away the best [detective fiction writer] in our home field."
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 2618
 ---
 
@@ -27,7 +27,8 @@ wordcount: 2618
 </div>
 </section> <!-- table-of-contents -->
 
-## The Use of Coincidences
+### The Use of Coincidences
+{: .chaptertitle }
 
 An error into which the beginning author easily falls is the too lavish use of coincidences. While perhaps the majority of detective stories are founded upon coincidences, they must be made so plausible, so seemingly inevitable, that they shall not appear to be mere coincidences. A modern fiction detective thus frankly admits the value of coincidences in his work:
 
@@ -58,8 +59,10 @@ Gaboriau appreciated the futility of depending upon the coincidence:
 But leaving aside these deeper doctrines, let us use coincidence when necessary, carefully veiling it, however, with plausibility. Work up to the coincidence until it seems to occur naturally. Invent causes to produce the effects that otherwise would have seemed pure coincidence.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Use of Melodrama
+### The Use of Melodrama
+{: .chaptertitle }
 
 Another fault to be avoided is the use of melodramatic speech or incident. The day is past when readers are thrilled by the sort of diction that charmed Pomona of &quot;Rudder Grange,&quot; as she read aloud, &quot;Ha—Ha—Lord—Marmont—thundered—thou—too—shalt—suffer!&quot; And yet, in &quot;A Scandal in Bohemia&quot; we read: &#39;&quot;And the papers?1 asked the king, hoarsely; &#39;all is lost!&quot;&#39;
 
@@ -68,8 +71,10 @@ It is difficult to discover a loss of &quot;the papers&quot; without melodramati
 Avoid, too, the use of sentiment. Romance is not now referred to; but other sentiments which though acceptable in the &quot;story of manners,&quot; tend to distract the reader of detective fiction. This field recognizes few emotions and no moral; and as a human document it depends for its success upon the primitive instincts of mankind and the material indications thereof.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Dullness
+### Dullness
+{: .chaptertitle }
 
 Avoid dull and prosy description. If any type of story depends on action and excitement, it is the type we are discussing. Keep before you always the question of your reader&#39;s attitude towards your work. Arrest their attention, rouse their curiosity, awake their interest, and you have made your start. Continue to stimulate all these to the highest pitch, and your story is written. Let your final explanation more than satisfy their anticipation, and you have made a success.
 
@@ -78,8 +83,10 @@ Build everything toward the final climax, using minor surprises as stepping-ston
 Remember the two great principles: to have your facts as straight and true as a mathematical proposition; and to have your fancies as fascinating and elusive as a fairy tale. In a word, the ideal writer of detective fiction should be the child of Euclid and Scheherazade.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Unique Plots and Their Solubility
+### Unique Plots and Their Solubility
+{: .chaptertitle }
 
 Disdaining or tiring of the regulation plot some writers have branched off into erratic forms. This may be done with wonderfully fine effect if done perfectly. But only a genius, and an experienced one at that, should attempt it.
 
@@ -100,8 +107,10 @@ Dr. Harry Thurston Peck says:
 Irrespective of all else, it is the mystery that arouses curiosity to the pitch of demanding explanation that counts. By few has it been played with a skill like that of Wilkie Collins, who, with little characterization or sentiment, without creating individuals of fiction whom we remember, or whose sayings we quote, could hold the attention of the novel-reading world with his &quot;Woman in White,&quot; or set them eagerly agog to find the whereabouts of the mysterious diamond taken from its Eastern sanctuary. For ingenuity of construction, blind leads, bafflings, and sustained interest &quot;The Moonstone&quot; stands high in the catalogue of the mysteries of fiction; and the reader was penetrating to a degree who fastened upon Mr. Godfrey Ablewhite the theft.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Women as Writers of Detective Stories
+### Women as Writers of Detective Stories
+{: .chaptertitle }
 
 Not a few among the best writers of detective fiction are women. That perspicacious critic, Julian Hawthorne, observes:
 
@@ -122,3 +131,4 @@ And ever remember Mr. Zangwill&#39;s dictum:
 >&quot;The mystery-story is just the one species of story that can not be told impromptu or altered at the last moment, seeing that it demands the most careful piecing together and the most elaborate dove-tailing.&quot;
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

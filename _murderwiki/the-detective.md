@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "The Detective"
 subtitle: "Definining the Character of Fictional Detective, the Reason for the Detective Story itself."
@@ -14,7 +14,7 @@ image: /assets/img/murderwiki/Friston-holmes.png
 caption: "First ever appearance of Sherlock Holmes, by D. H. Friston (1820-1906). From \'A Study in Scarlet.\' Drawn in 1887."
 sizeoverride: contain
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 6699
 ---
 
@@ -34,7 +34,8 @@ As Mr. Vance Thompson puts it:
 
 >&quot;Readers who pant breathlessly after Sherlock Holmes and his like should give thanks to Edgar Allan Poe; when he invented Dupin in the &#39;Murders in the Rue Morgue,&#39; he created once for all the type of the detective in fiction. In all the years it has not changed very much. Sherlock Holmes still sits in his dark, superheated chamber; he is drugged with tobacco and opium; he maintains the &#39;profound silence&#39; that distinguished Poe&#39;s cold analyst; indeed, one may be sure that the type will live for another eighty years.&quot;
 
-## The Real Detective and His Work
+### The Real Detective and His Work
+{: .chaptertitle }
 
 But we have already agreed that this fiction detective has little or nothing to do with the real detective. When M. Goron, one of the greatest of French detectives, was asked concerning this, he replied:
 
@@ -87,7 +88,8 @@ Mr. John Wilson Murray, one of the noted detectives, says simply in his &quot;Me
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Fictive Detective Material
+### Fictive Detective Material
+{: .chaptertitle }
 
 The usual work, then, of a real detective does not demand the extraordinary powers of the fiction detective. But the plots selected by fiction writers for their stories are the cases that do demand it. And this, because it interests the reader&#39;s imagination, piques his curiosity and makes possible the solution of the problem.
 
@@ -110,7 +112,8 @@ Poe&#39;s three masterpieces of detective fiction are perfectly conceived, const
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Transcendent Detective
+### The Transcendent Detective
+{: .chaptertitle }
 
 The status of the fiction detective is so well-defined that it is the habit of authors to scoff at it, and endeavor to convince us that their own detectives are true to life.
 
@@ -143,7 +146,8 @@ This is good-natured satire, and the very fact that it contains the kernel of tr
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Pioneer Detectives of Fiction
+### Pioneer Detectives of Fiction
+{: .chaptertitle }
 
 Though lacking the title, the Transcendent Detective doubtless makes his earliest appearance in the person of M. Dupin.
 
@@ -202,7 +206,8 @@ The Thinking Machine whose name was Professor Van Dusen was remotely German. For
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Recent Detectives of Fiction
+### Recent Detectives of Fiction
+{: .chaptertitle }
 
 Among the best of lately-written detective stories are two by Gaston Leroux, &quot;The Mystery of the Yellow Room&quot; and &quot;The Perfume of the Lady in Black.&quot; In these stories two detectives figure. Though they are professional and amateur, they are not opposed, as is so often deemed necessary for dramatic effect, but have a far subtler contrast. Rouletabille is a delightful character and satisfactory in his procedure, while Larsan is a genius. And yet these detectives are little known to the reading public. It is perhaps because Sherlock Holmes was first in the modern field, and perhaps partly because his name appears in the titles of the collections of stories about him, that his name is so well known. Mr. Cecil Chesterton is right in saying:
 
@@ -241,7 +246,8 @@ This is Sprague&#39;s manner as the author, Francis Lynde, shows us:
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Scientific Detective of Fiction
+### The Scientific Detective of Fiction
+{: .chaptertitle }
 
 This is all legitimate, but tinged rather deeply with science.
 
@@ -270,7 +276,8 @@ However, Kennedy&#39;s methods and descriptions, though interesting to scientifi
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The New Psychology in Detective Stories
+### The New Psychology in Detective Stories
+{: .chaptertitle }
 
 All of the stories of Craig Kennedy published under the title of &quot;The Silent Bullet&quot; are based upon the various chapters of Professor Hugo Miinsterberg&#39;s delightful book called &quot;On The Witness Stand.&quot; It is hoped and believed by Professor Miinster- berg that these psychological experiments will yet become a practical means of the conviction of criminals.
 
@@ -299,7 +306,8 @@ A similar method is hinted at in &quot;The Thinking Machine&quot; stories. Mr. F
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Other Types
+### Other Types
+{: .chaptertitle }
 
 &quot;The Man In The Corner,&quot; by Baroness Orczy, introduces himself in this way:
 
@@ -312,3 +320,4 @@ A comparatively novel type of detective is Astro. This individual figures in a s
 The detective is a poseur, of a languid and self-conscious personality, who pretends to be a palmist and crystal-gazer, but who really is simply a clever sleuth detective. At his seances, conducted in draped and darkened apartments, he wears Oriental costume and is exceedingly bored. Instead of a Doctor Watson, he has for assistant a beautiful young woman named Valeska. The romance of these two runs through the book, and culminates on the last page with a &quot;clergyman and witnesses.&quot; But the stories are properly constructed detective fiction of good technique.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

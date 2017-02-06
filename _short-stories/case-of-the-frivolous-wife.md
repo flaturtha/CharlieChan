@@ -11,6 +11,7 @@ excerpt: “A present, Janie—from an unknown admirer! Try one of the goldpaper
 image: /assets/img/short-stories/frivolous-wife.svg
 imgh: 300px
 genre: Professional Sleuth
+tag: short-story
 wordcount: 3843
 timetoread: EST TIME TO READ
 kindle: 

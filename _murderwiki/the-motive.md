@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "The Motive"
 author: Carolyn Wells
@@ -13,7 +13,7 @@ excerpt: "Only a small percentage, however, of recorded murders are adaptable to
 image: /assets/img/murderwiki/arthur-train.jpg
 genre: The Techniques of the Mystery Story
 wordcount: 556
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 ---
 
 <section id="toc" class="toc">
@@ -49,3 +49,4 @@ If consistent with the plot, let the motive be of recent date. It is annoying to
 Let the motive be as carefully concealed as you like, but offer adroit hints and veiled allusions that the astute reader may catch if he can, and when at last the motive is revealed, let it be a logical and sound one, and, above all, let it be adequate.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

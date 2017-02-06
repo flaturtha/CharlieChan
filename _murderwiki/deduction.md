@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Deduction"
 subtitle: "The Process of Reasoning &amp; Crime Solving by A Fictional Detective From Inconspicuous Clues"
@@ -13,7 +13,7 @@ excerpt: "Deduction, in a definite and restricted sense, is the motif of most of
 image: /assets/img/murderwiki/Painting_depicts_Bahram_Gur.jpg
 caption: "The painting depicts Bahram Gur (central figure) on horseback hunting three doe, from a \'Khamseh of Amir Khusrau Dihlavi\', an illustrated manuscript containing early stories that use deduction in solving their riddles."
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 4417
 ---
 
@@ -29,7 +29,8 @@ wordcount: 4417
 
 Deduction, in a definite and restricted sense, is the motif of most of the detective stories of to-day. It is an unusually perspicacious analytic deduction from inconspicuous clues that we call ratiocination, or more familiarly, the detective instinct.
 
-## Ratiocination in Early Detective Stories
+### Ratiocination in Early Detective Stories
+{: .chaptertitle }
 
 A story quoted in one of the earlier chapters, called &quot;The Sultan and his Three Sons,&quot; is a very ancient specimen of analytic deduction. Though it is, in turn, doubtless founded on an even older tale.
 
@@ -61,7 +62,8 @@ This is only a single instance of Zadig&#39;s ratiocination, but Voltaire gives 
 
 Poe&#39;s stories follow precisely this same narrow path, and after him trail Gaboriau, Du Boisgobey, Conan Doyle and the rest of the long procession.
 
-## Deduction Used in Every-day Life
+### Deduction Used in Every-day Life
+{: .chaptertitle }
 
 But this adaptation from Oriental lore is no disparagement of Poe&#39;s talent. He was the first to write a coherent and self-contained story whose interest depends solely on the application of human intelligence to the solution of a mystery. Others have done so since; and this peculiar trait of analytic deduction is by no means confined to detectives or to Detective Story writers. The average human being in every-day life, often without being definitely conscious of it, performs absolute ratiocination. It is only the extreme application of this principle, or an unusual demonstration of it in connection with interesting circumstances, that gives interest to a Detective Story.
 
@@ -77,7 +79,8 @@ In Mr. Chesterton&#39;s opinion:
 
 >&quot;The idea that you cannot put good philosophy into certain art-forms is as absurd and mischievous as the idea that you cannot put good workmanship into them. Mr. Shaw, for example, has put his philosophy into the form of ordinary melodrama in &#39;The Devil&#39;s Disciple.&#39; Ibsen has put his into the form of pantomimic extravaganza in &#39;Peer Gynt.1 There is no earthly reason why a man with a specific talent for the work should not put ideas as profound into the form of the detective story. For after all the essence of the detective story is the presence of visible phenomena with a hidden explanation. And that, when one comes to think of it, is the essence of all the philosophies.&quot;
 
-## The Analytical Element in the Detective Story
+### The Analytical Element in the Detective Story
+{: .chaptertitle }
 
 It is the invention and construction of the story, setting forth the puzzle in an attractive way, and continuing with sound reasoning and philosophy to a logical and satisfactory end, that arrests and holds the reader&#39;s attention. And the skilled author devises every circumstance of his tale with the one intent, to whet the reader&#39;s desire to arrive at the author&#39;s solution simultaneously with, if not ahead of the author&#39;s detective.
 
@@ -93,7 +96,8 @@ A very fine yet clear distinction is made by Poe which is not always carefully o
 
 >&quot;The analytical power should not be confounded with simple ingenuity; for while the analyst is necessarily ingenious, the ingenious man is often remarkably incapable of analysis. The constructive or combining power, by which ingenuity is usually manifested, and to which the phrenologists (I believe erroneously) have assigned a separate organ, supposing it a primitive faculty, has been so frequently seen in those whose intellect bordered otherwise upon idiocy, as to have attracted general observation among writers on morals. Between ingenuity and the analytic ability there exists a difference far greater, indeed, than that between the fancy and the imagination, but of a character very strictly analogous. It will be found, in fact, that the ingenious are always fanciful, and the truly imaginative never otherwise than analytic.&quot;
 
-## Poe&#39;s Detective—The Prototype
+### Poe&#39;s Detective—The Prototype
+{: .chaptertitle }
 
 These principles, more or less clearly understood and adhered to, make up the conventional Fiction Detectives.
 
@@ -121,7 +125,8 @@ It is Poe&#39;s assertion that analytic reasoning is oftenest the identification
 
 This embodies much of the seemingly magical wisdom of the fiction detective.
 
-## The Detective in the Novel
+### The Detective in the Novel
+{: .chaptertitle }
 
 Some thirty years after Poe&#39;s Dupin, Gaboriau invented his Le- coq. As Gaboriau&#39;s stories are all novels, while Poe&#39;s are short- stories or novelettes, there is, of course, more setting, with more characters and more complex plot, in the French stories. But as a personality Gaboriau&#39;s detective stands out quite as clearly as Poe&#39;s.
 
@@ -173,3 +178,4 @@ Instead of Sherlock Holmes&#39; assumption of superiority over his secondary cha
 
 >&quot;And you did right in saying so. Taking this idea as lantern to light you on your way, you ought to have gone straight to the truth. But as I said before, you are young, and the first likely circumstances that you met with, made you entirely neglect your rule of action.&quot;
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

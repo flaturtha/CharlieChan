@@ -13,7 +13,7 @@ excerpt: “When a man dies, my dear Hawke,” said Dr. Wilthorpe, lighting a ci
 image: /assets/img/short-stories/dog-biter.svg
 imgh: 300px
 genre: Professional Sleuth
-tags: Dixon Hawke, Professional Sleuth
+tags: Dixon Hawke, Professional Sleuth, short-story
 wordcount: 3184
 trfissue: Vol. 1 No. 1
 trfdate: Jan. 3, 2016

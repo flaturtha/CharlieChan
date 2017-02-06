@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Plots"
 subtitle: "The <i>Problem &amp; Solution</i> of a Detective Story, Long or Short"
@@ -13,7 +13,7 @@ image: /assets/img/murderwiki/GBurgess-construct.png
 caption: "The Architectural Story Diagram, designed by Gelett Burgess, to plot his stories."
 sizeoverride: contain
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 4162
 ---
 
@@ -27,7 +27,8 @@ wordcount: 4162
 </div>
 </section> <!-- table-of-contents -->
 
-## The Plot is the Story
+### The Plot is the Story
+{: .chaptertitle }
 
 As we have seen, the detective story, short or long, has but one plot—the problem and its solution. No matter what elaboration may be introduced, the skeleton of the plot is the same; and it is this simplicity of construction, this straight and narrow path of procedure, that makes the writing of detective stories both easy and hard.
 
@@ -82,8 +83,10 @@ But this hint gives the reader no suspicion that the man thus introduced is real
 This is the true spirit of the writer of detective fiction.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Maintaining Suspense
+### Maintaining Suspense
+{: .chaptertitle }
 
 Another and very necessary point to remember is that the mystery must be of sufficient interest to be worth unraveling. To quote Anna Katharine Green on her methods of construction:
 
@@ -104,8 +107,10 @@ Dr. Nevil Monroe Hopkins—whose detective, &quot;Mason Brant,&quot; operates in
 So we see that the advisability of romance in detective stories is a matter of opinion, and opinions differ among the authorities. But the love interest, if not overdone, may be left to the discretion of the author, remembering that the mystery is the primary interest.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Planning the Story
+### Planning the Story
+{: .chaptertitle }
 
 Henry Kitchell Webster gives perhaps a more definite formula than those above quoted:
 
@@ -165,8 +170,10 @@ These most valuable directions may be helpfully adapted to the writing of Detect
 Detective Stories call for logic, plausibility and a true sense of proportion. Literary ability is to be desired; but before that, there must be power of deduction and a perfect sense of values.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Question of Humor
+### The Question of Humor
+{: .chaptertitle }
 
 If romance is out of place in a detective story, humor is even more so. With the exception of the whimsical De Quincey and the waggish Zangwill, few can write or read about murder with any touch of humor. The best Detective Stories are absolutely void of it, and except in the hands of a whimsical genius it is entirely out of place.
 
@@ -175,8 +182,10 @@ Mr. Zangwill wrote only one Detective Story, but that one is unique; and in plot
 >&quot;&#39;Big Bow Mystery1 seems to me an excellent murder story, as murder stories go, for, while as sensational as the most of them, it contains more humor and character creation than the best. Indeed, the humor is too abundant. Mysteries should be sedate and sober. There should be a pervasive atmosphere of horror and awe such as Poe manages to create. Humor is out of tone; it would be more artistic to preserve a somber note throughout. But I was a realist in those days, and in real life mysteries occur to real persons with their individual humors, and mysterious circumstances are apt to be complicated by comic.&quot;
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Some Unique Devices
+### Some Unique Devices
+{: .chaptertitle }
 
 A unique plot in which the unsuspected criminal is ever before us is &quot;The Mystery of the Yellow Room,&quot; by Gaston Leroux. This astonishing story depends on two absolutely original propositions. One, that the attempt at murder in an inaccessible room occurred long before it was supposed to have done so. The other that the great and celebrated detective who condescends to take the case is really the criminal. But the workmanship of this story and the several and perfect surprises can only be appreciated by reading it.
 
@@ -215,3 +224,4 @@ But these conventions and devices and unwritten laws of the technique of the Mys
 And so, the reader who is unversed in the arts and crafts of detective fiction cannot be expected to value the skill shown in the great presentations of The Problem and its Solution.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

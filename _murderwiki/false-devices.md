@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "False Devices"
 subtitle: "Mistaken Beliefs of Mystery Story Writers &amp; Readers"
@@ -13,7 +13,7 @@ excerpt: "Aside from these false and erroneous notions which are common, let the
 image: /assets/img/murderwiki/Mystery_of_Marie_Roget.png
 caption: "Illustration of the short story \'The Mystery of Marie Roget\' by Edgar Allan Poe. From \"Tales of Mystery, Imagination, & Humour: And Poems By Edgar Allan Poe\". Published Henry Vizetelly, 1852."
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 3005
 ---
 
@@ -29,7 +29,8 @@ wordcount: 3005
 
 Several false notions which have been so often exploited as to command belief, the young writer should strive to correct.
 
-## The &quot;Trace&quot; Fallacy
+### The &quot;Trace&quot; Fallacy
+{: .chaptertitle }
 
 One hackneyed statement, though of great value to a fiction detective, is far from being true. This is the assertion that it is impossible for a human being to go into a room for any purpose and out again without leaving trace of his presence. Sherlock Holmes insists on this, and says, on one occasion:
 
@@ -42,8 +43,10 @@ And Mary E. Wilkins in her fine detective story, &quot;The Long Arm,&quot; makes
 Ninety-nine times out of a hundred any one can go into a room, stay for a time and come out again, and leave absolutely no trace of his presence there. A practical test, or a series of them will convince anyone of this. Let your criminal or your innocent suspect leave as many traces and clues as you will, but don&#39;t allow your detective to assert that this is inevitable.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Destruction of Evidence
+### The Destruction of Evidence
+{: .chaptertitle }
 
 Another useful but false notion is the great difficulty that the criminal experiences in getting rid of his blood-stained garments or other incriminating impedimenta. If he endeavors to burn them, or throw them in the river or ashbarrel, they come back with feline certainty. Now it is not so difficult to destroy or conceal material successfully, and al that is necessary in this regard is to make the proceedings of your criminal natural and not forced. But let the destruction or concealment be done with common sense, and at least an elementary knowledge of your subject.
 
@@ -56,8 +59,10 @@ One of the most absurd incidents of destruction is the burning of large packets 
 Although we are told that it was &quot;a good fire&quot; that was burning in the fireplace, nothing short of a crematory furnace could have continued to burn when these letters were thrown upon it. Remember that Holmes &quot;filled his two arms with bundles of letters and poured them all into the fire.&quot; &quot;Again and again he did this,&quot; until he must have had, by a conservative estimate, some hundreds of letters. Anyone who has tried to burn even three or four letters without unfolding their pages knows the result. As a matter of fact, when Holmes departed, leaving those letters lying on the fire, very few of them could have been greatly injured. If papers must be burned, as is sometimes the case, let them be unfolded and each sheet crumpled a little, and then give sufficient time to the operation. If this is not possible, omit the incident. How often a will or a deed has been &quot;tossed into the grate and reduced to ashes at once.&quot; A folded paper of four or five thicknesses obstinately refuses to burn, except around the edges, and these instantaneous holocausts rouse only amusement in the mind of the common-sense reader.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## False Hypotheses
+### False Hypotheses
+{: .chaptertitle }
 
 Another entirely false notion is that &quot;Murder will out.&quot; As to the real fact of this matter, Arthur C. Train, in his admirable work, &quot;Courts, Criminals and the Camorra,&quot; asserts that the prisoners tried for murder are only a mere fraction of those who commit the crime.
 
@@ -70,8 +75,10 @@ Again the beliefs that &quot;a murderer is involuntarily drawn back to the scene
 Another false notion inherent in the average citizen is, that a bystander is forbidden by law to touch the body of a murdered man before the arrival of the coroner. There never was any such law, is not now, and probably never will be. The citizen who is of an inquiring turn of mind has a perfect right to examine dead bodies he runs across in the course of his travels, to move the remains and even search the pockets of the deceased, provided, of course, that his motives are honest. That is all that is necessary.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Errors of Fact and of Inference
+### Errors of Fact and of Inference
+{: .chaptertitle }
 
 Aside from these false and erroneous notions which are common, let the writer of detective fiction be careful to avoid absolute mistakes, paradoxes, or anachronisms. In this class of story, accuracy and logic are imperative, and nothing can excuse carelessness in descriptive details or sequential happenings.
 
@@ -116,8 +123,10 @@ Again, some statements, while barely possible, are too improbable for ready beli
 We can scarcely imagine human finger-nails scraping off sufficient lavender kid from an assailant&#39;s gloves to serve as evidence, and we doubt if it could be proved possible by practical experiment. Though original and picturesque clues are desirable, yet care should be taken to have them carry the weight of common sense.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Use of Illustrative Plans
+### The Use of Illustrative Plans
+{: .chaptertitle }
 
 A very annoying error often met is putting the plans in the book too late. By plans, we mean, the architectural sketch showing the rooms of the house or the arrangement of the grounds, with an X &quot;where the body was found.&quot;
 
@@ -130,8 +139,10 @@ In &quot;The Leavenworth Case&quot; by Anna Katharine Green, the plan of the hou
 &quot;The Mystery of the Yellow Room&quot; and &quot;The Perfume of the Lady in Black,&quot; both by Gaston Leroux, require definite and somewhat elaborate plans. These are beautifully drawn, and occur in the book exactly at the time they are needed.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Locked and Barred Room
+### The Locked and Barred Room
+{: .chaptertitle }
 
 A situation greatly beloved of mystery-mongers is a crime committed in a room so locked and barred that there is apparently no possible ingress.
 
@@ -152,3 +163,4 @@ This particular problem and its solution, in Zangwill&#39;s hands, is a masterpi
 A writer does well to use this always arrestive plot, if he have some new and interesting explanation to offer.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

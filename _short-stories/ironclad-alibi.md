@@ -13,6 +13,7 @@ excerpt: "Nick Ryan could prove he wasn't the murderer being sought for—prove 
 image: /assets/img/short-stories/ironclad-alibi.svg
 imgh: 300px
 genre: Crook
+tag: short-story
 wordcount: 1743
 timetoread: EST TIME TO READ
 kindle: 

@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Portraits"
 subtitle: "How fictional detectives are described, from physical descriptions to mannerisms and favorite phrases"
@@ -17,7 +17,7 @@ image: /assets/img/murderwiki/Holmes_by_Paget.png
 caption: "Sherlock Holmes, by Sidney Padget for \'The Strand\' magazine."
 sizeoverride: contain
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 5882
 ---
 
@@ -33,7 +33,8 @@ wordcount: 5882
 
 The appearance of the detective is always of interest and each author in turn endeavors to make his marvelous-minded creature look as physically unlike other fiction detectives as possible. And especially does he aim to have him totally different in his effects from the popular conception of the conventional detective. In fact the average detective of fiction is always declared to look absolutely unlike the average detective of fiction.
 
-## Some Early Detective Portraits
+### Some Early Detective Portraits
+{: .chaptertitle }
 
 M. Dupin is not described physically, as Poe&#39;s marvelous economy of attention made him omit every possible bit of material extraneous to his actual story. But, beginning let us say, with Lecoq, all seem to be diametrically opposed to the conventional detective.
 
@@ -66,8 +67,10 @@ And then, in every respect a vivid contrast, he gives us a picture of the engagi
 >His face was as sharp as a hatchet, and the skin of it was as yellow and dry and withered as an autumn leaf. His eyes, of a steely light gray, had a disconcerting trick, when they encountered your eyes, of looking as if they expected something more from you than you were aware of yourself. His walk was soft; his voice was melancholy; his long, lanky fingers were hooked like claws. He might have been a parson, or an undertaker, or anything else you like, except what he really was. A more complete opposite to Superintendent Seegrave than Sergeant Cuff, and a less comforting officer to look at for a family in distress, I defy you to discover, search where you may.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Some More Modern Portraits
+### Some More Modern Portraits
+{: .chaptertitle }
 
 Sherlock Holmes is too well known to the reading public to require description here, but a brief account of his appearance, as detailed by Watson, proves his unlikeness to those we have previously looked at:
 
@@ -120,8 +123,10 @@ The reference to Wimp&#39;s wife is thus explained:
 >Grodman was still a bachelor. In the celestial matrimonial bureau a partner might have been selected for him, but he had never been able to discover her. It was his one failure as a detective. He was a self-sufficing person, who preferred a gas stove to a domestic; but in deference to Glover Street opinion he admitted a female factotum between ten a.m. and ten p.m., and, equally in deference to Glover Street opinion, excluded her between ten p.m. and ten a.m.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Some Less Known Portraits
+### Some Less Known Portraits
+{: .chaptertitle }
 
 Gordon Holmes inclines to Wilkie Collins&#39; plan of contrasting the appearance of the real detective and the fictional at once. In &quot;A Mysterious Disappearance&quot; he presents these opposite physical effects:
 
@@ -152,8 +157,10 @@ A little like &quot;The Thinking Machine&quot; is &quot;The Man in the Comer,&qu
 Astro, the hero of Gelett Burgess&#39;s book of Mystery Stories, is perhaps the farthest possible remove from a conventional detective in appearance. Though not described categorically, we are given various word pictures of him in his &quot;psychic studio.&quot; There he lounges among oriental divans and draperies, wearing a jewelled turban, flowing silken robes, and other characteristic apparel, as he indulges in the enjoyment of his silver-mounted water-pipe or his pet white lizard. He has sufficiently unusual eccentricities to put him in the list of correctly made up fiction detectives, and though blase, he is original and interesting.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Idiosyncrasies of Fictional Detectives
+### Idiosyncrasies of Fictional Detectives
+{: .chaptertitle }
 
 Most fictional detectives have peculiar and individual tricks of personality which are doubtless intended for the reader to remember them by.
 
@@ -204,8 +211,10 @@ Sergeant Cuff, however, has a very sane and pleasant fad of his own, but he puts
 The peculiarity of &quot;The Whispering Man,&quot; and what gives him his title, is a curious vocal defect which at times prevents his audible speech.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Favorite Phrases of Detectives
+### Favorite Phrases of Detectives
+{: .chaptertitle }
 
 &quot;The Thinking Machine,&quot; aside from his petulance and impatience, continually repeats two or three favorite phrases that annoy the reader quite as much as the clients annoy this astute detective. One of them is, &quot;Don&#39;t say it is impossible! that annoys me exceedingly! Nothing is impossible to the human mind!&quot; This assertion, innocent enough in itself, is so frequently repeated as to become intolerable. Another phrase of which Professor Van Dusen is inordinately fond, is, &quot;Two and two make four, not sometimes, but all the time.&quot; This also is repeated so often as to become tiresome. To quote the Professor:
 
@@ -238,3 +247,4 @@ Poe disdained the simple reference to two plus two, but embodied a similar idea 
 The aspiring author, then, will do well to omit further references to the adding of two and two as an illuminating point in his story. Eccentricities or freakish habits on the part of his detective are permissible if not harped upon too continuously. But let them be of a pleasant or at least of an unobjectionable nature, and not like a habit attributed to a detective in a series of stories now current, who pulled at the lobe of his ear, until a fastidious reader was fain to close the book in disgust. Let the habits of your hero be whimsical, mysterious, or erratic, if you choose; but let them be agreeable and not too frequently reiterated.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

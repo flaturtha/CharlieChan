@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "The Americans from Bret Harte to the Nineties"
 subtitle: "How the American Short Story Developed from Anecdote, Yankee Yarn &amp; the Story of Local Color"
@@ -16,6 +16,7 @@ image: /assets/img/murderwiki/Bret_Harte_by_Elliott_and_Fry_1895.jpg
 caption: "American writer Bret Harte. Described as \"Bret Harte at the present time\" (presumably 1895). From <i>Human Documents: Portraits and Biographies of Eminent Men.</i> New York: S. S. McClure, Limited, 1895: p. 170"
 genre:
 wordcount: 4548
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -43,7 +44,8 @@ Henry James is the master of the first; Aldrich was our best representative of t
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Henry James – Narrative Conducted Over Uncharted Seas
+### Henry James – Narrative Conducted Over Uncharted Seas
+{: .chaptertitle }
 
 Mr. James, in the course of his annotations upon the new edition of his works, remarks that it was a relief to escape from the frail craft of the short story, where he ever felt the danger of running aground. With apologies, if there is to be any running aground in Mr. James&#39;s short stories, it is the reader and not Mr. James who is in danger. Never in the ages of fiction has narrative been conducted over uncharted seas with more consummate skill than in the tales now to be discussed.
 
@@ -64,7 +66,8 @@ It will be necessary to turn to the stories themselves for the application of th
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Beginnings of the Realist Movement in English Short Stories
+### The Beginnings of the Realist Movement in English Short Stories
+{: .chaptertitle }
 
 To suppose that the short story cannot be excellent realism, advanced realism if you please, is absurd, as the Russians and the French, if no others, have proven. Yet, before the sixties, almost no good short stories in English were markedly realistic. Poe compounded his out of romanticism. Hawthorne struggled for realism, but did not get it, because it was not realism that he most wanted. O&#39;Brien, who gripped at situations, chose sensational ones, and Harte avoided the uncolored life.
 
@@ -121,7 +124,8 @@ But when the bugbear Mr. James has crumbled, we will better appreciate the real 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Amusing Anecdote &amp; the Yankee Yarn: Precursors of the American Short Story
+### The Amusing Anecdote &amp; the Yankee Yarn: Precursors of the American Short Story
+{: .chaptertitle }
 
 The next variety of short story came to its prime a little later, but flourished and flourishes far more abundantly. It is the kind which comes nearest to being anecdotal; the story of light and surprising situation whose point is revealed by a twist of the plot at the very end.
 
@@ -154,7 +158,8 @@ But, in either case, even when a poor thing, the custom is our own. I do not kno
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Local-Color Story – The Narrative Whose Setting Is Distinctly of One Locality
+### The Local-Color Story – The Narrative Whose Setting Is Distinctly of One Locality
+{: .chaptertitle }
 
 To call the third group of short narratives in this period local-color stories is a little deceptive, for among the short stories usually so named are many palpably anecdotal, and more where a serious situation makes its impression upon the reader. Yet, merely for a convenient division, the name will serve. By a local-color story we mean more than a narrative whose setting is distinctly of one locality, for this would apply to the Italian stories of the Elizabethans, the periodical narratives of London in the eighteenth century, or Hawthorne&#39;s New England tales. We mean, rather, a story where the setting is quite as important as the plot; a story to which a strong factitious interest is lent by the local peculiarities of place and action, and by the racial peculiarities of the actors.
 
@@ -189,3 +194,4 @@ Such narratives have been written only when the story and not the setting has be
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

@@ -13,6 +13,7 @@ excerpt: "Jack Kelley doubled for the hero in Hollywood film fights. But when he
 image: /assets/img/short-stories/satan-hogs-the-camera.svg
 imgh: 300px
 genre: Amateur Sleuth
+tag: short-story
 wordcount: 4722
 timetoread: EST TIME TO READ
 kindle: 

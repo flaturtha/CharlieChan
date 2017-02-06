@@ -13,6 +13,7 @@ excerpt: "There’s no glamour in crime, particularly when a sixteen-year-old ki
 image: /assets/img/short-stories/this-side-up.svg
 imgh: 300px
 genre: Amateur Sleuth
+tag: short-story
 wordcount: 3400
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/This_Side_Up.mobi

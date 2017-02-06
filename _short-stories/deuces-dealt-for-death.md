@@ -10,6 +10,7 @@ excerpt: Slitting the throat of the fourth of Clinsey's quartet quarry should be
 image: /assets/img/short-stories/deuces-dealt-for-death.svg
 imgh: 300px
 genre: Noir
+tag: short-story
 wordcount: 4904
 timetoread: EST TIME TO READ
 kindle: 

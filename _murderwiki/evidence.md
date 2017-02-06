@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Evidence"
 subtitle: "How Fictive Detectives Uncover, Decipher, &amp; Use Evidence to Unmask A Fictional Killer"
@@ -13,7 +13,7 @@ excerpt: Nobody wants to read of a dead leaf fallen from a tree, merely to prove
 image: /assets/img/murderwiki/cockrobin.jpg
 caption: "The Fly and the Spider,<br>from 'Who Killed Cock Robin?'"
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 6587
 ---
 
@@ -27,7 +27,8 @@ wordcount: 6587
 </div>
 </section> <!-- table-of-contents -->
 
-## The Coroner
+### The Coroner
+{: .chaptertitle }
 
 In case of a murder, the Inquest should follow, as the night the day.
 
@@ -50,8 +51,10 @@ For instance this description is quoted from &quot;The Scales of Justice,&quot; 
 However, we still cling to the coroner as a necessary and desirable member of our detective fiction family, and we feel that we could better spare a better man.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Inquest
+### The Inquest
+{: .chaptertitle }
 
 The inquest in detective fiction, came in with &quot;The Murders in the Rue Morgue,&quot; where it is used as a vehicle for telling much of the story. Since then, the inquest has been a prominent incident in most of the murder stories of detective fiction; and as it can be made to present all manner of thrilling and exciting scenes, and also as it is most useful in leading or misleading the reader, it will probably remain with us.
 
@@ -66,8 +69,10 @@ Anna Katharine Green is conscientious and straightforward in her inquest recital
 Taken by and large, the inquest is invaluable to the Detective Story writer. It affords such necessary opportunities for cataloging details without seeming to do so; for convincing the reader that the innocent are the criminals; for introducing and characterizing the actors; and for setting the stage with the necessary properties for the future scenes of the drama.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Witnesses
+### The Witnesses
+{: .chaptertitle }
 
 The principal element of the inquest is, of course, the witnesses and their testimony. Few realize that the nursery tale of Cock Robin partakes of the nature of an inquest. In the first line, &quot;Who killed Cock Robin?&quot; we are informed as to the crime and the victim. This is immediately followed by the complete confession of the criminal and the disclosure of the weapon:
 
@@ -94,8 +99,10 @@ The witnesses are naturally the characters of the book. The jurymen are but tran
 The plot is the skeleton, but the evidence and the deductions therefrom are the muscle and sinew. On the value and presentation of the evidence does the reader&#39;s interest depend. No matter how absorbing the puzzle, if the evidence and deduction be not full of action and surprise the story palls.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Presentation of the Evidence
+### Presentation of the Evidence
+{: .chaptertitle }
 
 Indeed it is the chain of evidences, all more or less surprising, that holds the reader&#39;s interest through the five hundred pages of &quot;The Moonstone,&quot; where the puzzle is only a jewel robbery. And here is one reason why real murder trials are not as interesting as fictional ones. For the newspaper reports are plain accounts of the evidence found, whether entertaining or not; but the wily detective author need introduce no evidence that is not picturesque or exciting.
 
@@ -108,8 +115,10 @@ Learn too, the difference between vital and incidental evidence. Sherlock Holmes
 Of course; since the scrap of paper was put there by the author for that very purpose. But a close study of Conan Doyle&#39;s stories will prove the best lesson in collating and understanding evidence.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Circumstantial Evidence
+### Circumstantial Evidence
+{: .chaptertitle }
 
 Learn, too, the difference between circumstantial evidence and the testimony of an eye witness. Remember, circumstantial evidence must be strong and well attested to convict a murderer. Remember, too, how rarely it is the case that a murderer allows an audience when he commits his crime. Learn to adjust for yourself the harmonization of these statements.
 
@@ -134,8 +143,10 @@ In this connection we might refer to a speech of Jacques Futrelle&#39;s hero det
 Indeed, most detective stories are simply the case of the dog with the jam on his nose and the plot is mostly concerned with proving that that particular dog is not the criminal after all.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Deductions from Evidence
+### Deductions from Evidence
+{: .chaptertitle }
 
 The evidence, whether at the inquest or at a trial, must be carefully chosen, not only for its own attractive or surprising character but with a view to its material for deduction and analysis. A burnt match on the stairs of an elevated railroad station offers the casual observer little clue; but a burnt match of a particular style, on those same stairs, proving the hour when the criminal lit his &quot;big black cigar,&quot; is of immense importance in leading to a conclusion, foregone in the author&#39;s mind but not in the reader&#39;s.
 
@@ -146,8 +157,10 @@ Though circumstantial evidence may depend on personal testimony, it is oftener d
 In one of the &quot;Astro&quot; stories, the reader&#39;s interest is at once aroused by an unknown baby found in the street playing with a priceless fire opal and a black dead hand. Had the child held a rattle and a doll no curiosity would be felt as to the situation. This, of course, goes back to the accepted principle of the value of the bizarre.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Deductions from Clues
+### Deductions from Clues
+{: .chaptertitle }
 
 But even more advantageous than this is the use of the infinitesimal clue. When not irrationally lugged in, shreds, ravel- ings, scrapings of dust from boot heels, or scraps of paper are all much prized as fictional evidence.
 
@@ -172,16 +185,20 @@ In a story of Ashton-Kirk, the clue is the tiny, but symmetrically-shaped bit of
 But these things must have some sort of a subtly indicative interest. Nobody wants to read of a dead leaf fallen from a tree, merely to prove that it is autumn. And so it is the author&#39;s work to provide clues that lead to something, and that pique the reader into endeavoring to find out for himself what it is.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Evidence by Applied Psychology
+### Evidence by Applied Psychology
+{: .chaptertitle }
 
 A new kind of evidence has appeared of late in Detective Stories that is not deduced from an inanimate clue or voluntarily spoken by a witness. It is the scientific procedure known as applied psychology. It necessitates apparatus with such impressive names as kymographs and tachistoscopes and ergographs; and it may be learned in its general plan from Professor Miinsterberg&#39;s book, &quot;On the Witness Stand.&quot;
 
 This science aims to assist and serve such fields of practical life as education, medicine, art, economics and law. But the book in question considers only problems in which psychology and law come in contact. They deal essentially with the mind of the witness on the witness stand and their purpose is to turn the attention of serious men to this science. The detective writer who wishes to make a point of the credibility of testimony of witnesses cannot do better than to make a close study of the principles set forth in this book.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Direct Observation
+### Direct Observation
+{: .chaptertitle }
 
 As a matter of fact, the inquest or trial scene in detective fiction makes a great point of the testimony of eye witnesses. Yet really the utter unreliability of eye witnesses has often been remarked upon; and Hawthorne, in his &quot;Note-Book,&quot; says:
 
@@ -232,8 +249,10 @@ Zangwill in &quot;Big Bow Mystery&quot; thus argues the worthlessness of most ca
 >&quot;Can a mother see her baby&#39;s ugliness, or a lover his mistress&#39; shortcomings though they stare everybody else in the face? Can we see ourselves as others see us? No; habit, prepossession changes all. The mind is a large factor of every so-called external fact. The eye sees, sometimes, what it wishes to see, more often what it expects to see. You follow me, sir?&quot;
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Exactness of Detail
+### Exactness of Detail
+{: .chaptertitle }
 
 In this connection we are not discussing the value of evidence, per se, but merely for what it is worth in the construction of a Detective Story. The bringing forth of false evidence to complicate the mysteries of the story, is entirely permissible, if fairly done. And to do this fairly and properly it is wise to make a study of evidence and its relative value.
 
@@ -258,8 +277,10 @@ As we have seen, the average citizen is not observant. He rarely could tell the 
 >September 25, 1912.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Theories of Evidence
+### Theories of Evidence
+{: .chaptertitle }
 
 If it is necessary, then, for an artist to attend carefully to the costuming of his models, how much more necessary is it for the writer of a Detective Story to be carefully accurate even to the tiniest detail of his work. And as evidence is part and parcel of every Detective Story, let the earnest young writer make a close study of it from the best examples in literature.
 
@@ -334,3 +355,4 @@ Zangwill, too, states these principles clearly:
 So, realizing the importance of the presentation of evidence as one of the prime factors in our work, let us endeavor to gain a working comprehension of the subject and use it with discrimination and discernment.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

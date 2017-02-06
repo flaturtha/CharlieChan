@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "The Complete History of the Mystery"
 subtitle: A Survey of the Development of Mystery Genre Form Throughout History
@@ -10,6 +10,7 @@ genre: History
 excerpt: "From the earliest versions of the mystery story through the modern age, the mystery story has evolved from simple riddles to complex plots involving a myriad of detective types, plot devices and styles. What was once merely a puzzle, has evolved into a full-blown literary style and remains one of the most popular forms of fiction."
 image: /assets/img/murderwiki/newgate.png
 wordcount: 4046
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -29,7 +30,8 @@ Arguably the most popular form of fiction, it can be seen across the myriad of e
 
 But what exactly is the mystery story and where did the modern form come from?
 
-## Definition of the Mystery Story Form
+### Definition of the Mystery Story Form
+{: .chaptertitle }
 
 Simply defined, the mystery story is a genre of fiction that sets up a puzzle and challenges the reader to unearth the clues to solve the crime or other upset in the status quo. It proposes a question, such as: Who committed the crime? How was it done? What was done and why?
 
@@ -48,7 +50,8 @@ And while many purists might not include capers or crook-centered stories, yarns
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Did Edgar Allen Poe create the modern detective story?
+### Did Edgar Allen Poe create the modern detective story?
+{: .chaptertitle }
 
 <figure class="image__inpostL">
   <img id="Poe" src="/assets/img/murderwiki/Poe.png" alt="Edgar Allen Poe" width="200">
@@ -62,7 +65,8 @@ But a deeper look at the works of Poe and the mystery form of fiction shows that
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The First Murder Mystery &amp; the Deep Historical Origins of Mystery Stories
+### The First Murder Mystery &amp; the Deep Historical Origins of Mystery Stories
+{: .chaptertitle }
 
 <sup>9</sup> “Then the Lord said to Cain, ‘Where is Abel, your brother?’ And he said, ‘I do not know. Am I my brother’s keeper?’ <sup>10</sup> He said, ‘What have you done? The voice of your brother’s blood is crying to Me from the ground.” [Genesis&nbsp;4:9&#8209;10](https://www.biblegateway.com/passage/?search=Genesis%204:9-10&version=NIV
 )
@@ -81,7 +85,8 @@ Other examples of ancient mysteries include "Oedipus the King" by Sophocles (430
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Ability to Read and the Fascination with Crime, Murder &amp; Sensational Executions
+### The Ability to Read and the Fascination with Crime, Murder &amp; Sensational Executions
+{: .chaptertitle }
 
 <figure class="image__inpostR">
   <img id="Poe" src="/assets/img/murderwiki/gutenberg.png" alt="Gutenberg's press" width="350">
@@ -99,7 +104,8 @@ Thomas De Quincy published a seminal work called “On Murder Considered as One 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The First Serialized Mystery Stories &amp; the Advent of the Mystery Magazine
+### The First Serialized Mystery Stories &amp; the Advent of the Mystery Magazine
+{: .chaptertitle }
 
 As the demand for more stories increased from the poor and middle class readers, publishers began to print what became known as the penny dreadfuls, or penny bloods.
 
@@ -135,7 +141,8 @@ By the late nineteenth century, however, new high-speed printing techniques enab
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The First Works of the Modern Mystery Story Form
+### The First Works of the Modern Mystery Story Form
+{: .chaptertitle }
 
 Cited by crime fiction historians as the predecessor of the classic crime novel, <i>The Adventures of Caleb Williams</i> (1749) by William Godwin tells the story of Williams who suspects his master has murdered a neighbor and framed a tenant by planting evidence. Godwin is credited with doing the detective legwork himself to develop the plot, starting with the desired conclusion and working backwards to the beginning in order to spin a well formed mystery story. It is a technique still common in mystery writing<sup>[11]</sup>.
 
@@ -159,7 +166,8 @@ In 1887, Irish-Scots physician Sir Arthur Ignatius Conan Doyle (1859 – 1930) p
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Mothers of the Detective Novel: Significant Contributions to the Mystery Story Form by Women
+### The Mothers of the Detective Novel: Significant Contributions to the Mystery Story Form by Women
+{: .chaptertitle }
 
 The first woman to write detective and mystery fiction, American Anna Katherine Green, published <i>The Leavenworth Case</i> in 1878, and sold a quarter of a million copies. It earned her the title of “The Mother of the Detective Novel” because of the skilled detective work of uncovering hidden fact, often historical, that led to the resolution of the crime. Her techniques are still in use today.
 
@@ -177,7 +185,8 @@ Only publishing nine novels, Dorothy Cameron Disney is nonetheless seen as one o
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Locked Room &amp; the Beginnings of the Golden Age
+### The Locked Room &amp; the Beginnings of the Golden Age
+{: .chaptertitle }
 
 By the mid-teens, a new form of the mystery gained popularity, the so-called “locked room” mysteries. An early puzzle-style mystery, the locked room presented the detective with a seemingly impossible situation, where the victim is murdered without any way for the killer to enter or exit the room. It is simply locked from inside. The reader is presented with all of the clues and is challenged to figure out how the murderer was able to kill and then vanish into thin air.
 
@@ -197,7 +206,8 @@ The Golden Age of mystery and detective fiction ran from the earliest examples i
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Pulps, Hardboiled PIs &amp; Noir – the Gritty, Realism of America: 1920 to WWII
+### Pulps, Hardboiled PIs &amp; Noir – the Gritty, Realism of America: 1920 to WWII
+{: .chaptertitle }
 
 While the British authors were creating gentile murders, the American authors of the 1920s began to write in a more “realistic” style. When Black Mask magazine was launched in April 1920<sup>[14]</sup> by literary journalist H. L. Mencken and drama critic George Jean Nathan, it launched a new style of mystery short story and took off where the yellowbacks and dime magazines of the nineteenth century left off. Although best known for its mystery short stories, "Black Mask" was presented “the best stories available of adventure, the best mystery and detective stories, the best romances, the best love stories, and the best stories of the occult.”
 
@@ -228,7 +238,8 @@ Both hardboiled and noir styles of mystery fiction dominated the American scene 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Post WWII Patriotism &amp; the Rise of Competent Cops
+### Post WWII Patriotism &amp; the Rise of Competent Cops
+{: .chaptertitle }
 
 World War II saw a shift in the attitude of the American people towards authority figures and a similar shift in what the public wanted in their mystery fiction. As patriotism, in both America and Britain, grew out of the effects of the war, a new form of detective fiction took shape. Instead of featuring a loner private eye, it featured the intelligent, crafty and honest police detective.
 
@@ -246,7 +257,8 @@ In addition to stories centered on a single police detective, the police procedu
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Television, Movies &amp; the Continued Mystery of the Mystery
+### Television, Movies &amp; the Continued Mystery of the Mystery
+{: .chaptertitle }
 
 As television and film grew in popularity and more households had access to easy entertainment just a click of a button away, the mass popularity of magazines like "Black Mask" and "Detective Fiction Weekly", among others began to die off. So, too, did the mass market paperback novel. They didn’t die completely, as demonstrated by the continued publication of "Ellery Queen" magazine and a few others.
 
@@ -257,7 +269,8 @@ However, the love of the mystery still lives on, as strong as ever. According to
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## A History of Murder, &amp; the Public’s Love of a Thrilling Story
+### A History of Murder, &amp; the Public’s Love of a Thrilling Story
+{: .chaptertitle }
 
 From the earliest gossip between tribesmen on some prehistoric plain about a murder committed out of jealousy or greed through the various incarnations of detectives, both amateur and professional, from bumbling accidental discovery of clues to organized investigation of every facet of a mystery, the fascination with murder, crime, the dark side of life has never been far from the human psyche.
 

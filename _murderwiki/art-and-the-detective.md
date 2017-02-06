@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Art and the Detective"
 author: Cecil Chesterton
@@ -13,6 +13,7 @@ image: /assets/img/murderwiki/Rippl_The_Detective.jpg
 caption: "<i>The Detective</i> by , 1923. Pastel on paper, 20.1x15.7 in (51x40 cm)"
 genre:
 wordcount: 3200
+tags: murderwiki
 ---
 
 <!-- <section id="toc" class="toc">
@@ -116,3 +117,4 @@ For after all the essence of the detective story is the presence of visible phen
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

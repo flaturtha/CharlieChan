@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "The Early Nineteenth Centure"
 subtitle: "The End of the Highly Moral Story; The Beginnings of the New Romantic Tale"
@@ -16,6 +16,7 @@ image: /assets/img/murderwiki/Walter_Scott_Waverley_illustration.jpg
 caption: "\"Disbanded\" Illustration to Walter Scott's novel <i>Waverley</i>, engraving after a painting by John Pettie, as found in 1893 illustrated print edition."
 genre:
 wordcount: 4901
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -55,7 +56,8 @@ Signs, not of its strength, but of its weakness, they are only casual experiment
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## THE HIGHLY MYSTERIOUS, HIGHLY PATHETIC TALE (1820 TO ABOUT 1833)
+### THE HIGHLY MYSTERIOUS, HIGHLY PATHETIC TALE (1820 TO ABOUT 1833)
+{: .chaptertitle }
 
 The mawkishly romantic story of the first decades of the century was the prelude to a performance very extensive and very melancholy for the lover of good short stories. One&#39;s state of mind, after reading widely in the magazines and &quot;the accursed annual&quot; of the years that followed, is like that gloom of the spirit which accompanies a particularly bad comic opera. If ever flower bloomed from the dung-heap, it was the exquisite tale of Irving which we have shortly to consider.
 
@@ -108,7 +110,8 @@ The critical problem is a nice one. First, just what did Irving accomplish when 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Simple, Unemphatic Tale – No Whit Inferior to the Highly Artificial Mechanism
+### The Simple, Unemphatic Tale – No Whit Inferior to the Highly Artificial Mechanism
+{: .chaptertitle }
 
 To begin with, just what was it that Irving did accomplish? There is a disposition, in contemporary criticism, to disparage the first American writer who became &quot;classic.&quot; The tendency shows itself by implication, rather than in the open, and seems to result from the sudden rush to appreciate the modern short story. Irving certainly did not achieve the &quot;short story,&quot; or short-story, or Short Story, as the modern product has been variously written down.
 
@@ -171,3 +174,4 @@ Yet evil may lead to good. It was the extravagance rather than the restraint of 
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

@@ -13,6 +13,7 @@ excerpt: "Right after he first appeared on TV, Buddy Burton began to receive war
 image: /assets/img/short-stories/youll-kill-the-people.svg
 imgh: 300px
 genre: Noir
+tag: short-story
 wordcount: 4758
 timetoread: EST TIME TO READ
 kindle: 

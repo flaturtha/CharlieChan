@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Taxonomy of the Mystery"
 subtitle: "36 Semi-Scientific Schema of Classification of the Types, Styles & Subgenres of Mystery Fiction"
@@ -11,6 +11,7 @@ image: /assets/img/murderwiki/Wolfe-Fer-de-Lance-2.jpg
 category: murderwiki
 genre: Taxonomy
 wordcount: 6256
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -35,7 +36,8 @@ Can you find the clues in your story to accurately determine in which category o
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Amateur Detective
+### Amateur Detective
+{: .chaptertitle }
 
 An amateur detective mystery is one in which the main character pursuing the mystery is not a professional detective but is instead an everyday person, perhaps a housewife or casual friend of the victim or suspect who takes it upon himself or herself solve the mystery. The detective may be pursuing the case as part of a profession, like a reporter, doctor or lawyer. However, the key aspect of amateur detective fiction is that the sleuth does not formally work as any kind of private or police detective. The detecting is subsequent to his primary role or career.
 
@@ -46,7 +48,8 @@ Also called an _am sleuth_, _am detective_.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Ancient/prehistoric (aka, pre-Poe)
+### Ancient/prehistoric (aka, pre-Poe)
+{: .chaptertitle }
 
 While Edgar Allen Poe is generally credited with creating the modern mystery story and the modern detective, his _Murders on the Rue Morgue_ (1841) are not the first mystery stories written. As far back as Ancient Greece and Rome, audiences have been fascinated by murder and the pursuit of justice for the victim. Sophocles, among other Greek dramatists, spun yarns of murder, including his play _Oedipus the King_ (first performed around 429 B.C.E).
 
@@ -57,7 +60,8 @@ Other stories, like &quot;The Three Apples&quot; from _One Thousand and One Arab
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Caper
+### Caper
+{: .chaptertitle }
 
 The caper story is a humorous, adventurous or otherwise clever example of the classic straight crime story. It involves crooks who, through unusual demonstration of creativity, embark on a mission to steal valuable jewels, painting, or other artifact from a highly secured museum or bank vault. The crooks, themselves, are the heroes of the genre, often portrayed as Robin Hood-esque characters fighting against corrupt government or business entities.
 
@@ -70,7 +74,8 @@ Can also be called a _heist_, but that often entails a more serious treatment, r
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Child/Woman in Peril
+### Child/Woman in Peril
+{: .chaptertitle }
 
 Here the focus is either a child or woman who is put in harm&#39;s way because of a crime commit either by someone they know like a parent, or because of something they, themselves did. The story focuses on their struggle to free themselves from the forces of evil pitted against them. Often told through the personal voice of the victim, the child or woman in peril mystery can be one of the most jarring styles of mystery writing.
 
@@ -83,7 +88,8 @@ Also called _womand/child in_ jeopardy, damsel _in distress_, or _kidnapping_ my
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Comic/Bumbling Detective
+### Comic/Bumbling Detective
+{: .chaptertitle }
 
 When you&#39;re looking for a laugh or just a giggle, the comic or bumbling detective story provides a lighter approach to the mystery. Here, the emphasis is on a detective who, despite his clumsy or inept ways, manages to solve the crime at hand. The classic example that most people will think of is Blake Edward&#39;s creation of Inspector Clouseau, of the French Surete, and played in the films by Peter Sellers.
 
@@ -96,7 +102,8 @@ Also called _humorous_ and _puzzle_ mysteries.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Cozy
+### Cozy
+{: .chaptertitle }
 
 First appearing in the later part of the twentieth century, the cozy mystery is an homage to the Golden Age British novels of the 1920s and 1930s. Distinct from the Golden Age not just in time period, cozies are narrower in definition than their predecessors. They are distinct in their adherence to keeping violence and sex off the page. Ripe with murder of all ilks, cozy mysteries put an emphasis on the elaborate murder weapons and the aftermath of the killing rather than on demonstrating it. Even when the killer is unmasked, he or she gives up without a fight and frequently gives a soliloquy explanation of why.
 
@@ -109,7 +116,8 @@ Cozy mysteries may also be called _cozies_, _softboiled_ or _little old lady mys
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Espionage
+### Espionage
+{: .chaptertitle }
 
 An ever-popular subgenre of crime fiction, the espionage mystery is set on the stage of international politics and international intrigue. Rather than private or police detectives, heroes are spies, counter-spies and other intelligence officers. It is thematically similar to adventure fiction, political thrillers and military thrillers but includes the elements of mystery such as a murdered spy or lost piece of intelligence that the hero must find before the minions of the evil empire can take advantage of it.
 
@@ -124,7 +132,8 @@ Also called _spy fiction_, _spy thriller_, _espionage thriller_ and _spy-fi_.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Furry Detectives
+### Furry Detectives
+{: .chaptertitle }
 
 Furry detectives are animals, usually cats although other animals are featured, as the detectives. They may be partners of a private detective and act as more than just pets. One might think of these furry detectives like the witch&#39;s familiar providing magical help to the befuddled human.
 
@@ -137,7 +146,8 @@ Could be referred to as _animal mysteries_, _dog_ (or any other animal) mysterie
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Golden Age
+### Golden Age
+{: .chaptertitle }
 
 The Golden Age of mystery fiction refers not to a specific style of story but to a period of history, typically bracketed between 1920 and the early years of World War II, with some examples dating to 1911. It primarily refers to the British school of authors who created puzzle and whodunit style stories.
 
@@ -152,7 +162,8 @@ Also called _locked room_, _impossible crime_, _paradox_, _puzzle_, or (incorrec
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Hardboiled
+### Hardboiled
+{: .chaptertitle }
 
 Born of the Prohibition Era (1920 – 1933) in America, the hardboiled detective genre tackled the gritty side of life. A uniquely American style, although copied throughout the world, the hardboiled detective story is typified by the hard-drinking, hard-womanizing, violent, but ultimately positive anti-hero. It takes on an earthy realism with graphic violence and sex playout on against a backdrop of seedy bars, big cities, underworld influences and dangerous dames. It carries with it a sense of disillusionment, heightened by political, social and economic problems of the 1920s Prohibition and 1930s Depression eras.
 
@@ -165,7 +176,8 @@ Also called _hardboiled PI_, _private eye_, _private dick_ fiction and often con
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Heist
+### Heist
+{: .chaptertitle }
 
 Similar to the caper story, a heist mystery focuses on the crooks and their theft of some valuable property. However, in contrast to the capers humor and emphasis on the creativity of the crime, the heist is a grittier form of the straight crime story. The heist often involves heavy violence, like bank robbers with large caliber weapons. The heist is less elaborately planned than a caper and usually involves brute force to steal the item rather than light-fingered lifting of valuables.
 
@@ -178,7 +190,8 @@ May be called _straight crime stories_, or _capers_.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Historical/Period
+### Historical/Period
+{: .chaptertitle }
 
 Historical mystery fiction stands out in its choice of setting, any time period prior to the modern age. The emphasis is not on any one particular style of mystery (locked room, private detective) but may include any other the other types of mystery stories. The key is the historical setting. They are, specifically, historical from the author&#39;s perspective.
 
@@ -191,7 +204,8 @@ Also called an _historical whodunit._
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Holmesian
+### Holmesian
+{: .chaptertitle }
 
 A Holmesian detective story can mean one of two things: either a story written about Sherlock Holmes by authors other than Sir Arthur Conan Doyle as with &quot;The Late Sherlock Holmes&quot; by Doyle&#39;s friend and creator of Peter Pan J. M. Berry in 1893; or the moniker of a Holmesian detective story can awarded when a story closely follows the hallmarks of a Sherlock Holmes type story.
 
@@ -204,7 +218,8 @@ Also called _scientific detective fiction_, or _intuitionism._
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Horror
+### Horror
+{: .chaptertitle }
 
 Things that go bump in the night. Dark moors and creatures we&#39;d rather not encounter even in the daylight. Such are the makings of the horror subgenre within mystery fiction. It has its roots in the Gothic fiction and horror novels like many works of Poe and Mary Shelly&#39;s _Frankenstein_ (1818), with their ghosts, goblins, vampires and werewolves.
 
@@ -217,7 +232,8 @@ Also called _supernatural_, _gothic_, or _gothic horror_.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Howdunit
+### Howdunit
+{: .chaptertitle }
 
 A fun variation of the classic whounit mystery story type is the howdunit. Here, rather than try to figure out who committed the crime, the detective must figure out how the crime was committed. The murder, or less often theft, is committed early and in full view of the reader. There is usually no doubt as to the killer&#39;s identity (although some mystery television shows, like _Columbo_ (1968 – 78, 1989 – 2003)_,_ starring Peter Falk, like to hint heavily at the murderer&#39;s identity without overtly revealing it).
 
@@ -230,7 +246,8 @@ May be referred to as a _howcatchem_ or simply the _inverted detective story_.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Impossible Crimes
+### Impossible Crimes
+{: .chaptertitle }
 
 A broad category of mystery stories primarily from the Golden Age of mystery fiction, the impossible crimes subgenre is a catchall for any type of mystery where the crime is committed in such a way that it is seemingly impossible. &#39;Seemingly&#39; being the operative word. Example plots include the classic locked room, where the murder victim is alone in a locked-from-the-inside room when murdered, the no-footprints murder where the body is surrounded by mud or snow but no footprints can be found, and murders committed in front of a mass of witnesses but where the killer was no actually seen committing the crime.
 
@@ -243,7 +260,8 @@ Also called _puzzle_ or _paradox_ crime stories.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Intuitionist
+### Intuitionist
+{: .chaptertitle }
 
 The intuitionist school of mystery fiction was a reaction to the realist school and featured genius, eccentric detectives who solved crimes by pure thought, using so-called deductive reasoning to sort out the who and why of a crime. Conan Doyle solidified many of the traits of the intuitionist detectives in his creation of the ultimate deductive detective, Sherlock Holmes.
 
@@ -256,7 +274,8 @@ Also called the _S. S. Van Dine School_ of mysteries.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Inverted
+### Inverted
+{: .chaptertitle }
 
 A flip of the classic whodunit style of mystery story, the inverted mystery reveals the perp at or very near the beginning of the story. The focus turns then to tracking and capturing the crook. R. Austin Freeman who wrote in his 1912 short story collection _The Singing Bone_ claimed to have invented the inverted mystery and said he gave the reader all the facts about the criminal and the crime. &quot;But I calculated that the reader would be so occupied with the crime that he would overlook the evidence…The second part, which described the investigation of the crime, had to most readers the effect of new matter.&quot;
 
@@ -267,7 +286,8 @@ Also called a _reverse whodunit_, _howcatem_, or _howdunit_.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Kids/young adult
+### Kids/young adult
+{: .chaptertitle }
 
 No fan of mystery fiction, no matter his or her age, fails to remember days of their youth spent reading _The Hardy Boys_ created by Frank and Joe Hardy (first appearing in 1927) or the _Nancy Drew_ series, created by publisher Edward Stratemeyer (first appearance in 1930) of kid and young adult mysteries. Nor will we forget the hours spent gleefully watching the Scooby-Doo cartoon series (starting 1969) with Scooby-Doo, Shaggy, Fred, Daphne and Velma unmasking crooks as they tootled around in their Mystery Machine van.
 
@@ -278,7 +298,8 @@ Also called _child mystery fiction_.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Legal Mystery
+### Legal Mystery
+{: .chaptertitle }
 
 We all love to hate lawyers and many of us would probably like to see more of them on the wrong end of a mystery or murder plot, but the legal mystery subgenre is one place we enjoy seeing lawyers succeed. Perhaps its because we tend to identify with the hapless victims accused of a crime they didn&#39;t commit that these legal eagles try to help. The genre follows the legal proceedings as an often underpaid and overworked attorney seeks to prove his client innocent while forcing the true guilty party to confess.
 
@@ -289,7 +310,8 @@ Also called _courtroom dramas_.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Locked Room
+### Locked Room
+{: .chaptertitle }
 
 The locked room mystery is a narrower interpretation of the impossible crime subgenre in which the crime is committed and the killer escapes, seemingly from inside a locked room. The circumstances of the murder would indicate some kind of supernatural criminal, capable of entering and leaving a locked room without leaving a trace or breaking a lock. However, there is nearly always, at least in the best examples, a perfectly rational explanation for how the crime was committed. It just takes an eagle-eyed detective and a bit of deductive reasoning to figure out the puzzle.
 
@@ -302,7 +324,8 @@ Also called an _impossible crime story_.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Medical Mystery
+### Medical Mystery
+{: .chaptertitle }
 
 The medical mystery subgenre is a particular take on the amateur sleuth subgenre of mystery fiction. The story revolves around the death of a patient under suspicious circumstances. Oftentimes, the investigator is a doctor (hence its inclusion in the amateur detective category), nurse or other medical practitioner.
 
@@ -317,7 +340,8 @@ Also called a _medical thriller_.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Noir
+### Noir
+{: .chaptertitle }
 
 Typically lumped in with hardboiled detective fiction, noir stories stand out from their cousin by nature of the protagonist, the guy or gal at the center of the story. Unlike a hardboiled yarn, where a detective chases clues and crooks, the noir focuses on what Otto Penzler, founder of The Mysterious Press and The Mysterious Bookshop, called the loser, characters that are &quot;doomed.&quot;
 
@@ -332,14 +356,16 @@ Also known as _roman noir_, _urban noir_, _neo-noir_, or _nihilistic crime ficti
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Paranormal
+### Paranormal
+{: .chaptertitle }
 
 See _Horror_.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Police Detective
+### Police Detective
+{: .chaptertitle }
 
 A police detective mystery story is a specific type of professional detective story, featuring a detective in the employ of the city or state. It can also include federal agencies and even espionage genres if the focus of the story is on the exploits of the cop as he uses whatever tools are at his disposal to solve the crime.
 
@@ -352,7 +378,8 @@ Also referred to as _Police Procedural_, _Professional Detective_
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Police Procedural
+### Police Procedural
+{: .chaptertitle }
 
 This popular subgenre of mystery fiction seeks to accurately depict the crime solving processes of a police department. It may follow a single squad or an entire cadre of beat cops, detectives and forensics scientists. The details of how the police go about collecting evidence and tracking a killer or other criminal are vital aspects of the plot, almost ursurping the characters themselves.
 
@@ -365,7 +392,8 @@ Also called _police crime drama_, or _crime drama_.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Professional Detective
+### Professional Detective
+{: .chaptertitle }
 
 The professional detective is a crime investigator whose job centers around unearthing clues and solving crime. It can refer to private detectives who are hired to chase wandering husbands or find kidnap victims or police detectives who solve crimes as their day job.
 
@@ -376,21 +404,24 @@ See _Hardboiled_, _Noir_, _Police Detective_ and _Police Procedural_ for specifi
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Psychological
+### Psychological
+{: .chaptertitle }
 
 See _Thriller_.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Puzzle/Paradox
+### Puzzle/Paradox
+{: .chaptertitle }
 
 _See Impossible Crime._
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Romantic
+### Romantic
+{: .chaptertitle }
 
 Gothic novels, particularly the Victorian era Gothics evolved into two types of modern fiction: the horror story and the romance. In the romance category, lies the further subgenre of the romantic mystery in which love and mystery are hopelessly intertwined. Following in the gothic tradition, the romantic mystery follows a beautiful young, if naïve, girl who investigates some oddity like an unearthly scream, dead body or other mystery. Soon she finds herself in danger (see Child/Woman in Peril) but is soon rescued by the dashing hero; love ensues.
 
@@ -403,7 +434,8 @@ Also called _gothic romance_, _Victorian gothic_, and _love stories_.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Scientific
+### Scientific
+{: .chaptertitle }
 
 The scientific detective story, generally accepted as having been invented by Sir Arthur Conan Doyle in his chemist character Sherlock Holmes, puts a great emphasis on the hard sciences like chemistry and biology, as well as pseudo-sciences like phrenology to uncover and decipher clues. The style gained ground during the late nineteenth and early twentieth centuries as science itself became more important to daily life and new theories of evolution, astronomy, the biological sciences and chemistry abounded.
 
@@ -414,14 +446,16 @@ Other significant stories include Mary Roberts Rinehart&#39;s Miss Pinkerton sto
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Softboiled
+### Softboiled
+{: .chaptertitle }
 
 _See Cozy._
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Suspense
+### Suspense
+{: .chaptertitle }
 
 While the suspense type mystery story is more a method of telling the story and is present in some form in most types of mystery fiction, many stories rely heavily on the elements of suspense to carry the story. It is similar to the thriller genre of mystery fiction but typically takes a slower pace, allowing the tension to build as events plod along like a slow drip faucet.
 
@@ -436,7 +470,8 @@ Also referred to as _thriller_ mystery.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Thriller
+### Thriller
+{: .chaptertitle }
 
 Practically a twin of the suspense genre of mystery and detective fiction, the thriller differentiates itself from the suspense or other mystery style of writing with its frantic pace and high stakes. It is often a race against time to stop a serial killer from plying his trade again or on a larger scale, poisoning a city&#39;s water supply. Many noir and hardboiled style mysteries employ the elements of a thriller, keeping the reader off balance by the quick and hard hitting action of the detective or dupe in trouble.
 
@@ -449,7 +484,8 @@ Also called _suspense_, _horror_, _or end-of-your-seat_ mysteries.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## True Crime
+### True Crime
+{: .chaptertitle }
 
 While technically a nonfiction genre, true crime stories are nonetheless part of the canon of mystery subgenres. It examines, as the title would indicate, actual crimes and seeks to tell, in as honest a way, the story of that crime. Typically, the crimes are sensational murders or sprees. Also popular are biographies of well-known serial killers like Ted Bundy. The genre was also popular in the later years of the pulp detective magazine, with stories told of men like Bluebeard, who murdered his wives, to stories of gangland hits. They may or may not have been true stories but were littered with photographs that seemed to authenticate the realism presented in the pulp true crime magazines.
 
@@ -460,7 +496,8 @@ Often called a _nonfiction novel_.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Whodunit
+### Whodunit
+{: .chaptertitle }
 
 The whodunit is the classic mystery or crime story, usually involving a murder, a sleuth of some variety and a hodgepodge of clues that lead the detective and the reader down blind alleys reeking of red herrings to the last-page reveal of the dastardly killer. It is a complex, plot-driven example of the detective yarn that gives readers an equal opportunity to scrutinize the evidence and solve the crime.
 
@@ -472,8 +509,10 @@ Wilke Collin&#39;s _The Moonstone_ (1868) is generally regarded as the first tru
 
 Also called a _whodunnit_ (two &#39;n&#39;s&#39;), _who done it_, or _who did it_.
 
-## Conclusion
+### Conclusion
+{: .chaptertitle }
 
 Not even a remotely exhaustive list of potential categories, breakdowns or tags with which to identify and classify a mystery, but a good start. Remember when looking at your mystery, whether one you&#39;re reading or one you&#39;re writing, that it may not fit cleanly in a single classification. Make a mental list of the various characters, settings, scenes and then decide what subgenre best describes your story.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

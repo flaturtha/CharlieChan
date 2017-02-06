@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "The Eternal Curious & the Literature of the Mystery"
 subtitle: "Why the Detective Story: To Entertain, to Interest, to Amuse, &amp; to Puzzle"
@@ -12,8 +12,9 @@ category: murderwiki
 excerpt: "Why is the detective story? To entertain, to interest, to amuse. It has no deeper intent, no more subtle raison d&#39;etre than to give pleasure to its readers or puzzle them, for there is really a practical utility in puzzle-solving. Regular exercise is supposed to be as necessary for the brain as for the body, and in both cases it is not so much what we do as the doing of it, from which we derive benefit."
 image: /assets/img/murderwiki/Dore-SamsonSlayingTheLion.jpg
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 5135
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -44,7 +45,8 @@ It is an art, indeed, that I would recommend to the encouragement of both the Un
 
 But though all this may be true as a vague result, it is not the author&#39;s real purpose. He writes solely for entertainment; presumably the entertainment of his audience, but often equally for the entertainment of himself.
 
-## Inquisition into the Curious is Universal
+### Inquisition into the Curious is Universal
+{: .chaptertitle }
 
 The detective story, and now we include the whole range of mystery or riddle stories, is founded on a fundamental human trait, inquisitiveness. Man is an incarnate interrogation point. The infant&#39;s eyes ask questions before his tongue can do so, and soon the inquiring eyes are supplemented by a little outstretched hand, trying to satisfy a curiosity by the sense of touch. But, once having achieved a vocabulary, however small, he uses it almost entirely to make inquiries, until so prominent becomes this trait, that his conversation is cut off altogether, and he is condemned to be visible but not audible.
 
@@ -83,7 +85,8 @@ It is this instinct great in some, small or perhaps even entirely lacking in oth
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Early Riddles
+### Early Riddles
+{: .chaptertitle }
 
 The enjoyment of puzzles or mysteries is as old as humanity itself.
 
@@ -112,7 +115,8 @@ The Century Dictionary defines puzzle as &quot;A riddle, toy or contrivance whic
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Passion for Solving Mysteries
+### The Passion for Solving Mysteries
+{: .chaptertitle }
 
 This is the crux of the mystery story. It is designed to try the reader&#39;s ingenuity at re-solution. The exercise of this tried ingenuity is what gives the entertainment or amusement found in a mystery story.
 
@@ -127,7 +131,8 @@ Lowell declared that Poe had two of the prime qualities of genius—&quot;a facu
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## THE LITERATURE OF MYSTERY
+### THE LITERATURE OF MYSTERY
+{: .chaptertitle }
 
 What makes for worthwhileness in mystery fiction of any kind is the puzzle and its answer—not the gruesomeness of a setting or the personality of a hero or the delineation of a character.
 
@@ -138,7 +143,8 @@ Let us concede that a taste for mystery fiction is not universal. We will even a
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Rightful Place of the Mystery Story in Fiction
+### The Rightful Place of the Mystery Story in Fiction
+{: .chaptertitle }
 
 Dr. Harry Thurston Peck says in &quot;Studies In Several Literatures&quot;:
 
@@ -185,7 +191,8 @@ To quote Julian Hawthorne&#39;s very able essay on this subject:
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Mystery Story Considered as Art
+### The Mystery Story Considered as Art
+{: .chaptertitle }
 
 Yes, the detective story at its best is primarily and integrally a work of art. It is like those Chinese carved balls, referred to by Tennyson as, &quot;Laborious orient ivory, sphere in sphere,&quot; and as the mystery story originated in the Orient, there may be some correlation.
 
@@ -204,7 +211,8 @@ And the qualities of ingenuity and mechanism are peculiarly fitted to bring abou
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Claims of Antagonists and Protagonists
+### The Claims of Antagonists and Protagonists
+{: .chaptertitle }
 
 One reason for a sweeping denouncement of the detective story is the innate propensity of the human mind for bluffing at intellect. Many people would be glad to admit a taste for mystery fiction, but tradition tells them that such things are but child&#39;s play, while a love of ethics or metaphysics betokens a great mind. Ashamed then, of their honest liking for puzzle solving, they deny it, and pretend a deep interest in subjects which really mean little or nothing to them.
 
@@ -251,3 +259,4 @@ If, then, Mr. James gets exquisite satisfaction out of the careful consideration
 The curiosity aroused by Mystery Fiction is not then, a mere idle curiosity but an intellectual interest.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

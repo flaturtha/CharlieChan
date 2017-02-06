@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Other Detectives of Fiction"
 subtitle: "Apart from the Emminent Holmes, Fictional Detectives Find Their Own Uniqueness"
@@ -13,8 +13,9 @@ excerpt: "Some authors try to give their detectives prominence by using methods 
 image: /assets/img/murderwiki/Leroux_Chambre_Jaune.jpg
 caption: "Cover page of the first edition in book form of Gaston Leroux's <i>The Mystery of the Yellow Room</i>, Edition Pierre Lafitte, 1908."
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 2821
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -29,7 +30,8 @@ wordcount: 2821
 
 The detective of modern fiction is a combination of the stock principles already noticed with such further and varying characteristics as the author may invent. In so far as the personal traits of the detective can differ from Sherlock Holmes, the author is so far less liable to the charge of plagiarism.
 
-## Some Original Traits
+### Some Original Traits
+{: .chaptertitle }
 
 A good example of how one of the later writers has invested his detective with fresh qualities may be noted in this extract from &quot;Midnight at Mears House,11 by Harrison J. Holt:
 
@@ -82,8 +84,10 @@ In Luther Trant&#39;s work, his scientific apparatus enables him to dispense wit
 >And my means of reading those marks are fortunately in my possession this morning. No, I do not mean that I have other evidence upon this case than that you have just given me, Mr. Eldredge,&quot; Trant explained. &quot;I refer to my psychological apparatus which, the express company notified me, arrived from New York this morning. If you will let me have my appliance delivered direct to your house it will save much time.&quot;
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Two Unique Detectives
+### Two Unique Detectives
+{: .chaptertitle }
 
 Rouletabille appreciated the dramatic value of what Poe called the pungent contradiction of the general idea. In &quot;The Mystery of the Yellow Room,11 by Gaston Leroux, the following conversation occurs:
 
@@ -160,3 +164,4 @@ And in the same book, we get this description of the contrasting official detect
 >He would collect together a number of dark and disconnected data and flash across them the electric light of some unifying hypothesis in a way which would have done credit to a Darwin or a Faraday. An intellect which might have served to unveil the secret workings of nature was subverted to the protection of a capitalistic civilization.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

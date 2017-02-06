@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Rudyard Kipling and the Contemporary Short Story"
 subtitle: ""
@@ -16,6 +16,7 @@ image: /assets/img/murderwiki/Jungle_Book_Rudyard_Kipling_poster.jpeg
 caption: "The book poster for <i>The Jungle Book</i>, by Rudyard Kipling, published by The Century Company, New York, circa 1900."
 genre:
 wordcount: 5259
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -41,7 +42,8 @@ Like nature, the historian must care most for the type, and assume that humble b
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Rudyard Kipling – The Vigorous, Versatile &amp; Consummate Master of the Short Story
+### Rudyard Kipling – The Vigorous, Versatile &amp; Consummate Master of the Short Story
+{: .chaptertitle }
 
 Many of the earlier chapters have dealt with beginnings. From the enormous short-story literature of the past twenty years, I shall select the work of one commanding figure, Rudyard Kipling, as the best means of illustrating what we have finally done with the short story. This choice is possible because Kipling is, on the whole, the most vigorous, versatile, and highly endowed among contemporary writers of fiction. Next, because his colonial life, and his transatlantic connections make him more Anglo-Saxon than British. And, finally, for the reason that, in his time, no English-writing author has shown such consummate mastery of the short story.
 
@@ -114,7 +116,8 @@ The situation elaborated in each is not only significant, as with Hawthorne, it 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Power in the Narrative To Express the Emotion of the Story
+### The Power in the Narrative To Express the Emotion of the Story
+{: .chaptertitle }
 
 I am quite aware that, in this criticism, I do not carry all readers with me. Even those who are hurried away by the enthusiasm of _.007_, who thrill with Dravot on the terrible bridge, or would become a wolf-man to have such a friend as Bagheera of the Broken Lock, might hesitate before admitting the force of the argument. For the desire to be interesting is a dangerous ally.
 
@@ -169,7 +172,8 @@ And, to come down to the technical, it was eminent artistic powers, plus journal
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Kipling -- The Literary Standard-Bearer for His Generation
+### Kipling -- The Literary Standard-Bearer for His Generation
+{: .chaptertitle }
 
 Kipling sums up the last twenty years in the short story about as adequately as Shakespeare sums up the Elizabethan drama. He best represents the best achievements of his age in this literary form. The swarm of contemporary story-tellers, big and little, are not always, or even usually, influenced directly by his practice. The most excellent among them are only less strongly original in their way than he in his.
 
@@ -202,3 +206,4 @@ Mr. Kipling, on the other hand, is quite as vital, and more interesting. He sees
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

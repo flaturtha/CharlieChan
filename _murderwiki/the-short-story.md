@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "The Short Story"
 author: Henry Seidel Canby
@@ -13,6 +13,7 @@ image: /assets/img/murderwiki/Thomas-Nashe.png
 caption: "The three university-educated playwrights addressed by Greene were all notorious for their disreputable lifestyles: a polemical woodcut deriding Thomas Nashe as a jailbird, from Richard Lichfield's <i>The Trimming of Thomas Nashe, Gentleman</i> (1597)."
 genre:
 wordcount: 8721
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -25,7 +26,8 @@ wordcount: 8721
 </div>
 </section> <!-- table-of-contents -->
 
-## Prefatory Note
+### Prefatory Note
+{: .chaptertitle }
 {: .chapternumber .no_toc}
 
 Several paragraphs in that portion of the following discussion which treats of the relation between the Short Story and the novel, are quoted, with some alteration, from an article in &quot;The Dial of October 16th, 1901,&quot; in which I approached this particular differentiation with a narrower view than the one which I have endeavored to take in this essay. For very helpful suggestions, valuable criticism, and kind encouragement in this attempt to define the Short Story, I wish especially to thank Professor Wilbur L. Cross. I am indebted, also, to Professor Albert S. Cook, Professor Charles S. Baldwin, and to other members of the Yale faculty for enlightening criticism, and to Mr. Chauncey B. Tinker for help in reading proof. I shall be deeply gratified if this investigation contributes in the slightest degree to a clearer conception of a very interesting literary form.
@@ -36,10 +38,11 @@ For the sake of clearness in language, it is essential that the use of this expr
 
 For this last extensive genus I will henceforth use the word &#39;tale,&#39; and keep &#39;Short Story&#39; for a subdivision, perhaps a distinct nineteenth century development, which will show not only that literary individuality which any careful reader must feel, but definable qualities as well.
 
-## Chapter I
+### Chapter I
+{: .chaptertitle }
 {: .chapternumber .no_toc}
 
-## The Origins &amp; History of the Short Story
+### The Origins &amp; History of the Short Story
 {: .chaptertitle }
 
 Tales, short narratives, usually of one episode, have of course existed since man first felt the need of turning actual or imagined happening into words. Their development from the stories of the Egyptian papyri, or the fables of Pilpai, or whatever beginning you are pleased to take, has been that of narrative in general, and in each literary period before the nineteenth century the short story differs from the long principally in the matter of length, although a didactic purpose, which will be found much more frequently in the briefer variety, may cause some divergence in the selection and use of incident. But, as a rule, one takes an episode, the other ten, or condensation makes the difference.
@@ -167,11 +170,13 @@ Suppose this process be applied to a tale which is to be told for the story simp
 For the tales with a reversal, a surprise at the end, we must look to work of a lighter mood. Some of H. C. Bunner&#39;s _Short Sixes_, such a tale as Aldrich&#39;s _Margery Daw_, and many familiar narratives, will be remembered and so classified. It is very difficult to find good Short Stories now in which some trace of the impressionistic element cannot be discovered, but those belonging to the class of &#39;The Purloined Letter&#39; or _Margery Daw_ may be said to be tales, in the sense defined, built along the lines developed for the Short Story; and this highly perfected, very dramatic structure is largely a result of the attempt to convey an impression by narrative.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Chapter II
+### Chapter II
+{: .chaptertitle }
 {: .chapternumber .no_toc}
 
-## Defining the Modern Short Story &mdash; More Than Merely Poe's "Unity of Impression"
+### Defining the Modern Short Story &mdash; More Than Merely Poe's "Unity of Impression"
 {: .chaptertitle }
 
 Although this hypothesis of impressionism may give us ground for believing that the Short Story contains elements which set it apart from the tale, even when its purpose is not mainly suggestive, yet it is not a sufficient answer to the interesting question of the relation of the Short Story to the novel. For it is obvious that this particular kind of suggestive purpose may figure largely in a novel, even when it is not classed among those commonly called impressionistic.
@@ -231,11 +236,13 @@ In a comparison with the novel, we may take all these shorter stories, and say t
 On the other hand, it may be said that the Short Story differs from the &#39;impressionistic&#39; novel in concentration only. That literary variety strikes deeper, goes further; but the Short Story is intended for surface work; it is formed to catch and record the striking things, and make them more striking. It is a precipitate of the important things from the general solution, and as such has a force distinctively its own and a form as distinctive, which, through the efforts of the great men who have labored with it, has been developed to gain and to exercise its power.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Chapter III
+### Chapter III
+{: .chaptertitle }
 {: .chapternumber .no_toc}
 
-## New Developments in the Literature of the Short Story
+### New Developments in the Literature of the Short Story
 {: .chaptertitle }
 
 New developments in literature do not arise nor become popular without reason. There are causes, artistic and otherwise, for the present blossoming of the Short Story, causes which in themselves differ from those which have made the novel flourish. In a time of much writing, tastes are quickly jaded, and the Short Story, because it is terse, striking, highly-colored, and somewhat new, meets with quick applause. Its brevity is of advantage, for many people can be made to swallow good literature in a pill who reject it in larger doses.
@@ -257,3 +264,4 @@ But the novel and the Short Story are distinct instruments, differently designed
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

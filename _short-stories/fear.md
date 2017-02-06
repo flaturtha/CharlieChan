@@ -12,6 +12,7 @@ category: short-stories
 excerpt: "John Barnes found the perfect scheme to get rid of his penny-pinching partner. But when a clerk blackmailed him for more and more control of the company, how far would he let the man go before his anger overwhelmed his fear of exposure?"
 image: /assets/img/short-stories/fear.png
 genre: Crime
+tag: short-story
 wordcount: 4547
 timetoread: EST TIME TO READ
 kindle: 

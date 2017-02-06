@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Footprints and Fingerprints"
 subtitle: "How Fictional Detectives Rely On Mostly Impossible Evidence"
@@ -12,7 +12,7 @@ category: murderwiki
 excerpt: "Without a doubt the most woefully overdone and mix-done evidence is that of footprints. The trouble began with Gaboriau and M. Lecoq."
 image: /assets/img/murderwiki/footprints-in-the-snow.jpg
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 4730
 ---
 
@@ -26,7 +26,8 @@ wordcount: 4730
 </div>
 </section> <!-- table-of-contents -->
 
-## The Omnipresence of Footprints
+### The Omnipresence of Footprints
+{: .chaptertitle }
 
 Without a doubt the most woefully overdone and mix-done evidence is that of footprints.
 
@@ -59,8 +60,10 @@ One time, however, even Sherlock Holmes confesses his powers at fault. In &quot;
 Of this peculiar land formation we are told, &quot;there was no chance of finding footsteps in the mire, for the rising mud oozed swiftly in upon them.&quot; True, one would hardly expect footprints in that morass, but you never can tell!
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Other Miraculous Discoveries
+### Other Miraculous Discoveries
+{: .chaptertitle }
 
 Sherlock Holmes, having declared himself Past Grand Master in the art of reading footprints, it is not surprising to hear him discourse thus:
 
@@ -141,8 +144,10 @@ A kind-hearted though uneducated neighbor helps them out with the usual testimon
 >He&#39;s kinder crusty an1 more &#39;an all, can&#39;t tell whether he&#39;s slept ten hours or ten minutes. So as the girls went by my door, I growled out: &#39;An&#39;t you purty late gittin1 home?1 &#39;No pop, it&#39;s just nine o&#39;clock,&#39; come the answer. Seein&#39; as how I had a good night&#39;s rest before me, I felt a leetle mite pleasanter an&#39; in a&#39; easier tone I said: &#39;I s&#39;pose the snow&#39;s purty deep, an&#39;t it?&#39; &#39;Not very,&quot; says one on &#39;em, &#39;it stopped awhile ago, an&#39; the moon&#39;s out now!! That&#39;s all was said. But you see that shows it didn&#39;t snow after nine, tho&#39; ef you want it nearer, mebbe I kin find out from the girls.&quot;
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Remarkable Deductions from Footprints
+### Remarkable Deductions from Footprints
+{: .chaptertitle }
 
 In &quot;The Quests of Paul Beck&quot; by M. McDonnell Bodkin, we find this exceedingly clever deduction from footprints:
 
@@ -259,8 +264,10 @@ Rouletabille&#39;s unerring perspicacity realizes the absurdity of much of this 
 But the would-be author need not deem these footprint clues entirely unavailable for his use. They are a permissible part of the required mechanism, and utilized in moderation, add rather than detract from the usual plot. They are not truth, but they make interesting fiction, if worked up with a semblance of reality and with convincing circumstance.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Fingerprints and Teeth-marks
+### Fingerprints and Teeth-marks
+{: .chaptertitle }
 
 More recent is the reading of thumb and fingerprints. The discovery of the individuality of fingerprints gave detectives a new field, both in fiction and in life.
 
@@ -289,3 +296,4 @@ The other apple-biter is in &quot;The Saintsbury Affair,&quot; by Roman Doubleda
 In the Fictive Detectives&#39; Working Library, this Monograph on Apples and their Habits should stand beside Sherlock Holmes technical monographs.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

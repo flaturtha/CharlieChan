@@ -13,6 +13,7 @@ excerpt: "When the cops couldn’t figure out how Big Ben Landis was passing his
 image: /assets/img/short-stories/mountain-comes-to-mohammed.svg
 imgh: 300px
 genre: Amateur Sleuth
+tag: short-story
 wordcount: 1799
 timetoread: EST TIME TO READ
 kindle: 

@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Final Advices"
 subtitle: "The Last Word on The Qualities of the Detective Story; &amp; Other Final Thoughts"
@@ -14,7 +14,7 @@ image: /assets/img/murderwiki/Edgar_Allan_Poe_-_Stella_Daguerreotype%2C_1849.jpg
 caption: Daguerreotype portrait of Edgar Allan Poe, commonly known as the "Stella" Daguerreotype.
 sizeoverride: contain
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 2968
 ---
 
@@ -47,8 +47,10 @@ In a recent book on the subject of the game of Bridge, the author cleverly desig
 As Poe was the master of this sort of technique, he was of course a necromancer; but the other names to be put in his class are exceedingly few. We have many Artists writing detective stories, and many more who may be called Tinkers. The lower grades, though voluminous their output, we will not consider here.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## General Qualities of the Detective Story
+### General Qualities of the Detective Story
+{: .chaptertitle }
 
 But as a keynote to the story we would write let us remember that its success depends first of all upon the interest of the mystery. Perhaps the voice of the public as expressed by the literary critic best tells us what is desired. To quote from the review of a very recent Detective Story:
 
@@ -69,8 +71,10 @@ In the case of short-stories, such definite and careful building of the plot is 
 Specially ingenious plots, like &quot;Big Bow Mystery&quot; or &quot;The mystery of the Yellow Room,&quot; may not be achieved by everyone; but all may pay heed to the soundness of construction required by even the simplest plot.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Correctness
+### Correctness
+{: .chaptertitle }
 
 As in everything else, the writer should be careful of his diction. In a way, the detective story demands accurate English even more than polished expression. We have seen the word suspicion used as a verb, in a story by an educated author. Even Sir Conan Doyle allows his wonderful work to be marred by such slips as inferred for implied; relation for relative; and even an absolute grammatical error, when Holmes says, &quot;It would be robbing you of the credit of the case if I was to presume to help you.&quot;
 
@@ -81,8 +85,10 @@ All of these things are unpardonable, and especially so in a field of literature
 Without overworking the poor words, learn to use intelligently and correctly—deduce, connote; vital, and incidental; fact, and truth; and all of the catch words that belong to the peculiar conditions of our subject—even ratiocination.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Names
+### Names
+{: .chaptertitle }
 
 Especial attention should be paid to the names of the characters in our story.
 
@@ -93,8 +99,10 @@ While such definitely descriptive names are perhaps not to be used, let us at le
 &quot;Scientific Sprague&quot; is a good name because it is especially descriptive; and perhaps also because it is alliterative. We remember that name when we would not remember &quot;Ledroit Conners&quot; who figures in an equally good series of stories. &quot;Craig Kennedy&quot; does not stick in our memory like the &quot;Thinking Machine,&quot; and &quot;Rouletabille,&quot; though expressive in intent, has not the arrestiveness of &quot;Raffles.&quot;
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Titles
+### Titles
+{: .chaptertitle }
 
 And if the names of the characters are in their way important, how much more so is the title of the story. When Poe began his stories, no titles were hackneyed and he was at liberty to use &quot;The Murders in the Rue Morgue&quot; and &quot;The Mystery of Marie Roget&quot; without being trite.
 
@@ -131,3 +139,4 @@ We quote by permission the following advice by Mr. Arlo Bates. Though written fo
 >&quot;This may seem somewhat far from the standards of a workaday world. It is certain that no transports of literary creation will pay the coal bill or settle an account at the grocer&#39;s. Necessity knows no law, and a man may be forced to drudgery with the pen as with the pickaxe. To him, however, who is willing and able to sacrifice material to intellectual ends, what I have said is of actual and practical application.&quot;
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Persons in the Story"
 subtitle: "An Exploration of the Victims, Criminals, Suspects &amp; Other Characters in the Mystery Story"
@@ -13,8 +13,9 @@ excerpt: "Each of these characters must have a positive and definite reason for 
 image: /assets/img/murderwiki/Houn-05_-_Hound_of_Baskervilles%2C_page_24.png
 caption: "\"There in the centre lay the unhappy maid where she had fallen.\"<br>An page scan of a book <i>The Hound of the Baskervilles</i> by Arthur Conan Doyle. Illustration appeared in \'The Strand\' Magazine in August, 1901."
 genre: The Techniques of the Mystery
-tags: Carolyn Wells, The Techniques of the Mystery
+tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 3901
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -29,7 +30,8 @@ wordcount: 3901
 
 Admitting that, according to a consensus of opinion, a murder mystery makes the most interesting plot for a Detective Story, let us consider the characters that necessarily belong to such a plot.
 
-## The Victim
+### The Victim
+{: .chaptertitle }
 
 De Quincey has pointed out, in his entertaining essay, that the victim of the crime should be selected with great care. Let us then, in planning our story, first decide upon the victim. Shall we choose a man or a woman—old or young?
 
@@ -60,8 +62,10 @@ Conan Doyle as a rule makes his victim an inconspicuous and even uninteresting c
 All this is entirely legitimate and advisable. The ideal victim is one in whom we have no personal interest, but whose importance we easily recognize.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Criminal
+### The Criminal
+{: .chaptertitle }
 
 The next character to be chosen must be our criminal. Here again is one, who, if he is to be convicted, must not be too deeply in the reader&#39;s sympathy. And yet he must be a worthwhile character; it is old-fashioned, now, to have the crime committed by the butler or the private secretary. The drawing of the criminal calls for fine shading and strong effects. He must be both intelligent and ingenious, in order to give the Transcendent Detective a foeman worthy of his steel. The reader must have no liking or pity for him. In his perfection he should be what Poe calls, &quot;that monstrum horrendum, an unprincipled man of genius.&quot;
 
@@ -72,8 +76,10 @@ This is marvellously well accomplished in &quot;Hand and Ring&quot; and &quot;Bi
 In &quot;The Leavenworth Case,&quot; written many years ago, we have one of the earliest and best examples of the private secretary criminal. Here, too, he is before our eyes from the very beginning, yet we suspect everyone else in the book before we think of him.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Faulty Portrayal of the Criminal
+### Faulty Portrayal of the Criminal
+{: .chaptertitle }
 
 Gaboriau was at fault in this matter in the &quot;Widow Lerouge.&quot; By the time we are half through the book and long before any hint of the true state of affairs is necessary, we are forced to the inevitable conclusion of the guilt of Noel, start ling as that theory seems on its face, simply because Noel is the only possible person who has consistently avoided being the object of suspicion. A still greater mistake is when during the course of a story every character is at some time suspected and then cleared of suspicion, and at the end we learn that the crime is committed by a person of whom we have never heard.
 
@@ -84,8 +90,10 @@ Notwithstanding the criminal of the Rue Morgue murders, it is ill-advised to hav
 The ideal criminal is a sane, respectable and well-educated man, like Lawyer Orcutt, or Mr. Grodman. Such as these escape the reader&#39;s suspicion by seeming to belong among the reputable characters of the story.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Secondary Detective
+### The Secondary Detective
+{: .chaptertitle }
 
 The Transcendent Detective being of such importance as to require a chapter to himself, we come next to the sub ordinate detective. He is usually a Central Office Man, or a young reporter, or a lawyer with a taste for detective work. He serves as a foil for the higher detective&#39;s glories. He makes mistakes for the other to correct. He starts false trails to lead the reader astray and to give the superior detective opportunity to scoff at him and to set him right. This character may not be a detective at all, but simply a &quot;Greek Chorus,&quot; like Dr. Watson, or like Hutchinson Hatch in &quot;The Thinking Machine,&quot; or Walter Jameson in the &quot;Silent Bullet.&quot; But usually this character is a detective who variously hinders or assists, as Sweetwater with Mr. Gryce, or Mr. Barnes with Mr. Mitchel.
 
@@ -106,8 +114,10 @@ The principal characteristics, then, of our criminal must be his own importance,
 These rules are not inflexible for short-stories, where there is less room for characterization than in books. The criminals in Conan Doyle&#39;s stories, like the victims, have little personality, because the fierce light that beats upon Sherlock Holmes leaves most of the other characters in shadow. But in a full- sized novel, where characterization is an important factor of the workmanship, the criminal&#39;s make-up is of vital importance.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Heroine and the Element of Romance
+### The Heroine and the Element of Romance
+{: .chaptertitle }
 
 As to the advisability of a heroine, authorities differ. The true economy of the Detective Story forbids the introduction of romance, especially in short-stories. The purists hold that the single-minded artist in detective fiction must not introduce two kinds of interest, for they can seldom be so perfectly balanced that one or the other shall not surer. The mind of the reader does not wish to jump continually from the solution of the problem to a love interest, and back again.
 
@@ -128,15 +138,20 @@ Though expressing it strongly, it is true that extraneous romance in a Detective
 But the introduction of the feminine element in a Detective Story is subject to certain and definite rules. A victim she may be, a suspect she may be, but only in rare cases and when exceptionally well done, should she be the criminal. As a suspect, a feminine character gives opportunity for sympathetic thrills, but the experienced reader of detective stories feels fairly sure that an attractive feminine suspect is not the real criminal.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Police
+### The Police
+{: .chaptertitle }
 
 Members of the police force are inevitable characters in Detective Fiction and have been presented in every possible light from a realistic picture of the actual Inspector to the ignorant and fanciful author&#39;s conception of the same. As these strong arms of the law must appear on our pages, let us endeavor to know whereof we speak, and learn a few simple and primitive facts about these people before we endeavor to portray them. It is amusing to read some of the absurd effects given to these clearly defined and easily recognized American citizens. Make them as picturesque as possible; give them dramatic, even humorous personality, but do not endow them with absurd responsibilities or official powers.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Supernumeraries
+### The Supernumeraries
+{: .chaptertitle }
 
 As to the supernumerary characters, the author must exercise his own taste and judgment, and he has fine scope for both. Of less importance in a short-story, they require merely to be kept in the background; but in a novel, they have their exits and their entrances, and play many, though subordinate parts. Each of these characters must have a positive and definite reason for being, and, if at all prominent, must be an inherent part of the plot. They are not to be scamped or slurred over in workmanship, for they are as important a part of the whole as the setting of a jewel or the binding of a book. They are the pence of a Detective Story, and must be taken care of; though in this case it does not follow that the pounds will take care of themselves.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

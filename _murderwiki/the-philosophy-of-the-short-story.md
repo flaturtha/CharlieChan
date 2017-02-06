@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "The Philosophy of the Short Story"
 author: Brander Matthews, D. C. L.
@@ -14,6 +14,7 @@ image: /assets/img/murderwiki/John_Bull_-_World_War_I_recruiting_poster.jpeg
 caption: "British \"John Bull\" World War I recruiting poster, circa 1915"
 genre:
 wordcount: 10005
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -26,7 +27,8 @@ wordcount: 10005
 </div>
 </section> <!-- table-of-contents -->
 
-## Prefatory Note
+### Prefatory Note
+{: .chaptertitle }
 {: .chapternumber .no_toc}
 
 Certain of the opinions put forward in the following pages were first expressed briefly (and anonymously) in the columns of the _Saturday Review_ of London in the summer of 1884. The present paper, in which these opinions were more elaborately set forth, and with a greater variety of illustration, was originally printed in _Lippincott&#39;s Magazine_ for October, 1885. After a while it was included in a volume called &quot;Pen and Ink: Essays on subjects of more or less importance,&quot; published in the fall of 1888 (New York and London: Longmans, Green, &amp; Co).
@@ -37,10 +39,11 @@ In the final ten years of the nineteenth century an increasing attention has bee
 
 <hr>
 
-## Chapter I
+### Chapter I
+{: .chaptertitle }
 {: .chapternumber .no_toc}
 
-## the Principles and the Practice of the Art of Writing Stories
+### the Principles and the Practice of the Art of Writing Stories
 {: .chaptertitle }
 
 If it chance that artists fall to talking about their art, it is the critic&#39;s place to listen, that he may pick up a little knowledge. Of late, certain of the novelists of Great Britain and the United States have been discussing the principles and the practice of the art of writing stories.
@@ -62,10 +65,11 @@ The relation of the Short-story to the Novel, and the influence which the one ma
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Chapter II
+### Chapter II
+{: .chaptertitle }
 {: .chapternumber .no_toc}
 
-## A True Short Story &mdash; Something More Than a Mere Story Which Is Short
+### A True Short Story &mdash; Something More Than a Mere Story Which Is Short
 {: .chaptertitle }
 
 The difference between a Novel and a Novelet is one of length only: a Novelet is a brief Novel. But the difference between a Novel and a Short-story is a difference of kind.
@@ -122,11 +126,13 @@ Now, it cannot be said too emphatically that the genuine Short-story abhors the 
 It may be remembered that in the acute and learned essay on _vers de société_ which he prefixed to his admirable &#39;Lyra Elegantiarum,&#39; Mr. Frederick Locker declared that the two characteristics of the best _vers de soci__ é __t__ é_ were brevity and brilliancy, and that the &#39;Rape of the Lock&#39; would be the type and model of the best _vers de soci __é__ t__é_ — if it were not just a little too long. So it is with the &#39;Case of Mr. Lucaft,&#39; with &#39;Vice Versa,&#39; with &#39;Archibald Malmaison&#39;: they are just a little too long.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Chapter III
+### Chapter III
+{: .chaptertitle }
 {: .chapternumber .no_toc}
 
-## The Short-Story Is Nothing If There Is No Story To Tell
+### The Short-Story Is Nothing If There Is No Story To Tell
 {: .chaptertitle }
 
 It is to be noted as a curious coincidence that there is no exact word in English to designate either _vers de société_ or the Short-story, and yet in no language are there better _vers de société_ or Short-stories than in English. It may be remarked also that there is a certain likeness between _vers de société_ and Short-stories: for one thing, both seem easy to write and are hard.
@@ -166,11 +172,13 @@ Yet the distinction, like that between the Novel and the Romance, is no longer o
 The fact is, that the Short-story and the Sketch, the Novel and the Romance, melt and merge one into the other, and no man may mete the boundaries of each, though their extremes lie far apart. With the more complete understanding of the principle of development and evolution in literary art, as in physical nature, we see the futility of a strict and rigid classification into precisely defined genera and species. All that is needful for us to remark now is that the Short-story has limitless possibilities: it may be as realistic as the most prosaic novel, or as fantastic as the most ethereal romance.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Chapter IV
+### Chapter IV
+{: .chaptertitle }
 {: .chapternumber .no_toc}
 
-## Poe and Hawthorne &mdash; As American In Style As Anyone
+### Poe and Hawthorne &mdash; As American In Style As Anyone
 {: .chaptertitle }
 
 As a touch of fantasy, however slight, is a welcome ingredient in a Short-story, and as the American takes more thought of things unseen than the Englishman, we may have here an incomplete explanation of the superiority of the American Short-story over the British.
@@ -224,11 +232,13 @@ Mr. Loweil said also that Poe combined &quot;in a very remarkable manner two fac
 In Poe&#39;s hands, however, the enumeration of pins and buttons, the exact imitation of the prosaic facts of humdrum life in this workaday world, is not an end, but a means only, whereby he constructs and intensifies the shadow of mystery which broods over the things thus realistically portrayed.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Chapter V
+### Chapter V
+{: .chaptertitle }
 {: .chapternumber .no_toc}
 
-## As a Form of Fiction the Short-story Is Not Inferior to the Novel
+### As a Form of Fiction the Short-story Is Not Inferior to the Novel
 {: .chaptertitle }
 
 With the recollection that it is more than half a century since Hawthorne and Poe wrote their best Short-stories, it is not a little comic to see now and again in American newspapers a rash assertion that American literature has hitherto been deficient in good Short-stories,&quot; or the reckless declaration that &quot; the art of writing Short-stories has not hitherto been cultivated in the United States.&quot; *  <sup class="sup_red"> [13]</sup> Nothing could be more inexact than these statements. Almost as soon as America began to have any literature at all it had good Short-stories. *  <sup class="sup_red"> [14]</sup>
@@ -296,11 +306,13 @@ Now, the answer to this is simply that these British Novels and British stories 
 </div>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Chapter VI
+### Chapter VI
+{: .chaptertitle }
 {: .chapternumber .no_toc}
 
-## The Short-story In Other Literatures Than Those of Great Britain and the United States
+### The Short-story In Other Literatures Than Those of Great Britain and the United States
 {: .chaptertitle }
 
 I find I have left myself little space to speak of the Short-story as it exists in other literatures than those of Great Britain and the United States. The conditions which have killed the Short-story in England do not obtain elsewhere; and elsewhere there are not a few good writers of Short-stories. Turgenef, Bjornsen, Sacher-Masoch, Freytag, Lindau, are the names which one recalls at once and without effort as masters in the art and mystery of the Short-story. Turgenef&#39;s Short-stories, in particular, it would be difficult to commend too warmly. But it is in France that the Short-story flourishes most abundantly.
@@ -328,11 +340,13 @@ If art consists in the suppression of non-essentials, there have been few greate
 </div>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Chapter VII
+### Chapter VII
+{: .chaptertitle }
 {: .chapternumber .no_toc}
 
-## The Short-Story &mdash; Never Void in Form &amp; With Symmetry of Design
+### The Short-Story &mdash; Never Void in Form &amp; With Symmetry of Design
 {: .chaptertitle }
 
 The Short-story should not be void or without form, but its form may be whatever the author please. He has an absolute liberty of choice. It may be a personal narrative, like Poe&#39;s _Descent into the Maelstrom_&#39; or Mr. Hale&#39;s _My Double, and How He Undid M_e&#39;; it may be impersonal, like Mr. Frederick B. Perkins&#39;s _Devil-Puzzlers_ or Colonel J. W. De Forest&#39;s _Brigade Commander_; it may be a conundrum, like Mr. Stockton&#39;s insoluble query, the _Lady or the Tiger?_, it may be _A Bundle of Letters_, like Mr. Henry James&#39;s story, or _A Letter and a Paragraph_, like Mr. Bunner&#39;s; it may be a medley of letters and telegrams and narrative, like Mr. Aldrich&#39;s _Margery Daw_; it may be cast in any one of these forms, or in a combination of all of them, or in a wholly new form, if haply such may yet be found by diligent search.
@@ -346,11 +360,13 @@ Whatever its form, it should have symmetry of design. If it have also wit or hum
 Sometimes we may detect the writer of Short-stories a tendency toward the over-elaboration of ingenuity, toward the exhibition of ingenuity for its own sake, as in a Chinese puzzle. But mere cleverness is incompatible with greatness, and to commend a writer as &quot;very clever&quot; is not to give him high praise. From this fault of supersubtlety, women are free for the most part. They are more likely than men to rely on broad human emotion, and their tendency in error is toward the morbid analysis of a high-strung moral situation.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Chapter VIII
+### Chapter VIII
+{: .chaptertitle }
 {: .chapternumber .no_toc}
 
-## The Difference Between the Novel and the Short-story &mdash; Not Merely One of Length
+### The Difference Between the Novel and the Short-story &mdash; Not Merely One of Length
 {: .chaptertitle }
 
 The more carefully we study the history of fiction the more clearly we perceive that the Novel and the Short-story are essentially different — that the difference between them is not one of mere length only, but fundamental.
@@ -372,8 +388,9 @@ And yet the list of the masters of the Short-story is far less crowded than the 
 From Chaucer and Boccaccio we must spring across the centuries until we come to Hawthorne and Poe almost without finding another name that insists upon enrolment. In these five hundred years there were great novelists not a few, but there was no great writer of Short-stories. A little later than Hawthorne and Poe, and indeed almost contemporaneous with them, are Mérimée and Turgenef, whose title to be recorded there is none to dispute. Now at the end of the nineteenth century we find two more that no competent critic would dare to omit, — Guy de Maupassant and Rudyard Kipling.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Appendix
+### Appendix
 {: .chaptertitle }
 
 So far as the author is aware, he had no predecessor in asserting that the Short-story differs from the Novel essentially, — and not merely in the matter of length. So far as he knows, it was in the present paper the suggestion was first made that the Short-story is in reality a genre, a separate kind, a genus by itself. But although this distinction may not have been made explicitly by any earlier critic, there is little doubt that Poe felt it, even if he did not formulate it in set terms. It seems to be implicit in more than one of his critical essays, more particularly in that on &#39;Hawthorne&#39;s Tales.&#39; And it is from this essay that the following quotations are taken:
@@ -526,3 +543,4 @@ This paragraph and the one following were not in the original essay.
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

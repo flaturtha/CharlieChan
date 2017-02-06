@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Errors About Detective Stories"
 author: G. K. Chesterton
@@ -12,6 +12,7 @@ image: /assets/img/murderwiki/Sketch_of_G._K._Chesterton.jpg
 caption:
 genre: Detective Stories
 wordcount: 1432
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -24,7 +25,8 @@ wordcount: 1432
 </div>
 </section> <!-- table-of-contents -->
 
-## Principles of Writing Detective Tales
+### Principles of Writing Detective Tales
+{: .chaptertitle }
 
 It is a well-known fact that people who have never succeeded in anything end by writing books about how to succeed; and I do not see why the principle should not be applied to success in the writing of detective tales as well as in lower and less glorious walks of life.
 
@@ -47,8 +49,10 @@ The two methods of concealment are exactly contrary, for the drama depends on wh
  I do not mean to speak in any superior fashion of the inferior stories. I am very fond of trash; I have read a great deal of it – I have also written a great deal of it. But even in this department there is trash and trash; and we might be more easily amused if our idlest entertainers understood how to amuse us.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## Fallacies About the Nature of the True Mystery Story
+### Fallacies About the Nature of the True Mystery Story
+{: .chaptertitle }
 
 And there are certain fallacies about the nature of the true mystery story which I perceive to be common among the writers as well as the readers of it. But I should like it to be understood that it is in the comparatively proud and honourable character of a reader of such stories, and not in the lower and more servile capacity of a writer of them, that I venture to indicate such errors.
 
@@ -63,8 +67,10 @@ It is not merely that it is not artistic, or that it is not logical. It is that 
 People are thrilled by knowing something, and on this principle they know nothing. The true object of an intelligent detective story is not to baffle the reader, but to enlighten the reader; but to enlighten him in such a manner that each successive portion of the truth comes as a surprise. In this, as in much nobler types of mystery, the object of the true mystic is not merely to mystify, but to illuminate. The object is not darkness, but light; but light in the form of lightning.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-## The Common Error of Characters in Detective Stories
+### The Common Error of Characters in Detective Stories
+{: .chaptertitle }
 
 Then there is the common error of making all the human characters sticks, or stock figures – not so much because the novelist is not intelligent enough to describe real characters as because he really thinks real characterization wasted on an unreal type of literature. In other words, he does the one thing which is destructive in every department of existence – he despises the work he is doing.
 
@@ -83,3 +89,4 @@ And then, when the hero in question is at last alive and ready to be murdered, w
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

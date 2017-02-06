@@ -14,7 +14,7 @@ excerpt: Though Snooty Piper, the Beantown crimehound, usually spots the hot-sea
 image: /assets/img/short-stories/con-is-green.svg
 imgh: 300px
 genre: Amateur Sleuth
-tags: amateur sleuth, Ten Detective Aces, Archibald, Dizzy Duo
+tags: amateur sleuth, Ten Detective Aces, Archibald, Dizzy Duo, short-story
 wordcount: 4910
 trfissue: Vol. 1 No. 7
 trfdate: Feb. 14, 2016

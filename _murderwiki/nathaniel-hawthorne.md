@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "Nathaniel Hawthorne"
 subtitle: ""
@@ -16,6 +16,7 @@ image: /assets/img/murderwiki/Midas_gold2.jpg
 caption: "\"King Midas with his daughter\", from <i>A Wonder Book for Boys and Girls</i> by Nathaniel Hawthorne. Published 1893."
 genre:
 wordcount: 5198
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -51,7 +52,8 @@ He was American, for example, in combining the two traits which have been so oft
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Life Behind the Veil
+### Life Behind the Veil
+{: .chaptertitle }
 
 First, for the secret of the idealism. &quot;His soul was like a star and dwelt apart.&quot; Hawthorne&#39;s solitary way of life, his fondness for the word &quot;recluse,&quot; the testimony of friends, make one sure that he would have been gratified had this line been applied to him. It is perfectly clear that his inmost thoughts seldom appear in the diaries which have been published as his notebooks. He scorns the Quaker who professed to know him through his works, and professes to despise the seemingly personal thoughts of the Mosses from an Old Manse. &quot;A cloudy veil stretches over the abyss of my nature.&quot;
 
@@ -78,7 +80,8 @@ This attentiveness, I believe, filled his hours of meditation, and deeply affect
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Hawthorne&#39;s Puritanism
+### Hawthorne&#39;s Puritanism
+{: .chaptertitle }
 
 First a word, however, upon the unavoidable subject of Hawthorne&#39;s Puritanism. Those who have called him a Puritan seem to have recognized his preoccupation with moral problems, and sought to give it a name. A liberal-minded Unitarian, for whom dogma and the difficulty of salvation had only a nineteenth century interest, Hawthorne was, in no sense, a spiritual brother of such as Cotton Mather. But there is a mental resemblance. It may be that the peculiar intensity of thought, just commented upon, was an atavistic return to the witch-judges and religious fanatics among Hawthorne&#39;s forefathers.
 
@@ -109,7 +112,8 @@ In spite of all efforts, in spite of a faithful, sometimes a tedious realism of 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Desire to Make A Narrative
+### The Desire to Make A Narrative
+{: .chaptertitle }
 
 The effect of this divided allegiance upon the stories themselves is almost pathetically easy to trace. No man was ever more clearly possessed of the itch of story-telling than Hawthorne. Busied with some problem of character, his mind would often be seized with the desire to make a narrative.
 
@@ -132,7 +136,8 @@ Like a speaker who spoils an argument by oscillating between its two main points
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Peculiarly Ethical Nature of Hawthorne&#39;s Short Stories
+### The Peculiarly Ethical Nature of Hawthorne&#39;s Short Stories
+{: .chaptertitle }
 
 This analysis, and the theory which preceded it, explains, I believe, the peculiarly ethical nature of all of Hawthorne&#39;s short stories. They are the fruit of an intense and abstract speculation upon character, in which has been placed the fructifying graft of expression for the benefit of other men. This, too, explains their failure in the eyes of their author.
 
@@ -149,7 +154,8 @@ _The Great Stone Face_, _The Birthmark_, _The Ambitious Guest_, with a few other
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Hawthorne&#39;s Inner Life and Need of Expression
+### Hawthorne&#39;s Inner Life and Need of Expression
+{: .chaptertitle }
 
 Thus far, it has seemed to be most important to study the nature of that reaction between Hawthorne&#39;s inner life and his need of expression which explains so much that is characteristic in his stories. So doing, I have neglected all excellencies except those of moral and spiritual force, and perhaps overemphasized the artistic defects of his narrative. For, when all is said, it is impossible to assign to Hawthorne any rank but a high one as a story-teller.
 
@@ -208,3 +214,4 @@ Here, indeed, in a Hawthornesque fashion, is a formula for Hawthorne, a formula 
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>

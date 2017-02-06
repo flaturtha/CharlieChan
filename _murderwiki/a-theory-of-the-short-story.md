@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: murderwiki
 layoutTag: post
 title: "A Theory of the Short Story"
 subtitle: "The two distinguishing characteristics of all true short stories: brevity &amp; coherence for the effect of totality"
@@ -14,6 +14,7 @@ image: /assets/img/murderwiki/Waterhouse_decameron.jpg
 caption: "<i>A Tale from the Decameron</i> by John William Waterhouse, 1916."
 genre:
 wordcount: 5141
+tags: murderwiki
 ---
 
 <section id="toc" class="toc">
@@ -26,7 +27,8 @@ wordcount: 5141
 </div>
 </section> <!-- table-of-contents -->
 
-## Two Distinguishing Characteristics of All True Short Stories
+### Two Distinguishing Characteristics of All True Short Stories
+{: .chaptertitle }
 
 More than seventy years ago Edgar Allan Poe, in reviewing a volume of Hawthorne&#39;s tales, said some things about the short story that have been quoted by practically every man who has written upon the subject since. After discussing the technique of the novel, Poe declared:
 
@@ -49,7 +51,8 @@ Poe, in his criticism already quoted, maintained that in order to produce a true
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## The Single Effect of the Short Story
+### The Single Effect of the Short Story
+{: .chaptertitle }
 
 Brander Matthews <small><a href="https://www.talesofmurder.com/murderwiki/the-philosophy-of-the-short-story/">[<i>Philosophy of the Short Story</i>]</a></small> declares that &quot;the short story is the single effect.&quot;
 
@@ -90,7 +93,8 @@ In the telling of a tale, what is not fact is fancy. Of course, the two classifi
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## How Stories Are Told – Historically, Dramatically, or Didactically
+### How Stories Are Told – Historically, Dramatically, or Didactically
+{: .chaptertitle }
 
 After short stories have been grouped as stories of fact or stories of fancy, another classification suggests itself based upon the way in which the stories are told. A story of fact or a story of fancy may be told in any one of three ways—historically, dramatically or didactically. The same story may be told in three different ways. The man using the historical narrative method seeks primarily to convey the impression that here is the matter-of-fact story of things just as they happened. The man using the dramatic method seeks a single effect; while the didactic method involves as the chief consideration, the effort to teach a lesson.
 
@@ -170,3 +174,4 @@ The instinct for story-telling exists in substantially the same form in every ra
 <p id="theend">~ The End ~</p>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
