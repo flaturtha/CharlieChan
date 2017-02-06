@@ -13,6 +13,7 @@ excerpt: "Without a sign of undue haste, Halligan buckled his belt and holster a
 image: /assets/img/short-stories/long-arm-of-god.svg
 imgh: 300px
 genre: Murder
+tags: short-story
 wordcount: 3712
 timetoread: EST TIME TO READ
 kindle: 

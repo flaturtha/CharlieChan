@@ -226,6 +226,12 @@
 =            SHORT STORY PAGE                 =
 =============================================*/
 
+.the-story {
+  // border: 1px solid hotpink;
+  // display: flex;
+  // flex-direction: column;
+}
+
 .story__header {
   text-align: center;
   // @include susy-breakpoint($bp-large){
@@ -305,8 +311,15 @@
 }
 
 .story {
-  @include susy-breakpoint($bp-large){
-    @include span(8);
+  // @include susy-breakpoint($bp-large){
+  //   @include span(8);
+  // }
+  max-width: 90%;
+  width: 580px;
+  margin: 0 auto;
+  p {
+    font-size: 1.125rem; /* 18px */
+    line-height: 1.35;
   }
 }
 
