@@ -52,4 +52,45 @@ function myFunction() {
 </script> -->
 
 
+<script>
+  $(document).ready(function(){
+    $(".closeout").on("click", function(){
+      $(".optin-bar").fadeOut("slow", function(){
+        $(".nav").css({
+          "z-index": "2",
+          "position": "fixed",
+          "top": "0"
+        });
+        $(".siteintro_top").css("margin-top", "76px");
+      });
+    })
+  })
+</script>
+
+
+
+<script>
+  $(document).ready(function(){
+    $(function() {
+  $("#modal-1").on("change", function() {
+    if ($(this).is(":checked")) {
+      $("body").addClass("modal-open");
+    } else {
+      $("body").removeClass("modal-open");
+    }
+  });
+
+  $(".modal-fade-screen, .modal-close").on("click", function() {
+    $(".modal-state:checked").prop("checked", false).change();
+  });
+
+  $(".modal-inner").on("click", function(e) {
+    e.stopPropagation();
+  });
+});
+
+  })
+</script>
+
+
 

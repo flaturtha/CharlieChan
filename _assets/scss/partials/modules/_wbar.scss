@@ -2,13 +2,56 @@
 =             WELCOME BAR                     =
 =============================================*/
 
-.welcomebar {
+.wbar {
+	display: flex;
+	justify-content: space-around;
   z-index: 4;
-  position: absolute;
-  top: 200px;
-  background-color: yellow;
+  // position: absolute;
+  // top: 200px;
+  background-color: $theblue;
   height: 75px;
   width: 100%;
+  color: $paper;
+  padding: 1rem;
+  // text-align: center;
+  header {
+  	// border: 1px solid hotpink;
+  	display: flex;
+  	// width: 75%;
+  	img {
+  		width: 40px;
+  		height: 50px;
+  		margin-right: 0.5rem;
+  		transform: rotate(-6deg);
+  	}
+  }
+  h2 {
+  	font-size: 1.25rem;
+  	color: yellow;
+  	letter-spacing: 0.1rem;
+  	// letter-spacing: 0.15625rem;
+  }
+  p {
+  	font-size: 1rem;
+  }
+  &__buttons {
+  	display: flex;
+  	// border: 1px solid hotpink;
+  	// margin-top: 0.5rem;
+  	// align-self: baseline;
+  }
+  button {
+  	width: 275px;
+  	height: 50px;
+  	border: none;
+  	border-radius: 8px;
+  	background-color: #008b00;
+  	color: $paper;
+  	span {
+  		display: block;
+  		text-transform: uppercase;
+  	}
+  }
 }
 
 

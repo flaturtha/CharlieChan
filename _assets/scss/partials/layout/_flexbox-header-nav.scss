@@ -17,13 +17,19 @@ $bgcolor2: darken($bgcolor, 5%);
 
 
 /* NAV */
+.fixedtop {
+  z-index: 2;
+  position: fixed;
+  top: 0;
+}
+
 .nav {
   // display: none;
-  z-index: 2;
+  // z-index: 2;
   border-bottom: 4px solid $acolor;
   font-family: 'Oswald',sans-serif;
-  position: fixed;
-  top: 0; /* 105px */
+  // position: fixed;
+  // top: 62px; /* 105px */
   width: 100%;
   background: $bgcolor url('/assets/img/site/pulpicons2.svg');
 

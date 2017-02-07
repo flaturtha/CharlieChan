@@ -78,14 +78,6 @@
   <link rel="sitemap" type="application/xml" href="https://www.talesofmurder.com/sitemap.xml">
 
   <!-- site icons -->
-<!--   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-  <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-  <link rel="manifest" href="/manifest.json">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#8b0000">
-  <meta name="theme-color" content="#ffffff">
-
-   -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
   <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
@@ -164,7 +156,8 @@
 
   <header class="header" role="banner">
 
-  <!-- include welcomebar.html %} -->
+  <!-- <script src="//my.hellobar.com/ce22ae5b329995ff5d19ad07d2b0d931fb9d92b1.js" type="text/javascript" charset="utf-8" async="async"></script>
+ -->
 
   <nav class="nav" role="navigation">
 
@@ -838,6 +831,47 @@ function myFunction() {
   }
 }	
 </script> -->
+
+
+<script>
+  $(document).ready(function(){
+    $(".closeout").on("click", function(){
+      $(".optin-bar").fadeOut("slow", function(){
+        $(".nav").css({
+          "z-index": "2",
+          "position": "fixed",
+          "top": "0"
+        });
+        $(".siteintro_top").css("margin-top", "76px");
+      });
+    })
+  })
+</script>
+
+
+
+<script>
+  $(document).ready(function(){
+    $(function() {
+  $("#modal-1").on("change", function() {
+    if ($(this).is(":checked")) {
+      $("body").addClass("modal-open");
+    } else {
+      $("body").removeClass("modal-open");
+    }
+  });
+
+  $(".modal-fade-screen, .modal-close").on("click", function() {
+    $(".modal-state:checked").prop("checked", false).change();
+  });
+
+  $(".modal-inner").on("click", function(e) {
+    e.stopPropagation();
+  });
+});
+
+  })
+</script>
 
 
 
