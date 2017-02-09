@@ -61,7 +61,7 @@ layout: default2
         <div class="addmargin">
           <p>{{ page.descriptor }}</p>
 
-          <p class="testimonials">{% if page.testimonials %} {{ page.testimonials }} {% endif %}</p>
+          {% if page.testimonials %}<p class="testimonials">{{ page.testimonials }}</p>{% endif %}
         
         {% if page.preprice %}
           <p class="book__price"><span class="strikethru">${{ page.price }}</span> ${{ page.preprice }} <span class="prebuy-pitch"> PRELAUNCH PRICE!</span></p>
@@ -124,7 +124,7 @@ layout: default2
 
   <footer>
     <h4>You May Also Enjoy</h4>
-    <!-- {% if page.url contains 'novels' %} -->
+    {% if page.url contains 'novels' %}
       <div class="relatedPosts">
 
           {% assign maxRelated = 4 %}
@@ -167,9 +167,50 @@ layout: default2
 
       <div class="cf"></div>
       </div>
-    <!-- {% endif %} -->
+    {% else %}
+            <div class="relatedPosts">
+
+          {% assign maxRelated = 4 %}
+          {% assign minCommonTags =  1 %}
+          {% assign maxRelatedCounter = 0 %}
+
+          {% for novellas in site.novellas %}
+
+          {% assign sameTagCount = 0 %}
+          {% assign commonTags = '' %}
+          {% assign commonTags = .commonTags %}
+
+          {% for tag in novellas.tags %}
+            {% if novellas.url != page.url %}
+              {% if page.tags contains tag %}
+                {% assign sameTagCount = sameTagCount | plus: 1 %}
+                {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+                {% assign commonTags = commonTags | append: tagmarkup %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+
+          {% if sameTagCount >= minCommonTags %}
+
+              <div class="rel">
+                <a href="{{ novellas.url }}">
+                <!-- <h5>{{ novellas.title }}</h5> -->
+                <img src="{{ novellas.image }}" alt="">
+                <!-- <h6>{{ commonTags }}</h6> -->
+                </a>
+              </div>
+
+            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+            {% if maxRelatedCounter >= maxRelated %}
+              {% break %}
+            {% endif %}
+          {% endif %}
+
+       {% endfor %}
+
+      <div class="cf"></div>
+      </div>
+    {% endif %}
   </footer>
 
 </article>
-
- <!-- optin4 -->
