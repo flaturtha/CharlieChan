@@ -20,6 +20,7 @@ image: /assets/img/novellas/campaign-for-vengeance.jpg
 wordcount: 15158
 buybutton: <a href="https://transactions.sendowl.com/packages/33168/1A5285B4/add_to_cart" rel="nofollow" class="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 downloadsamplebutton: <a href="https://transactions.sendowl.com/packages/33169/51023CA4/add_to_cart" rel="nofollow" class="add-to-cart">Get Sample</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+testimonials: "\"I had a lot of fun reading through THE CAMPAIGN FOR VENGEANCE.\" &mdash; Micah Zontelli"
 ---
 
 ### Chapter 1

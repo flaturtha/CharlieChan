@@ -27,3 +27,9 @@ description: "The solution to the brain teaser DEATH BY GAS is simple ...<br>if 
   	<p>The testimony of the milkman showed he never touched the tube or the gas cock. The patrolman took the tube from the girl’s mouth. If he didn’t turn it off, he must have seen it had been turned off.</p>
     <p class="bold">That left only Herman — who, by force of habit — had turned the gas off.</p>
   </section>
+
+</div>
+
+
+
+

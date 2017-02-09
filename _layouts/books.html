@@ -49,6 +49,7 @@ layout: default2
           </span>
         </p>
 
+
         {% if page.preprice %}
         <div class="prebuyh">
           <h3>NOT YET RELEASED!</h3>
@@ -59,6 +60,8 @@ layout: default2
 
         <div class="addmargin">
           <p>{{ page.descriptor }}</p>
+
+          <p class="testimonials">{% if page.testimonials %} {{ page.testimonials }} {% endif %}</p>
         
         {% if page.preprice %}
           <p class="book__price"><span class="strikethru">${{ page.price }}</span> ${{ page.preprice }} <span class="prebuy-pitch"> PRELAUNCH PRICE!</span></p>
