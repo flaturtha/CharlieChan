@@ -10,7 +10,13 @@
       <li class="card__small" {% if novellas.genre %} id="{{ novellas.genre | downcase }}"{% endif %}>
         
         <a href="{{ novellas.url }}" class="readmore">
-        <img src="{{ novellas.image }}" alt="{{ novellas.title }} by {{ novellas.author }}"></a>
+          <figure>
+            <img src="{{ novellas.image }}" alt="{{ novellas.title }} by {{ novellas.author }}">
+          </figure>
+          <figcaption>
+            
+          </figcaption>
+        </a>
         <div class="card__small__header">
           <div>
             <h2 class="title">{{ novellas.title }}</h2>
