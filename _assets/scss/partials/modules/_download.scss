@@ -19,9 +19,10 @@
 }
 
 .download__smallprint {
-	font-size: 0.875rem;
+	border: 1px solid $bgcolor;
+	font-size: 0.75rem;
 	width: 500px;
 	max-width: 80%;
-	margin: 0 auto;
-	padding: 1rem;
+	margin: 0 auto 1rem;
+	padding: 1rem 1rem 0 1rem;
 }

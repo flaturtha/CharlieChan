@@ -1,8 +1,7 @@
 ---
 layout: default2
-permalink: /the-red-file/download/
-title: Download
-<!-- tagline: Who we are, What we do &amp; why -->
+permalink: /downloads/the-campaign-for-vengeance/
+title: Your FREE Download
 category: download
 ---
 
@@ -10,23 +9,15 @@ category: download
 
   <header class="pagehead">
      <section class="pagetitle">
-      
       <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
-
       <h1><span>{{ page.title }}</span></h1>
-      <!-- <p><span >{{ page.tagline }}</span></p> -->
-      <!-- <p style="text-align: center;font-size: 1rem;">For a long weekend or day at the beach!</p> -->
     </section> <!-- end div.pagetitle --> 
-    
-    {% include smallnav.html %}
     
   </header>
 
   <section class="page-intro">
     <div class="trf__main">
-      <h2>Your FREE Download:</h2>
-
-      <h3 class="intro">Thanks for subscribing to the FREE weekly email subscription to the <span class="italics">Weekly&nbsp;Blotter</span>! Enjoy the story.</h3>
+      <!-- <h3 class="intro">Thanks for requesting your Enjoy the story.</h3> -->
 
       <div class="download-instructions">
         <dl class="trf__dl">
@@ -59,7 +50,7 @@ category: download
           <a href="https://s3.amazonaws.com/talesofmurder.com/downloads/Campaign-for-Vengeance.epub" rel="nofollow" class="add-to-cart">ePUB</a>
         </div>
 
-        <p style="margin-top: 2rem;" class="book__price">Enjoy your story!</p>
+        <p style="margin-top: 2rem;text-align:center;text-transform:uppercase;" class="book__price">Enjoy your story!</p>
 
       </div>
     </div>

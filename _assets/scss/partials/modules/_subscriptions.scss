@@ -1,0 +1,31 @@
+/* ==============
+   SUBSCRIPTIONS
+   ============== */
+
+.subscriptions {
+	h2 {
+		color: $acolor;
+	}
+}
+
+.adb {
+	margin: 0.5rem 0 2rem 2rem;
+	color: lighten($pcolor, 25%);
+	font-style: italics;
+	font-size: 0.875rem;
+	dt {
+		font-weight: bold;
+		text-transform: uppercase;
+		span {
+			// display: block;
+			display: none;
+			text-transform: none;
+			// margin-left: 1rem;
+			font-size: 0.75rem;
+			font-weight: normal;
+		}
+	}
+	dd {
+		margin: 0 0 1rem 1rem;
+	}
+}
