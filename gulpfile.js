@@ -2,8 +2,10 @@
 var gulp = require('gulp');
 var browserSync = require('browser-sync');
 var sass = require('gulp-sass');
+var postcss = require('gulp-postcss');
+var sourcemaps = require('gulp-sourcemaps')
 var prefix = require('gulp-autoprefixer');
-var cleanCSS = require('gulp-clean-css');
+// var cleanCSS = require('gulp-clean-css');
 var cp = require('child_process');
 
 var jekyll = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
@@ -64,12 +66,12 @@ var messages = {
     includePaths: ['css'],
     onError: browserSync.notify
   }))
-  .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], {
-    cascade: true
+  .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7', 'safari 5', 'ios 6', 'ios 7'], {
+    cascade: false
   }))
-  .pipe(cleanCSS({
-    compatibility: 'ie8'
-  }))
+  // .pipe(cleanCSS({
+  //   compatibility: 'ie8'
+  // }))
   .pipe(gulp.dest('_site/assets/css'))
   .pipe(browserSync.reload({
     stream: true

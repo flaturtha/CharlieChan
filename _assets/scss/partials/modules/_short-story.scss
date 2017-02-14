@@ -28,11 +28,18 @@
     text-align: center;
     color: $paper;
     text-transform: uppercase;
+    font-size: 2rem;
+    @media screen and (min-width:24rem){
+      font-size: 3rem;
+    }
     span {
-    // background-color: $paper;
-    border: 3px solid $paper;
-    border-radius: 8px;
-    padding: 0 2rem;
+      // background-color: $paper;
+      border: 3px solid $paper;
+      border-radius: 8px;
+      padding: 0 1rem;
+      @media screen and (min-width:24rem){
+        padding: 0 2rem; 
+      }
     }
   }
   p {

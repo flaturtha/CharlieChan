@@ -9,12 +9,14 @@
 
 .books__header {
 	// background-color: green;
-	border-bottom: 1px solid darken($paper, 75%);
+	// border-bottom: 1px solid darken($paper, 75%);
 	margin: 1rem 0;
 	padding-bottom: 1rem;
-	display: flex;
+	display: -webkit-flex;
+	display: flex; /* messes up layout on ipad & iphone */
 	flex-direction: column;
-	@media screen and (min-width: 60rem){
+	-webkit-flex-direction: column;
+	@media screen and (min-width: 48rem){
 		flex-direction: row;
 	}
 }
@@ -22,7 +24,7 @@
 .book__img {
 	@include span(8);
 	width: 100%;
-	height: 100%;
+	// height: 100%;
 	border: 1px solid $bgcolor;
 	// background-color: $paper;
 	margin-bottom: 1rem;
@@ -38,15 +40,17 @@
 
 .book_details {
 	// background-color: blue;
+	max-width: 100%;
 	display: flex;
 	flex-direction: column;
 	align-self: center;
 	padding: 0 1rem;
-	h1, h2 {
-		padding: 1rem 0;
+	h1 {
+		font-size: 1.5rem;
 	}
 	@media screen and (min-width: 48rem){
 		margin-left: 2rem;
+		text-align: left;
 	}
 }
 
@@ -100,23 +104,41 @@
 	font-size: 1.5rem;
 }
 
-.download-sample, .add-to-cart {
-	background-color: $paper;
-	color: darken($acolor, 10%);
+// .download-sample, .add-to-cart {
+// 	background-color: $paper;
+// 	color: darken($acolor, 10%);
+// 	border: 1px solid darken($acolor, 10%);
+// 	border-radius: 5px;
+// 	display: flex;
+// 	align-self: center;
+// 	width: 150px;
+// 	height: 50px;
+// 	font-size: 1rem;
+// 	font-weight: normal;
+// 	// padding: 1rem 0 0 0;
+// 	margin-left: 1rem;
+// 	text-align: center;
+// 	&:hover {
+// 		background-color: darken($acolor, 10%);
+// 		color: $paper;
+// 	}
+// }
+
+.download-sample, .add-to-cart { /* http://css3buttongenerator.com/ */
 	border: 1px solid darken($acolor, 10%);
 	border-radius: 5px;
-	width: 150px;
-	height: 50px;
-	font-size: 1.125rem;
-	font-weight: normal;
-	padding: 1rem;
-	margin-left: 1rem;
-	text-align: center;
+	font-size: 1rem;
+	padding: 0.625rem 1.25rem;
+	background-color: darken($acolor, 10%);
+	color: $paper;
 	&:hover {
-		background-color: darken($acolor, 10%);
-		color: $paper;
+		color: darken($acolor, 10%);
+		background-color: $paper;
 	}
 }
+
+
+
 
 .book__buttons {
 	// border: 1px solid hotpink;

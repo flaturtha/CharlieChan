@@ -25,7 +25,7 @@ But when murder, mysterious spies and intrigue on the Pacific Ocean and Honolulu
 
 Find out in this breath-taking mystery set against a pre-World War II scenario of international intrigue, greed, revenge and murder.
 
-But it today and discover for yourself why **AND&nbsp;SUDDEN&nbsp;DEATH** is still a favorite read of murder mystery fans 75 years after it was first serialized as **HOMICIDE&nbsp;HONOLULU&nbsp;BOUND** in 1939. 
+Buy it today and discover for yourself why **AND&nbsp;SUDDEN&nbsp;DEATH** is still a favorite read of murder mystery fans 75 years after it was first serialized as **HOMICIDE&nbsp;HONOLULU&nbsp;BOUND** in 1939. 
 
 <hr>
 <br>
