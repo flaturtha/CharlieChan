@@ -2440,6 +2440,12 @@ ol ol li:last-child {
 .subscriptions h2 {
   color: #8B0000; }
 
+.subscriptions input[type="submit"] {
+  font-size: 0.9375rem; }
+  @media screen and (min-width: 24rem) {
+    .subscriptions input[type="submit"] {
+      font-size: 1.5rem; } }
+
 .adb {
   margin: 0.5rem 0 2rem 2rem;
   color: #848f98;
@@ -2455,6 +2461,16 @@ ol ol li:last-child {
       font-weight: normal; }
   .adb dd {
     margin: 0 0 1rem 1rem; }
+
+.thanks-for-signing-up h1, .thanks-for-signing-up .contact h2, .contact .thanks-for-signing-up h2 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #8B0000; }
+
+.thanks-for-signing-up p {
+  margin: 0 auto;
+  width: 500px;
+  max-width: 90%; }
 
 /*==========  LAYOUT  ==========*/
 /*=============================================
@@ -2532,15 +2548,21 @@ ul {
   .homepage section h2 {
     color: #8B0000; }
 
-.whitebar {
-  background-color: #fffff0;
-  color: #8B0000;
+.whitebar, .whitebar_var {
+  background-color: #8B0000;
+  color: #fffff0;
   padding: 0.5rem 1rem;
   font-weight: bold;
   font-size: 0.72rem; }
+  .whitebar a, .whitebar_var a {
+    color: #fffff0; }
   @media screen and (min-width: 466px) {
-    .whitebar {
-      font-size: 1rem; } }
+    .whitebar, .whitebar_var {
+      font-size: 1rem;
+      background-color: #fffff0;
+      color: #8B0000; }
+      .whitebar a, .whitebar_var a {
+        color: #8B0000; } }
 
 .header_home {
   height: 33vh;
@@ -3042,11 +3064,22 @@ ul {
 /*=============================================
 =            START HERE                       =
 =============================================*/
+.start-here .welcome, .start-here .what-are-you-looking-for-today, .start-here .who-is-atticus, .start-here .guide, .start-here .manifestos, .start-here .terms-and-policies, .start-here .contact-and-support {
+  border-bottom: 1px solid #8B0000; }
+
+.start-here .welcome p {
+  text-align: center;
+  font-size: 1.25rem; }
+
 .start-here h3 {
+  font-size: 1.25rem;
   font-weight: bold;
   text-transform: uppercase;
   margin: 3rem 0 0.5rem 0;
   color: #8B0000; }
+  @media screen and (min-width: 24rem) {
+    .start-here h3 {
+      font-size: 1.5rem; } }
 
 .start-here__dl {
   margin: 2rem auto;
@@ -3063,6 +3096,42 @@ ul {
     text-decoration: underline;
     text-transform: uppercase; }
 
+.iconbar {
+  margin: -1rem 0 1rem 0;
+  height: 50px;
+  background-image: url("/assets/img/starthere/icons-alt3.png");
+  background-repeat: repeat-x;
+  background-size: contain; }
+
+.who-is-atticus img {
+  width: 50px;
+  height: auto;
+  float: left;
+  margin: 0 1rem 0 0; }
+
+.whitebar_var {
+  text-align: center;
+  font-size: 1rem;
+  margin: 0;
+  padding: 0;
+  background-color: #fffff0;
+  color: #8B0000; }
+  .whitebar_var li {
+    margin: 3rem auto; }
+  .whitebar_var a {
+    margin: 1rem;
+    padding: 0.625rem 1.25rem;
+    border: 1px solid #8B0000;
+    -webkit-border-radius: 3px;
+            border-radius: 3px;
+    color: #8B0000; }
+  @media screen and (min-width: 24rem) {
+    .whitebar_var {
+      font-size: 3rem; } }
+
+/**
+ * MANIFESTO
+ */
 /* ==========================================================================
    FOOTER
    ========================================================================== */

@@ -75,13 +75,21 @@ ul {
 }
 
 .whitebar {
-  background-color: $paper;
-  color: $acolor;
+  background-color: $acolor;
+  color: $paper;
   padding: 0.5rem 1rem;
   font-weight: bold;
   font-size: 0.72rem;
+  a {
+    color: $paper;
+  }
   @media screen and (min-width: 466px) {
     font-size: 1rem;
+    background-color: $paper;
+    color: $acolor;
+    a {
+      color: $acolor;
+    }
   }
 }
 

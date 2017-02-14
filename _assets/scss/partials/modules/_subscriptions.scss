@@ -6,6 +6,12 @@
 	h2 {
 		color: $acolor;
 	}
+	input[type="submit"] {
+		font-size: 0.9375rem;
+		@media screen and (min-width:24rem){
+			font-size: 1.5rem;
+		}
+	}
 }
 
 .adb {
@@ -29,3 +35,29 @@
 		margin: 0 0 1rem 1rem;
 	}
 }
+
+
+.thanks-for-signing-up {
+	// background-color: chartreuse;
+	// height: 100vh;
+	h1 {
+		text-align: center;
+		text-transform: uppercase;
+		color: $acolor;
+	}
+	p {
+		margin: 0 auto;
+		width: 500px;
+		max-width: 90%;
+	}
+}
+
+
+
+
+
+
+
+
+
+
