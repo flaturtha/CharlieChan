@@ -12,16 +12,16 @@ title: Thanks!
 
 <hr style="margin:2rem 0;">
 
-<div style="width:500px;max-width:90%;margin:0 auto;">
-  <h3 style="color:#8b0000;text-align:center;">And while you wait,<br>why not check out &hellip;</h3>
-  <br>
-  <ul style="margin:0 auto;text-align: left;color:#242424;">
-    <li style="margin-bottom: 1rem;"><a href="/murderwiki/" style="font-weight: bold;text-decoration: underline;">MURDERWIKI</a> to learn more about the murder mystery genre.</li>
-    <li style="margin-bottom: 1rem;"><a href="/short-stories/" style="font-weight: bold;text-decoration: underline;">SHORT STORIES</a> to read if you've just got a little time to kill!</li>
-    <li style="margin-bottom: 1rem;"><a href="/novellas/" style="font-weight: bold;text-decoration: underline;">NOVELLAS</a> for that leisurly afternoon read.</li>
-    <li style="margin-bottom: 1rem;"><a href="novels/" style="font-weight: bold;text-decoration: underline;">NOVELS</a> and enjoy a long, edge-of-your-seat thrill!</li>
-  </ul>
+  <div style="width:500px;max-width:90%;margin:0 auto;">
+    <h3 style="color:#8b0000;text-align:center;">And while you wait,<br>why not check out &hellip;</h3>
+    <br>
+    <ul style="margin:0 auto;text-align: left;color:#242424;">
+      <li style="margin-bottom: 1rem;"><a href="/murderwiki/" style="font-weight: bold;text-decoration: underline;">MURDERWIKI</a> to learn more about the murder mystery genre.</li>
+      <li style="margin-bottom: 1rem;"><a href="/short-stories/" style="font-weight: bold;text-decoration: underline;">SHORT STORIES</a> to read if you've just got a little time to kill!</li>
+      <li style="margin-bottom: 1rem;"><a href="/novellas/" style="font-weight: bold;text-decoration: underline;">NOVELLAS</a> for that leisurly afternoon read.</li>
+      <li style="margin-bottom: 1rem;"><a href="novels/" style="font-weight: bold;text-decoration: underline;">NOVELS</a> and enjoy a long, edge-of-your-seat thrill!</li>
+    </ul>
 
-</div>
+  </div>
 
 </div> <!-- end div thanks -->
