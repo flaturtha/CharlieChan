@@ -3064,12 +3064,18 @@ ul {
 /*=============================================
 =            START HERE                       =
 =============================================*/
-.start-here .welcome, .start-here .what-are-you-looking-for-today, .start-here .who-is-atticus, .start-here .guide, .start-here .manifestos, .start-here .terms-and-policies, .start-here .contact-and-support {
-  border-bottom: 1px solid #8B0000; }
+.start-here .welcome, .start-here .who-is-atticus, .start-here .guide, .start-here .manifestos, .start-here .terms-and-policies, .start-here .contact-and-support {
+  border-bottom: 1px solid #8B0000;
+  margin: 2rem 0; }
 
-.start-here .welcome p {
+.start-here .welcome p.standout {
   text-align: center;
   font-size: 1.25rem; }
+
+.start-here .welcome p {
+  width: 600px;
+  max-width: 85%;
+  margin: 1rem auto; }
 
 .start-here h3 {
   font-size: 1.25rem;
@@ -3497,3 +3503,6 @@ a {
   font-weight: lighter;
   color: #535c63;
   font-size: 0.75rem; }
+
+.d-block {
+  display: block; }

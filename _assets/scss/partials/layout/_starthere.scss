@@ -3,13 +3,21 @@
 =============================================*/
 
 .start-here {
-	.welcome, .what-are-you-looking-for-today, .who-is-atticus, .guide, .manifestos, .terms-and-policies, .contact-and-support {
+	.welcome, .who-is-atticus, .guide, .manifestos, .terms-and-policies, .contact-and-support {
 		border-bottom: 1px solid $acolor;
+		margin: 2rem 0;
 	}
-	.welcome p {
-		text-align: center;
-		font-size: 1.25rem;
-	}
+	.welcome {
+		p.standout {
+			text-align: center;
+			font-size: 1.25rem;
+		}
+		p {
+			width: 600px;
+			max-width: 85%;
+			margin: 1rem auto;
+		}
+	} 
 	h3 {
 		// text-align: center;
 		font-size: 1.25rem;
