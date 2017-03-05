@@ -16,19 +16,17 @@ $big-fancy-title: /* "brim-narrow-combined-1",*/sans-serif;
 $big-fancy-title1: /* "brim-narrow-combined-2",*/sans-serif;
 $big-fancy-title2: /* "brim-narrow-combined-3"*/;
 $big-fancy-title3: /* "brim-narrow",*/ sans-serif;
-$header-font: "blakely",serif;
+$header-font: "blakely", sans-serif;
 
 /* FONT WEIGHTS */
-// $light: 100;
-// $regular: 400;
-// $bold: 600;
-// $base-font-weight: $regular;
-// $base-font-size: 1em !default;
-// $base-line-height: 1.4;
-// $header-font-weight: $bold;
-
-
-
+$light: 300;
+$regular: 400;
+$bold: 700;
+$black: 800;
+$base-font-weight: $regular;
+$base-font-size: 1em !default;
+$base-line-height: 1.4;
+$header-font-weight: $bold;
 
 
 /*==========  COLORS  ==========*/

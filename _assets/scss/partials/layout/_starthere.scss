@@ -3,97 +3,305 @@
 =============================================*/
 
 .start-here {
-	.welcome, .who-is-atticus, .guide, .manifestos, .terms-and-policies, .contact-and-support {
-		border-bottom: 1px solid $acolor;
-		margin: 2rem 0;
+	main {
+		// width: 800px;
+		// max-width: 95%;
+		// margin: 0 auto;
 	}
-	.welcome {
-		p.standout {
-			text-align: center;
-			font-size: 1.25rem;
-		}
-		p {
-			width: 600px;
-			max-width: 85%;
-			margin: 1rem auto;
-		}
-	} 
-	h3 {
-		// text-align: center;
-		font-size: 1.25rem;
-		font-weight: bold;
-		text-transform: uppercase;
-		margin: 3rem 0 0.5rem 0;
+	h1 {
+		font-family: $header-font;
+		font-weight: $light;
+		font-size: 4.375rem;
+		text-align: center;
+	  line-height: 0.75;
 		color: $acolor;
-		@media screen and (min-width:24rem){
-			font-size:1.5rem;
+		border-bottom: 5px solid $acolor;
+		margin: 0 0 2rem 0;
+		padding: 0 0 1rem 0;
+		background-image: url('/assets/img/misc/revolver.svg'), url('/assets/img/misc/detective.svg');
+		background-repeat: no-repeat; 
+		background-position: center left, right;
+		background-size: 138px 81px, 110px 127px;
+		span {
+			display: block;
+			font-weight: $black;
+			font-size: 5rem;
+		}
+	}
+	h3 {
+		font-weight: bold;
+		font-size: 1.25rem;
+		text-transform: uppercase;
+		line-height: 1.5;
+		color: $acolor;
+		text-align: center;
+		width: 600px;
+		margin: 2rem auto 2rem;
+	}
+}
+
+
+.welcome {
+	width: 700px;
+	max-width: 90%;
+	margin: 0 auto;
+	p {
+		font-size: 1.125rem;
+		font-weight: bold;
+		margin: 0 2rem 1rem;
+	}
+	main {
+		// width: 600px;
+		background-image: url('/assets/img/misc/oldlady.svg'), url('/assets/img/misc/poisonbottle.svg');
+		background-repeat: no-repeat;
+		background-position: 0 45%, 95% 65%;
+		background-size: 127px 154px, 87px 143px;
+		overflow: visible;
+		ul {
+			display: block;
+			width: 500px;
+			list-style-type: disc;
+			margin: 1em auto;
+	    padding-left: 40px;
+		}
+		li {
+			margin: 0 0 1rem 0;
+			&:nth-of-type(2) {
+				margin-left: 1rem;
+			}
 		}
 	}
 }
 
-.start-here__dl {
+.redbar {
+	@extend .whitebar;
+	color: $paper;
+	text-align: center;
+	background-color: $acolor;
+	margin: 2rem 0 0 0;
+}
+
+
+section.who-is-atticus {
+	width: 600px;
 	margin: 2rem auto;
-	padding: 1rem;
-	width: 650px;
-	max-width: 85%;
-	// border: 2px solid $acolor;
-	dt {
+	padding-top: 3rem;
+	figure {
+		width: 148px;
+		height: 223px;
+		float: left;
+		margin: 0 1.5rem 2rem 0;	
+		padding: 0 0 1rem 0;
+		text-align: center;
 		font-weight: bold;
-		color: $acolor;
-		margin: 0 0 0.25rem 0;
-	}
-	dd {
-		margin: 0 0 1rem 1rem;
+		text-decoration: underline;
+		font-size: 0.75rem;
+		text-transform: uppercase;
+		figcaption {
+			margin: 0.5rem 0;
+		}
 	}
 	a {
 		text-decoration: underline;
-		text-transform: uppercase;
+	}
+	p:last-of-type {
+		font-weight: bold;
+		font-style: italic;
+		text-align: center;
+		font-size: 1.125rem;
 	}
 }
 
-.iconbar {
-	margin: -1rem 0 1rem 0;
-	height: 50px;
-	background-image: url('/assets/img/starthere/icons-alt3.png');
-	background-repeat:  repeat-x;
-	background-size: contain;
+
+section.guide {
+	width: 600px;
+	margin: 2rem auto;
+	padding-top: 3rem;
+	header {
+		background-color: $acolor;
+		text-align: center;
+		margin-bottom: 1rem;
+		h3 {
+			color: $paper;
+			margin-bottom: 0.5rem;
+			padding-top: 0.5rem;
+			span {
+				border-bottom: 2px solid $paper;
+			}
+		}
+		img {
+			height: 50px;
+			width: auto;
+			margin-bottom: 0.5rem;
+		}
+	}
+	p:first-of-type {
+		font-weight: bold;
+		font-size: 1.125rem;
+		// padding-bottom: 2rem;
+	}
+	div {
+		img {
+			margin-top: 2rem;
+		  width: 147px;
+		  height: 35px;
+		}
+		p {
+			font-weight: normal !important;
+			font-size: 1rem !important;
+			padding-bottom: 0 !important;
+		}
+		h4 {
+			color: $acolor;
+		}
+		ul {
+			width: 550px;
+			margin: 0 auto;
+			li {
+				margin: 1.5rem;
+				height: 175px;
+			}
+			img {
+				height: 148px;
+				width: auto;
+				float: left;
+				margin: 0 1rem;
+			}
+			span:first-of-type {
+				text-transform: uppercase;
+				font-weight: bold;
+				color: $acolor;
+			}
+			span:last-of-type {
+				font-style: italic;
+			}
+			p {
+				margin: 1rem;
+			} 
+		}
+	}
 }
 
-.who-is-atticus {
-	img {
-		width: 50px;
-		height: auto;
-		float: left;
-		margin: 0 1rem 0 0;		
-	}
+
+.Layer_8 {
+  background-image: url("Layer 8.png");
+  position: absolute;
+  left: 239px;
+  top: 1980px;
+  width: 107px;
+  height: 148px;
+  z-index: 41;
 }
 
-.whitebar_var {
-	@extend .whitebar;
-	text-align: center;
-	font-size: 1rem;
-	margin: 0;
-	padding: 0;
-	background-color: $paper;
-	color: $acolor;
-	li {
-		margin: 3rem auto;
-	}
-	a {
-		margin: 1rem;
-		padding: 0.625rem 1.25rem;
-		border: 1px solid $acolor;
-		border-radius: 3px;
-		color: $acolor;
-	}
-	@media screen and (min-width:24rem){
-		font-size: 3rem;
-	}
-}
 
-/**
- * MANIFESTO
- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// .start-here {
+// 	.welcome, .who-is-atticus, .guide, .manifestos, .terms-and-policies, .contact-and-support {
+// 		border-bottom: 1px solid $acolor;
+// 		margin: 2rem 0;
+// 	}
+// 	.welcome {
+// 		p.standout {
+// 			text-align: center;
+// 			font-size: 1.25rem;
+// 		}
+// 		p {
+// 			width: 600px;
+// 			max-width: 85%;
+// 			margin: 1rem auto;
+// 		}
+// 	} 
+// 	h3 {
+// 		// text-align: center;
+// 		font-size: 1.25rem;
+// 		font-weight: bold;
+// 		text-transform: uppercase;
+// 		margin: 3rem 0 0.5rem 0;
+// 		color: $acolor;
+// 		@media screen and (min-width:24rem){
+// 			font-size:1.5rem;
+// 		}
+// 	}
+// }
+
+// .start-here__dl {
+// 	margin: 2rem auto;
+// 	padding: 1rem;
+// 	width: 650px;
+// 	max-width: 85%;
+// 	// border: 2px solid $acolor;
+// 	dt {
+// 		font-weight: bold;
+// 		color: $acolor;
+// 		margin: 0 0 0.25rem 0;
+// 	}
+// 	dd {
+// 		margin: 0 0 1rem 1rem;
+// 	}
+// 	a {
+// 		text-decoration: underline;
+// 		text-transform: uppercase;
+// 	}
+// }
+
+// .iconbar {
+// 	margin: -1rem 0 1rem 0;
+// 	height: 50px;
+// 	background-image: url('/assets/img/starthere/icons-alt3.png');
+// 	background-repeat:  repeat-x;
+// 	background-size: contain;
+// }
+
+// .who-is-atticus {
+// 	img {
+// 		width: 50px;
+// 		height: auto;
+// 		float: left;
+// 		margin: 0 1rem 0 0;		
+// 	}
+// }
+
+// .whitebar_var {
+// 	@extend .whitebar;
+// 	text-align: center;
+// 	font-size: 1rem;
+// 	margin: 0;
+// 	padding: 0;
+// 	background-color: $paper;
+// 	color: $acolor;
+// 	li {
+// 		margin: 3rem auto;
+// 	}
+// 	a {
+// 		margin: 1rem;
+// 		padding: 0.625rem 1.25rem;
+// 		border: 1px solid $acolor;
+// 		border-radius: 3px;
+// 		color: $acolor;
+// 	}
+// 	@media screen and (min-width:24rem){
+// 		font-size: 3rem;
+// 	}
+// }
+
+// /**
+//  * MANIFESTO
+//  */
 
 
 

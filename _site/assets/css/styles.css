@@ -2491,7 +2491,7 @@ a.logo {
 .branding_TRF {
   width: 100%;
   text-align: center;
-  font-family: "blakely", serif;
+  font-family: "blakely", sans-serif;
   background-color: #8B0000; }
   .branding_TRF h1, .branding_TRF .contact h2, .contact .branding_TRF h2, .branding_TRF h2 {
     color: #fffff0; }
@@ -2548,20 +2548,20 @@ ul {
   .homepage section h2 {
     color: #8B0000; }
 
-.whitebar, .whitebar_var {
+.whitebar, .redbar {
   background-color: #8B0000;
   color: #fffff0;
   padding: 0.5rem 1rem;
   font-weight: bold;
   font-size: 0.72rem; }
-  .whitebar a, .whitebar_var a {
+  .whitebar a, .redbar a {
     color: #fffff0; }
   @media screen and (min-width: 466px) {
-    .whitebar, .whitebar_var {
+    .whitebar, .redbar {
       font-size: 1rem;
       background-color: #fffff0;
       color: #8B0000; }
-      .whitebar a, .whitebar_var a {
+      .whitebar a, .redbar a {
         color: #8B0000; } }
 
 .header_home {
@@ -3064,80 +3064,151 @@ ul {
 /*=============================================
 =            START HERE                       =
 =============================================*/
-.start-here .welcome, .start-here .who-is-atticus, .start-here .guide, .start-here .manifestos, .start-here .terms-and-policies, .start-here .contact-and-support {
-  border-bottom: 1px solid #8B0000;
-  margin: 2rem 0; }
-
-.start-here .welcome p.standout {
+.start-here h1, .start-here .contact h2, .contact .start-here h2 {
+  font-family: "blakely", sans-serif;
+  font-weight: 300;
+  font-size: 4.375rem;
   text-align: center;
-  font-size: 1.25rem; }
-
-.start-here .welcome p {
-  width: 600px;
-  max-width: 85%;
-  margin: 1rem auto; }
+  line-height: 0.75;
+  color: #8B0000;
+  border-bottom: 5px solid #8B0000;
+  margin: 0 0 2rem 0;
+  padding: 0 0 1rem 0;
+  background-image: url("/assets/img/misc/revolver.svg"), url("/assets/img/misc/detective.svg");
+  background-repeat: no-repeat;
+  background-position: center left, right;
+  background-size: 138px 81px, 110px 127px; }
+  .start-here h1 span, .start-here .contact h2 span, .contact .start-here h2 span {
+    display: block;
+    font-weight: 800;
+    font-size: 5rem; }
 
 .start-here h3 {
-  font-size: 1.25rem;
   font-weight: bold;
+  font-size: 1.25rem;
   text-transform: uppercase;
-  margin: 3rem 0 0.5rem 0;
-  color: #8B0000; }
-  @media screen and (min-width: 24rem) {
-    .start-here h3 {
-      font-size: 1.5rem; } }
-
-.start-here__dl {
-  margin: 2rem auto;
-  padding: 1rem;
-  width: 650px;
-  max-width: 85%; }
-  .start-here__dl dt {
-    font-weight: bold;
-    color: #8B0000;
-    margin: 0 0 0.25rem 0; }
-  .start-here__dl dd {
-    margin: 0 0 1rem 1rem; }
-  .start-here__dl a {
-    text-decoration: underline;
-    text-transform: uppercase; }
-
-.iconbar {
-  margin: -1rem 0 1rem 0;
-  height: 50px;
-  background-image: url("/assets/img/starthere/icons-alt3.png");
-  background-repeat: repeat-x;
-  background-size: contain; }
-
-.who-is-atticus img {
-  width: 50px;
-  height: auto;
-  float: left;
-  margin: 0 1rem 0 0; }
-
-.whitebar_var {
+  line-height: 1.5;
+  color: #8B0000;
   text-align: center;
-  font-size: 1rem;
-  margin: 0;
-  padding: 0;
-  background-color: #fffff0;
-  color: #8B0000; }
-  .whitebar_var li {
-    margin: 3rem auto; }
-  .whitebar_var a {
-    margin: 1rem;
-    padding: 0.625rem 1.25rem;
-    border: 1px solid #8B0000;
-    -webkit-border-radius: 3px;
-            border-radius: 3px;
-    color: #8B0000; }
-  @media screen and (min-width: 24rem) {
-    .whitebar_var {
-      font-size: 3rem; } }
+  width: 600px;
+  margin: 2rem auto 2rem; }
 
-/**
- * MANIFESTO
- */
+.welcome {
+  width: 700px;
+  max-width: 90%;
+  margin: 0 auto; }
+  .welcome p {
+    font-size: 1.125rem;
+    font-weight: bold;
+    margin: 0 2rem 1rem; }
+  .welcome main {
+    background-image: url("/assets/img/misc/oldlady.svg"), url("/assets/img/misc/poisonbottle.svg");
+    background-repeat: no-repeat;
+    background-position: 0 45%, 95% 65%;
+    background-size: 127px 154px, 87px 143px;
+    overflow: visible; }
+    .welcome main ul {
+      display: block;
+      width: 500px;
+      list-style-type: disc;
+      margin: 1em auto;
+      padding-left: 40px; }
+    .welcome main li {
+      margin: 0 0 1rem 0; }
+      .welcome main li:nth-of-type(2) {
+        margin-left: 1rem; }
+
+.redbar {
+  color: #fffff0;
+  text-align: center;
+  background-color: #8B0000;
+  margin: 2rem 0 0 0; }
+
+section.who-is-atticus {
+  width: 600px;
+  margin: 2rem auto;
+  padding-top: 3rem; }
+  section.who-is-atticus figure {
+    width: 148px;
+    height: 223px;
+    float: left;
+    margin: 0 1.5rem 2rem 0;
+    padding: 0 0 1rem 0;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 0.75rem;
+    text-transform: uppercase; }
+    section.who-is-atticus figure figcaption {
+      margin: 0.5rem 0; }
+  section.who-is-atticus a {
+    text-decoration: underline; }
+  section.who-is-atticus p:last-of-type {
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    font-size: 1.125rem; }
+
+section.guide {
+  width: 600px;
+  margin: 2rem auto;
+  padding-top: 3rem; }
+  section.guide header {
+    background-color: #8B0000;
+    text-align: center;
+    margin-bottom: 1rem; }
+    section.guide header h3 {
+      color: #fffff0;
+      margin-bottom: 0.5rem;
+      padding-top: 0.5rem; }
+      section.guide header h3 span {
+        border-bottom: 2px solid #fffff0; }
+    section.guide header img {
+      height: 50px;
+      width: auto;
+      margin-bottom: 0.5rem; }
+  section.guide p:first-of-type {
+    font-weight: bold;
+    font-size: 1.125rem; }
+  section.guide div img {
+    margin-top: 2rem;
+    width: 147px;
+    height: 35px; }
+  section.guide div p {
+    font-weight: normal !important;
+    font-size: 1rem !important;
+    padding-bottom: 0 !important; }
+  section.guide div h4 {
+    color: #8B0000; }
+  section.guide div ul {
+    width: 550px;
+    margin: 0 auto; }
+    section.guide div ul li {
+      margin: 1.5rem;
+      height: 175px; }
+    section.guide div ul img {
+      height: 148px;
+      width: auto;
+      float: left;
+      margin: 0 1rem; }
+    section.guide div ul span:first-of-type {
+      text-transform: uppercase;
+      font-weight: bold;
+      color: #8B0000; }
+    section.guide div ul span:last-of-type {
+      font-style: italic; }
+    section.guide div ul p {
+      margin: 1rem; }
+
+.Layer_8 {
+  background-image: url("Layer 8.png");
+  position: absolute;
+  left: 239px;
+  top: 1980px;
+  width: 107px;
+  height: 148px;
+  z-index: 41; }
+
 /* ==========================================================================
    FOOTER
    ========================================================================== */
