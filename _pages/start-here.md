@@ -58,10 +58,18 @@ category: start-here
 			</header>
 
 			<p>Here, you’ll find a complete guide to everything I offer throughout the site, from quick brain teasers <span class="small">[like <a href="/short-stories/death-by-gas/" class="underline">DEATH BY GAS</a>]</span> to test your mettle as a literary detective to thrilling mysteries <span class="small">[try <a href="/novels/spider-lily/" class="underline">THE SPIDER LILY</a>]</span> to wile away your holiday or lazy weekend &hellip; and everything in between!</p>
-			<p>Each section represents a type of story, depending on the length of the story, from short stories to full-length novels, as well as subscription options and articles about the genre. Just click <em>your</em> choice for what fits your need today!</p>
+			<p>Like a <strong>You-Are-Here</strong> guide at your favorite amusement park, this section is designed to orient you to each main page on the site: including the type of content you'll find there and a few recent examples of new content.</p>
+			<p>Just review the sections and click <em>your</em> choice for what fits your need today!</p>
+			<p>And as always, if you get lost or need help, just click the <span class="bloodred">START HERE</span> tab on the top menu to return to this guide or click the my image at the top to ask a question.</p>
 
-			<div>
-				<a href="/short-stories/"><img src="/assets/img/starthere/ss-label.png" alt="Short Stories"></a>
+			<div class="sh__atticus">
+				<a href="/short-stories/"><img src="/assets/img/starthere/atticus-label.png" alt="Atticus" class="label" style="height: 100px;width: auto;"></a>
+				<p>Too long or complex to be a short story, but too short to be called a novel, the novella, or novelette, is a story that takes the average reader 2&ndash;3 hours to complete. It may contain, like the short story the unity of expression or may expand to greater length and multiple episodes, not unlike the longer novel.</p>
+				
+			</div> <!-- end div.help -->
+
+						<div class="sh__mw">
+				<a href="/murderwiki/"><img src="/assets/img/starthere/mw-label.png" alt="MurderWiki" class="label"></a>
 				<p>Too long or complex to be a short story, but too short to be called a novel, the novella, or novelette, is a story that takes the average reader 2&ndash;3 hours to complete. It may contain, like the short story the unity of expression or may expand to greater length and multiple episodes, not unlike the longer novel.</p>
 				<p>These downloadable tales run between just over an hour to an average reading time of 3&ndash;4 hours, depending on your reading speed.</p>
 				<p>Perfect for a rainy evening or a sunny afternoon!</p>
@@ -84,15 +92,131 @@ category: start-here
 					</li>
 				</ul>
 
-				<a href="/short-stories/"><p><span class="redbar">CLICK HERE TO FIND MORE SHORT STORIES</span></p></a>
+				<a href="/short-stories/"><p style="text-align: center;"><span class="redbar">CLICK HERE TO FIND MORE MURDERWIKI</span></p></a>
 
-			</div>
+			</div> <!-- end div.murderwiki -->
+
+			<div class="sh__ss">
+				<a href="/short-stories/"><img src="/assets/img/starthere/ss-label.png" alt="Short Stories" class="label"></a>
+				<p>Too long or complex to be a short story, but too short to be called a novel, the novella, or novelette, is a story that takes the average reader 2&ndash;3 hours to complete. It may contain, like the short story the unity of expression or may expand to greater length and multiple episodes, not unlike the longer novel.</p>
+				<p>These downloadable tales run between just over an hour to an average reading time of 3&ndash;4 hours, depending on your reading speed.</p>
+				<p>Perfect for a rainy evening or a sunny afternoon!</p>
+
+				<h4>My Favorites include:</h4>
+				<ul>
+					<li>
+						<img src="/assets/img/short-stories/brand-of-cain.svg" alt="">
+						<p><span>The Brand of Cain</span> by <span>Ward Sterling</span>, about a gypsy who can see into the minds of men and see the darkness of their deeds. Can Dwyer use the gypsie's skill to unmask the murderer of Mr. Fellows?</p>
+					</li>
+
+					<li>
+						<img src="/assets/img/short-stories/con-is-green.svg" alt="" style="float:right;">
+						<p><span>The Con is Green</span> by <span>Joe Archibald</span>, a Dizzy Duo Yarn in which Snooty Piper, the Beantown crimehound sees only green but still manages to catch the killer. A fun and funny yarn!</p>
+					</li>
+
+					<li>
+						<img src="/assets/img/short-stories/parting-gift.svg" alt="">
+						<p><span>The Parting Gift</span> by <span>Frank Ward</span>, about when love goes wrong and turns deadly. Who’s gift will spell the end or will both get what they deserve when Fate takes a hand? </p>						
+					</li>
+				</ul>
+
+				<a href="/short-stories/"><p style="text-align: center;"><span class="redbar">CLICK HERE TO FIND MORE SHORT STORIES</span></p></a>
+
+			</div> <!-- end div.short-stories -->
+
+			<div class="sh__novellas">
+				<a href="/novellas/"><img src="/assets/img/starthere/novellas-label.png" alt="Novellas" class="label"></a>
+				<p>Too long or complex to be a short story, but too short to be called a novel, the novella, or novelette, is a story that takes the average reader 2&ndash;3 hours to complete. It may contain, like the short story the unity of expression or may expand to greater length and multiple episodes, not unlike the longer novel.</p>
+				<p>These downloadable tales run between just over an hour to an average reading time of 3&ndash;4 hours, depending on your reading speed.</p>
+				<p>Perfect for a rainy evening or a sunny afternoon!</p>
+
+				<h4>My Favorites include:</h4>
+				<ul>
+					<li>
+						<img src="/assets/img/short-stories/brand-of-cain.svg" alt="">
+						<p><span>The Brand of Cain</span> by <span>Ward Sterling</span>, about a gypsy who can see into the minds of men and see the darkness of their deeds. Can Dwyer use the gypsie's skill to unmask the murderer of Mr. Fellows?</p>
+					</li>
+
+					<li>
+						<img src="/assets/img/short-stories/con-is-green.svg" alt="" style="float:right;">
+						<p><span>The Con is Green</span> by <span>Joe Archibald</span>, a Dizzy Duo Yarn in which Snooty Piper, the Beantown crimehound sees only green but still manages to catch the killer. A fun and funny yarn!</p>
+					</li>
+
+					<li>
+						<img src="/assets/img/short-stories/parting-gift.svg" alt="">
+						<p><span>The Parting Gift</span> by <span>Frank Ward</span>, about when love goes wrong and turns deadly. Who’s gift will spell the end or will both get what they deserve when Fate takes a hand? </p>						
+					</li>
+				</ul>
+
+				<a href="/short-stories/"><p style="text-align: center;"><span class="redbar">CLICK HERE TO FIND MORE NOVELLAS</span></p></a>
+
+			</div> <!-- end div.novellas -->
+
+			<div class="sh__novels">
+				<a href="/novels/"><img src="/assets/img/starthere/novels-label.png" alt="Novels" class="label"></a>
+				<p>Too long or complex to be a short story, but too short to be called a novel, the novella, or novelette, is a story that takes the average reader 2&ndash;3 hours to complete. It may contain, like the short story the unity of expression or may expand to greater length and multiple episodes, not unlike the longer novel.</p>
+				<p>These downloadable tales run between just over an hour to an average reading time of 3&ndash;4 hours, depending on your reading speed.</p>
+				<p>Perfect for a rainy evening or a sunny afternoon!</p>
+
+				<h4>My Favorites include:</h4>
+				<ul>
+					<li>
+						<img src="/assets/img/short-stories/brand-of-cain.svg" alt="">
+						<p><span>The Brand of Cain</span> by <span>Ward Sterling</span>, about a gypsy who can see into the minds of men and see the darkness of their deeds. Can Dwyer use the gypsie's skill to unmask the murderer of Mr. Fellows?</p>
+					</li>
+
+					<li>
+						<img src="/assets/img/short-stories/con-is-green.svg" alt="" style="float:right;">
+						<p><span>The Con is Green</span> by <span>Joe Archibald</span>, a Dizzy Duo Yarn in which Snooty Piper, the Beantown crimehound sees only green but still manages to catch the killer. A fun and funny yarn!</p>
+					</li>
+
+					<li>
+						<img src="/assets/img/short-stories/parting-gift.svg" alt="">
+						<p><span>The Parting Gift</span> by <span>Frank Ward</span>, about when love goes wrong and turns deadly. Who’s gift will spell the end or will both get what they deserve when Fate takes a hand? </p>						
+					</li>
+				</ul>
+
+				<a href="/short-stories/"><p style="text-align: center;"><span class="redbar">CLICK HERE TO FIND MORE NOVELS</span></p></a>
+
+			</div> <!-- end div.novels -->
+
+						<div class="sh__subscriptions">
+				<a href="/subscriptions/"><img src="/assets/img/starthere/subs-label.png" alt="Subscriptions" class="label"></a>
+				<p>Too long or complex to be a short story, but too short to be called a novel, the novella, or novelette, is a story that takes the average reader 2&ndash;3 hours to complete. It may contain, like the short story the unity of expression or may expand to greater length and multiple episodes, not unlike the longer novel.</p>
+				<p>These downloadable tales run between just over an hour to an average reading time of 3&ndash;4 hours, depending on your reading speed.</p>
+				<p>Perfect for a rainy evening or a sunny afternoon!</p>
+
+				<h4>My Favorites include:</h4>
+				<ul>
+					<li>
+						<img src="/assets/img/short-stories/brand-of-cain.svg" alt="">
+						<p><span>The Brand of Cain</span> by <span>Ward Sterling</span>, about a gypsy who can see into the minds of men and see the darkness of their deeds. Can Dwyer use the gypsie's skill to unmask the murderer of Mr. Fellows?</p>
+					</li>
+
+					<li>
+						<img src="/assets/img/short-stories/con-is-green.svg" alt="" style="float:right;">
+						<p><span>The Con is Green</span> by <span>Joe Archibald</span>, a Dizzy Duo Yarn in which Snooty Piper, the Beantown crimehound sees only green but still manages to catch the killer. A fun and funny yarn!</p>
+					</li>
+
+					<li>
+						<img src="/assets/img/short-stories/parting-gift.svg" alt="">
+						<p><span>The Parting Gift</span> by <span>Frank Ward</span>, about when love goes wrong and turns deadly. Who’s gift will spell the end or will both get what they deserve when Fate takes a hand? </p>						
+					</li>
+				</ul>
+
+				<a href="/short-stories/"><p style="text-align: center;"><span class="redbar">CLICK HERE TO FIND MORE SUBSCRIPTIONS</span></p></a>
+
+			</div> <!-- end div.subscriptions -->
 
 		</section>
 		
 	</main>
 
-
+	<img src="/assets/img/starthere/atticus-label.png" alt="Atticus" class="label" style="height: 100px;width: auto;">
+	<img src="/assets/img/starthere/home-label.png" alt="Home" class="label" style="width: 94px;">
+	<img src="/assets/img/starthere/mw-label.png" alt="MurderWiki" class="label" style="width: 146px;">
+	<img src="/assets/img/starthere/novels-label.png" alt="Novels" class="label">
+	<img src="/assets/img/starthere/subs-label.png" alt="Subscriptions" class="label">
 
 
 
