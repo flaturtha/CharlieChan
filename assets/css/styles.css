@@ -3096,7 +3096,8 @@ ul {
 .welcome {
   width: 700px;
   max-width: 90%;
-  margin: 0 auto; }
+  margin: -5rem auto 0;
+  /* should be 0 auto; -5rem is temporary fix */ }
   .welcome p {
     font-size: 1.125rem;
     font-weight: bold;
@@ -3171,9 +3172,9 @@ section.guide {
     font-weight: bold;
     font-size: 1.125rem; }
   section.guide div img {
-    margin-top: 2rem;
-    width: 147px;
-    height: 35px; }
+    margin: 2rem 0 1rem;
+    width: 600px;
+    height: auto; }
   section.guide div p {
     font-weight: normal !important;
     font-size: 1rem !important;
@@ -3200,19 +3201,35 @@ section.guide {
     section.guide div ul p {
       margin: 1rem; }
 
-.Layer_8 {
-  background-image: url("Layer 8.png");
-  position: absolute;
-  left: 239px;
-  top: 1980px;
-  width: 107px;
-  height: 148px;
-  z-index: 41; }
+.sh__adb {
+  color: #848f98;
+  font-size: 0.875rem;
+  border: 2px solid #8B0000;
+  padding: 0.75rem;
+  margin: 0 -6rem 2rem 1rem;
+  width: 275px;
+  -webkit-transform: rotate(2deg);
+      -ms-transform: rotate(2deg);
+          transform: rotate(2deg);
+  -webkit-box-shadow: 5px 5px 8px #474F55;
+          box-shadow: 5px 5px 8px #474F55;
+  float: right; }
+  .sh__adb dt {
+    font-weight: bold;
+    text-transform: uppercase; }
+    .sh__adb dt span {
+      display: none;
+      text-transform: none;
+      font-size: 0.75rem;
+      font-weight: normal; }
+  .sh__adb dd {
+    margin: 0 0 1rem 1rem;
+    font-style: italic; }
 
 .label {
   margin-top: 2rem;
-  width: 147px;
-  height: 35px; }
+  width: 512px;
+  height: 54px; }
 
 /* ==========================================================================
    FOOTER
@@ -3262,8 +3279,8 @@ p {
 
 /* NAV */
 .fixedtop {
-  z-index: 2;
-  position: fixed;
+  position: -webkit-sticky;
+  position: sticky;
   top: 0; }
 
 .fake {
@@ -3271,12 +3288,8 @@ p {
   color: #00be00; }
 
 .nav {
-  z-index: 2;
   border-bottom: 4px solid #8B0000;
   font-family: 'Oswald',sans-serif;
-  position: fixed;
-  top: 0;
-  /* 105px 62px */
   width: 100%;
   background: #242424 url("/assets/img/site/pulpicons2.svg");
   /* main-nav */ }
@@ -3418,6 +3431,7 @@ p {
 /* BRANDING */
 @media screen and (min-width: 48rem) {
   .branding {
+    display: none;
     background-color: #8B0000;
     background-image: url("/assets/img/site/tmp12.svg"), url("/assets/img/site/pulpicons2.svg");
     background-repeat: no-repeat, repeat;
@@ -3426,12 +3440,8 @@ p {
     border-top: 10px solid #8B0000;
     border-bottom: 10px solid #8B0000;
     outline: 5px solid #8B0000;
-    position: relative;
-    top: 76px;
-    /* -32px */
     width: 100.5%;
-    height: 0;
-    padding-top: 11.5%; }
+    height: 0; }
     .branding .title, .branding .tagline {
       font-family: 'Oswald', sans-serif;
       text-align: center;
