@@ -19,6 +19,13 @@ ul {
   }
 }
 
+.showonmobile {
+  display: inline;
+  @media screen and (min-width:48rem){
+    display: none;
+  }
+}
+
 .home .main {
   margin-top: 0;
 }

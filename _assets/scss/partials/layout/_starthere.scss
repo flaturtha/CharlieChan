@@ -9,19 +9,23 @@
 		// margin: 0 auto;
 	}
 	h1 {
+		max-width: 95%;
 		font-family: $header-font;
 		font-weight: $light;
 		font-size: 4.375rem;
 		text-align: center;
-	  line-height: 0.75;
+	  line-height: 0.85;
 		color: $acolor;
 		border-bottom: 5px solid $acolor;
 		margin: 0 0 2rem 0;
 		padding: 0 0 1rem 0;
-		background-image: url('/assets/img/misc/revolver.svg'), url('/assets/img/misc/detective.svg');
-		background-repeat: no-repeat; 
-		background-position: center left, right;
-		background-size: 138px 81px, 110px 127px;
+		@media screen and (min-width:48rem){
+			line-height: 0.75;
+			background-image: url('/assets/img/misc/revolver.svg'), url('/assets/img/misc/detective.svg');
+			background-repeat: no-repeat; 
+			background-position: center left, right;
+			background-size: 138px 81px, 110px 127px;			
+		}
 		span {
 			display: block;
 			font-weight: $black;
@@ -35,16 +39,54 @@
 		line-height: 1.5;
 		color: $acolor;
 		text-align: center;
-		width: 600px;
 		margin: 2rem auto 2rem;
+		@media screen and (min-width:48rem){
+			width: 600px;
+		}
 	}
 }
 
+.sh__topimg1 {
+		height: 75px;
+		width: auto;
+		float: left;
+		margin: 0 0.5rem 0 0;
+		@media screen and (min-width:48rem){
+			display: none;
+		}
+	}
+
+.sh__topimg2 {
+	@extend .sh__topimg1;
+	height: 100px;
+	float: right;
+	margin: 0 0 0 0.35rem;
+}
+
+.sh__topimg3 {
+	@extend .sh__topimg1;
+	@media screen and (min-width:48rem){
+		display: inline;
+	}
+	@media screen and (min-width:50rem){
+		display: none;
+	}
+}
+
+.sh__topimg4 {
+	@extend .sh__topimg2;
+	@media screen and (min-width:48rem){
+		display: inline;
+	}
+	@media screen and (min-width:50rem){
+		display: none;
+	}
+}
 
 .welcome {
 	width: 700px;
 	max-width: 90%;
-	margin: -5rem auto 0; /* should be 0 auto; -5rem is temporary fix */
+	margin: 0 auto; /* should be 0 auto; -5rem is temporary fix */
 	p {
 		font-size: 1.125rem;
 		font-weight: bold;
@@ -52,14 +94,17 @@
 	}
 	main {
 		// width: 600px;
-		background-image: url('/assets/img/misc/oldlady.svg'), url('/assets/img/misc/poisonbottle.svg');
-		background-repeat: no-repeat;
-		background-position: 0 45%, 95% 65%;
-		background-size: 127px 154px, 87px 143px;
-		overflow: visible;
+		@media screen and (min-width:50rem){
+			background-image: url('/assets/img/misc/oldlady.svg'), url('/assets/img/misc/poisonbottle.svg');
+			background-repeat: no-repeat;
+			background-position: 0 45%, 95% 65%;
+			background-size: 127px 154px, 87px 143px;
+			overflow: visible;
+		}
 		ul {
 			display: block;
 			width: 500px;
+			max-width: 95%;
 			list-style-type: disc;
 			margin: 1em auto;
 	    padding-left: 40px;
@@ -74,35 +119,52 @@
 }
 
 .redbar {
-	@extend .whitebar;
 	color: $paper;
-	text-align: center;
 	background-color: $acolor;
-	margin: 2rem 0 0 0;
+	text-align: center;
+	font-size: 0.875rem !important;
+	// font-weight: normal !important;
+	margin: 0 !important;
+	padding: 0.25rem;
+	@media screen and (min-width:48rem){
+		color: $paper;
+		background-color: $acolor;
+		margin: 2rem 0 0 0;
+		
+	}
 }
 
 
 section.who-is-atticus {
 	width: 600px;
+	max-width: 95%;
 	margin: 2rem auto;
 	padding-top: 3rem;
 	figure {
 		width: 148px;
 		height: 223px;
-		float: left;
-		margin: 0 1.5rem 2rem 0;	
+		margin: 0 auto 2.5rem;	
 		padding: 0 0 1rem 0;
 		text-align: center;
 		font-weight: bold;
 		text-decoration: underline;
 		font-size: 0.75rem;
 		text-transform: uppercase;
+		@media screen and (min-width: 26rem){
+			float: left;
+			margin: 0 1.5rem 2rem 0;
+		}
 		figcaption {
 			margin: 0.5rem 0;
 		}
 	}
 	a {
 		text-decoration: underline;
+	}
+	h4 {
+		margin-bottom: 1rem;
+		// text-transform: uppercase;
+		color: $acolor;
 	}
 	p:last-of-type {
 		font-weight: bold;
@@ -115,8 +177,9 @@ section.who-is-atticus {
 
 section.guide {
 	width: 600px;
+	max-width: 95%;
 	margin: 2rem auto;
-	padding-top: 3rem;
+	padding-top: 0.25rem;
 	header {
 		background-color: $acolor;
 		text-align: center;
@@ -132,6 +195,7 @@ section.guide {
 		img {
 			height: 50px;
 			width: auto;
+			max-width: 90%;
 			margin-bottom: 0.5rem;
 		}
 	}
@@ -157,16 +221,26 @@ section.guide {
 		}
 		ul {
 			width: 550px;
+			max-width: 95%;
 			margin: 0 auto;
 			li {
-				margin: 1.5rem;
+				margin: 1.5rem 0;
+				@media screen and (min-width:37.5rem){
 				height: 175px;
+				}
 			}
 			img {
-				height: 148px;
-				width: auto;
-				float: left;
-				margin: 0 1rem;
+				// height: 148px;
+				width: 100%;
+				@media screen and (min-width:37.5rem){
+					height: 148px;
+					width: auto;
+					float: left;
+					margin: 0 1rem 1rem;
+					&:nth-of-type(2){
+						float: right;
+					}
+				}
 			}
 			span:first-of-type {
 				text-transform: uppercase;
@@ -219,6 +293,7 @@ section.guide {
 	margin-top: 2rem;
   width: 512px;
   height: 54px;
+  max-width: 100%;
 }
 
 

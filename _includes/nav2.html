@@ -1,5 +1,15 @@
-<nav class="nav fixedtop" role="navigation">
+<nav class="nav" role="navigation">
 
+  <div class="social-nav hidden">
+    <h2 class="hidden">Social Media Submenu</h2>
+    <ul>
+      <!-- <li class="submenu__search"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li> -->
+      <li class="submenu__facebook"><a href=""><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+      <li class="submenu__twitter"><a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+      <li class="submenu__rss"><a href="http://feeds.feedburner.com/TalesOfMurder" rel="alternate" type="application/rss+xml"><i class="fa fa-rss-square" aria-hidden="true"></i></a></li>
+      <li class="submenu__slack"><a href=""><i class="fa fa-slack" aria-hidden="true"></i></a></li>
+    </ul>
+  </div>
 
   <div class="main-nav">
     <a class="logo" title="{{ site.title }}" href="{{ site.url }}"><p><span>{{ site.title }}</span></p></a>
@@ -17,16 +27,6 @@
       <li><a {% if page.category == 'the-red-file' %} class="active" {% endif %} href="/subscriptions/"><span>Subscriptions</span></a></li>
       <!-- <li id="searchbar"><a href="#">Search</a></li> -->
     </ul>
-    <div class="social-nav hidden">
-      <h2 class="hidden">Social Media Submenu</h2>
-      <ul>
-        <!-- <li class="submenu__search"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li> -->
-        <li class="submenu__facebook"><a href=""><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
-        <li class="submenu__twitter"><a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-        <li class="submenu__rss"><a href="http://feeds.feedburner.com/TalesOfMurder" rel="alternate" type="application/rss+xml"><i class="fa fa-rss-square" aria-hidden="true"></i></a></li>
-        <li class="submenu__slack"><a href=""><i class="fa fa-slack" aria-hidden="true"></i></a></li>
-      </ul>
-    </div>
   </div> <!-- end .main-nav -->
 
 

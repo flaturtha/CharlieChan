@@ -2513,6 +2513,12 @@ ul {
     .hideonmobile {
       display: inline; } }
 
+.showonmobile {
+  display: inline; }
+  @media screen and (min-width: 48rem) {
+    .showonmobile {
+      display: none; } }
+
 .home .main {
   margin-top: 0; }
 
@@ -2548,20 +2554,20 @@ ul {
   .homepage section h2 {
     color: #8B0000; }
 
-.whitebar, .redbar {
+.whitebar {
   background-color: #8B0000;
   color: #fffff0;
   padding: 0.5rem 1rem;
   font-weight: bold;
   font-size: 0.72rem; }
-  .whitebar a, .redbar a {
+  .whitebar a {
     color: #fffff0; }
   @media screen and (min-width: 466px) {
-    .whitebar, .redbar {
+    .whitebar {
       font-size: 1rem;
       background-color: #fffff0;
       color: #8B0000; }
-      .whitebar a, .redbar a {
+      .whitebar a {
         color: #8B0000; } }
 
 .header_home {
@@ -3065,19 +3071,23 @@ ul {
 =            START HERE                       =
 =============================================*/
 .start-here h1, .start-here .contact h2, .contact .start-here h2 {
+  max-width: 95%;
   font-family: "blakely", sans-serif;
   font-weight: 300;
   font-size: 4.375rem;
   text-align: center;
-  line-height: 0.75;
+  line-height: 0.85;
   color: #8B0000;
   border-bottom: 5px solid #8B0000;
   margin: 0 0 2rem 0;
-  padding: 0 0 1rem 0;
-  background-image: url("/assets/img/misc/revolver.svg"), url("/assets/img/misc/detective.svg");
-  background-repeat: no-repeat;
-  background-position: center left, right;
-  background-size: 138px 81px, 110px 127px; }
+  padding: 0 0 1rem 0; }
+  @media screen and (min-width: 48rem) {
+    .start-here h1, .start-here .contact h2, .contact .start-here h2 {
+      line-height: 0.75;
+      background-image: url("/assets/img/misc/revolver.svg"), url("/assets/img/misc/detective.svg");
+      background-repeat: no-repeat;
+      background-position: center left, right;
+      background-size: 138px 81px, 110px 127px; } }
   .start-here h1 span, .start-here .contact h2 span, .contact .start-here h2 span {
     display: block;
     font-weight: 800;
@@ -3090,60 +3100,108 @@ ul {
   line-height: 1.5;
   color: #8B0000;
   text-align: center;
-  width: 600px;
   margin: 2rem auto 2rem; }
+  @media screen and (min-width: 48rem) {
+    .start-here h3 {
+      width: 600px; } }
+
+.sh__topimg1, .sh__topimg2, .sh__topimg4, .sh__topimg3 {
+  height: 75px;
+  width: auto;
+  float: left;
+  margin: 0 0.5rem 0 0; }
+  @media screen and (min-width: 48rem) {
+    .sh__topimg1, .sh__topimg2, .sh__topimg4, .sh__topimg3 {
+      display: none; } }
+
+.sh__topimg2, .sh__topimg4 {
+  height: 100px;
+  float: right;
+  margin: 0 0 0 0.35rem; }
+
+@media screen and (min-width: 48rem) {
+  .sh__topimg3 {
+    display: inline; } }
+
+@media screen and (min-width: 50rem) {
+  .sh__topimg3 {
+    display: none; } }
+
+@media screen and (min-width: 48rem) {
+  .sh__topimg4 {
+    display: inline; } }
+
+@media screen and (min-width: 50rem) {
+  .sh__topimg4 {
+    display: none; } }
 
 .welcome {
   width: 700px;
   max-width: 90%;
-  margin: -5rem auto 0;
+  margin: 0 auto;
   /* should be 0 auto; -5rem is temporary fix */ }
   .welcome p {
     font-size: 1.125rem;
     font-weight: bold;
     margin: 0 2rem 1rem; }
-  .welcome main {
-    background-image: url("/assets/img/misc/oldlady.svg"), url("/assets/img/misc/poisonbottle.svg");
-    background-repeat: no-repeat;
-    background-position: 0 45%, 95% 65%;
-    background-size: 127px 154px, 87px 143px;
-    overflow: visible; }
-    .welcome main ul {
-      display: block;
-      width: 500px;
-      list-style-type: disc;
-      margin: 1em auto;
-      padding-left: 40px; }
-    .welcome main li {
-      margin: 0 0 1rem 0; }
-      .welcome main li:nth-of-type(2) {
-        margin-left: 1rem; }
+  @media screen and (min-width: 50rem) {
+    .welcome main {
+      background-image: url("/assets/img/misc/oldlady.svg"), url("/assets/img/misc/poisonbottle.svg");
+      background-repeat: no-repeat;
+      background-position: 0 45%, 95% 65%;
+      background-size: 127px 154px, 87px 143px;
+      overflow: visible; } }
+  .welcome main ul {
+    display: block;
+    width: 500px;
+    max-width: 95%;
+    list-style-type: disc;
+    margin: 1em auto;
+    padding-left: 40px; }
+  .welcome main li {
+    margin: 0 0 1rem 0; }
+    .welcome main li:nth-of-type(2) {
+      margin-left: 1rem; }
 
 .redbar {
   color: #fffff0;
-  text-align: center;
   background-color: #8B0000;
-  margin: 2rem 0 0 0; }
+  text-align: center;
+  font-size: 0.875rem !important;
+  margin: 0 !important;
+  padding: 0.25rem; }
+  @media screen and (min-width: 48rem) {
+    .redbar {
+      color: #fffff0;
+      background-color: #8B0000;
+      margin: 2rem 0 0 0; } }
 
 section.who-is-atticus {
   width: 600px;
+  max-width: 95%;
   margin: 2rem auto;
   padding-top: 3rem; }
   section.who-is-atticus figure {
     width: 148px;
     height: 223px;
-    float: left;
-    margin: 0 1.5rem 2rem 0;
+    margin: 0 auto 2.5rem;
     padding: 0 0 1rem 0;
     text-align: center;
     font-weight: bold;
     text-decoration: underline;
     font-size: 0.75rem;
     text-transform: uppercase; }
+    @media screen and (min-width: 26rem) {
+      section.who-is-atticus figure {
+        float: left;
+        margin: 0 1.5rem 2rem 0; } }
     section.who-is-atticus figure figcaption {
       margin: 0.5rem 0; }
   section.who-is-atticus a {
     text-decoration: underline; }
+  section.who-is-atticus h4 {
+    margin-bottom: 1rem;
+    color: #8B0000; }
   section.who-is-atticus p:last-of-type {
     font-weight: bold;
     font-style: italic;
@@ -3152,8 +3210,9 @@ section.who-is-atticus {
 
 section.guide {
   width: 600px;
+  max-width: 95%;
   margin: 2rem auto;
-  padding-top: 3rem; }
+  padding-top: 0.25rem; }
   section.guide header {
     background-color: #8B0000;
     text-align: center;
@@ -3167,6 +3226,7 @@ section.guide {
     section.guide header img {
       height: 50px;
       width: auto;
+      max-width: 90%;
       margin-bottom: 0.5rem; }
   section.guide p:first-of-type {
     font-weight: bold;
@@ -3183,15 +3243,23 @@ section.guide {
     color: #8B0000; }
   section.guide div ul {
     width: 550px;
+    max-width: 95%;
     margin: 0 auto; }
     section.guide div ul li {
-      margin: 1.5rem;
-      height: 175px; }
+      margin: 1.5rem 0; }
+      @media screen and (min-width: 37.5rem) {
+        section.guide div ul li {
+          height: 175px; } }
     section.guide div ul img {
-      height: 148px;
-      width: auto;
-      float: left;
-      margin: 0 1rem; }
+      width: 100%; }
+      @media screen and (min-width: 37.5rem) {
+        section.guide div ul img {
+          height: 148px;
+          width: auto;
+          float: left;
+          margin: 0 1rem 1rem; }
+          section.guide div ul img:nth-of-type(2) {
+            float: right; } }
     section.guide div ul span:first-of-type {
       text-transform: uppercase;
       font-weight: bold;
@@ -3229,7 +3297,8 @@ section.guide {
 .label {
   margin-top: 2rem;
   width: 512px;
-  height: 54px; }
+  height: 54px;
+  max-width: 100%; }
 
 /* ==========================================================================
    FOOTER
@@ -3279,8 +3348,8 @@ p {
 
 /* NAV */
 .fixedtop {
-  position: -webkit-sticky;
-  position: sticky;
+  z-index: 2;
+  position: fixed;
   top: 0; }
 
 .fake {
@@ -3288,8 +3357,12 @@ p {
   color: #00be00; }
 
 .nav {
+  z-index: 2;
   border-bottom: 4px solid #8B0000;
   font-family: 'Oswald',sans-serif;
+  position: fixed;
+  top: 0;
+  /* 105px 62px */
   width: 100%;
   background: #242424 url("/assets/img/site/pulpicons2.svg");
   /* main-nav */ }
@@ -3431,7 +3504,6 @@ p {
 /* BRANDING */
 @media screen and (min-width: 48rem) {
   .branding {
-    display: none;
     background-color: #8B0000;
     background-image: url("/assets/img/site/tmp12.svg"), url("/assets/img/site/pulpicons2.svg");
     background-repeat: no-repeat, repeat;
@@ -3440,8 +3512,12 @@ p {
     border-top: 10px solid #8B0000;
     border-bottom: 10px solid #8B0000;
     outline: 5px solid #8B0000;
+    position: relative;
+    top: 76px;
+    /* -32px */
     width: 100.5%;
-    height: 0; }
+    height: 0;
+    padding-top: 11.5%; }
     .branding .title, .branding .tagline {
       font-family: 'Oswald', sans-serif;
       text-align: center;
