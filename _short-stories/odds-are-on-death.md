@@ -6,9 +6,9 @@ title: "Odds Are On Death"
 author: Ashley Calhoun
 date: 2017-03-08
 releasedate: 2017-04-19
-opub: 
-opubdate: 
-opubissue: 
+opub: Crime Fiction Stories
+opubdate: Dec. 1950
+opubissue: Vol 1., No. 1
 category: short-stories
 excerpt: "Corcoran looked like a sucker in the gambling Joint, but he was really a private dick, and a tough one at that!"
 image: /assets/img/short-stories/odds-are-on-death.svg

@@ -9,10 +9,11 @@ layout: default2
 <header class="books__header">
 {% include jsonld_novels.html %}
 
-  <div class="image-box">
-      <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="story__img" {% if page.imgh %} style="height:{{ page.imgh }};width:auto;" {% endif %} itemprop="image">
-  </div>
-    <!-- <p>{{ page.caption }}</p> -->
+
+  <figure class="image-box">
+    <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="story__img" {% if page.imgh %} style="height:{{ page.imgh }};width:auto;" {% endif %} itemprop="image">
+    <figcaption>{{ page.caption }}</figcaption>
+  </figure>
 
     <!-- README IF STATEMENT -->
     {% if site.readtime %}
@@ -24,12 +25,17 @@ layout: default2
     {% endif %}
 
     <div class="book_details">
-      <h1 class="books__title">{{ page.title }}</h1>
+
+      <h5><span style="background-color:#6e6e6e;color:#fffff0;text-transform:uppercase;padding:0.5rem 0.5rem 0.5rem 0.5rem;letter-spacing:2px;">{{ page.genre }}</span></h5>
+
+      <h1 style="margin-top: 2rem;" class="books__title">{{ page.title }}</h1>
       {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
 
       <h2 class="books__author" itemprop="name">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
       
-      <p class="opub__ss"><em>{{ page.opub }}</em> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</p>
+      {% if page.opub %}
+        <p class="opub__ss"><em>{{ page.opub }}</em> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</p>
+      {% endif %}
 
       <p class="metadata">
         <span class="etr">read time:

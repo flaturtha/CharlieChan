@@ -255,8 +255,18 @@
 .image-box {
   // border: 2px dashed hotpink;
   align-self: center;
+  // text-align: center;
+  figcaption {
+    font-weight: bold;
+    font-size: 0.75rem;
+    color: $acolor;
+    margin: 0 auto;
+    max-width: 85%;
+  }
 }
 
+.caption {
+}
 
 
 // .story__img {

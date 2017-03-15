@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: post
-casefileNumber: 55ccf75fb3901011515aef02
+casefileNumber: 55ccf75fb3901011515aeeff
 title: "Butterfly of Death"
 author: Harold Gluck
 series: 
@@ -31,9 +31,6 @@ trfdate: Jan. 1, 2017
 </div>
 </section> <!-- table-of-contents -->
 
-<h6 class="btt"><a href="#top">Back to Top</a></h6>
-
-<hr>
 ### Chapter 1
 {: .chapternumber .no_toc}
 

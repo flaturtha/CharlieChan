@@ -1553,6 +1553,12 @@ a.readmore {
   -webkit-align-self: center;
       -ms-flex-item-align: center;
           align-self: center; }
+  .image-box figcaption {
+    font-weight: bold;
+    font-size: 0.75rem;
+    color: #8B0000;
+    margin: 0 auto;
+    max-width: 85%; }
 
 .casefilenum {
   width: 97.5%;
