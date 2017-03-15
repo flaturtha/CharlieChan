@@ -1602,6 +1602,10 @@ a.readmore {
   font-weight: bold;
   font-style: italic;
   text-transform: uppercase; }
+  .opub__ss {
+    color: #5e6971;
+    font-size: 0.875rem;
+    font-style: normal; }
 
 .opubdate {
   font-style: italic; }

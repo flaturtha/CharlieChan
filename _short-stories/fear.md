@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef44
 title: "Fear"
 author: Pettersen Marzoni
-date: 2015-08-26
+date: 2017-02-01
+releasedate: 2017-03-15
 opub: 
 opubdate: 
 opubissue: 

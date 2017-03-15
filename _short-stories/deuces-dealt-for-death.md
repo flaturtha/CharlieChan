@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef95
 title: "Deuces Dealt for Death"
 author: Glenn Low
-date: 2015-08-26
+date: 2017-03-09
+releasedate: 2017-04-20
 category: short-stories
 excerpt: Slitting the throat of the fourth of Clinsey's quartet quarry should be as easy as falling off a log, that vengeance stayer figured. But Clinsey should have known that when success goes to a kilter's head, it may be even easier for him to fall from a gallows first.
 image: /assets/img/short-stories/deuces-dealt-for-death.svg

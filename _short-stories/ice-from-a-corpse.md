@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: MongoDB _id number
 title: "Ice from a Corpse"
 author: Ed Barceio
-date: 2015-08-28
+date: 2017-01-30
+releasedate: 2017-03-13
 opub: 
 opubdate: 
 opubissue: 

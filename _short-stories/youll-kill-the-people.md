@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef05
 title: "You'll Kill the People"
 author: Richard Brister
-date: 2015-08-31
+date: 2017-04-27
+releasedate: 2017-06-08
 opub: 
 opubdate: 
 opubissue: 

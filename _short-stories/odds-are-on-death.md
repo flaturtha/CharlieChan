@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef88
 title: "Odds Are On Death"
 author: Ashley Calhoun
-date: 2015-09-10
+date: 2017-03-08
+releasedate: 2017-04-19
 opub: 
 opubdate: 
 opubissue: 

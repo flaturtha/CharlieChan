@@ -7,7 +7,8 @@ author: Harry C. Hervey, Jr.
 opub: The Black Mask
 opubdate: Sept. 1920
 opubissue: Vol. 1 No. 6
-date: 2015-08-25
+date: 2017-03-31
+releasedate: 2017-05-12
 category: short-stories
 excerpt: “The cave!” I shouted, pressing the knife into her hand and pointing to the nearby cavity.
 image: /assets/img/short-stories/daughter-of-the-pigeon.svg

@@ -7,7 +7,8 @@ author: Frank Ward
 o_pub: Crime Fiction Stories
 o_opub_date: 1950-12
 volnum: Vol. 1, No. 1
-date: 2015-09-10
+date: 2017-01-09
+releasedate: 2017-02-20
 category: short-stories
 excerpt: "The jealous husband had a perfect plan to get rid of his wife and her boy friend—until Fate took a hand."
 image: /assets/img/short-stories/parting-gift.svg

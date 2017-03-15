@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef3b
 title: "Two Bells"
 author: Harry C. Hervey, Jr.
-date: 2015-08-31
+date: 2017-01-14
+releasedate: 2017-02-25
 opub: 
 opubdate: 
 opubissue: 

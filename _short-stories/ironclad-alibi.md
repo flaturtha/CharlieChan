@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef92
 title: "The Ironclad Alibi"
 author: Gunnison Steele
-date: 2015-08-31
+date: 2017-01-23
+releasedate: 2017-03-06
 opub: 
 opubdate: 
 opubissue: 

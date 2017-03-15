@@ -336,6 +336,11 @@
   font-weight: bold;
   font-style: italic;
   text-transform: uppercase;
+  &__ss {
+    color: lighten($pcolor, 10%);
+    font-size: 0.875rem;
+    font-style: normal;
+  }
 }
 
 .opubdate {

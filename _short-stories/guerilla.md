@@ -4,10 +4,11 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef3a
 title: "The Guerilla"
 author: Clinton Harcourt
-date: 2015-08-26
-opub: 
-opubdate: 
-opubissue: 
+date: 2017-01-03
+releasedate: 2017-02-14
+opub: Black Mask
+opubdate: Nov. 1920
+opubissue: Vol. 2, No. 2
 category: short-stories
 excerpt: "The man walked past the building, turned, and after a quick glance about, entered the tenement’s hallway."
 image: /assets/img/short-stories/guerilla.svg

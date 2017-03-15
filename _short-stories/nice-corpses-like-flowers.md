@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515af057
 title: "Nice Corpses Like Flowers"
 author: J. B. Hawley
-date: 2015-09-10
+date: 2017-03-29
+releasedate: 2017-05-10
 opub: 
 opubdate: 
 opubissue: 

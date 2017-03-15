@@ -5,7 +5,8 @@ casefileNumber: 55ccf75fb3901011515aef93
 title: "The Con Is Green"
 subtitle: "A Dizzy Duo Yarn"
 author: Joe Archibald
-date: 2015-08-25
+date: 2017-02-16
+releasedate: 2017-03-30
 opub: Ten Detective Aces
 opubdate: November 1945
 opubissue: Vol. 11, No. 4

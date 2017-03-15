@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef8b
 title: "Close To My Heart"
 author: Chester S. Geier
-date: 2015-08-25
+date: 2017-05-11
+releasedate: 2017-06-22
 opub: Mammoth Mystery
 opubdate: Jan. 1946
 opubissue: Vol. 2, No. 1

@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef51
 title: "The Brand of Cain"
 author: Ward Sterling
-date: 2015-08-26
+date: 2017-01-31
+releasedate: 2017-03-14
 opub: 
 opubdate: 
 opubissue: 

@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef03
 title: "This Side Up"
 author: John Ladd
-date: 2015-09-10
+date: 2017-01-25
+releasedate: 2017-03-08
 opub: 
 opubdate: 
 opubissue: 

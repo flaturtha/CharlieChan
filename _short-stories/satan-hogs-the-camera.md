@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef91
 title: "Satan Hogs the Camera"
 author: Emil Petaja
-date: 2015-08-31
+date: 2017-05-25
+releasedate: 2017-07-06
 opub: 
 opubdate: 
 opubissue: 

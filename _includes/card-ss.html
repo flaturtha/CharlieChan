@@ -1,9 +1,11 @@
 <ul class="cards">
 
 <!--  assign sort1 = site.short-stories | sort: 'wordcount' %}
-
  for short-stories in sort1 %} -->
- {% for short-stories in site.short-stories %}
+
+{% assign datesort = site.short-stories | sort: 'date' | reverse %} <!-- sorts in blog-post-like reverse chron order -->
+
+{% for short-stories in datesort %}
 
  <!-- if short-stories.wordcount < 3001 %} -->
 

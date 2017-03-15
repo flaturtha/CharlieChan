@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef25
 title: "The Long Arm of God"
 author: Ward Sterling
-date: 2015-08-28
+date: 2017-01-11
+releasedate: 2017-02-22
 opub: 
 opubdate: 
 opubissue: 

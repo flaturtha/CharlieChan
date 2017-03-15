@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aeefc
 title: "Ghost-Town Slays"
 author: James E. Hungerford
-date: 2015-08-26
+date: 2017-03-01
+releasedate: 2017-04-12
 opub: 
 opubdate: 
 opubissue: 

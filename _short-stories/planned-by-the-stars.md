@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef27
 title: "Planned by the Stars"
 author: C. S. Montanye
-date: 2015-09-10
+date: 2017-03-22
+releasedate: 2017-05-03
 opub: 
 opubdate: 
 opubissue: 

@@ -4,12 +4,13 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef09
 title: "Candidate for Death"
 author: Theodore A. Tinsley
-date: 2015-08-24
+date: 2017-03-04
+releasedate: 2017-04-15
 opub: All Detective Magazine
 opubdate: March 1933
 opubissue:
 category: short-stories
-excerpt: Hired guns gave their wolf cry when the Scarlet Ace passed the word, but they forgot the law of the pack until they paid the price of fear.
+excerpt: "Hired guns gave their wolf cry when the Scarlet Ace passed the word, but they forgot the law of the pack until they paid the price of fear."
 image: /assets/img/short-stories/candidate-for-death_right.svg
 imgh: 300px
 genre: Crook

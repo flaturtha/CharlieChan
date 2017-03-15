@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef06
 title: "Double-Crosser"
 author: Johnston McCultey
-date: 2015-08-26
+date: 2017-05-18
+releasedate: 2017-06-29
 opub: 
 opubdate: 
 opubissue: 

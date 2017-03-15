@@ -29,6 +29,8 @@ layout: default2
 
       <h2 class="books__author" itemprop="name">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
       
+      <p class="opub__ss"><em>{{ page.opub }}</em> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</p>
+
       <p class="metadata">
         <span class="etr">read time:
           {% if site.readtime %}

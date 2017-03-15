@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefb7
 title: "The Case of the Boomerang Bomb"
 series: A Dixon Hawke Mystery
-date: 2015-08-24
+date: 2017-02-22
+releasedate: 2017-04-05
 opub: Dixon Hawke's Casebook
 opubdate: Spring 1940
 opubissue: No. 4

@@ -4,10 +4,11 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef04
 title: "Score None for the Chair"
 author: Thomas Thursday
-date: 2015-08-28
-opub: 
-opubdate: 
-opubissue: 
+date: 2017-01-02
+releasedate: 2017-02-13
+opub: Crack Detective
+opubdate: May 1949
+opubissue: Vol. 10, No. 2
 category: short-stories
 excerpt: “Look, bub, when you’ve been in the crime-chipping business as long as I have, you’ll learn that a criminal investigator has two duties. One is to prove guilt; the other is to prove innocence.”
 image: /assets/img/short-stories/score-none-for-the-chair.svg

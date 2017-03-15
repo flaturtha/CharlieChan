@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefb3
 title: "You Remember Jeanie"
 author: John D. MacDonald
-date: 2015-09-14
+date: 2017-02-15
+releasedate: 2017-03-29
 opub: 
 opubdate: 
 opubissue: 

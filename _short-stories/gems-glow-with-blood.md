@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef83
 title: "Gems Glow With Blood"
 author: Joseph Cummings
-date: 2015-08-26
+date: 2017-02-09
+releasedate: 2017-03-23
 opub: 
 opubdate: 
 opubissue: 
