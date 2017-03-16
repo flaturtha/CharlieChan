@@ -1,0 +1,1047 @@
+---
+layout: short-stories
+layoutTag: post
+casefileNumber: 55ccf75fb3901011515aef68
+title: "Private Lessons"
+author: By Hugh MacNair Kahler
+authorData: "(Author of “Local Talente”)"
+date: 2017-02-03
+releasedate: 2017-03-17
+opub: Mammoth Mystery
+opubdate: Jan. 1946
+opubissue: Vol. 2, No. 1
+category: short-stories
+excerpt: "Rufus Tench, Sparta’s private banker, was thrilled at the prospect of teaching Sheriff Mackrimmon and the rest of the drawling natives a hard financial lesson but then Layton’s scheme flops and Tench finds himself learning a lesson from the old Sheriff."
+image: 
+genre: Professional Sleuth
+tag: short-story
+wordcount: 8551
+trfissue: Vol. 1 No. 5
+trfdate: Jan. 29, 2017
+kindle: 
+epub: 
+---
+
+<section id="toc" class="toc">
+  <header>
+    <h6>Table of Contents</h6>
+  </header>
+<div id="drawer" markdown="1">
+1. Auto generated table of contents
+{:toc}
+</div>
+</section> <!-- table-of-contents -->
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+<hr>
+
+### Chapter 1
+{: .chapternumber .no_toc}
+
+### The Situation
+{: .chaptertitle}
+
+From the window of the little brick bank Rufus Tench could see most of
+Sparta; his glance included the dingy courthouse in the delta of the
+road on one side, and the frame station between the two warehouses for
+cotton and tobacco on the other—a somnolent, threadbare little county
+seat, already beginning to drowse through the blazing day, although the
+sun barely had lifted above the roof the Mackrimmon House, and a broad
+belt of shadow lay along the farther side of the highway.
+
+Mr. Tench frowned as he inspected the familiar setting; Sparta
+perpetually offended his sense of fitness, and the offense deepened as
+his attitude became more and more proprietary. He resented the deep dust
+of the road, the paintless buildings, the languor of the few inhabitants
+who were visible, the air of apathetic shiftlessness which lay over the
+village as perceptibly as the film of summer dust which grayed the sod
+and shrubs about the courthouse.
+
+Properly managed, Sparta might have been busy, prosperous, alive, like
+the faraway towns Mr. Tench remembered. There was plenty of money to be
+made here; the surrounding country had proved fertile, and no rival
+settlement was within a radius of fifteen miles. Rufus Tench had chosen
+it with an eye to these conditions; he had made a good thing of his
+little private bank, very largely because his brisk energy set him apart
+among the drawling, shambling natives. In one of those bustling
+communities he thought of, it would have been harder to start a bank,
+harder to make it pay, harder to retain a monopoly of the business.
+Rufus Tench was perfectly aware of this, but, because he had come to
+feel that Sparta belonged to him, he was ashamed of the characteristics
+which had mainly contributed to that result.
+
+He scowled as he watched two slouching darkies shuffle across the road
+from the jail in the basement of the courthouse, carrying a huge basket
+between them. If Mr. Tench had held the contract for feeding the
+prisoners there would be money in that empty basket; he was irritated by
+the reminder that Sheriff Dan Mackrimmon pampered the jail inmates on
+regular hotel fare, instead of giving them their bare legal allowance.
+
+His eye followed the pair to the corner of the rambling wooden building
+which housed the hotel, and rested speculatively on the two-story porch
+which masked its streetward face. It could be a little gold mine, that
+hotel, if a businessman owned it. When the court was in session every
+bed was in demand; even during the dullest months there were a few daily
+visitors, marooned in town between the morning train from the main line
+and the afternoon “mixed” back. And the jail contract alone would pay
+expenses.
+
+He would not have regarded the double galleries so bitterly if Sheriff
+Mackrimmon had been enjoying the revenue which Mr. Tench had estimated a
+hundred times. It was the knowledge that Mackrimmon barely made ends
+meet, which exasperated him. The sheriff just about supported himself on
+the proceeds of his several activities: the meager fees of his office,
+the slender margin of profit on the jail contract and the hotel itself,
+the occasional windfall from the livery he operated in connection with
+it. Mr. Tench would have made every one of those sources more
+productive, and the daily contemplation of a potential gain going
+placidly to waste had come to seem almost an affront.
+
+Mackrimmon wouldn’t sell, even at a figure well above the presumptive
+value of his property. He would not consider incorporating himself and
+permitting Mr. Tench to secure an interest. He was contemptibly content
+to drift along, earning a bare living from a business which ought to
+have made him rich.
+
+The shoofly train groaned to a halt at the station. Mr. Tench watched a
+little group descend from the single coach, his eye sifting out the
+aliens from the homing native traveler. He scowled more acidly than ever
+as he saw the five salesmen march along the strip of shade to the hotel,
+instead of scattering at once to their work. It was after eight, and
+these men had been riding nearly an hour, but they had waited for
+breakfast, nevertheless. Mr. Tench knew why: at the Mickrimmon House
+they could buy a dollar meal for fifty cents. Mackrimmon couldn’t seem
+to realize that prices had gone up!
+
+He stood in the window, thinking wistfully of what he could do with such
+an opportunity, hugging his contempt for the sheriff and the community
+which tolerated him. His lips tightened and drew down as he saw
+Mackrimmon leave the courthouse and come toward him, a great, swollen
+figure in faded blue serge, a rusty, wide-brimmed black hat casting a
+shadow like a mask across the upper part of his red, plump face. The
+man’s very walk was shiftless, he thought. But the frown faded when he
+realized that the sheriff was headed for the bank, and guessed his
+errand. There was a solace in the thought of the coming interview.
+
+Mackrimmon nodded gravely and said good morning in a slow, thin drawl.
+The banker answered briskly.
+
+“Well, sheriff, what can we do for you? Decided to sell me that hotel,
+after all?”
+
+Mackrimmon shook his head, without a smile for the mouthworn jest.
+
+“I wanted to talk to you about that Lovatt sale, sir.”
+
+“Oh, that’s set for today, is it? I’d forgotten—” Mr. Tench assumed the
+expression of one preoccupied by a multitude of concerns.
+
+“No—tomorrow. But I’m kind of busy, and I wanted to talk to you
+beforehand.”
+
+“What about? There’s no hitch, is there?” Mr. Tench spoke sharply.
+
+“No, sir. That’s all right. But I come over to see if you wouldn’t let
+up on young Jeff a mite. Seems like it’s kind of hard on him to lose the
+place, after the way he’s worked on it.”
+
+“It is hard on him—of course. It ought to be. A man who buys land
+without having the title searched, and then neglects to record the deed,
+deserves to suffer smartly, sheriff. What about it?”
+
+“I know’ the law, sir. It’s on your side, sure enough. Your title’s
+good, and Jeff’s ain’t, and it’s your land, according to the court. But
+Jeff don’t see it that way. Looks to him like you and the law had
+cheated him. And he’s worked right hard for three-four years on that
+place—cleared the scrub and planted peaches—”
+
+“Sit down, sheriff. I want to explain this thing to you.”
+
+Mr. Tench placed a chair importantly. Mackrimmon shook his head.
+
+“Reckon I’ll stand, sir. But I’m listening.”
+
+"Just as you like. You sympathize, I take it, with young Lovatt, or you
+wouldn’t be here pleading his case. I want you to understand why I’m
+insisting on my rights. It’s not money, sheriff—it’s principle.”
+
+He achieved the expression of conscious virtue with which he invariably
+accompanied the useful word.
+
+"You’ll agree, I think, that if you didn’t arrest lawbreakers, and if
+the court didn’t punish them, we’d have a great many more crimes than we
+do. I mean that mercy would be bad for the community, perhaps bad, too,
+for the offender himself. He’d go on breaking laws until he got himself
+into worse trouble.”
+
+"That sounds like sense, sir. But young Jeff—”
+
+"You’ll say that he hasn’t broken any law. That’s exactly my point,
+sheriff. He has. He’s broken a law that’s older and stronger than any
+statute on your books. He’s been a fool. And the law of nature herself
+is that a fool shall suffer for his folly.”
+
+The sheriff pondered this deliberately. "Maybe it’s like you say. But on
+the other hand—”
+
+"Stop and think. If I let young Lovatt escape the just consequences of
+his neglect and stupidity, as you want me to, I suppose, I should
+encourage him in this folly. He wouldn’t learn anything by this
+experience. And I should encourage others like him in similar
+foolishness. By standing on my rights, I teach him that it comes high to
+be a fool, and I teach the whole community that same lesson.”
+
+"You aim to take the place away from him, then?”
+
+"Excuse me—that’s not the way to put it. I intend to keep what the law
+says is mine. The place never belonged to young Lovatt. He only thought
+it did.”
+
+The sheriff nodded. The door behind him opened, and a man came in, a
+neat, alert young fellow in linen clothes—one of the arrivals on the
+morning train.
+
+“Don’t let me interrupt, gentlemen. I’m in no hurry.” He stood back, as
+if withdrawing, removed his hat, and turned to look out of the window.
+
+"Then I reckon it’s no use me talking to you,” said Mackrimmon slowly.
+“As long as it ain’t the money you’re after. Principle’s different. If
+you feel like it’s your duty to put Jeff off his land, I expect you got
+to do it. I’m right sorry. Jeff’s going to be kind of hard to arrest.”
+
+"Arrest?” Tench lifted his brows again. "You must misunderstand. There’s
+no criminal charge against him. He’s possibly guilty of technical
+trespass, but I haven't any intention of making such a charge. You have
+only to dispossess him, formally—”
+
+"I know all that. They’s no charge against him now. I was lookin’ ahead,
+sir. You go through with this, and I’ll be arresting Jeff right quick.”
+
+"What for?” The banker scowled. "Why, for murder, sir. You don’t think a
+hill boy like Jeff Lovatt’ll leave you take his farm from him and not do
+anything about it, do you? I expect you don’t know the breed, sir.”
+
+"Nonsense!” Tench spoke impatiently. "I’m not afraid of anything like
+that. He’s not fool enough to risk hanging for a bit of spite—”
+
+“Excuse me, Mr. Tench, but wasn’t you just saying that he was a fool,
+and that you had to learn him not to be? He’s this kind of a fool, sure
+enough. And when you take that land he won’t have nothing to lose. I
+notice a man shoots quicker when he’s got nothing ’n where he’s well
+off. Jeff’ll sure try to kill you. And he’s right apt to hit what he
+aims at, sir.”
+
+The stranger half turned, Tench saw. The banker tried not to believe
+Mackrimmon’s even, drawling speech, but a persistent memory brought
+young Jeff Lovatt’s face before him, long narrow, lean, the cheeks
+concaved, the eyes deep-set and dark and steady. He broke out hotly.
+
+“That's a fine statement to come from the sheriff of the county. If you
+think he intends to kill me it’s your duty to prevent it.”
+
+“Yes, sir. That’s why I’m here. The only way I know of keeping Lovatt
+from killing you is to go easy on him, or kill him first. I can’t lock
+him up on suspicion. I’d have to wait till he got you and then go after
+him. And that’d be a mean job, Mr. Tench—yes, sir. Right mean. I know
+Jeff.”
+
+“I take you to witness that this amounts to intimidation!” Tench
+appealed to the stranger. “Here is the sheriff practically threatening
+me with murder if I don’t surrender my unquestioned legal rights!”
+
+“You can look at it like that, if you’re a mind to!” Mackrimmon nodded.
+“I’m only telling you what I know. Suppose you take Jeff’s note for what
+you’re out of pocket on this deal, and give him a clean title to the
+place. Wouldn’t that be better’n waiting for a bullet the first time
+Jeff got a good bead on you? Teaching fools is all right, Mr. Tench, but
+it looks sort of risky to me.”
+
+The stranger met Tench’s eye over the sheriff’s shoulder. Mr. Tench
+distinctly observed a faint, droll droop of one eyelid. It puzzled him.
+
+“I suppose I’ve got to,” he said sulkily. “Bring me his note, and I’ll
+have the deed ready. But I won’t forget this, sheriff. You’ve threatened
+me, acted as spokesman for a man you admit is practically a murderer—.”
+
+“You’re welcome to remember it, sir. I do the best I can. And I hate
+killings in my county. We ain’t had one for quite a spell. I’ll fetch
+you that note right away. I got young Jeff over at the hotel.” He
+plunged a great hand into a sagging coat pocket and exhibited a cheap
+revolver. “Lucky I saw him first, Mr. Tench. A six-gun and a grudge and
+a quart of blockade liquor mix mighty mean in a hill boy. Good mornin’,
+gentlemen.”
+
+He slouched heavily out, leaving a thick silence behind him. It was the
+stranger who broke it, in a cautious, significant whisper.
+
+“You’ve dropped a bit of coin, Mr. Tench. How’d you like to get it back
+—with some interest?”
+
+Tench surveyed him shrewdly, his grievance retreating instantly as the
+hint of a business transaction challenged his sagacity. His lips drew
+back from his teeth in a flat, mirthless grin.
+
+“I thought so. You don’t want me to cash a check, do you? Because I
+wouldn’t! What’s your game?”
+
+The stranger chuckled. “The same as yours, Mr. Tench. Teaching fools the
+high cost of foolishness. I make it pay me. Want it to pay you?” Mr.
+Tench gestured toward a chair. “Sit down and go on,” he said
+noncommittally. But his eyes glittered.
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+<hr>
+
+### Chapter 2
+{: .chapternumber .no_toc}
+
+### The Scheme
+{: .chaptertitle}
+
+The other crossed his legs comfortably.
+
+“I expect to do a little business with some of the farmers around here,
+and I’m going to take their notes. I’ll want to discount them—quick.
+That’s where you come in.”
+
+Mr. Tench grinned faintly, but he did not permit his caller to see it.
+His guess, he saw, had been accurate. This man used his wits actively.
+
+“I see. And what do I get for obliging you?”
+
+“A flat fifty-fifty split. Thirty-day paper. You choose the signers
+yourself. That’s part of it. Tell me a few names that are good for real
+money, and I’ll do the rest.” Again his eyelid drooped slightly.
+
+Mr. Tench meditated. He had heard often enough of such transactions, but
+it had never happened that one had been proposed to him till now. He
+knew that the innocent third party in a swindle occupied an unassailable
+legal position. And his lips went dry at the thought. Even when one
+could charge twenty per cent a year for a loan, it was slow business,
+with a small capital. Here was fifty, in thirty days!
+
+“That sounds rather good,” he said quietly. “Good. What’s the scheme?”
+The stranger regarded him shrewdly. “How much of it do you want to
+know?”
+
+Mr. Tench grinned. “Begin, anyway. I’ll tell you when to stop.”
+
+“Oil stock, that’s all. I sell ’em ten-dollar shares for ten cents, and
+take their notes in payment. That enough?”
+
+Mr. Tench frowned. “You think you could sell any stock to these people
+back here? You couldn’t give them government bonds!”
+
+“That’s my job. I’m betting I can. If I don’t, you’re nothing out. If I
+do, you're in just half what I get. You can’t lose, either way. Just
+leave that part of it to my silver tongue.”
+
+The banker saw the force of this and caught the undertone of confidence
+in the man’s speech. This fellow knew that he could sell that stock. He
+must have some special method, or he wouldn’t be so sure.
+
+“How do you work it?”
+
+“Oh, I’m a good salesman, for one thing. And I get to ’em by leasing
+their own land, first. Pay ’em spot cash for a five-year oil lease. Sell
+’em stock for a thirty-day note. Don’t worry about my end of it. I can
+attend to that.”
+
+Mr. Tench saw through it instantly. That lease would have to be signed
+by the lessor, and his wife, too, probably. And when it had been cut
+along the proper lines it would become a simple promissory note,
+perfectly collectible at law by any innocent third party. It was, in
+short, nothing but the ancient swindle of the seed-oats contract,
+modernized and improved. He chuckled as he saw the beautiful simplicity
+of it. Everybody felt sure there was no oil within a hundred miles of
+Sparta; to be offered real cash for utterly worthless oil rights would
+seem to these hardworking farmers like a sheer windfall. They’d bite—and
+bite hard.
+
+“Let’s see your lease,” he said shortly. The other hesitated.
+
+“Sure you want to? All you know now is that I told you I was selling oil
+stock and offered you good paper for discount that I said I’d taken in
+payment. Better let it go at that, hadn't you?”
+
+“Who’s going to tell what I know or don’t know? Let me see the lease.”
+
+The stranger produced a printed sheet of fine type and spread it on the
+desk. Mr. Tench went through its clauses methodically. He had seen oil
+leases often enough to recognize this as a usual form. Only at the
+bottom, where blank spaces had been left for figures and signatures, did
+he find any departure from the ordinary. He saw the break between the
+words where the scissors would cut; the note form stood out like a
+framed inscription.
+
+“That seems quite regular,” he said dryly. “But I don’t think we can do
+business, Mr. —”
+
+“Layton,” said the other. “And you’re dead wrong. We can do business,
+and we’re going to. This is a quick turnover—the softest money you’ll
+see in a lifetime—and the safest.
+
+You don’t risk a cent. And—”
+
+“I don’t like it. It’s not in my line.”
+
+“I won’t split any better than fifty- fifty,” said Layton tartly. “No
+use trying to boost me that way.”
+
+“I’m not interested,” repeated Tench. He meant it. He had steered fairly
+near the wind in the matter of the usury laws, but this was different.
+No scruple restrained him, but fear was more potent. This was fraud;
+safe, as it seemed. He ached for the easy profit it offered, but he was
+afraid.
+
+“That’s too bad.” Layton half closed his eyes. “I was rather counting on
+you. You’d like a chance to get back at the sheriff, wouldn’t you? I
+thought I’d begin with him. I heard he had a little farm outside of
+town—”
+
+Mr. Tench jumped. “You mean you’d have the nerve to try it on him?”
+
+“Would I? Why, I’m going to charter him and his buggy to drive me around
+to see the others. I’m going to make him help me sell ’em. When the
+plug’s pulled he’ll be holding the bag and looking foolish, too! You
+watch me!”
+
+Mr. Tench leaned forward. “I’ll do it,” he said huskily. “Take down the
+names. Daniel Mackrimmon up to—up to fifteen hundred. H. D. Fraser, a
+thousand; Lawrence Neil, a thousand and—”
+
+“That’s enough,” said Layton presently. “I’ll be in with the notes some
+time this afternoon. Have the cash ready.”
+
+Mr. Tench nodded. A brilliant idea came to him, and he instinctively
+avoided Layton’s eye, lest his own reveal too much.
+
+He saw Layton cross the road to the hotel, and a few minutes later
+Mackrimmon brought over Jeff Lovatt’s note for a thousand dollars, with
+a quitclaim deed for Tench’s signature.
+
+Mr. Tench signed it almost happily.
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+<hr>
+
+### Chapter 3
+{: .chapternumber .no_toc}
+
+### The Deal
+{: .chaptertitle}
+
+“Son, I need the money, but I’m bound to tell you they ain’t a drop of
+oil anywheres around here. It’s plumb foolish to fool with this idea you
+got.” Mackrimmon wagged his head.
+
+Layton chuckled.
+
+“That’s my lookout, sheriff. If I want to throw my money away, it
+shouldn’t worry you.”
+
+“Maybe not. But I wouldn’t feel right about leavin’ you throw it away
+into my pocket, son.”
+
+Layton hesitated. He leaned toward the other confidentially.
+
+“I see I’ll have to tell you, after all. But I wish you’d keep it quiet,
+if I do. It’s just a gamble, of course, like any oil speculation, but it
+looks good to me. I’ve had a man scouting around here, making sure, and
+I’m putting a small bet on his report. I don’t know that there’s oil
+here, but I think there is—think so hard enough to risk a little change
+on leases and trial wells. Now you know where I stand.”
+
+“You’ll lose it,” persisted Mackrimmon. “The best oil folks have looked
+us over—”
+
+“And they’ve overlooked a good many other winning bets, too. Don’t you
+worry about me, sheriff. I’ve been in this game quite a while, and it’s
+paid me good money right along.”
+
+The sheriff inspected him attentively over the lifted lower lids of very
+bright blue eyes.
+
+“Well, if you feel that way about it, I reckon I can stand it if you
+can. Let’s see the lease.”
+
+Layton exhibited the printed form, and Mackrimmon read it carefully. He
+nodded. “It looks all right to me, son, but I reckon I better take it up
+to Judge Keever and leave him go over it. You don’t object to that, do
+you?”
+
+“Glad to have you. I’ll save argument with the others if you’re
+satisfied that it’s all right.” Layton spoke heartily.
+
+Mackrimmon plodded away, returning, after a quarter hour, with Judge
+Keever’s assurance that the lease was entirely in order. He signed it,
+forming the letters clumsily.
+
+A barefooted negro boy fetched a horse and buggy to the front door, and
+the two men climbed into it, the sheriff taking the reins. As they drove
+down the main road Rufus Tench stood in the bank window, watching.
+Layton did not glance at him.
+
+“Pretty sharp customer, that banker of yours,” he said.
+
+“Reckon so, son. Rufus Tench is mighty near as sharp as he thinks he
+is.” He chuckled. They drove out of the village over a deep-rutted sandy
+road which wound between fields of cotton and tobacco and lifted over
+ridges crowned with thrifty orchards of young peach trees.
+
+Before noon they had made two calls and secured signed leases at each;
+the sheriff, to Layton's relief, advised his constituents to accept his
+offer.
+
+“It’s twenty-five dollars sure, Kobe, and a seventh of all the oil they
+find on your place, and you get the rights back in five years if they
+don’t strike oil before then. Judge Keever advised me to lease my place,
+and I done it.” He drew up at a rickety cabin in a hollow, after leaving
+the Fraser farm.
+
+“You didn’t say nothing about leasing this here land, son, but I reckon
+you ought to have it, and Sim Pittenger he needs the money right bad,
+too.” Layton shook his head. “Don’t want it. The report doesn’t mention
+him. His land doesn’t lie right, I’d say. Better get on—want to finish
+up in time to catch that afternoon train out, sheriff.”
+
+Mackrimmon did not argue the matter, and they reached the Neil place at
+dinnertime, sharing a meal in the open gallery between the two wings of
+the farmhouse and signing another lease before Neil went back to the
+fields.
+
+It was drawing on toward four o’clock when they reached the town again.
+Layton mopped his neck with a wadded handkerchief.
+
+“Guess I’ve got time for a quick bath before the train goes,” he said.
+“I’ll take a room—”
+
+“No need to waste the money, son. You’re welcome to use the bathroom.”
+
+“Want room to dress in,” Layton said, laughing. “You ought to soak me
+for it, sheriff. You hotel folks have to make your money when you can.”
+
+The grinning darky shambled around the corner of the porch and took the
+bit while the two climbed down. Layton laughingly insisted on renting a
+room, and Uncle Jimmy Stygall, interrupting his afternoon perusal of
+yesterday’s paper, laid aside the thick reading lens with which he
+helped his purblind eyes, and stumped upstairs to pilot him. The sheriff
+lowered himself to a wide chair in the dusky coolness of the office,
+folded his hands across his stomach, and let his head droop forward.
+
+Uncle Jimmy found him so when he came back, and did not interrupt him.
+He read diligently, the thick handglass lifted almost to his nose, the
+newspaper hardly an inch away from it.
+
+“You’ll wear them eyes plumb out, Uncle Jimmy,” said the sheriff mildly.
+“Have one of them headaches if you don’t quit.”
+
+The old man grumbled, but yielded, laying the glass on the counter
+beside the register.
+
+Layton came to the inner door. He was in his shirtsleeves.
+
+“Say, sheriff, what’s the matter with your lights? None of the bulbs
+upstairs seem to work.”
+
+Uncle Jimmy snickered. “Ain’t nothing the matter with them lights. Come
+sundown they'll work, all right. What’d anybody want of a light in the
+daytime?”
+
+“I like to shave by electric light,” said Layton quickly. “Not till
+sundown, eh? What time is that?”
+
+“Lights go on at seven,” said the sheriff without looking up. “Have to
+let the pond fill up, daytimes, ’r they wouldn’t be no power at all.”
+
+Layton hesitated. “Oh, well, it doesn’t matter. I’ll get along without
+the shave.” He stopped. “What time does that train go, did you say?”
+
+“Five-four,” said Uncle Jimmy. “You ain’t got much time for a bath,
+mister.”
+
+“I’ll take a quick one.” Layton disappeared, and a hissing sound in the
+pipes presently announced that the tub was filling. The two men sat in
+the darkened office, the sheriff nodding over his folded hands. There
+was a long silence. Then Uncle Jimmy said:
+
+‘‘Fine thing! Lights in daytime! ‘Like to shave by one,’ the feller
+said! Never heard of such a fool business!”
+
+“It ain’t so foolish as it sounds, Uncle Jimmy.” The sheriff still spoke
+mildly. “You take and lay down a spell, while I tend the office. I got
+some thinkin’ to do, Uncle Jimmy.”
+
+The old man shuffled away, and the sheriff resumed his meditations. He
+glanced up at the noisy clock from time to time. At five o’clock there
+was still no sign of Layton, and Mackrimmon stumped to the foot of the
+stairs.
+
+“Hey, son! Train starts in four minutes.”
+
+A violent splash answered him. Then Layton’s voice:
+
+"Gad! I forgot all about it! Can’t make it, now! Have to take the next
+one.”
+
+“That’s tomorrow morning, you know.”
+
+“Pshaw! That’s too bad! I wanted to get the express north. Say, sheriff,
+couldn’t you drive me over to the main line, after supper? That train
+doesn’t go up till eleven something, and it’s only twelve miles, isn’t
+it?”
+
+“Guess I could.” Mackrimmon nodded. “Have to charge you pretty high,
+though.”
+
+Layton laughed. “That’s all right— stick me all you please. I deserve
+it!” The sheriff went back to his chair. His eyes sagged shut, and he
+sat very still, a feeble grin showing at the corners of his mouth. He
+was still sitting so when Mr. Tench closed up his bank and came across
+the road to supper.
+
+Mr. Tench was in a bad humor. He had spent nearly two hours looking out
+of his window at the doorway of the hotel and waiting for Layton to
+appear. He scowled at the drowsing sheriff and stalked past him, going
+upstairs to his room. There was no sound from the lower floor, as he
+waited in the upper hall, listening. He identified Mr. Layton’s room by
+a cheerful whistle from behind its door, and he tapped carefully at the
+scarred panels.
+
+Mr. Layton thrust a bath-wet head into the hall, and shook it warningly.
+
+“After supper,” he whispered. “I got him, all right, but we better play
+it safe. He looks pretty soft, but you can’t always tell.”
+
+Tench grumbled under his breath, but his eye lighted, nevertheless, at
+the news that the sheriff was hooked. He possessed his soul in as much
+patience as the circumstances permitted, while he waited for the brazen
+summons of the supper bell. His thoughts were pleasing.
+
+If the sheriff had really signed a presumptive note for any considerable
+sum, Mr. Tench’s ancient ambitions concerning the hotel were already
+well on their way toward fulfillment. When the note came due there would
+be no cash to meet it; there never was any cash in Sparta unless it was
+borrowed from Rufus Tench. And it wasn’t likely that any outside bank
+would care to loan money on a property like the hotel. It couldn’t show
+a profit, on paper or otherwise, under the sheriff’s management. Nobody
+except Mr. Tench himself saw any possibility of gain in its tumble-down,
+paintless building. The property would go under the hammer, as a good
+many others had gone since Mr. Tench had come to Sparta.
+
+He grinned acidly at a bright mental picture of Sheriff Mackrimmon
+engaged in selling out Hotel-keeper Mackrimmon, to satisfy the judgment
+which that note would surely yield. And he foresaw, too, that the
+sheriff would loudly protest when the trap closed, and thus reveal
+himself to the community as a person of such simplicity that he could
+hardly be considered a fit occupant of such an office as he now held.
+Everybody would laugh at him; Mr. Tench was comfortably certain of this.
+
+The liberal supper he consumed presently, he resented as if it
+represented a loss to his own pocket. When the hotel belonged to him he
+would speedily alter this wasteful habit of overfeeding guests at a
+ridiculously low figure. He’d fire those old darkies who wasted money in
+the kitchen, and put in a businesslike cook the first thing. And he’d
+send that doddering old fool Uncle Jimmy packing off to the Veteran’s
+Home, too. He was just a dead weight on the business.
+
+A little paint, he told himself, and some new furniture, not too
+expensive, would bring the place near enough to modernity to warrant
+doubling its present schedule of prices. He’d make it show a pretty
+profit from the first week.
+
+His impatience brought him to Mr. Layton’s elbow the moment the meal was
+over, and the stranger left the table for a cigarette on the gallery.
+Layton shook his head again.
+
+“Wait till dark,” he whispered. “You be over at your office in about an
+hour, and I’ll drop in when it’s safe. You don’t want to figure in this
+thing any more than you have to.”
+
+Mr. Tench saw the force of this advice. The fewer circumstances
+indicating a close acquaintance between himself and Layton, the safer
+the subsequent proceedings must be. He crossed the road and unlocked the
+bank door. It was beginning to darken, now, and the filament in the bulb
+over his desk glowed to a feeble red as he pulled down the green window
+shades.
+
+He unlocked his safe and extracted a compact sheaf of worn bills, which
+he laid on his desk and counted lovingly. Most bankers would have
+returned money in this condition to the treasury, but Mr. Tench hated to
+think of a bill being destroyed. He liked the look and feel of old bank
+notes far better than of new; there was an effect of value in soiled,
+crumpled bills which endeared them to him. New money represented nothing
+but the government’s assertion of worth; old, hand- worn notes somehow
+had acquired an intrinsic value. They stood for the labor by which
+calloused hands had wrung them out of the earth or nimble wits won them
+from trade. Mr. Tench caressed the rough surfaces affectionately as he
+counted. One bill had been torn almost across, and he stopped his count
+long enough to repair it carefully with neatly scissored strips of
+gummed paper.
+
+A thousand dollars, in fives and tens and twenties, made quite a
+respectable bundle, he thought. It was a pity to spend it. Perhaps he
+could avoid even that, if he was clever about it. The strategic
+advantage in the coming interview lay altogether with him. Layton was
+nothing but a common crook, who couldn’t run any risk of exposure; Rufus
+Tench was a respectable and honest banker, whose position was legally
+unassailable. Why should he throw away a thousand dollars when a hundred
+would suffice?
+
+He meditated leisurely over this idea, finding it more and more
+appealing. By the time a quiet tapping at his window glass announced the
+arrival of his fellow conspirator he had definitely decided to try it.
+
+Mr. Layton sidled nimbly past the edge of the door, his keen face alert.
+
+“Must hurry, now. I’ve got the old boy out of the way, hitching up to
+drive me over to the main line. Let’s hustle. Here you are.”
+
+He put a handful of documents on the counter. Mr. Tench snatched at the
+uppermost one. He could see where it had been cut from a larger sheet.
+The margins were so narrow that the type nearly fell over the edges, but
+it was a note, in due legal form, for fifteen hundred dollars, and it
+bore the signature of Daniel Mackrimmon. Mr. Tench was wholly familiar
+with that awkward, clumsy script. His fingers trembled a little as he
+held the paper.
+
+“I’ve got a total of four thousand there,” said Layton. ‘‘Hurry up,
+brother—there’s no time to lose.”
+
+Mr. Tench deliberately examined the remaining notes. They were all in
+order, and each signed by a man perfectly good for the amount. He knew
+that he could force collection of every penny of their value, or, if he
+was obliged to take judgment and levy on property, he could probably
+collect a great deal more than the face of the notes. It was not a
+speculation, but a sure thing.
+
+“I been thinking it over since this morning,” he said, “and I don’t feel
+like going into it. It’s too dangerous.” Layton’s eyes narrowed, and his
+lips tightened flatly over his teeth.
+
+“I was waiting for that,” he said quietly. “I suppose you figure that
+you can only afford to pay about fifty cents for this little wad of
+paper, eh?”
+
+“I don’t want it at any price,” said Mr. Tench,
+
+“You don’t, eh?” Layton’s eye glimmered oddly. “You were never more
+mistaken in your life! You want it so badly that you’ll pay me sixty per
+cent of the face, instead of fifty. And another crack like that will
+cost you another ten-per-cent boost. Trot out the coin and quit
+bluffing. You’d buy that Mackrimmon note at par, if you couldn’t get it
+cheaper. I know your number, Tench. Think I make my living out of this
+game without spotting a cheap crook when I meet one? Come through!”
+
+Mr. Tench made a feeble attempt at bluster. Layton interrupted him
+tartly.
+
+“Seventy per cent, now. And in ten seconds more it'll be eighty. Come
+on!”
+
+“I—I can't. I’ve only got a thousand dollars on hand,” quavered the
+banker. He did not like the ugly glint in the other man’s look; crooks
+were dangerous people, he remembered. Men had been killed for less money
+than lay in his desk drawer.
+
+“Hand it over,” said Layton curtly. Mr. Tench, observing that one of his
+hands rested conveniently in the pocket of his coat, tremblingly opened
+the drawer and produced the bills.
+
+“Now the other thousand—and quick,” said Layton.
+
+Mr. Tench protested, quite truthfully, that he had no more currency on
+hand. He had taken the precaution to put the rest of his cash under the
+safe, so that when he opened it and allowed Layton to look for himself,
+his statement had a color of fact. The swindler glanced at his watch,
+hesitated.
+
+“All right. You get by with it,” he said, and snarled. “But you’ll wish
+you hadn’t, before I’m done with you. I’ll come back here and trim you
+right, one of these days.”
+
+He thrust the bills into his inner pocket and sidled out. Mr. Tench
+watched him through a gap in the curtain as be crossed the road and
+entered the hotel. He reappeared almost at once, climbed into
+Mackrimmon’s buggy, and was driven briskly down the road and out of
+sight. Mr. Tench lovingly recovered his cash from below the safe and
+locked it away, with the precious notes. He was distinctly pleased with
+himself. He’d made a cold profit of three thousand dollars— a thousand
+more than he’d expected. It was the best day’s work of his career.
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+<hr>
+
+### Chapter 4
+{: .chapternumber .no_toc}
+
+### The Payoff
+{: .chaptertitle}
+
+Mr. Tench was still awake when Sheriff Dan Mackrimmon came in after his
+twenty-four mile drive. It was almost morning, but the banker had not
+been able to sleep for thinking of the sheriff’s face when that note
+should be presented for payment. His mind was full of plans for the
+reconstruction of the hotel, when it should come into his hands at the
+auction sale which that note would precipitate.
+
+He heard Mackrimmon come up the creaking stairs, and he felt his face
+twist into its nearest approach to a smile. The sheriff was humming
+faintly, under his breath, a plaintive negro hymn.
+
+“*You won't see me here again;  
+Goin’ to heb’n onna mornin’ train.  
+My sin been taken away!*”
+
+Mr. Tench chuckled. The sheriff never lapsed into music except when he
+was in excellent humor. Probably Layton had paid him five dollars for
+that all-night drive, thought Tench, and the old simpleton was all
+swelled up over such a profit!
+
+He overslept and came down late for breakfast, in a sullen humor.
+Mackrimmon greeted him with his usual reserved courtesy, and the banker
+growled in answer. In thirty days he’d have a pretty bomb to explode
+under this fat, stupid fellow!
+
+The time passed slowly, while he waited for the calendar to bring him
+his triumph. The last week of that month seemed endless; every meal he
+ate at the hotel impressed him as a deliberate theft from him. In any
+live town that much food would bring a dollar or more; it was
+assassinating value to feed casual travelers so. Sometimes he almost
+protested, and restrained himself only by a sharp effort.
+
+On the thirty-first day he stopped at the office on his way out.
+
+‘‘Oh, sheriff—there’s a little note of yours due today. I’d like to have
+you drop in and settle it, if it’s perfectly convenient.”
+
+Mackrimmon regarded him placidly. “Reckon they’s some mistake, Mist’
+Tench. I ain’t signed nary note.”
+
+Tench smiled thinly. “I’m afraid you have, sheriff. I’ve got one which
+is certainly signed by you. Drop over and see for yourself.”
+
+He went out, hugging his exultation. He had rehearsed the coming
+interview over and over, as he waited for today to come. He knew exactly
+what he would say when Mackrimmon came over to the bank.
+
+At ten the sheriff’s big form appeared in his doorway. Tench bustled
+over to his safe and extracted the envelope in which he had filed the
+notes.
+
+“Here we are. sheriff. Take a look at that!”
+
+Mackrimmon bent over the paper. Tench watched him happily, waiting for
+the explosion he was sure would come. But Mackrimmon only nodded slowly.
+
+“I kind of thought it might be that,” he said. “When I see that feller
+in here in the mornin’, and come over again after supper—that oil
+feller, I mean—I had a notion he might be goin’ to do business with
+you.”
+
+“Oil?” Mr. Tench lifted his brows. “This man brought me some perfectly
+good paper, which I discounted for him, but I don’t remember anything
+about oil. Hold on, though—he did tell me that he’d taken the notes in
+payment for stock in some company; it might have been an oil company,
+too. I hope you haven’t been speculating, sheriff. Oil stocks are risky
+investments.”
+
+“That’s how he worked it, eh?” Mackrimmon nodded. “I was wonderin’ what
+story he’d give you. O’ course a smart man like you. Mist’ Tench,
+wouldn’t buy paper from a stranger without some pretty good yarn to
+explain it. He didn't sell no stock—all he wanted was leases, and he
+paid cash for ’em. I was with him eve’ywhere he stopped. These notes
+ain’t notes at all—reckon he must have clipped ’em out of them leases.
+I’ve heard of such games before now.”
+
+“I don’t know what you’re talking about.” Mr. Tench bit off the words.
+“The note’s in order, and I’ll need the money, sheriff. I hope you’re
+ready.”
+
+He stared as the sheriff produced a thick roll of bills.
+
+“I did come over here to pay a note,” said Mackrimmon gently, “but I
+reckon I won’t pay this here one, sir. I didn’t sign it—all I signed was
+a lease for the oil rights out to my farm.”
+
+“I have nothing to do with that. I’ve bought this paper in good faith,
+and I must insist on your settling it, or I shall be obliged to protest
+and sue. I need the cash for other investments.”
+
+“I wouldn’t, if I was you, sir.” Mackrimmon spoke very quietly, but a
+curious hardness appeared in his blue, gentle eyes. “If I was you, sir,
+I’d put them notes back in my pocket and say nothin’ to nobody about
+them. You know it’s a swindle, sir. You must have knowed right along
+that we-all never signed any such papers. It wouldn’t look neighborly
+for you to help a stranger cheat us folks around here, sir.”
+
+Mr. Tench laughed shrilly. “That’s good! I’m to lose four thousand
+dollars because you people have been foolish enough to bite on some
+crooked scheme! You tell me that this man wanted oil leases, eh? Well,
+why did you take his money when you knew there was no oil there? You
+thought you were cheating him, eh? And he’s cheated you. It serves you
+right!”
+
+“Maybe.”
+
+Mackrimmon’s broad, pink face settled to its normal placidity. “You aim,
+then, to sue on these here notes? You aim to help this slick feller
+swindle us home folks?”
+
+“I certainly do mean to collect what’s due me. If you’ve been fools you
+deserve to suffer. I’ve told you before how I stand on that, sheriff.
+It’s my duty as well as my right to collect these notes—it’ll teach you
+and the others not to be so easy next time. You’re not being
+cheated—you’re paying for your education. A wise bird like Sheriff
+Mackrimmon caught on that moss- grown swindle! I don’t see how you can
+afford to have this get out, sheriff! You’d better settle quietly, and
+keep your job. You’ll be laughed out of it if the county ever hears
+about this.” Mackrimmon was silent for a moment. Then he spoke slowly.
+
+“You figger that’s square, Mist’ Tench? If it was you ’t had bit on a
+hook like that, would it look decent and neighborly to you if the other
+feller was to haul you in and string you through the gills?”
+
+“Of course it would! I’m always willing to pay for my education. If I
+needed to learn a lesson like this, sheriff, I’d not only pay the man
+who taught it to me, but I’d thank him. It would be cheap at the price!”
+
+The sheriff settled his chin comfortably on his flat collar.
+
+“That’s what I thought, sir. It makes me feel all right about this here
+business to know you look at it that a way. I ain’t forgot what you said
+about Jeff Lovatt that time you was fixin’ to take his land off’n him.
+Guess it comes high to get sense, sometimes. But as long’s you’re
+satisfied, I reckon eve’ybody is.”
+
+“I don’t know what you’re talking about, sheriff.”
+
+“No? Well, I reckon I can make it clear, if you give me time. You
+remember that oil feller’t sold you these here notes? He tackled me
+first off to sign that there lease of his’n, and right then I kind of
+smelled a rat. I knowed they wasn’t no oil in this county, and I told
+him so. But he said he was willin’ to risk it. So I took Uncle Jimmy’s
+readin’ glass and had a look at the lease. It was all right. I took it
+up to Judge Keever, and he said it was safe to sign. So I done it, and
+let four-five other folks do it, too.”
+
+“That’s got nothing to do with me. It may be as you say, but it doesn’t
+matter. All I know is that these notes are perfectly legal, and that—”
+
+“Wait. This feller was in a mighty hurry to get back to town in time to
+catch the shoofly back to the main line that same afternoon. He kep’ me
+driv-in’ along right fast. But when we got to the hotel what does he do
+but hire a room and start in to take a bath? Funny, eh? What’d you think
+if you’d been me?”
+
+“It has nothing to do with me .”
+
+“Maybe it has. I’m gettin’ there, sir. You jest wait a mite. This feller
+Layton went up to his room. But he come down again in a minute and
+wanted to know why the lights wasn’t on. I told him we only had lights
+at night, and he looked sort of mad, but he went back upstairs and
+started in to take his bath. Stayed in the tub till train time. That’s
+how come he missed it, and stayed over for supper. Got me to drive him
+over, remember?”
+
+“Yes, yes, no doubt. But all this is quite beside the po sheriff.”
+
+“Maybe. You see, Mist’ Tench, when he started talkin' ‘bout a lease to
+me I figgered that he must be up to some trick ’r other, and right away
+I thought of the old swindle they used to work, years ago—get a feller
+to sign some perfectly harmless paper and then cut it in half and have
+an iron-clad note! But me and Judge Keever we looked all over that lease
+of his’n, and they wasn’t no way it could be cut so’s to make a note
+out’n it. I saved the one he give me. You can see for yourself.”
+
+Mr. Tench barely glanced at the printed sheet. He guessed that the
+astute Mr. Layton had furnished a harmless specimen for purposes of
+examination, and secured his signatures to a slightly different
+document.
+
+“I don’t know anything about all this. It’s nothing to do with me,
+sheriff—”
+
+“Not even when I told you he wanted a light—in the middle of the
+afternoon, and missed his train, so’s to stay here till the lights come
+on? I’m right disappointed in you, Mist’ Tench. I sh’d think a thing
+like that’d make you guess right off that he was up to somethin’. It
+only took me a coupla days to figger it out, and I ain’t what you’d call
+smart.”
+
+“What do you mean?” Mr. Tench was vaguely aware of a sudden coldness in
+the pit of his stomach. Lights? What had lights to do with this?
+
+“I guess I know now how he done it,” said the sheriff. “I found the
+glass loose in a picture of General Jackson ’t hangs in the room he had.
+Kind of simple trick, too. He got us to sign them leases, and then he
+carried ’em up to his room and laid that pane of glass on a coupla books
+or somethin’ so’t he could plug the light connection and run a light
+under the glass. Then he jest spread a lease on the glass, laid one of
+these here note forms over it, and traced the signatures, as easy as
+winkin’. I’ve read about that trick, but I never seen it done.”
+
+He fumbled in his breast pocket and drew out Uncle Jimmy’s thick-lensed
+reading glass.
+
+“Take a look at that writing, Mist’ Tench! See how the lines is made up
+of a lot of little strokes? Nobody never signed his name that a way.
+It’s a plain forgery, and I reckon, if this gets to a co’t, we all c’n
+prove it.”
+
+Little beads of sweat broke out on Tench’s face as he stared at the
+magnified signatures and confronted the realization that he had no
+possible redress at law, except against the vanished Mr. Layton.
+
+“I’m right glad you ain’t complainin’, Mist’ Tench, because it’d only
+make folks think you wan’t much of a banker,” drawled Mackrimmon’s
+gentle voice. “An’ maybe you’re right about a lesson coinin’ cheap at
+the price. I reckon you won’t have to learn this one again, sir.” His
+eyes narrowed. “What floors me, sir, is the way he fooled you. That
+writin’ don’t look very good. I been wonderin’ whether you wasn’t maybe
+expectin’ him to bring you some notes like these here—expectin’ so hard
+that you didn’t look at ’em close. But that’s jest guessin’, o’ course.”
+
+Mr. Tench’s mind moved quickly. He couldn’t afford to complain too much,
+or other people would ask exactly that question. A thousand dollars—he
+quivered at the thought of losing it. But there was no help for it. And
+the sheriff’s next speech brought him a measure of comfort.
+
+“The note I thought you was wantin’ me to pay was different, sir. I come
+over here to see you about that paper of Jeff Lovatt’s. It ain’t due
+yet, but if you’re a-wantin’ to get in some cash I’d jest as lief buy it
+off’n you.”
+
+Mr. Tench stared. Buy it? Where? How? But he couldn’t speculate about
+that now. A chance to recoup his losses was too precious to be missed.
+He fetched the Lovatt note, and the sheriff tendered a thick wad of
+bills. Mr. Tench counted them, his fingers shaking.
+
+Suddenly he looked up, and his mouth opened. One of the bills had been
+torn half across and carefully mended with gummed paper. His memory
+groped toward a sudden, incredible suspicion. The sheriff had driven
+Layton over to the train, with this very money. He caught his breath for
+an accusation, and then, under the unwinking gaze of the placid, blue
+eyes, he realized the hopelessness of it.
+
+He signed the note as paid and slid it over the counter. The sheriff
+folded it deliberately and sighed.
+
+“I guess we-all have learned somethin’ out’n this here business, Mist’
+Tench. You can buy right smart experience with a thousand dollars, sir.
+I wonder how much this here thousand’s done paid for, sir.”
+
+And he slouched away, leaving Mr. Tench to guess at the reason why he
+had come home singing, after that night drive over to the main line, and
+to wonder whether Mr. Layton had also secured a thousand dollars’ worth
+of education out of that excursion. As for himself, although he had
+emerged exactly even from the two transactions, he resolved that he
+would take no more private lessons from Sheriff Daniel Mackrimmon. Not
+at any price!
+
+<p id="theend">~ The End ~
+<h6 class="btt"><a href="#top">Back to Top</a></h6>

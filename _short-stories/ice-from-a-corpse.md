@@ -1,21 +1,22 @@
 ---
 layout: short-stories
 layoutTag: post
-casefileNumber: MongoDB _id number
+casefileNumber: 55ccf75fb3901011515aef84
 title: "Ice from a Corpse"
 author: Ed Barceio
 date: 2017-01-30
 releasedate: 2017-03-13
-opub: 
-opubdate: 
-opubissue: 
+opub: Crime Fiction Stories
+opubdate: Dec. 1950
+opubissue: Vol. 1, No. 1
 category: short-stories
 excerpt: "The killers had the doc in a tight spot, but the old medico still had a few tricks up his sleeve."
 image: /assets/img/short-stories/ice-from-a-corpse.svg
 imgh: 300px
 genre: Amateur Sleuth
 wordcount: 1752
-timetoread: EST TIME TO READ
+trfissue: Vol. 1 No. 5
+trfdate: Jan. 29, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Ice_From_A_Corpse.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Ice_From_A_Corpse.epub
 ---

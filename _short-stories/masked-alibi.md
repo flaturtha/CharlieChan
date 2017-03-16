@@ -6,8 +6,8 @@ title: "The Masked Alibi"
 author: John Gregory
 date: 2017-02-08
 releasedate: 2017-03-22
-opub: 
-opubdate: 
+opub: Ten Story Detective
+opubdate: Jan. 1938
 opubissue: 
 category: short-stories
 excerpt: "Hal Robberts of the State Police played a long hunch on &hellip;"
@@ -16,7 +16,8 @@ imgh: 300px
 genre: Professional Sleuth
 tag: short-story
 wordcount: 3202
-timetoread: EST TIME TO READ
+trfissue: Vol. 1 No. 6
+trfdate: Feb. 5, 2017
 kindle: 
 epub: 
 ---

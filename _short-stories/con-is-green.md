@@ -18,8 +18,7 @@ genre: Amateur Sleuth
 tags: amateur sleuth, Ten Detective Aces, Archibald, Dizzy Duo, short-story
 wordcount: 4910
 trfissue: Vol. 1 No. 7
-trfdate: Feb. 14, 2016
-timetoread: EST TIME TO READ
+trfdate: Feb. 12, 2016
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Con_Is_Green.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Con_Is_Green.epub
 ---

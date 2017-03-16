@@ -6,9 +6,9 @@ title: "Ghost-Town Slays"
 author: James E. Hungerford
 date: 2017-03-01
 releasedate: 2017-04-12
-opub: 
-opubdate: 
-opubissue: 
+opub: Smashing Detective Stories
+opubdate: Sept. 1951
+opubissue: Vol. 1, No. 3
 category: short-stories
 excerpt: "When the movie company came in, it looked as if a bad-man gambler had returned from Boothill to get in a few more killings!"
 image: /assets/img/short-stories/ghost-town-slays.svg
@@ -16,7 +16,8 @@ imgh: 300px
 genre: Professional Sleuth
 tag: short-story
 wordcount: 4095
-timetoread: EST TIME TO READ
+trfissue: Vol. 2 No. 9
+trfdate: Feb. 26, 2017
 kindle: 
 epub: 
 ---

@@ -6,9 +6,9 @@ title: "Gems Glow With Blood"
 author: Joseph Cummings
 date: 2017-02-09
 releasedate: 2017-03-23
-opub: 
-opubdate: 
-opubissue: 
+opub: Crime Fiction Stories
+opubdate: Dec. 1950
+opubissue: Vol. 1, No. 1
 category: short-stories
 excerpt: "I’m not too honest a private dick, but I draw the line when MURDER lines up on the wrong side."
 image: /assets/img/short-stories/gems-glow-with-blood.svg
@@ -16,7 +16,8 @@ imgh: 300px
 genre: Hardboiled PI
 tag: short-story
 wordcount: 4576
-timetoread: EST TIME TO READ
+trfissue: Vol. 1 No. 6
+trfdate: Feb. 5, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Gems_Glow_With_Blood.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Gems_Glow_With_Blood.epub
 ---
@@ -30,9 +31,6 @@ epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Gems_Glow_With_Blo
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
-
-<h6 class="btt"><a href="#top">Back to Top</a></h6>
-<hr>
 
 ### Chapter 1
 {: .chapternumber .no_toc}

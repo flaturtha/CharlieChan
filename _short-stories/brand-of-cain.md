@@ -6,9 +6,9 @@ title: "The Brand of Cain"
 author: Ward Sterling
 date: 2017-01-31
 releasedate: 2017-03-14
-opub: 
-opubdate: 
-opubissue: 
+opub: Black Mask
+opubdate: Apr. 1922
+opubissue: Vol. 5, No. 1
 category: short-stories
 excerpt: "A gypsy who can see into the minds of men and see the darkness of their deeds—fortune telling, mind reading and all of that sort of stuff—if it’s results you want, then Lipki is your man."
 image: /assets/img/short-stories/brand-of-cain.svg
@@ -16,7 +16,8 @@ imgh: 300px
 genre: Professional Sleuth
 tags: short-story
 wordcount: 3256
-timetoread: EST TIME TO READ
+trfissue: Vol. 1 No. 5
+trfdate: Jan. 29, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Brand_of_Cain.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Brand_of_Cain.epub
 ---

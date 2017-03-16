@@ -6,17 +6,18 @@ title: "The Mountain Comes to Mohammed"
 author: Amelia R. Long
 date: 2017-02-06
 releasedate: 2017-03-20
-opub: 
-opubdate: 
-opubissue: 
+opub: Smashing Detective Stories
+opubdate: Sept. 1951
+opubissue: Vol. 1, No. 3
 category: short-stories
 excerpt: "When the cops couldn’t figure out how Big Ben Landis was passing his counterfeit cash to his gang, the DA’s younger brother decided to see if he could solve the mystery and catch Landis with the dirty money."
 image: /assets/img/short-stories/mountain-comes-to-mohammed.svg
 imgh: 300px
 genre: Amateur Sleuth
 tag: short-story
-wordcount: 1799
-timetoread: EST TIME TO READ
+wordcount: 1742
+trfissue: Vol. 1 No. 6
+trfdate: Feb. 5, 2017
 kindle: 
 epub: 
 ---
