@@ -6,16 +6,16 @@ title: "The Long Arm of God"
 author: Ward Sterling
 date: 2017-01-11
 releasedate: 2017-02-22
-opub: 
-opubdate: 
-opubissue: 
+opub: Black Mask
+opubdate: Sept. 1920
+opubissue: Vol. 1, No. 6
 category: short-stories
 excerpt: "Without a sign of undue haste, Halligan buckled his belt and holster about his waist. Coolly he unbuttoned the holster and drew the gun. He cocked the weapon and, with his finger on the trigger, waited for the others to settle their argument."
 image: /assets/img/short-stories/long-arm-of-god.svg
 imgh: 300px
 genre: Murder
 tags: short-story
-wordcount: 3712
+wordcount: 3686
 timetoread: EST TIME TO READ
 kindle: 
 epub: 

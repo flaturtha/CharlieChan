@@ -32,10 +32,18 @@ layout: default2
       {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
 
       <h2 class="books__author" itemprop="name">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
-      
-      {% if page.opub %}
-        <p class="opub__ss"><em>{{ page.opub }}</em> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</p>
+      {% if page.authorData %}
+        <p class="authorData">{{ page.authorData }}</p>
       {% endif %}
+      
+      <p>
+        {% if page.opub %}
+          <span style="display:block;" class="opub__ss"><em>{{ page.opub }}</em> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</span>
+        {% endif %}
+        <span style="display:block;" class="opub__ss">THE RED FILE | {{ page.trfissue }} | {{ page.trfdate }}</span>
+        <span style="display:block;font-size:0.875rem;">Casefile No: {{ page.casefileNumber }}</span>
+      </p>
+
 
       <p class="metadata">
         <span class="etr">read time:
@@ -52,7 +60,7 @@ layout: default2
           </span>
         <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span>
         </p>
-        <p>{{ page.excerpt }}</p>
+        <p style="border-top: 1px solid #242424;border-bottom: 1px solid #242424;padding: 0.5rem 0 0.5rem 0;">{{ page.excerpt }}</p>
     </div>
     
 

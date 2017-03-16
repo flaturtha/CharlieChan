@@ -6,17 +6,18 @@ title: "The Unbelievable"
 author: J. B. Hawley
 date: 2017-01-28
 releasedate: 2017-03-11
-opub: 
-opubdate: 
-opubissue: 
+opub: Black Mask
+opubdate: Nov. 1920
+opubissue: Vol. 11, No. 2
 category: short-stories
 excerpt: "\"Then how,\" the coroner leaned over the desk to ask the question, \"do you account for the undeniable fact that your fingerprints are on the handle of the dagger?\""
 image: /assets/img/short-stories/the-unbelievable1.svg
 imgh: 300px
 genre: Professional Sleuth
 tag: short-story
-wordcount: 7992
-timetoread: EST TIME TO READ
+wordcount: 7978
+trfissue: Vol. 1 No. 4
+trfdate: Jan. 22, 2017
 kindle: 
 epub: 
 ---

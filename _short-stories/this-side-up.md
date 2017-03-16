@@ -6,17 +6,18 @@ title: "This Side Up"
 author: John Ladd
 date: 2017-01-25
 releasedate: 2017-03-08
-opub: 
-opubdate: 
-opubissue: 
+opub: Smashing Detective Stories
+opubdate: Sept. 1951
+opubissue: Vol. 1, No. 3
 category: short-stories
 excerpt: "There’s no glamour in crime, particularly when a sixteen-year-old kid turns bank-bandit and killer. A true story of a boy whom no one ever love &hellip;"
 image: /assets/img/short-stories/this-side-up.svg
 imgh: 300px
 genre: Amateur Sleuth
 tag: short-story
-wordcount: 3400
-timetoread: EST TIME TO READ
+wordcount: 3339
+trfissue: Vol. 1 No. 4
+trfdate: Jan. 22, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/This_Side_Up.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/This_Side_Up.epub
 ---

@@ -6,9 +6,9 @@ title: "Hate Calls The Tune"
 author: Clive Criswell
 date: 2017-01-26
 releasedate: 2017-03-09
-opub: 
-opubdate: 
-opubissue: 
+opub: Crime Fiction Stories
+opubdate: Dec. 1950
+opubissue: Vol. 1, No. 1
 category: short-stories
 excerpt: "I had the louse I hated in the palm of my hand, but could I really pin this hot murder rap on him?"
 image: /assets/img/short-stories/hate-calls-the-tune.svg
@@ -16,7 +16,8 @@ imgh: 300px
 genre: Professional Sleuth
 tag: short-story
 wordcount: 4355
-timetoread: EST TIME TO READ
+trfissue: Vol. 1 No. 4
+trfdate: Jan. 22, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Hate_Calls_the_Tune.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Hate_Calls_the_Tune.epub
 ---

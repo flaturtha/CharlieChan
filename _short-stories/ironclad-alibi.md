@@ -6,9 +6,9 @@ title: "The Ironclad Alibi"
 author: Gunnison Steele
 date: 2017-01-23
 releasedate: 2017-03-06
-opub: 
-opubdate: 
-opubissue: 
+opub: Ten Detective Aces
+opubdate: Nov. 1945
+opubissue: Vol. 11, No. 4
 category: short-stories
 excerpt: "Nick Ryan could prove he wasn't the murderer being sought for—prove it with the finality of the grave."
 image: /assets/img/short-stories/ironclad-alibi.svg
@@ -16,7 +16,8 @@ imgh: 300px
 genre: Crook
 tag: short-story
 wordcount: 1743
-timetoread: EST TIME TO READ
+trfissue: Vol. 1 No. 4
+trfdate: Jan. 22, 2017
 kindle: 
 epub: 
 ---
