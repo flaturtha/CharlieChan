@@ -1,0 +1,1041 @@
+---
+layout: short-stories
+layoutTag: post
+casefileNumber: 55ccf75fb3901011515aefef
+title: "The Red Serpent"
+subtitle: "A Novelette of Astonishment"
+author: Seabury Quinn
+date: 2017-03-11
+releasedate: 2017-04-22
+opub: Real Detective Tales
+opubdate: June/July 1927
+opubissue: Vol. 11, No. 2
+category: short-stories
+excerpt: "Quinn cuts loose with both barrels in this story. Strange events, eerie happenings, a sinister plot, an atmosphere of weird mystery &mdash; you will find them all here. And they make your scalp bristle. &hellip; Professor Forrester, detective extraordinary, is all but baffled by the mysterious death of his friend and colleague, Professor Jonas Podkin. Rosalie, however, aids him no little in untangling the skein of the riddle. The girl is become almost as clever as her sagacious Uncle Harvey. &hellip; By and large, here’s a neat bit of work and a good story &mdash; as thrilling a thing as we’ve read this year. &mdash; E. B."
+imgh: 300px
+genre: Amateur Sleuth
+tags: Amateur Sleuth, short-story
+wordcount: 6384
+trfissue: Vol. 2 No. 8
+trfdate: Feb. 19, 2016
+kindle: 
+epub: 
+---
+
+<section id="toc" class="toc">
+  <header>
+    <h6>Table of Contents</h6>
+  </header>
+<div id="drawer" markdown="1">
+1. Auto generated table of contents
+{:toc}
+</div>
+</section> <!-- table-of-contents -->
+
+### Chapter 1
+{: .chapternumber .no_toc}
+
+### Podkin &mdash; Dead
+{: .chaptertitle}
+
+Professor Harvey Forrester drew a white silk handkerchief from the
+breast pocket of his primly untidy jacket and industriously polished the
+lenses of his neat, rimless pince-nez. Then he replaced the glasses on
+his thin, aquiline nose and stared disgustedly at the pile of
+examination papers before him.
+
+“Idiots!” he muttered. “Numbskulls! Imbeciles! I took particular pains
+to impress the fact that the remains of the Proto-Egyptians are
+preserved because they were buried in the hot, dry sand, and that
+embalming wasn't practiced to any extent in prehistoric times, yet every
+paper here says — ”
+
+Br-r-r-ring — r-r-r-ring! The shrill, sharp chime of his telephone bell
+cut short his oration.
+
+“Hello!” he barked, snatching the receiver from its hook.
+
+The soft, low rasp of somebody breathing laboriously came distinctly
+over the wire, then: “Rosalie speaking, Uncle Harvey,” a soft, rather
+high-pitched voice announced.
+
+“Yes?” Though Professor Forrester was not aware of it, the strident note
+of ill temper had faded from his tones, and his thin, stern features had
+softened perceptibly at the sound of the girl’s voice. “Yes?” he
+repeated. “What is it?"
+
+“Uncle Harvey — ” again the soft, gasping interruption to the words —
+“can you come over here right away, please? I’m at Professor Podkin’s.
+Professor — Podkin — is — dead!”
+
+“Eh?” Forrester returned sharply. “Podkin — dead? Good heavens! Yes, of
+course; I’ll be right over.”
+
+Pausing only to snatch gloves, stick and hat from the hall-rack as he
+hurried to the door, the Professor swung across the campus toward the
+adjacent village where his friend and colleague, Jonas Podkin, lay dead.
+
+“Poor Podkin; poor chap!” he kept repeating as the ferrule of his cane
+beat time with his sharp heel-clicks on the frosty ground. “Poor fellow,
+poor old Pod!”
+
+I always told him that 'appetite of his would be his death some day!”
+
+“The pretty little cottage where fat little Professor Podkin had lived
+and worked among his beloved books on Zend and Sanscrit, and had finally
+yielded up his life, presented the conventional scene when Forrester,
+almost breathless from his hurried tramp, mounted the front steps.
+Several kindly, helpful neighbors whispered together in the hall,
+somewhere upstairs a woman wept softly; the family physician, with the
+professionally sympathetic look reserved for such occasions, ruffled a
+sheaf of papers at the library desk, his fountain pen rapidly filling in
+the spaces reserved for statistical information in the death
+certificate.
+
+“Yes,” he informed Professor Forrester as they shook hands, “it was
+sudden. Acute indigestion, you know. These heavy-set fellows, with a
+fondness for indigestible foods, usually go that way, sooner or later.
+Too bad; very sad case; so unnecessary, too."
+
+He scratched the figures “56" in the blank marked “age” as Forrester,
+treading softly, turned and mounted the stairs.
+
+“Mrs. Podkin — ” Forrester took the widow’s trembling white hand in both
+his, then paused, his earnest look and tear-filled eyes continuing his
+message of condolence and promise of help more effectually than any
+spoken words.
+
+“Th — thank you. Professor Forrester,” she faltered. “I can hardly
+realize it. Jonas seemed so well at luncheon. You know — ’’ she wiped
+her eyes furtively and bit her lips in a vain effort at self-control —
+“you know, he’d been feeling unwell for several days, and today was the
+first time he seemed to care about eating anything. We had just the sort
+of luncheon he liked, too calf’s liver and bacon — and he ate with such
+an appetite. Then he went into the study to lie down for a while before
+going on with his work, and when I went in to waken him at four o’clock
+— he — he was in convulsions!” Her restraint gave way utterly and she
+bowed her head on her hands while her shoulders shook with sobs.
+
+Forrester patted her arm with awkward kindness. “Yes?” he prompted
+gently, feeling instinctively she would find relief in discussing the
+tragedy.
+
+“I ran in to him,” she went on, drying her eyes, “and called, ‘Jonas!’
+and he seemed to grow worse at the sound of my voice. Just as I turned
+to run from the room I heard Doctor Delaval coming up the front walk,
+and rushed out to him. He came right in and did what he could for Jonas;
+but it was too late. My poor darling died while we were trying to get
+Doctor Hondell on the ’phone.”
+
+“U’m?” Forrester wrinkled his brow. “Who is Doctor Delaval? I’ve heard
+Jonas speak of him, but I don’t think I’ve ever met him.”
+
+“He’s an Orientalist,” she responded, “very much interested in Yoga. He
+and Jonas were working on some sort of codification of the system. I
+didn’t understand it very well, but they were together a great deal, and
+Jonas was giving more and more time to it. Indeed, it seemed to me,
+sometimes, he neglected his university work for Doctor Delaval’s.”
+
+“U’m?” Forrester repeated. “Did I understand you to say he tried to help
+Jonas?”
+
+“Yes — oh, yes! He’s a physician as well as a scholar, you know, and
+happened to have a case of medicines with him today. He gave Jonas an
+injection of strychnine, and it seemed to revive him for a moment, but —
+but the dear boy was too far gone for anything to help, and — ” again
+the hot tears drowned her words, and Forrester gave her shoulder another
+reassuring pat as he turned from the room and sought his ward.
+
+“All right. Uncle Harvey,” the girl whispered as he beckoned her. She
+threw her arms about Emma Podkin and gave her a parting kiss of sympathy
+as she followed the Professor out into the chilly April twilight.
+
+\*\*\*
+
+They strode along the tree-bordered street in silence, busy with their
+thoughts. Finally the girl whispered, “Uncle Harvey, will you promise
+not to laugh?”
+
+“Eh?” Forrester came out of his brown study and blinked owlishly at her
+through his glasses. “Laugh, child? I don’t feel like laughing. I — ”
+
+“I mean,” she interrupted, “please don’t laugh at what I want to say. I
+— I don’t like it.”
+
+The Professor regarded her narrowly. She was a remarkable young woman,
+this eighteen-year-old ward of his. The offspring of an American soldier
+and a Filipino mother, she had been sold into slavery by a villainous
+uncle shortly after her parents’ death, and had served years of
+apprenticeship in a den of Singapore criminals before Forrester found
+and adopted her. Intensely American, loving her father’s people with a
+love that was almost idolatry, she had not yet learned to speak English
+well enough to control her vocabulary in times of stress, and the
+Professor wondered if her odd statement were the result of inability to
+express herself as he answered questioningly, “You don’t like what,
+child?”
+
+“The way Professor Podkin died. I had luncheon with him and Mrs. Podkin
+and Emma, you know, and he seemed well enough while we were at table,
+and — ”
+
+“Of course,” Forrester interrupted soothingly. “He had acute
+indigestion, my dear. It comes on as suddenly as heart disease, and
+doesn’t often give its victim much warning.”
+
+“Yes, I know, but — there was something odd about the way Doctor Delaval
+attended him, sir. Professor Podkin had taken off his house coat and
+covered himself with a rug before he lay down on the study couch to
+sleep, and the window was open a few inches from the bottom — the couch
+was directly under the window, too, for he said he liked the fresh air
+to blow over him as he slept. When Mrs. Podkin came screaming from the
+study, Emma and I ran in, and Doctor Delaval cam in with Mrs. Podkin a
+moment later. He had a little medicine case with him, and, though I have
+seen him at the Podkin house many times, that is the first time I ever
+saw him carry such a case. It seemed to me he already had a syringe
+filled with something, for he hardly seemed to hesitate a moment before
+he rolled the Professor’s sleeve up and shot something into his arm. And
+— ” she paused a moment, as though to marshal her words or bring her
+memory into line before continuing — “he injected whatever it was into
+Professor Podkin’s left arm.”
+
+"Well?” Forrester asked, faintly amused at her earnestness.
+
+"That was the arm nearest the window and farthest from him. It would
+have been easier for him to shoot his injection into Professor Podkin’s
+right arm; but he didn’t. He pulled the couch out from the wall a
+little, closed the window, and slipped in between the couch and the wall
+before he rolled the Professor’s sleeve up and applied the medicine.”
+
+“U’m!” Forrester mulled over her information while they walked a hundred
+feet or so. “That is queer, Rosalie. Mighty queer. People do some odd
+things when they’re excited, I know; but you’d think, if the man is a
+physician, constant practice would have taught him to choose the nearer
+arm. I — wonder — if — ”
+
+"What?” she prompted, leaning nearer and slipping her gloved fingers
+through the crook of his elbow.
+
+“Oh, nothing. I was just wondering if he chose the left arm in order to
+make the strychnine injection work faster. However, I’ll call Hondell on
+the ’phone as soon as we get home.
+
+“I’m sorry to have to upset your theory, my dear,” he told the girl an
+hour later as he finished a brief colloquy with Doctor Hondell, “but
+everything seems quite all right. Hondell verified the fact that Delaval
+injected strychnine, and nothing else, into Podkin’s arm, and tells me
+it was one of the best things he could have done for him, but the poor
+chap was so far gone that even strychnine couldn’t keep his overworked
+engine going.”
+
+“Oh!" Rosalie responded. But the stubborn line of her flowerlike mouth
+as she bent her blonde, bobbed head over her embroidery frame showed she
+had not abandoned her suspicions, no matter how damaging the family
+physician’s opinion might be to them.
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+<hr>
+
+### Chapter 2
+{: .chapternumber .no_toc}
+
+### The Insurance Policy
+{: .chaptertitle}
+
+“Hello, Professor!” the young man greeted cheerfully as Forrester
+answered the vigorous ringing of the front doorbell three nights later.
+“Do you know me?”
+
+"Perfectly,” the Professor replied after a quick, shrewd scrutiny of the
+other's features. “You’re Carter, ’25; and a very good student you were,
+too, even if you did always insist that the Proto-Egyptians — ”
+
+“Oh, have a heart, sir!” the other besought with a laugh. “Can’t we let
+the dead past bury its dead in the dust of Egypt? May I come in?”
+
+“Surely,” Forrester held the door open courteously for his guest, then
+led the way to the drawing-room. “Rosalie, this is Mr. Carter, one of my
+former students; Mr. Carter, this is my ward, Miss Osterhaut.”
+
+Customary amenities exchanged, Professor Forrester proffered a cigar to
+his caller and stuffed his own pipe to overflowing with a generous
+handful of black, long cut tobacco. “What are you doing these days,
+Carter?” he began, by way of opening conversation.
+
+“That’s just it,” the other returned, puffing appreciatively at an
+excellent perfecto. ‘‘That’s just what’s the matter, sir. I’m working
+for the National Life Insurance Company, and doing mighty well at it."
+
+“Fine!" Forrester congratulated. “But if you’re trying to sell me a
+policy — ”
+
+“Not a chance!” Carter scoffed. “I know you too well. Besides. I’m not
+in the selling end. I’m a claim investigator. I’d like to get some
+information from you, if you don’t mind.”
+
+“I’m afraid I’ll not be much good as an actuary — ” the Professor began,
+but the insurance man waved his protest aside.
+
+“I’d like to get some data on Professor Podkin’s death. You were at the
+house a few minutes after it occurred, I understand.”
+
+Forrester stiffened slightly in his chair. “Do I understand you intend
+contesting Professor Podkin’s policy?” he asked.
+
+“We-el,” the young man hesitated a moment, “I’m not sure we’d be exactly
+justified in contesting it, but there’s something queer about it, just
+the same. Do you happen to know a man by the name of Delaval?”
+
+Rosalie, who had been playing idly with a string of amber beads — an
+oriental habit of which she had never been able to break herself — let
+the polished globules slip through her tapering fingers and leaned
+toward the speaker. “You want to know about Doctor Delaval?” she asked,
+her slightly quickened breath seeming to drive the words through her
+lips with more than usual force.
+
+“Be still, Rosalie!” Forrester cut in irritably. Then to Carter: "What
+about him?”
+
+“Well, sir, he had a policy on Professor Podkin’s life for fifty
+thousand dollars. Claimed he and the Prof, were engaged in some sort of
+scientific research together and that he stood to lose the labor of a
+lifetime if Professor Podkin died before they finished it.”
+
+“Yes? Well?”
+
+“Well, that might be all right, too. I don’t suppose you can get any
+hard and fast monetary valuation on a man’s personal contribution to
+science, and if he was actually working with Podkin, as he claims, I
+reckon he’d have an insurable interest in his life. But he had a policy
+on Mrs. Wilma Robertson, too. Claimed she and he were studying together
+to bring some great truth or other to the world, and her value as a
+co-worker was twenty-five thousand dollars. Mrs. Robertson died of acute
+indigestion two months ago, and Delaval happened to be calling on her
+when the seizure occurred, and tried to render first aid. Didn’t make a
+very good job of it, though. He gave her a shot of strychnine in the
+arm, but she was gone before her hysterical maid could find a doctor.
+
+“Oh, sure — ” he glanced from the Professor to Rosalie and back again —
+"everything was right as rain. Medical certificate and everything.
+Doctors said the treatment he gave both Mrs. Robertson and Professor
+Podkin was the best possible in the circumstances — but just the same my
+company isn’t going to pay out fifty thousand iron men on top of
+twenty-five in two cases so much alike until somebody’s told us how come
+and why. Can you blame us?”
+
+“Excuse me a moment, please?” Rosalie rose quickly from her chair and
+hurried from the room.
+
+\*\*\*
+
+Professor Forrester sucked thoughtfully at his pipe, staring at the
+crackling logs in the drawing-room fireplace. Carter cast an admiring
+glance after Rosalie, then turned his gaze fireward and joined the
+Professor in pensive silence.
+
+“Do you mind if I tell Mr. Carter what I told you the other day, Uncle
+Harvey?” Rosalie asked as she returned from upstairs, a small parcel of
+white linen in her hand.
+
+“Not at all; go ahead,” Forrester nodded acquiescence, and returned to
+his thoughtful study of the shifting flames.
+
+Speaking slowly, choosing her words with the care experience had taught
+her was necessary when employing her unfamiliar mother tongue while
+excited, the girl repeated the occurrences at Professor Podkin’s house
+the day he died.
+
+“And here,” she announced as she concluded her narrative, “is something
+else I wanted to show you, Uncle Harvey." From the chair beside her she
+lifted the bundle of linen and flung it open. It was a man’s white
+shirt, much crumpled with use, but otherwise quite fresh. “See — ” she
+indicated the left sleeve with a forefinger which shook with excitement.
+On the outer side of the thin white fabric, at a point where the sleeve
+would rest midway between its wearer’s elbow and shoulder, there was a
+single tiny red stain, as though the skin beneath the linen had been
+pricked with a fine pin or needle.
+
+“The hypo — “ Forrester began, then checked himself, for his memory
+recalled her story even as she put her correction into words:
+
+“But Doctor Delaval rolled Professor Podkin’s sleeve up before he
+injected the strychnine, and didn’t roll it down again. That shirtsleeve
+was turned up, just that way, until the undertaker’s men came for the
+body. I made sure of that by asking Emma before I begged the shirt from
+her. I told you I didn’t like the way Professor Podkin died. Uncle
+Harvey 1"
+
+“Sister — ” Tom Carter looked frank admiration at Rosalie — “you’re a
+queen if everybody could use their eyes and their beans like you do — ”
+he broke off and made a vague, but vastly complimentary, gesture with
+both, hands. “I’ll give this Doctor Delaval a ring tomorrow and have him
+down at my office. He’ll have some tall explaining to do before he gets
+any company to hand him a check for any fifty thousand smackers.
+
+Forrester knocked the ashes from his pipe. “Let us know when this
+Delaval person makes his appointment for the interview, will you,
+please, Carter?”
+
+“Sure,” the other agreed enthusiastically. "Will you sit in the game
+with me, sir?”
+
+Forrester’s narrow, aristocratic nostrils were twitching with
+excitement, but he managed an excellent imitation of his frosty
+classroom smile as he replied: “I shall not be idle, young man, depend
+on that.”
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+<hr>
+
+### Chapter 3
+{: .chapternumber .no_toc}
+
+### Doctor Delaval
+{: .chaptertitle}
+
+“No, sir, Doctor Delaval isn’t in, right now," the neat, colored maid
+informed the Professor and Rosalie as they stood before the door of
+Delaval's Sixteenth Street apartment the following afternoon. “I don’t
+know just when to expect him back, either.”
+
+Forrester beamed kindly on her through his glasses. “I think we’ll wait
+for him — a little while, at any rate. He was expecting us.”
+Surreptitiously, as he spoke, he inserted the toe of his narrow shoe
+between the door and the jamb. By the time he had concluded his
+announcement he was half way through the portal, Rosalie, ever quick to
+act on suggestion, close at his heels.
+
+“I don’t think — ” the maid began dubiously, but the Professor gave her
+no time to voice objection.
+
+“We’ll wait in the living-room a little while,” he told her, passing his
+hat, gloves and stick to her with the air of one thoroughly assured of
+his welcome. “Come, Rosalie,” he led the way through the arched door to
+the room beyond, “the doctor is apt to be home any moment, you know.”
+
+His air of perfect assurance carried the day. The servant closed the
+door, deposited his outdoor things on a chair and went quietly to her
+quarters at the rear of the house.
+
+Forrester continued his role of expected and familiar guest. Producing
+his short-stemmed briar pipe, he loaded it with a generous charge of
+rank tobacco, set it alight, then stared about the room with a quick,
+stocktaking glance.
+
+It was a gorgeous place. Every item of furnishing proclaimed it the
+abode of a man of wealth, taste and refinement. The walls were hung with
+a light gray paper in which an indistinct, almost invisible pattern in a
+slightly lighter shade traced the design of piling cirrus clouds against
+an autumn sky. The floor was covered with a marvelous Chinese rug with
+coral background and figures of old blue, and low chairs, heavily
+upholstered in long-napped mohair and finest needlepoint, invited the
+visitor to rest. Under the arch of a Parian marble mantel a log fire
+snapped and crackled behind a three-barred brass fender, while a tiny
+ormolu clock with porcelain face and gilded hands beat off the minutes
+with sharp, musical clicks. Pictures in profusion lined the walls — a
+landscape by an apt pupil of Corot, one or two Botticellis, a dark
+Flemish interior by Frans Hals, and a single, life-sized portrait of the
+face and shoulders of a mediaeval gentleman above the mantel.
+
+The likeness was done after the manner of Tiziano of Cadore, no detail
+left to the beholder’s imagination, every item portrayed with
+photographic fidelity. The subject was a man in early middle life, light
+haired, blue-eyed, with full, red lips and a look of gentle melancholy
+softening his pale, austere features. As far as could be seen, he was
+dressed in a doublet of white satin thickly sewn with seed pearls, and
+about his neck hung several golden collars, emblems of knightly orders.
+But his beard was his outstanding characteristic. In sharp contrast to
+his hair and mustache, which were almost blond, it was jet black, yet,
+by some trick of the artist’s colors, perhaps, it showed a bluish tinge
+in certain lights, and, looking from the blue-black beard to the pensive
+blue eyes above, there appeared a hint, the merest suggestion, of
+wolfishness.
+
+Rosalie stood beside Professor Forrester and viewed the portrait long
+and earnestly. “I do not like it,” she pronounced. “He is cruel, an
+animal, a beast — and he much resembles Doctor Delaval.”
+
+Forrester nodded, then turned his eyes from the picture and strolled
+across the room to examine a small black leather hand-case, such as
+physicians use to carry their medicines.
+
+Picking up the satchel, he pulled tentatively at its lock, failed to
+force it, and rested the case against the marble top of the table. As he
+did so, the smooth leather slipped along the polished marble slab,
+colliding with a vase of drooping flowers and thrusting it backward
+toward the window. There was a scraping sound, the tinkle of thin glass
+striking wood, then the crash of shattered crystal, and a specimen case,
+which had stood at the extreme edge of the table, concealed by the jar
+of flowers, crashed to the polished floor beyond the edge of the rug.
+
+\*\*\*
+
+“Drat it!” Forrester exclaimed. “Now I have done it!” He leaned over the
+medicine bag, intent on forcing it open without further delay, shook his
+head in vexation, and straightened abruptly, his eyes narrowed with
+sudden strain. The motion of his head had dislodged his pince-nez,
+leaving him almost blinded.
+
+“Confound it!” he ejaculated, bending toward the floor with
+outstretched, groping fingers. “I’m getting as butter-fingered as — ”
+
+“Uncle Harvey, stop! Don’t move!” Rosalie’s warning was almost a scream
+as she launched herself across the room, cannoning into the Professor
+and hurling him backward a foot or more. Next instant she rose in the
+air like a bouncing ball, brought her slim ankles together with a click
+and landed heavily on the rose-colored rug, the sharp French heels of
+her little black kid pumps grinding down on a spot which could have been
+covered by a silver dollar.
+
+“What on earth — ” Forrester demanded half angrily, as he reached into
+his waistcoat pocket, found a pair of emergency glasses and thrust them
+on his nose with an irritated, chopping gesture. “Have you gone
+completely crazy — ah! Have you killed it? Be careful!”
+
+Under the girl’s crushing heels protruded a cablelike cylinder some nine
+or ten inches in length, one end twitching viciously, like the released
+end of a coiled steel spring, the other lying quiescent against the rug.
+Its color was a rich, deep red, almost exactly simulating the groundwork
+of the carpet, narrow bands of black and yellow cutting through the red
+at irregular intervals. No need to tell a man traveled through the wild
+places of the world what it was that writhed beneath Rosalie's feet.
+Forrester recognized the thing instantly — now that his glasses had
+restored his usual keenness of vision. It was a coral snake, the
+smallest and deadliest of all venomous reptiles, and its blunt-nosed
+head lay within an inch of where the Professor’s fallen glasses shone
+dimly.
+
+“Careful!” he repeated, placing his foot alongside Rosalie’s and bearing
+firmly down on the broken-backed, but still faintly wriggling, serpent.
+“Careful, my dear, there's a lot of vitality in these little devils, and
+a single touch of their fangs is death. Ah, so! I think it’s safe for
+you to step back now.”
+
+He gave an added pressure to his foot, made sure the reptile was
+completely harmless, then withdrew his foot, staring downward
+wonderingly. “What the dickens was that thing doing here?" he demanded.
+
+“It was in a glass case behind those flowers,” the girl supplied. “Right
+where the sun would shine on it. When you pushed the flower-vase back
+you jogged the case the snake was in off the table. I wouldn't have
+noticed it against the red rug, but its head happened to be over one of
+the blue figures just as you reached down, and I saw it rise to strike
+you. Wah!" she lapsed into oriental speech as was her wont when excited.
+“Many serpents have I seen in Singapore and India, my lord, but never
+one which strikes without coiling. This worm is brother to the devil,
+master!”
+
+“I think you're right,” the Professor agreed as he unfolded his
+handkerchief, carefully wrapped the dead reptile in it and thrust the
+grisly parcel into his jacket pocket. “Come, let’s get out of this
+before Delaval comes back and finds us. I don’t think he’d relish our
+killing his pets.”
+
+During their short walk down Sixteenth Street, while looking for a
+cruising taxi, and while they bowled home over the smooth asphalt roads
+to the college suburb. Professor Forrester wrinkled his brow and wagged
+his head perplexedly.
+
+"Delaval — Delaval?” he repeated over and over to himself musingly.
+“Delaval — where — when — ”
+
+\*\*\*
+
+Dinner was finished, Amaryllis Washington, the colored maid-of-all-work,
+had served coffee before the drawing-room fire, and Forrester was
+solacing himself with his pipe while Rosalie puffed contentedly at her
+cigarette, curled up in her chair before the burning logs like a
+pussy-cat upon her cushion, when the Professor suddenly broke the
+peaceful postprandial calm.
+
+“I have it!” he announced, rising and striding excitedly across the
+hearth till he looked directly into his ward’s startled, upturned eyes.
+“I have it, my dear. I’ve been chewing on it all afternoon, but, by
+Jupiter Pluvius, I’ve got it now!”
+
+“What?” asked the girl wonderingly.
+
+“Delaval!” he replied, as though annoyed at her obtuseness. “Delaval, of
+course; what else? It’s pronounced ‘Della-val,’ but look at the
+spelling! It’s de Laval, and that was the family name of Giles de Retz,
+who was hanged and burned at Nantes in 1440 for wholesale murder!”
+
+“O-oh!” Rosalie started up, but Forrester was bursting with his
+discovery.
+
+“And that picture — the one you said you didn’t like — that we saw at
+his apartment today: I knew I’d seen that face somewhere before. It’s a
+copy of the only portrait extant of Giles de Laval, the greatest
+murderer of Mediaeval Europe and the original of the fairy tale of
+Bluebeard we use to frighten children with today!”
+
+He hurried to the study, ruffled through the telephone directory,
+finally barked, “Give me Potomac 49325, please.”
+
+“Hello, Carter? Forrester speaking,” he announced, when his connection
+was made. “About the Podkin insurance policy payable to Doctor Delaval;
+withhold payment — absolutely refuse any compromise settlement, even —
+till you’ve heard from me.”
+
+“Take it in low, Professor,” Carter replied with a chuckle. “Don’t you
+go advising ducks to swim or cats to eat liver. I wouldn’t pay that
+bimbo a counterfeit Turkish piaster till I know why he was Johnny-
+on-the-spot when two perfectly good risks kicked the bucket."
+
+"I’ll tell you, if you can wait till tomorrow afternoon!” Forrester
+promised. “I’ve got some researches to make, but I think I’ve caught the
+scent of the most villainous plot I’ve ever encountered.”
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+<hr>
+
+### Chapter 4
+{: .chapternumber .no_toc}
+
+### Confound the Wicked One
+{: .chaptertitle}
+
+Professor Forrester had no classes the following morning, but he found
+plenty to occupy his time. When Cassidy, the janitor of the Science
+Building, arrived to begin his daily round of duties he found Forrester
+hard at work with scalpel, tweezers, microscope and a bewildering array
+of apparatus in the biological laboratory, and a little later Wilson,
+the assistant librarian, was kept busy supplying a number of obscure
+works on zoology and toxicology in response to the Professor’s urgent
+calls.
+
+At half-past one, fifteen minutes later than his usual time, the
+Professor came home to luncheon, and did full justice to the broiled
+Irish bacon, Sally Lunn and tea which Amaryllis placed before him.
+
+“Rosalie, my dear,” he remarked, as he filled his pipe for his
+after-luncheon smoke, “I think we’re going to have a very pleasant time.
+Yes — an eminently enjoyable occasion.”
+
+"Hou!” the girl laughed softly, lapsing into her quaint patois of mixed
+oriental and occidental speech. “Is my master about to confound the
+wicked one?”
+
+"Quite so," he assured her, puffing with lazy enjoyment at the
+use-blackened briar. “Quite so, my dear; the wicked one is about to be
+most confoundedly confounded, I think.”
+
+“Mistu Cyarter wants ter speak ter yuh, suh,” Amaryllis informed him.
+“He says hit’s mos' impo’tant. Yessuh.”
+
+“Hold everything, Professor,” Tom Carter’s cheerful voice announced as
+Forrester picked up the ’phone. “Delaval wants a conference with me at
+his house at three this afternoon, and I’d like to have a big armful of
+alibis to hand him when he asks for a showdown.”
+
+“Very well,” Forrester returned. “Meet me at the corner of Sixteenth and
+Q Streets at ten minutes of three.”
+
+“I’ll be there, sir, if they have to carry me there on a stretcher!”
+
+“Er, Carter,” the Professor suggested tentatively, “perhaps you’d better
+have a policeman within call; we might — ”
+
+“Fear not; I’ve got a commission as a special officer — for convenience
+in my investigation work, you know. Yes, sir, regular policeman, that’s
+me; wear a trick badge on my galluses and pack a gun, n’ everything.
+I’ll add a pair of handcuffs to the ordnance equipment, if you say.”
+
+“This thing may be more serious than you realize,” Forrester warned. “I
+think you’ll do well to have your pistol with you.”
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+<hr>
+
+### Chapter 5
+{: .chapternumber .no_toc}
+
+### Professor Podkin’s Death Certificate
+{: .chaptertitle}
+
+“Good evening,” Carter greeted his host as the colored maid showed him,
+the Professor and Rosalie into Delaval’s sumptuous living room. “This is
+Professor Forrester of the School of Anthropology at Benjamin Franklin
+University, an old friend of Professor Podkin’s and mine; and this is
+Miss Osterhaut. I brought ’em along this afternoon to give me moral
+support and all that, you know.”
+
+Doctor Delaval nodded frigidly to the Professor in acknowledgment of the
+introduction, but did not trouble to rise from his chair. Rosalie he
+ignored completely. “I fail to see why you require moral support from
+strangers in a plain business transaction,” he replied coldly. “Your
+company owes me money and has refused to pay it up to date. I now demand
+that you fulfill your obligations.” As he spoke he pulled out a drawer
+of the small desk at which he sat and produced a packet of papers.
+
+Forrester and Rosalie glanced uncomfortably about the room, for their
+host made no offer of seats. Finally the Professor sank into the nearest
+chair, and Rosalie glided across the room with the lithe grace acquired
+in ears of intensive study of oriental dancing, and seated herself near
+the window, being careful to draw both feet up from the floor and tuck
+them securely under her.
+
+The Professor glanced at the picture above the fireplace, then at the
+man beside the desk. The resemblance between the painted features and
+the cold, pale countenance of his host was remarkable. Like the picture,
+Delaval possessed a wealth of light-brown hair and a curling mustache of
+the same shade, and his strong, rather prominent chin was adorned with a
+close-cropped Van Dyke beard of intense black, a feature to single him
+out in any crowd, no matter how large. His eyes were blue and cold as
+the agate eyes of an image, and the lips which showed between his light
+mustache and dark beard were well-formed and vivid red, but thin, and
+habitually set in a sort of sneering smile as though he regarded his
+fellows in general with a kind of pitying contempt.
+
+Trained to note physical characteristics in Bushmen or Esquimaux,
+Thibetans or fellaheen, when neither camera nor notebook were available
+for memorandum, and memory must be relied on, Forrester was studying his
+subject with the intentness of a professional anthropologist when his
+scrutiny was broken by the sound of the other’s voice.
+
+"I have here the copy of Professor Podkin’s death certificate,” he was
+saying, "and it indicates he died of acute indigestion. Here — ” he held
+out a second paper — “is the receipt for the last premium on the policy
+of insurance on his life held by me, and here — ” he placed a third
+document on the desk beside the others — “is the policy itself. My case
+is complete. The contingency upon which you agreed to pay me $50,000 has
+occurred, namely, Professor Podkin's death, and I demand my money, sir.
+There is nothing more to be said in the matter. That is all.”
+
+Forrester crossed his thin knees and laid his long, slender fingers
+together, tip-to-tip, gazing studiously at the fire behind the bright
+brass fender. “Not quite all,” he objected mildly. “There are one or two
+little matters to be gone into, I think.”
+
+“Ah? Indeed?” Delaval returned sneeringly, his thin lips curling back
+from his gleaming teeth in open contempt of this bookish little man who
+dared question his statement. "Perhaps yon can shed some light on the
+mystery which seems to be puzzling our young friend here?" He cast a
+disdainful glance at Carter.
+
+"Perhaps,” Forrester agreed, his gaze still upon the fire. “Carter,” he
+turned his head slightly toward the younger man, without raising his
+eyes, and his voice assumed the thin, metallic tone he used only in
+lecture hall, “do you happen to know what wourali is?”
+
+"No, sir,” the other returned wonderingly. Delaval leaned a little
+farther forward, and his sardonic smile lost some of its bitter mirth,
+becoming more of a grin.
+
+"I thought you did not,” Forrester replied almost wearily. “Contrary to
+general misconception, the Amazonian Indians do not poison their arrows
+with snake venom or animal toxins; they employ a black resinoid extract
+from the bark of Stryclinos toxifera, an indigenous shrub, and anoint
+their arrowheads with it. They call it wourali, but chemists know it as
+curare. When taken internally the concoction has little or no effect,
+but when injected intravenously, as on the tip of an arrow, for
+instance, it paralyzes the motor nerves and produces death by paralysis
+of respiration. Its active principle is curarinc, the formula of which
+is C<sub>19</sub>H<sub>26</sub>ON<sub>2</sub>.
+
+“Now pay particular attention to this: Strychnine, our commercial drug,
+is obtained from the plant Stryclunos ignatia, which is closely allied
+to that from which wourali is made. As you are doubtless aware,
+strychnine, when taken internally, acts as a powerful neurotic
+stimulant, and produces death by paralysis of the respiratory system, if
+the dose be large enough. Curiously enough, its formula is strikingly
+similar to that of curarine, being
+C<sub>21</sub>H<sub>22</sub>0<sub>2</sub>N<sub>2</sub>. Not identical
+formula, of course, but similar; very similar. As you probably do not
+know, an injection of a quarter-grain of strychnine into the arm, for
+instance, will result in convulsions and death within a comparatively
+short time, twenty minutes or so, a somewhat quicker death than the same
+amount taken internally would produce.”
+
+\*\*\*
+
+The atmosphere of the room was tense, electric, like the dead-calm
+before a cyclone, or the dreadful instant in the death chamber before
+the executioner sets free the current that hurls the condemned into
+eternity.
+
+Carter sat forward in his chair, grasping its arms till his knuckles
+showed white against the skin. Rosalie’s topaz eyes were dilated as
+though she saw some indescribably horrible thing taking shape before
+her, and once or twice she moistened her lips with the tip of her
+tongue; her soft breathing could be heard across the chamber as she
+leaned forward to catch every word. Delaval’s black beard seemed to
+bristle on his chin and give off blue lights like a living thing, his
+lips were so contracted that they showed pale and bloodless against his
+teeth, and his face had gone almost corpse-gray. Only Professor
+Forrester, still studying the fire, his finger tip to tip, seemed
+unaware of the dramatic tension.
+
+“We need not go into an extended discussion of this reptilia,” he droned
+on in his singsong classroom voice, “but it will be interesting to note
+that the bites of certain snakes cause symptoms almost exactly like
+those of poisoning by curare. The Indian cobra, for instance, causes
+death in a short time by paralyzing the respiratory centers of the
+nervous system, and so does the bite of the king cobra. These snakes
+belong to the family of elapidte, which includes the death adder and
+tiger snake of Australia and the coral snakes of both North and South
+America.
+
+“The South American coral snake — *elaps fulvius*, you know — carries
+the deadliest poison of all his tribe, even the cobras being
+comparatively harmless beside him, though he is the smallest member of
+his family. Fortunately, however, he is provided with such short fangs
+that ordinary clothing will usually prevent his piercing the skin and
+injecting his mortal venom into the blood. However, his fangs are
+sufficiently long to penetrate an ordinary linen shirt, perhaps to cut
+through several thicknesses of such thin fabric.
+
+“Now, Professor Podkin was found by his wife in a sort of convulsion
+just before he died, and when she called to him he seemed to become
+worse. So would a person suffering from strychnine poisoning — or the
+bite of one of these related snakes whose venom sets up symptoms
+resembling those of curarine poisoning. If, by any odd chance, Podkin
+had been bitten by, let us say, a South American coral snake, an
+injection of strychnine would not only not have helped him, it would
+have hastened his death from the venom. But of course — ” he raised his
+eyes for the first time and blinked benevolently at his hearers through
+the lenses of his pince-nez — "of course, it’s out of the question that
+such a snake could have bitten Professor Podkin. There should not be any
+such reptiles in this part of the world, you know.
+
+"Now, as Dr. Delaval has pointed out, he happened to be calling at the
+Podkins' just as the poor fellow was seized with indigestion, and,
+having his medicine kit handy, he gave him an injection of strychnine.
+That was the best thing he could have done — for indigestion. He did the
+same thing for Mrs. Robertson some time before, too, I am informed.
+
+“But in Professor Podkin’s case the doctor was evidently nervous. The
+shock of seeing his friend and co-worker so ill made him take
+unnecessary trouble, for, instead of injecting his strychnine in
+Professor Podkin’s right arm, which was nearest to him, he walked
+completely around the couch and injected the left arm, which was nearest
+to the open window by which Podkin had been lying asleep.
+
+“In order to administer the dose he found it necessary to roll back
+Podkin’s sleeve, of course, and on that sleeve was later found a tiny
+spot of blood. This could not have come from the wound made by the
+hypodermic needle, because the sleeve was not rolled down again until
+the undertaker’s assistants came for Podkin’s body.
+
+"Yesterday afternoon Rosalie and I called on Doctor Delaval, to offer
+our condolences at the loss of his friend; but unfortunately the doctor
+was out. I’m a clumsy sort of individual, and in the course of my
+blundering about, I chanced to knock over a glass specimen-case, and
+almost died as a consequence, for a half-grown coral snake happened to
+be in that case, and very nearly bit me. Thanks to Rosalie’s prompt
+action, the beast was killed; and as I was sure Doctor Delaval would
+have no use for a dead snake about the house, I removed the carcass.
+
+“This morning, in the biological laboratory — just as a matter of
+curiosity — I dissected the reptile’s head, and found that one of his
+poison fangs had been removed. You see, if he had bitten anyone, he
+could have made only one wound with his remaining fang, and, while that
+fang was quite long enough to pierce a shirt-sleeve — such as Professor
+Podkin’s, for example — it was so small in diameter that an ordinarily
+large hypodermic needle, inserted in the exact spot where the fang had
+penetrated the skin, would obliterate all traces of snakebite.
+
+“By the way, Doctor Delaval, what size needle did you use on Professor
+Podkin?"
+
+\*\*\*
+
+“You devil! You uncanny, merciless little devil!” Doctor Delaval had
+risen from his chair and stood staring in a sort of horrified
+fascination at Professor Forrester. His derisive smile was gone, and in
+its place had come such a look of animal ferocity as the Professor had
+never seen on human face. He ground his teeth like a wild beast gnashing
+its fangs before springing on its prey, and his cold blue eyes blazed in
+his death-pale face with a demoniacal phosphorescence.
+
+“Damn you!” he almost shrieked, "You’ve guessed it! Yes, I did it. I
+killed Podkin — the little fat swine! — and I killed the Robertson
+woman, too. I put my pretty little pet through the open windows beside
+which they both slept, holding it in a hand encased in a wire-cloth
+glove, and teased it into biting them. Then I hurried away, and came to
+their houses within the next fifteen minutes, knowing they would be
+breathing their last by then, and would not be able to tell anyone what
+ailed them, for they — poor miserable fools! — didn't know, themselves.
+I injected the strychnine in their arms, both to hasten the effect of
+the snake poison and to destroy the traces of the fang’s marks, for I
+knew no idiotic doctor in this city of fools would ever attribute their
+deaths to anything so improbable as snake-bite.
+
+“I collected for the Robertson death — ” he glared defiantly at Carter —
+“and I should have collected for old fat Podkin’s death, too, if it had
+not been for you, you meddling little busybody!” He turned his
+infuriated glare on Forrester.
+
+"But don’t think you’ll ever hail me into court for murder, you
+short-sighted little school teacher!”
+
+With a sweeping movement he yanked out the desk drawer, seized something
+inside and brandished it above his head. It was a gray metal object,
+about the size and shape of a large lemon, and both Forrester and Carter
+breathed faster at sight of it. As Captain Forrester, the Professor had
+seen too many of those things while serving with the Ordnance Department
+during the World War to be mistaken, and Carter had dodged more than one
+on the contested fields of Picardy and Flanders. It was a Lewis bomb, a
+hand-grenade, not much larger than a child’s fist, but capable of
+crumpling the room to a mass of wreckage if hurled against wall or
+floor.
+
+“You’ll not take me, I tell you!” Delaval screamed again. “See there?”
+he pointed his free hand at the portrait above the mantelshelf.
+
+"Do you know who that is? Giles de Laval, Lord of Retz and Maréchal of
+France — Bluebeard! He was my ancestor, and I am his reincarnation; but
+I have bettered his work. He killed for pleasure only, while I have made
+my victims support me in the state to which one of my noble blood is
+entitled. Ha! You think that you — you miserable, slow-minded Yankees —
+can take me, Giles de Laval the Second, to prison? Not one of us leaves
+this room alive!”
+
+The swishing rustle of silk against silk, so soft it was scarcely
+audible, even in the deathly stillness following Delaval’s wild
+outburst, came from the chair in which Rosalie crouched. Then:
+
+“Uh!” the exclamation was half cry, half grunt, as Delaval stumbled half
+a step forward, twisted sharply to the left and let the bomb fall from
+his unnerved fingers. The thing dropped harmlessly to the soft cushion
+of the thick Chinese rug at his feet, but neither Forrester nor Carter
+took note of it.
+
+Lithe and graceful as a young tigress springing on her prey — and as
+savagely — Rosalie hurled herself from her chair with a long, vaulting
+leap and landed squarely on Delaval’s back a split-second after the
+metal-tipped French heel of her little shoe, flung with the unerring
+accuracy of one trained to cast throwing-knives with deadly effect, had
+caught him behind the ear, knocking him half-unconscious.
+
+Below the hem of her modishly short black satin afternoon gown one of
+the girl’s extremities was clad in peach-bloom gossamer silk and a pump
+of gleaming patent leather, the other showed lily-pale against the red
+field of the rug, and, stretched between her slender hands, she held the
+stocking she had ripped off while cowering in her chair.
+
+With a quick, dexterous movement she looped the silken tube into a
+flying noose, dropped its coil about Delaval's neck and drew the ends
+together, crossing them and straining with all her lithe young strength
+at the knot thus made, while her slender fingers knotted into fists and
+her knuckles kneaded at his spine at the base of the skull.
+
+The man’s neck muscles stood out like cords, and the tendons showed like
+lines of white against the skin of his hands as he strove futilely to
+break the pitiless silken thing that choked the breath from his lungs.
+His mouth opened spasmodically, the tongue protruding between lips which
+already began to take on a bluish tinge, while the blood seemed bursting
+from his face and his deep-sunk eyes started forward horribly, as though
+pushed from behind.
+
+“Wah, spawn of the sewer,” the girl hissed in a voice as venomous as the
+hiss of a serpent. Lapsing into Hindustani in her excitement, “wallah,
+unclean descendant of thrice-filthy ancestors, would you threaten the
+life of Forrester Sahib? Worm, snake’s-brother,
+consorter-with-the-crawling-things-of-the-earth, darest thou lift thy
+obscene hand against my lord? By the Seven Holy Ones, I shall teach thee
+to kiss the dust before his feet!”
+
+Half strangled, wholly bewildered, all the fight choked and frightened
+from him, the wretched man toppled to the floor, and, like a terrier
+worrying a rat, the girl was on top of him, thrusting her bared knee
+between his shoulder-blades, pulling his head upward, releasing it to
+hang against the floor, then dragging it upward again with relentless,
+neck-breaking jerks.
+
+“Rosalie!" Forrester commanded sharply. “Stop it; you're killing him!”
+
+“Of course,” she answered pantingly, driving her victim’s face downward
+into the rug’s thick nap, then snapping his neck upward with a short,
+savage tug. “Of course, I shall slay him; did he not imperil my master’s
+life?”
+
+“That will do,” the Professor replied, taking her hands in his and
+forcing her to drop the stocking. "Let him up, he –”
+
+“He’s all wet!" Mr. Carter supplied, as he flung his hundred and
+ninety-two pounds of bone and muscle upon the prostrate Delaval, drew
+his hands sharply together and snapped steel wristlets on them. “I took
+your advice. Professor, and came prepared with the harness," he
+explained, dragging his manacled captive to his feet. “Come on, you,” he
+seized Delaval’s collar and lifted him from the chair into which he had
+flung him as easily as if he had been a child. Come on to the police.
+You’ve gypped the National Life Insurance Company for the last time.”
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+<hr>
+
+### Chapter 6
+{: .chapternumber .no_toc}
+
+### The Token Of Her Master's Favor
+{: .chaptertitle}
+
+Professor Forrester looked almost diffidently at the serene young woman
+seated in the taxicab beside him. She was still only partially clothed,
+or she steadfastly refused to resume the stocking with which she had
+nearly put Delaval to death.
+
+“It is not fitting that a maiden wear that which had encircled the neck
+of a toad,” she informed the Professor when he suggested the
+desirability of her attiring herself conventionally before starting for
+home, and neither commands nor entreaties availed to swerve her from her
+decision. The only concession she made was to put on the pump with which
+she had floored her adversary before garroting him.
+
+"Why do you wear that absurd thing?” the Professor demanded, indicating
+the golden circlet about her bare ankle.
+
+Rosalie raised her stockingless foot and surveyed the slave bracelet
+about her slim ankle with a look of complacency. “Do you remember where
+you first met me, my lord?” she answered irrelevantly. “I was not known
+as Rosalie Osterhaut in the house of Chandri Roi, but as Mumtaz Banjjan,
+the Lady Moonflower, and sometimes only as Banjjan, the slave-girl. Is
+it not so?"
+
+“Umpf,” Forrester returned uncomfortably. He exceedingly disliked any
+reference to his ward's experience as an inmate of the zenana, but, in
+spite of his express commands, she occasionally reverted to the subject.
+
+“Yes," she continued, turning her foot first one way, then another, so
+that the setting sun’s rays played brilliantly on the little golden
+links which lay against her white flesh. “Yes, I was a slave, a
+barefooted slave with bangles on my ankles, then, and Forrester Sahib
+rescued me from a fate far worse than death by torture. On that night I
+put your foot upon my neck and made public acknowledgment that I was
+yours by right of conquest and by my own gift, and I wear this little
+fetter to remind me of my promise.”
+
+"But hang it all!" Forrester retorted irritably, “you know perfectly
+well there's no such thing as slavery in this country, and I wouldn’t
+own slaves if it were allowed. You'd better take that thing off.”
+
+The girl bowed her golden head submissively. “Forrester Sahib is my lord
+and I am his slave," she announced. “If he should desire to beat me I
+would welcome his blows as the bride thirsts for her bridegroom’s
+kisses; but while Mumtaz Banjjan lives she will not take from off her
+ankle the symbol of the servitude she would not exchange for an empress’
+throne. Rather would she kiss the dust of Forrester Sahib's footprints
+than the lips of any other man upon the earth.”
+
+The Professor stuffed his pipe and struck a match. “You’re a quaint
+little baggage, Rosalie — but you've risked your life for mine twice in
+the last twenty-four hours. Would you like a new fur coat?”
+
+Once more Rosalie inclined her head as though in utter self-abasement;
+but something very like a smile of satisfaction hovered on her pink lips
+as she returned in a low voice:
+
+"Forrester Sahib is the lord of Mumtaz Banjjan’s life and the breath of
+her mouth and the blood of her heart. She has no thought nor wish but
+such as her lord permits; but if it pleases her master to buy his slave
+a coat — a long coat of otter skin with collar and cuffs of mink, if he
+pleases — can the slave do aught but humbly accept the token of her
+master's favor?”
+
+<p id="theend">~ The End ~
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
