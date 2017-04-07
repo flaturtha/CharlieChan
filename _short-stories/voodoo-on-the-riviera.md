@@ -7,7 +7,7 @@ author:
 series: A Dixon Hawke Mystery 
 date: 2017-04-01
 releasedate: 2017-05-13
-opub: Dixon Hawek Library 
+opub: Dixon Hawke Library 
 opubdate: 
 opubissue: DHL No. 4
 category: short-stories
@@ -30,10 +30,6 @@ trfdate: Mar 26, 2017
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
-
-<h6 class="btt"><a href="#top">Back to Top</a></h6>
-
-<hr>
 
 ### Chapter 1
 {: .chapternumber .no_toc}

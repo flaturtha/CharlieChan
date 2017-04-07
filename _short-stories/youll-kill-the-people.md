@@ -6,9 +6,9 @@ title: "You'll Kill the People"
 author: Richard Brister
 date: 2017-04-27
 releasedate: 2017-06-08
-opub: 
-opubdate: 
-opubissue: 
+opub: Smashing Detective Stories
+opubdate: Sept. 1951
+opubissue: Vol. 1, No. 3
 category: short-stories
 excerpt: "Right after he first appeared on TV, Buddy Burton began to receive warnings&#58; get out while you’re still alive! It didn’t seem to make any sense, but Buddy found that the party sending them mean business, and &hellip;"
 image: /assets/img/short-stories/youll-kill-the-people.svg
@@ -16,9 +16,8 @@ imgh: 300px
 genre: Noir
 tag: short-story
 wordcount: 4758
-timetoread: EST TIME TO READ
-kindle: 
-epub: 
+trfissue: Vol. 3 No. 17
+trfdate: Apr 23, 2017
 ---
 
 <section id="toc" class="toc">
