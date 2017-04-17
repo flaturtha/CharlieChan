@@ -5,7 +5,6 @@ casefileNumber:
 title: "Death by Gas"
 author: J. J. Matthews
 date: 2018-01-01
-releasedate: 2017-01-01
 opub: 
 opubdate: 
 opubissue: 

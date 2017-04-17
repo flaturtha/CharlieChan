@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef8c
 title: "Law and Disorder"
 author: Phyllis Dayton
-date: 2017-02-03
-releasedate: 2017-03-17
+date: 2017-02-17
 opub: Mammoth Mystery
 opubdate: Jan. 1946
 opubissue: Vol. 2, No. 1
@@ -16,8 +15,8 @@ caption: "Benny grabs hold of Herbie's coat tails and begins to haul away at the
 genre: Humor
 tag: short-story
 wordcount: 5195
-trfissue: Vol. 1 No. 5
-trfdate: Jan. 29, 2017
+trfissue: Vol. 1 No. 4
+trfdate: Feb. 12, 2017
 kindle: 
 epub: 
 ---

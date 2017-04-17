@@ -4,20 +4,19 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef43
 title: "Hear Not, See Not, Speak Not Evil"
 author: Walter Deffenbaugh
-date: 2017-02-17
-releasedate: 2017-03-31
+date: 2017-11-18
 opub: Black Mask
 opubdate: Dec. 1921
 opubissue: Vol. 4, No. 3
 category: short-stories
-excerpt: "“You haven’t killed her,” retorted the bronze faced doctor, “but it won't be healthy for you to run away. They'll have you swingin' from a Montana telegraph-pole by sunset.”"
+excerpt: ""
 image: /assets/img/short-stories/hear-not.svg
 imgh: 300px
 genre: Amateur Sleuth
 tags: amateur sleuth, Ten Detective Aces, Archibald, Dizzy Duo, short-story
 wordcount: 7418
-trfissue: Vol. 1 No. 7
-trfdate: Feb. 12, 2016
+trfissue: Vol. X No. 23
+trfdate: Nov. 5, 2017
 kindle: 
 epub: 
 ---

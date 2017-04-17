@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefaa
 title: "TThe Case of the Timid Commando"
 author: Arthur Leo Zagat
-date: 2017-02-11
-releasedate: 2017-03-25
+date: 2017-03-25
 opub: Crack Detective
 opubdate: Mar. 1943
 opubissue: Vol. 4, No. 2
@@ -17,8 +16,8 @@ imgh: 300px
 genre: Amateur Sleuth
 tag: short-story
 wordcount: 5522
-trfissue: Vol. 1 No. 6
-trfdate: Feb. 5, 2017
+trfissue: Vol. 2 No. 6
+trfdate: Feb. 26, 2017
 kindle: 
 epub: 
 ---

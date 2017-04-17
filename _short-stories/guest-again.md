@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefb2
 title: "Guest Again"
 author: John Thomas Urwin
-date: 2017-02-20
-releasedate: 2017-04-03
+date: 2017-04-10
 opub: Crack Detective Stories
 opubdate: May 1949
 opubissue: Vol. 10, No. 2
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Murder
 tag: short-story
 wordcount: 1067
-trfissue: Vol. 1 No. 8
-trfdate: Feb. 19, 2017
+trfissue: Vol. 1, No. 8
+trfdate: Apr. 9, 2017
 kindle: 
 epub: 
 ---

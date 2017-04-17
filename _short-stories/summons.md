@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef1b
 title: "The Summons"
 author: Henry Altimus
-date: 2017-03-23
-releasedate: 2017-05-04
+date: 2017-06-15
 opub: Black Mask
 opubdate: Aug. 1920
 opubissue: Vol. 1, No. 5
@@ -17,8 +16,8 @@ imgh: 300px
 genre: Supernatural
 tags: short-story
 wordcount: 4298
-trfissue: Vol. 2 No. 12
-trfdate: Feb. 19, 2016
+trfissue: Vol. 4 No. 12
+trfdate: Jun. 04, 2017
 kindle: 
 epub: 
 ---

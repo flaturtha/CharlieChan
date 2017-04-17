@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefc9
 title: "Brothers of the Coast"
 series: A Dixon Hawke Mystery
-date: 2017-03-15
-releasedate: 2017-04-26
+date: 2017-05-24
 opub: Dixon Hawke's Casebook
 opubdate: Spring 1940
 opubissue: No. 4
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Adventure
 tag: short-story
 wordcount: 3290
-trfissue: Vol. 2 No. 11
-trfdate: Mar. 12, 2017
+trfissue: Vol. 3 No. 11
+trfdate: May 21, 2017
 kindle: 
 epub: 
 ---

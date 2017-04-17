@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aeff6
 title: "The Unofficial Observer"
 author: Lieutentant Arthur J. Burks
-date: 2017-04-26
-releasedate: 2017-06-07
+date: 2017-08-16
 opub: Real Detective Tales 
 opubdate: June/July 1927
 opubissue: Vol. 11, No. 2

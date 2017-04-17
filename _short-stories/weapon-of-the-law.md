@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef5b
 title: "A Weapon of the Law"
 author: George W. Breuker
-date: 2017-03-27
-releasedate: 2017-05-08
+date: 2017-06-19
 opub: Black Mask
 opubdate: Aug. 1922
 opubissue: Vol 5, No. 5

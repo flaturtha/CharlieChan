@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef2f
 title: "The Strange Case of Nathaniel Broome"
 author: Charles McDonell
-date: 2017-03-03
-releasedate: 2017-04-14
+date: 2017-04-28
 opub: Black Mask
 opubdate: Sept. 1920
 opubissue: Vol. 1, No. 6
@@ -17,8 +16,8 @@ imgh: 300px
 genre: Supernatural Mystery
 tag: short-story
 wordcount: 6936
-trfissue: Vol. 2 No. 9
-trfdate: Feb. 26, 2017
+trfissue: Vol. 3 No. 9
+trfdate: Apr. 23, 2017
 kindle: 
 epub: 
 ---

@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef0f
 title: "May and December"
 author: Frank Parks
-date: 2017-03-30
-releasedate: 2017-05-11
+date: 2017-06-29
 opub: Detective Story Magazine
 opubdate: Mar. 5, 1916
 opubissue: Vol. 2, No. 5
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Professional Sleuth
 tag: short-story
 wordcount: 5320
-trfissue: Vol. 2 No. 12
-trfdate: Mar. 26, 2017
+trfissue: Vol. 4 No. 13
+trfdate: Jun. 18, 2017
 kindle: 
 epub: 
 ---

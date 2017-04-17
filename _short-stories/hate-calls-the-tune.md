@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef82
 title: "Hate Calls The Tune"
 author: Clive Criswell
-date: 2017-01-26
-releasedate: 2017-03-09
+date: 2017-02-23
 opub: Crime Fiction Stories
 opubdate: Dec. 1950
 opubissue: Vol. 1, No. 1
@@ -17,7 +16,7 @@ genre: Professional Sleuth
 tag: short-story
 wordcount: 4355
 trfissue: Vol. 1 No. 4
-trfdate: Jan. 22, 2017
+trfdate: Feb. 12, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Hate_Calls_the_Tune.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Hate_Calls_the_Tune.epub
 ---

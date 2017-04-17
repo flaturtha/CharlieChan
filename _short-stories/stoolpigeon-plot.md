@@ -5,9 +5,7 @@ casefileNumber: 55ccf75fb3901011515aefac
 title: "The Stoolpigeon Plot"
 subtitle: "A Sam Spaulding Story"
 author: Fred J. Ford
-series: 
-date: 2017-01-19
-releasedate: 2017-03-02
+date: 2017-02-09
 opub: Crack Detective
 opubdate: May 1949
 opubissue: Vol. 10, No. 2
@@ -19,7 +17,7 @@ genre: Professional Sleuth
 tags: short-story
 wordcount: 5194
 trfissue: Vol. 1 No. 3
-trfdate: Jan. 15, 2017
+trfdate: Jan. 29, 2017
 ---
 
 <section id="toc" class="toc">

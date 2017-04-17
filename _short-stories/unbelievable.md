@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef34
 title: "The Unbelievable"
 author: J. B. Hawley
-date: 2017-01-28
-releasedate: 2017-03-11
+date: 2017-02-25
 opub: Black Mask
 opubdate: Nov. 1920
 opubissue: Vol. 11, No. 2

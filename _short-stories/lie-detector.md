@@ -3,10 +3,8 @@ layout: short-stories
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefd4
 title: "The Case of the Lie Detector"
-author:
 series: A Dixon Hawke Mystery
-date: 2017-02-28
-releasedate: 2017-04-11
+date: 2017-05-02
 opub: Dixon Hawke Case Book
 opubdate: Spring 1940
 opubissue: No. 4
@@ -17,8 +15,8 @@ imgh: 300px
 genre: Professional Sleuth
 tag: short-story, 
 wordcount: 2305
-trfissue: Vol. 2 No. 9
-trfdate: Feb. 26, 2017
+trfissue: Vol. 3 No. 9
+trfdate: Apr. 23, 2017
 kindle: 
 epub: 
 ---

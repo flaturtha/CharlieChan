@@ -16,7 +16,7 @@ genre: Crook
 tags: crook, All Detective, Tinsley
 wordcount: 7622
 trfissue: Vol. 2 No. 9
-trfdate: Feb. 28, 2016
+trfdate: Feb. 28, 2017
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Candidate_for_Death.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Candidate_for_Death.epub

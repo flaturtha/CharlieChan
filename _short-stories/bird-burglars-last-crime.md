@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: xxxxxxx
 title: "The Bird Burglar's Last Crime"
 series: A Dixon Hawke Mystery
-date: 2017-04-06
-releasedate: 2017-05-18
+date: 2017-07-13
 opub: Dixon Hawke Library
 opubdate: 
 opubissue: No. 559

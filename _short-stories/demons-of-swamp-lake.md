@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef0b
 title: "Demons of Snake Swamp"
 author: Anthony Pelcher
-date: 2017-01-28
-releasedate: 2017-03-11
+date: 2017-10-21
 opub: All Star Detective
 opubdate: Dec. 1930
 opubissue: 
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Supernatural
 tag: short-story
 wordcount: 7071
-trfissue: Vol. 1 No. 4
-trfdate: Jan. 22, 2017
+trfissue: Vol. X No. 21
+trfdate: Oct. 8, 2017
 kindle: 
 epub: 
 ---

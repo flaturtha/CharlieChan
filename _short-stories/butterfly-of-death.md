@@ -4,9 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aeeff
 title: "Butterfly of Death"
 author: Harold Gluck
-series: 
 date: 2017-01-06
-releasedate: 2017-02-17
 opub: Smashing Detective
 opubdate: Sept. 1951
 opubissue: Vol. 1, No. 3

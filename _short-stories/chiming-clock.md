@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefd8
 title: "The Case of the Chiming Clock"
 series: A Dixon Hawke Mystery
-date: 2017-03-07
-releasedate: 2017-04-18
+date: 2017-05-16
 opub: Dixon Hawke's Casebook
 opubdate: Spring 1940
 opubissue: No. 4
@@ -13,12 +12,11 @@ category: short-stories
 excerpt: "The timing of the rain clues criminologist Dixon Hawke into the falsity of the alibi based on the chiming of the clock."
 image: /assets/img/short-stories/chiming-clock.svg
 imgh: 300px
-imgh: 300px
 genre: Professional Sleuth
 tags: Dixon Hawke, Professional Sleuth
 wordcount: 2843
-trfissue: Vol. 2 No. 8
-trfdate: Feb. 19, 2016
+trfissue: Vol. 3 No. 10
+trfdate: May 7, 2017
 kindle: 
 epub: 
 ---

@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef5e
 title: "The Explosive Gentleman"
 author: J. J. Stagg
-date: 2017-04-05
-releasedate: 2017-05-17
+date: 2017-07-05
 opub: Black Mask
 opubdate: Aug. 1922
 opubissue: Vol 5, No. 5
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Revenge
 tags: short-story
 wordcount: 3089
-trfissue: Vol. 3 No. 14
-trfdate: April 2, 2017
+trfissue: Vol. 4 No. 14
+trfdate: Jul. 2, 2017
 kindle: 
 epub: 
 ---

@@ -5,8 +5,7 @@ casefileNumber: 55ccf75fb3901011515aefef
 title: "The Red Serpent"
 subtitle: "A Novelette of Astonishment"
 author: Seabury Quinn
-date: 2017-03-11
-releasedate: 2017-04-22
+date: 2017-05-20
 opub: Real Detective Tales
 opubdate: June/July 1927
 opubissue: Vol. 11, No. 2
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Amateur Sleuth
 tags: Amateur Sleuth, short-story
 wordcount: 6384
-trfissue: Vol. 2 No. 8
-trfdate: Feb. 19, 2016
+trfissue: Vol. 3 No. 10
+trfdate: May 7, 2017
 kindle: 
 epub: 
 ---

@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef51
 title: "The Brand of Cain"
 author: Ward Sterling
-date: 2017-01-31
-releasedate: 2017-03-14
+date: 2017-03-07
 opub: Black Mask
 opubdate: Apr. 1922
 opubissue: Vol. 5, No. 1
@@ -17,7 +16,7 @@ genre: Professional Sleuth
 tags: short-story
 wordcount: 3256
 trfissue: Vol. 1 No. 5
-trfdate: Jan. 29, 2017
+trfdate: Feb. 26, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Brand_of_Cain.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Brand_of_Cain.epub
 ---

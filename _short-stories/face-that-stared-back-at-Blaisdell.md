@@ -2,10 +2,9 @@
 layout: short-stories
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef20
-title: "The Face that STare Back at Blaisdell"
+title: "The Face that Stared Back at Blaisdell"
 author: Edwin Carty Ranck
-date: 2017-04-11
-releasedate: 2017-05-23
+date: 2017-07-25
 opub: Black Mask
 opubdate: Aug. 1920
 opubissue: Vol 1, No. 5
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Paranormal
 tags: short-story
 wordcount: 2214
-trfissue: Vol. 3 No. 15
-trfdate: Apr. 9, 2017
+trfissue: Vol. 4 No. 15
+trfdate: Jul. 16, 2017
 kindle: 
 epub: 
 ---

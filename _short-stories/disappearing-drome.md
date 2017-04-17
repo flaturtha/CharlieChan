@@ -5,8 +5,7 @@ casefileNumber: 55ccf75fb3901011515aefbd
 title: "The Case of the Disappearing ‘Drome"
 author:
 series: A Dixon Hawke Mystery 
-date: 2017-01-18
-releasedate: 2017-03-01
+date: 2017-02-01
 opub: Dixon Hawke Case Book
 opubdate: Spring 1940
 opubissue: No. 4
@@ -18,7 +17,7 @@ genre: Professional Sleuth
 tags: short-story
 wordcount: 3884
 trfissue: Vol. 1 No. 3
-trfdate: Jan. 15, 2017
+trfdate: Jan. 29, 2017
 ---
 
 <section id="toc" class="toc">

@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aeefc
 title: "Ghost-Town Slays"
 author: James E. Hungerford
-date: 2017-03-01
-releasedate: 2017-04-12
+date: 2017-04-26
 opub: Smashing Detective Stories
 opubdate: Sept. 1951
 opubissue: Vol. 1, No. 3
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Professional Sleuth
 tag: short-story
 wordcount: 4095
-trfissue: Vol. 2 No. 9
-trfdate: Feb. 26, 2017
+trfissue: Vol. 3, No. 9
+trfdate: Apr. 23, 2017
 kindle: 
 epub: 
 ---

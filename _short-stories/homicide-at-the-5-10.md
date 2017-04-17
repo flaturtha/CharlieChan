@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef94
 title: "Homicide at the 5 & 10"
 author: Stewart Toland
-date: 2017-01-12
-releasedate: 2017-02-23
+date: 2017-01-26
 opub: Ten Detective Aces
 opubdate: Nov. 1945
 opubissue: Vol. 11, No. 4
@@ -16,6 +15,8 @@ imgh: 300px
 genre: Noir
 tags: short-story
 wordcount: 5175
+trfissue: Vol. 1 No. 2
+trfdate: Jan. 15, 2017
 kindle: 
 epub: 
 ---

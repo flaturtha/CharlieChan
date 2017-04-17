@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef8d
 title: "Death on Location"
 author: A. Boyd Correll
-date: 2017-03-02
-releasedate: 2017-04-13
+date: 2017-05-04
 opub: Mammoth Mystery
 opubdate: Jan. 1946
 opubissue: Vol. 2, No. 1
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Amateur Sleuth
 tag: short-story
 wordcount: 5221
-trfissue: Vol. 2 No. 9
-trfdate: Feb. 26, 2017
+trfissue: Vol. 3 No. 9
+trfdate: Apr. 23, 2017
 kindle: 
 epub: 
 ---

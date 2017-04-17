@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef8b
 title: "Close To My Heart"
 author: Chester S. Geier
-date: 2017-05-11
-releasedate: 2017-06-22
+date: 2017-9-21
 opub: Mammoth Mystery
 opubdate: Jan. 1946
 opubissue: Vol. 2, No. 1
@@ -16,9 +15,8 @@ imgh: 300px
 genre: Noir
 tags: noir, Geier, Mammoth Mystery, short-story
 wordcount: 4859
-trfissue: Vol. 3 No. 17
-trfdate: Apr. 24, 2016
-timetoread: EST TIME TO READ
+trfissue: Vol. 5 No. 19
+trfdate: Sep. 9, 2017
 kindle: 
 epub: 
 ---

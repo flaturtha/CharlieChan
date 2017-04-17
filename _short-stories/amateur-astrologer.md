@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefd6
 title: "The Case of the Amateur Astrologer"
 series: A Dixon Hawke Mystery
-date: 2017-04-20
-releasedate: 2017-06-01
+date: 2017-08-10
 opub: Dixon Hawke's Casebook
 opubdate: Spring 1940
 opubissue: No. 4

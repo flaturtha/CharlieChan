@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef03
 title: "This Side Up"
 author: John Ladd
-date: 2017-01-25
-releasedate: 2017-03-08
+date: 2017-02-15
 opub: Smashing Detective Stories
 opubdate: Sept. 1951
 opubissue: Vol. 1, No. 3
@@ -17,7 +16,7 @@ genre: Amateur Sleuth
 tag: short-story
 wordcount: 3339
 trfissue: Vol. 1 No. 4
-trfdate: Jan. 22, 2017
+trfdate: Feb. 12, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/This_Side_Up.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/This_Side_Up.epub
 ---

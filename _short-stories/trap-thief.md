@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef41
 title: "The Trap Thief"
 author: Hy S. Watson & Asa Steele
-date: 2017-03-17
-releasedate: 2017-04-28
+date: 2017-05-26
 opub: Black Mask
 opubdate: Dec. 1921
 opubissue: Vol. 4, No. 3
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Hardboiled PI
 tag: short-story
 wordcount: 6248
-trfissue: Vol. 2 No. 11
-trfdate: Mar. 12, 2017
+trfissue: Vol. 3 No. 11
+trfdate: Mar. 21, 2017
 kindle: 
 epub: 
 ---

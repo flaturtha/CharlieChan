@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef40
 title: "The Finishing Touch"
 author: Charles S. Wolfe
-date: 2017-04-18
-releasedate: 2017-05-30
+date: 2017-08-08
 opub: Black Mask
 opubdate: Dec. 1921
 opubissue: Vol. 4, No. 3
@@ -16,8 +15,8 @@ imgh: 450px
 genre: Murder
 tags: short-story
 wordcount: 2075
-trfissue: Vol. 3 No. 16
-trfdate: Apr. 16, 2017
+trfissue: Vol. 5 No. 17
+trfdate: Jul. 30, 2017
 kindle: 
 epub: 
 ---

@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef07
 title: "The Masked Alibi"
 author: John Gregory
-date: 2017-02-08
-releasedate: 2017-03-22
+date: 2017-03-15
 opub: Ten Story Detective
 opubdate: Jan. 1938
 opubissue: 
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Professional Sleuth
 tag: short-story
 wordcount: 3202
-trfissue: Vol. 1 No. 6
-trfdate: Feb. 5, 2017
+trfissue: Vol. 2 No. 6
+trfdate: Feb. 26, 2017
 kindle: 
 epub: 
 ---

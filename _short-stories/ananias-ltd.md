@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef3e
 title: "Ananias Ltd."
 author: Elizabeth Dudley
-date: 2017-04-14
-releasedate: 2017-05-26
+date: 2017-07-21
 opub: Black Mask
 opubdate: Dec. 1921
 opubissue: Vol. 4, No. 3

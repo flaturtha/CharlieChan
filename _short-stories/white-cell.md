@@ -3,11 +3,8 @@ layout: short-stories
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef13
 title: "The White Cell"
-subtitle: 
 author: Gregory Hay
-series: 
-date: 2017-01-21
-releasedate: 2017-03-04
+date: 2017-02-11
 opub: Detective Story Magazine
 opubdate: Jan. 5, 1917
 opubissue: Vol. 6, No. 1

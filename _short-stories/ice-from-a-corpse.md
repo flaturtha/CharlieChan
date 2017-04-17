@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef84
 title: "Ice from a Corpse"
 author: Ed Barceio
-date: 2017-01-30
-releasedate: 2017-03-13
+date: 2017-02-27
 opub: Crime Fiction Stories
 opubdate: Dec. 1950
 opubissue: Vol. 1, No. 1
@@ -16,7 +15,7 @@ imgh: 300px
 genre: Amateur Sleuth
 wordcount: 1752
 trfissue: Vol. 1 No. 5
-trfdate: Jan. 29, 2017
+trfdate: Feb. 26, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Ice_From_A_Corpse.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Ice_From_A_Corpse.epub
 ---

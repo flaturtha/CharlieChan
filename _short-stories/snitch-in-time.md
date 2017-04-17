@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef90
 title: "A Snitch in Time"
 author: E. C. Marshall
-date: 2017-04-04
-releasedate: 2017-05-16
+date: 2017-07-11
 opub: Ten Detective Aces
 opubdate: Nov. 1945
 opubissue: Vol 51, No. 4
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Noir
 tags: short-story
 wordcount: 2245
-trfissue: Vol. 3 No. 14
-trfdate: April 2, 2017
+trfissue: Vol.43 No. 14
+trfdate: Jul. 2, 2017
 kindle: 
 epub: 
 ---

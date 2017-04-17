@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef05
 title: "You'll Kill the People"
 author: Richard Brister
-date: 2017-04-27
-releasedate: 2017-06-08
+date: 2017-08-24
 opub: Smashing Detective Stories
 opubdate: Sept. 1951
 opubissue: Vol. 1, No. 3
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Noir
 tag: short-story
 wordcount: 4758
-trfissue: Vol. 3 No. 17
-trfdate: Apr 23, 2017
+trfissue: Vol. 5 No. 17
+trfdate: Aug. 13, 2017
 ---
 
 <section id="toc" class="toc">

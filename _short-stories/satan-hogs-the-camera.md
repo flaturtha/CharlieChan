@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef91
 title: "Satan Hogs the Camera"
 author: Emil Petaja
-date: 2017-05-25
-releasedate: 2017-07-06
+date: 2017-10-19
 opub: 
 opubdate: 
 opubissue: 
@@ -16,7 +15,8 @@ imgh: 300px
 genre: Amateur Sleuth
 tag: short-story
 wordcount: 4722
-timetoread: EST TIME TO READ
+trfissue: Vol. X No. 21
+trfdate: Oct. 08, 2017
 kindle: 
 epub:
 ---

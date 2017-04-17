@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515af055
 title: "The Ruse in Cocaine Alley"
 author: William Mahoney
-date: 2017-03-21
-releasedate: 2017-05-02
+date: 2017-06-13
 opub: The Underworld Detective Story
 opubdate: March 1935
 opubissue: 
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Professional Sleuth
 tags: short-story
 wordcount: 2027
-trfissue: Vol. 2 No. 12
-trfdate: Feb. 19, 2016
+trfissue: Vol. 4 No. 12
+trfdate: Jun. 4, 2017
 kindle: 
 epub: 
 ---

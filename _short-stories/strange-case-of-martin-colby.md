@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef21
 title: "The Strange Story of Martin Colby"
 author: Ward Sterling
-date: 2017-01-24
-releasedate: 2017-03-07
+date: 2017-02-21
 opub: Black Mask
 opubdate: Aug. 1920
 opubissue: Vol. 1, No. 5
@@ -17,7 +16,7 @@ genre: Crook
 tag: short-story
 wordcount: 2391
 trfissue: Vol. 1 No. 4
-trfdate: Jan. 22, 2017
+trfdate: Feb. 12, 2017
 kindle: 
 epub: 
 ---

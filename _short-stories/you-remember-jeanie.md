@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefb3
 title: "You Remember Jeanie"
 author: John D. MacDonald
-date: 2017-02-15
-releasedate: 2017-03-29
+date: 2017-03-29
 opub: Crack Detective Stories
 opubdate: May 1949
 opubissue: Vol. 10, No. 2
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Professional Sleuth
 tag: short-story
 wordcount: 3831
-trfissue: Vol. 1 No. 7
-trfdate: Feb. 12, 2017
+trfissue: Vol. 2 No. 7
+trfdate: Mar. 26, 2017
 kindle: 
 epub: 
 ---

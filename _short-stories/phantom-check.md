@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef58
 title: "The Phantom Check"
 author: George Bruce Marquis
-date: 2017-02-24
-releasedate: 2017-04-07
+date: 2017-04-14
 opub: Black Mask
 opubdate: Aug. 1922
 opubissue: Vol. 5, No. 5
@@ -17,7 +16,7 @@ genre: Financial Mystery
 tags: short-story
 wordcount: 6127
 trfissue: Vol. 2 No. 8
-trfdate: Feb. 19, 2016
+trfdate: Apr. 9, 2017
 kindle: 
 epub: 
 ---

@@ -4,9 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef96
 title: "Coffin Nail Piracy"
 author: Neil Moran
-series: 
-date: 2017-01-06
-releasedate: 2017-02-17
+date: 2017-01-24
 opub: Ten Detective Aces
 opubdate: Nov. 1945
 opubissue: Vol. 11, No. 4
@@ -18,7 +16,7 @@ genre: Crook
 tags: short-story
 wordcount: 6045
 trfissue: Vol. 1 No. 2
-trfdate: Jan. 8, 2017
+trfdate: Jan. 15, 2017
 ---
 
 <section id="toc" class="toc">

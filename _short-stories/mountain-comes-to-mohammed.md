@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef00
 title: "The Mountain Comes to Mohammed"
 author: Amelia R. Long
-date: 2017-02-06
-releasedate: 2017-03-20
+date: 2017-03-13
 opub: Smashing Detective Stories
 opubdate: Sept. 1951
 opubissue: Vol. 1, No. 3
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Amateur Sleuth
 tag: short-story
 wordcount: 1742
-trfissue: Vol. 1 No. 6
-trfdate: Feb. 5, 2017
+trfissue: Vol. 2 No. 6
+trfdate: Feb. 26, 2017
 kindle: 
 epub: 
 ---

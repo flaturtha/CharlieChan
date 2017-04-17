@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef17
 title: "The Letter in the Mail"
 author: Alfred Plowman
-date: 2017-03-31
-releasedate: 2017-05-12
+date: 2017-06-23
 opub: Detective Story Magazine
 opubdate: Jan. 5, 1916
 opubissue: Vol. 6, No. 1
@@ -16,8 +15,8 @@ imgh: 300px
 genre: 
 tag: short-story
 wordcount: 6236
-trfissue: Vol. 3 No. 13
-trfdate: Mar. 26, 2017
+trfissue: Vol. 4 No. 13
+trfdate: Jun. 18, 2017
 kindle: 
 epub: 
 ---

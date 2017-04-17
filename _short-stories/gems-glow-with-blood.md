@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef83
 title: "Gems Glow With Blood"
 author: Joseph Cummings
-date: 2017-02-09
-releasedate: 2017-03-23
+date: 2017-03-23
 opub: Crime Fiction Stories
 opubdate: Dec. 1950
 opubissue: Vol. 1, No. 1
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Hardboiled PI
 tag: short-story
 wordcount: 4576
-trfissue: Vol. 1 No. 6
-trfdate: Feb. 5, 2017
+trfissue: Vol. 2 No. 6
+trfdate: Mar. 12, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Gems_Glow_With_Blood.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Gems_Glow_With_Blood.epub
 ---

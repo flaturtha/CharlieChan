@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: XXXXXXXXXX
 title: "Blackmail"
 author: Stanley Rushton
-date: 2017-04-17
-releasedate: 2017-05-29
+date: 2017-07-31
 opub: Real Detective Tales
 opubdate: June/July 1927
 opubissue: Vol. 11, No. 2
@@ -16,8 +15,8 @@ imgh: 450px
 genre: True Crime
 tags: short-story
 wordcount: 1147
-trfissue: Vol. 3 No. 16
-trfdate: Apr. 16, 2017
+trfissue: Vol. 4 No. 16
+trfdate: Jul. 30, 2017
 kindle: 
 epub: 
 ---

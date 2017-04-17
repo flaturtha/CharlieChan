@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aeff1
 title: "Easy Money men"
 author: Eric Howard
-date: 2017-04-07
-releasedate: 2017-05-20
+date: 2017-07-15
 opub: Crack Detective
 opubdate: May 1949
 opubissue: Vol. 10, No. 2
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Noir
 tags: short-story
 wordcount: 9756
-trfissue: Vol. 3 No. 14
-trfdate: Apr. 2, 2017
+trfissue: Vol. 4 No. 14
+trfdate: Jul. 2, 2017
 kindle: 
 epub: 
 ---

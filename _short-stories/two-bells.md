@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef3b
 title: "Two Bells"
 author: Harry C. Hervey, Jr.
-date: 2017-01-14
-releasedate: 2017-02-25
+date: 2017-01-28
 opub: Black Mask
 opubdate: Nov. 1920
 opubissue: Vol. 11, No. 2
@@ -16,7 +15,8 @@ imgh: 300px
 genre: Adventure
 tag: short-story
 wordcount: 8881
-timetoread: EST TIME TO READ
+trfissue: Vol. 1 No. 2
+trfdate: Jan. 15, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Two_Bells.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Two_Bells.epub
 ---

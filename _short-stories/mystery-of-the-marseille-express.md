@@ -5,9 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef3c
 title: "The Mystery of the Marseilles Express"
 subtitle: 
 author: J. C. Kofoed
-series: 
-date: 2017-01-20
-releasedate: 2017-03-03
+date: 2017-02-03
 opub: Black Mask
 opubdate: Nov. 1920
 opubissue: Vol. 2, No. 2
@@ -19,7 +17,7 @@ genre: Professional Sleuth
 tags: short-story
 wordcount: 5194
 trfissue: Vol. 1 No. 3
-trfdate: Jan. 15, 2017
+trfdate: Jan. 29, 2017
 ---
 
 <section id="toc" class="toc">

@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef2c
 title: "The Heart on the Mantel"
 author: Paul Everman
-date: 2017-02-06
-releasedate: 2017-03-20
+date: 2017-03-21
 opub: Black Mask
 opubdate: Sept. 1920
 opubissue: Vol. 1, No. 6
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Mystery
 tag: short-story
 wordcount: 1742
-trfissue: Vol. 1 No. 6
-trfdate: Feb. 5, 2017
+trfissue: Vol. 2 No. 6
+trfdate: Mar. 12, 2017
 kindle: 
 epub: 
 ---

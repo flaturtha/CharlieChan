@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef09
 title: "Candidate for Death"
 author: Theodore A. Tinsley
-date: 2017-03-04
-releasedate: 2017-04-15
+date: 2017-05-06
 opub: All Detective Magazine
 opubdate: March 1933
 opubissue:
@@ -16,9 +15,8 @@ imgh: 300px
 genre: Crook
 tags: short-story, crook, All Detective, Tinsley
 wordcount: 7622
-trfissue: Vol. 2 No. 9
-trfdate: Feb. 28, 2016
-timetoread: EST TIME TO READ
+trfissue: Vol. 3 No. 9
+trfdate: Apr. 23, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Candidate_for_Death.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Candidate_for_Death.epub
 ---

@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef2a
 title: "The Choice"
 author: Eugene Guillaume
-date: 2017-03-06
-releasedate: 2017-04-17
+date: 2017-05-08
 opub: Black Mask
 opubdate: Sept. 1920
 opubissue: Vol. 1, No. 6
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Mystery
 tag: short-story
 wordcount: 670
-trfissue: Vol. 2 No. 10
-trfdate: Mar. 5, 2017
+trfissue: Vol. 3 No. 10
+trfdate: May 7, 2017
 kindle: 
 epub: 
 ---

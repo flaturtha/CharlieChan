@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef44
 title: "Fear"
 author: Pettersen Marzoni
-date: 2017-02-02
-releasedate: 2017-03-16
+date: 2017-03-01
 opub: 
 opubdate: 
 opubissue: 
@@ -16,7 +15,7 @@ genre: Crime
 tag: short-story
 wordcount: 4547
 trfissue: Vol. 1 No. 5
-trfdate: Jan. 29, 2017
+trfdate: Feb. 26, 2017
 kindle: 
 epub: 
 ---

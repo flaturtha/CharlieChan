@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef2e
 title: "The Devil Takes A Hand"
 author: Ward Sterling
-date: 2017-03-20
-releasedate: 2017-05-01
+date: 2017-06-05
 opub: Black Mask
 opubdate: Sept. 1921
 opubissue: Vol 1, No. 6
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Professional Sleuth
 tags: short-story
 wordcount: 1366
-trfissue: Vol. 2 No. 12
-trfdate: Feb. 19, 2016
+trfissue: Vol. 4 No. 12
+trfdate: Jun. 4, 2017
 kindle: 
 epub: 
 ---

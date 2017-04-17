@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefb4
 title: "Easy Money"
 author: Lee Floren
-date: 2017-04-10
-releasedate: 2017-05-22
+date: 2017-07-17
 opub: Crack Detective
 opubdate: May 1949
 opubissue: Vol. 10, No. 2
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Sports
 tags: short-story
 wordcount: 1164
-trfissue: Vol. 3 No. 15
-trfdate: Apr. 9, 2017
+trfissue: Vol. 4 No. 15
+trfdate: Jul. 16, 2017
 kindle: 
 epub: 
 ---

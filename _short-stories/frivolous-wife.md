@@ -3,10 +3,8 @@ layout: short-stories
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefc0
 title: "The Case of the Frivolous Wife"
-author:
 series: A Dixon Hawke Mystery
-date: 2017-02-01
-releasedate: 2017-03-15
+date: 2017-08-30
 category: short-stories
 excerpt: “A present, Janie—from an unknown admirer! Try one of the goldpaper ones—they’re Benedictine.” Almost grudgingly Nurse Wilmot put her hand into the box and took a liqueur chocolate wrapped in gold-coloured foil.
 image: /assets/img/short-stories/frivolous-wife.svg
@@ -14,8 +12,8 @@ imgh: 300px
 genre: Professional Sleuth
 tag: short-story
 wordcount: 3843
-trfissue: Vol. 1 No. 5
-trfdate: Jan. 29, 2017
+trfissue: Vol. 5 No. 18
+trfdate: Aug. 27, 2017
 kindle: 
 epub: 
 ---

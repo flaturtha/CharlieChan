@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef3a
 title: "The Guerilla"
 author: Clinton Harcourt
-date: 2017-01-03
-releasedate: 2017-02-14
+date: 2017-01-10
 opub: Black Mask
 opubdate: Nov. 1920
 opubissue: Vol. 2, No. 2
@@ -16,7 +15,8 @@ imgh: 300px
 genre: Noir
 tag: short-story
 wordcount: 2735
-timetoread: EST TIME TO READ
+trfissue: Vol. 1 No. 1
+trfdate: Jan. 1, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Guerilla.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Guerilla.epub
 ---

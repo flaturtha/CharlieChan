@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef26
 title: "Brothers of the Coast"
 author: J. C. Kofoed
-date: 2017-03-14
-releasedate: 2017-04-25
+date: 2017-05-30
 opub: Black Mask
 opubdate: Aug. 1920
 opubissue: Vol. 1, No. 5
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Adventure
 tag: short-story
 wordcount: 2865
-trfissue: Vol. 2 No. 11
-trfdate: Mar. 12, 2017
+trfissue: Vol. 3 No. 11
+trfdate: May 21, 2017
 kindle: 
 epub: 
 ---

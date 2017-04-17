@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef3f
 title: "Weeping Killer"
 author: Harry M. Sutherland
-date: 2017-04-03
-releasedate: 2017-05-15
+date: 2017-07-03
 opub: Black Mask
 opubdate: Dec. 1921
 opubissue: Vol. 4, No. 3

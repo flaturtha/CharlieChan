@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef86
 title: "Ah, Sweet Mystery of Death"
 author: Bryce Walton
-date: 2017-04-21
-releasedate: 2017-06-02
+date: 2017-08-04
 opub: Crime Fiction Stories
 opubdate: Dec. 1950
 opubissue: Vol. 1, No. 1

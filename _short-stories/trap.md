@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef4e
 title: "The Trap"
 author: R. T. M. Scott
-date: 2017-02-10
-releasedate: 2017-03-24
+date: 2017-03-17
 opub: Black Mask
 opubdate: Apr. 1922
 opubissue: Vol. 5, No. 1
@@ -17,8 +16,8 @@ imgh: 300px
 genre: Professional Sleuth
 tag: short-story
 wordcount: 5522
-trfissue: Vol. 1 No. 6
-trfdate: Feb. 5, 2017
+trfissue: Vol. 2 No. 6
+trfdate: Feb. 26, 2017
 kindle:
 epub:
 ---

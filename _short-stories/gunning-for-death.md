@@ -4,9 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef02
 title: "Gunning for Death"
 author: James L. Harfe
-series: 
-date: 2017-01-07
-releasedate: 2017-02-18
+date: 2017-01-14
 opub: Smashing Detective
 opubdate: Sept. 1951
 opubissue: Vol. 1, No. 3

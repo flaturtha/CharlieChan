@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef30
 title: "The Man Who Would Not Die"
 author: Harold Ward
-date: 2017-03-25
-releasedate: 2017-05-06
+date: 2017-06-17
 opub: Black Mask
 opubdate: Sept. 1920
 opubissue: Vol. 1, No. 6
@@ -17,8 +16,8 @@ imgh: 300px
 genre: Supernatural
 tags: short-story
 wordcount: 9444
-trfissue: Vol. 2 No. 12
-trfdate: Feb. 19, 2016
+trfissue: Vol. 4 No. 12
+trfdate: Jun. 4, 2017
 kindle: 
 epub: 
 ---

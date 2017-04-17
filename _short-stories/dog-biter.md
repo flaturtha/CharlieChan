@@ -5,7 +5,6 @@ casefileNumber: 55ccf75fb3901011515aefb9
 title: "The Case of the Dog-Biter"
 series: A Dixon Hawke Mystery
 date: 2017-01-04
-releasedate: 2017-02-15
 opub: Dixon Hawke's Casebook
 opubdate: Spring 1940
 opubissue: No. 4
@@ -18,7 +17,6 @@ tags: Dixon Hawke, Professional Sleuth, short-story
 wordcount: 3184
 trfissue: Vol. 1 No. 1
 trfdate: Jan. 1, 2017
-timetoread: EST TIME TO READ
 kindle: 
 epub: 
 ---

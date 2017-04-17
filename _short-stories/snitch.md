@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef19
 title: "The \"Snitch\""
 author: Mert E. Smith
-date: 2017-03-13
-releasedate: 2017-04-24
+date: 2017-05-22
 opub: Detective Story Magazine
 opubdate: Jan. 5, 1917
 opubissue: Vol. 6, No. 1
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Crook
 tag: short-story
 wordcount: 1129
-trfissue: Vol. 2 No. 11
-trfdate: Mar. 12, 2017
+trfissue: Vol. 3 No. 11
+trfdate: May 21, 2017
 kindle: 
 epub: 
 ---

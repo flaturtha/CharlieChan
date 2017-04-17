@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef3d
 title: "The Prisoner Speaks"
 author: J. Frederic Thorne
-date: 2017-04-29
-releasedate: 2017-06-10
+date: 2017-08-26
 opub: Black Mask
 opubdate: Dec. 1921
 opubissue: Vol. 4, No. 3
@@ -17,8 +16,8 @@ imgh: 450px
 genre: Courtroom
 tag: short-story
 wordcount: 9998
-trfissue: Vol. 3 No. 17
-trfdate: Apr 23, 2017
+trfissue: Vol. 5 No. 17
+trfdate: Aug. 13, 2017
 ---
 
 <section id="toc" class="toc">

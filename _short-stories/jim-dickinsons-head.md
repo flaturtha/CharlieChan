@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef1e
 title: "Jim Dickinson's Head"
 author: Harold Ward
-date: 2017-02-21
-releasedate: 2017-04-04
+date: 2017-04-18
 opub: Black Mask
 opubdate: Aug. 1920
 opubissue: Vol. 1, No. 5
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Murder
 tag: short-story
 wordcount: 2800
-trfissue: Vol. 1 No. 8
-trfdate: Feb. 19, 2017
+trfissue: Vol. 2 No. 8
+trfdate: Apr. 9, 2017
 kindle: 
 epub: 
 ---

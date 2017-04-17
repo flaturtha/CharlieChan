@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aeff4
 title: "The Runaway"
 author: Al Peters
-date: 2017-03-28
-releasedate: 2017-05-09
+date: 2017-06-27
 opub: Black Mask
 opubdate: Aug. 1922
 opubissue: Vol 5, No. 5
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Professional Sleuth
 tags: short-story
 wordcount: 2235
-trfissue: Vol. 2 No. 12
-trfdate: Mar. 26, 2017
+trfissue: Vol. 4 No. 13
+trfdate: Jun. 18, 2017
 kindle: 
 epub: 
 ---

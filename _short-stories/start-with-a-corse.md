@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef8a
 title: "Start With A Corpse"
 author: Larry Holden
-date: 2017-03-16
-releasedate: 2017-04-27
+date: 2017-06-01
 opub: Mammoth Mystery
 opubdate: Jan. 1946
 opubissue: Vol. 2, No. 1
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Hardboiled PI
 tag: short-story
 wordcount: 5373
-trfissue: Vol. 2 No. 11
-trfdate: Mar. 12, 2017
+trfissue: Vol. 3 No. 11
+trfdate: May 21, 2017
 kindle: 
 epub: 
 ---

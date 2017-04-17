@@ -5,8 +5,7 @@ casefileNumber: 55ccf75fb3901011515aefbd
 title: "Voodoo on the Riviera"
 author:
 series: A Dixon Hawke Mystery 
-date: 2017-04-01
-releasedate: 2017-05-13
+date: 2017-07-01
 opub: Dixon Hawke Library 
 opubdate: 
 opubissue: DHL No. 4

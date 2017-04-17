@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef88
 title: "Odds Are On Death"
 author: Ashley Calhoun
-date: 2017-03-08
-releasedate: 2017-04-19
+date: 2017-05-10
 opub: Crime Fiction Stories
 opubdate: Dec. 1950
 opubissue: Vol 1., No. 1
@@ -16,7 +15,8 @@ imgh: 300px
 genre: Hardboiled PI
 tag: short-story
 wordcount: 3724
-timetoread: EST TIME TO READ
+trfissue: Vol. 3 No. 10
+trfdate: May 7, 2017
 kindle: 
 epub: 
 ---

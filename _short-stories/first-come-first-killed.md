@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef01
 title: "First Come, First Killed"
 author: D. A. Kyle
-date: 2017-03-10
-releasedate: 2017-04-21
+date: 2017-05-12
 opub: Smashing Detective
 opubdate: Sept. 1951
 opubissue: Vol. 1, No. 3
@@ -17,8 +16,8 @@ imgh: 300px
 genre: Amateur Sleuth
 tags: Amateur Sleuth, short-story
 wordcount: 6384
-trfissue: Vol. 2 No. 8
-trfdate: Feb. 19, 2016
+trfissue: Vol. 3 No. 10
+trfdate: May 7, 2017
 kindle: 
 epub: 
 ---

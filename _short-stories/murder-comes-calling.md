@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef87
 title: "Murder Comes Calling"
 author: Logan Legare
-date: 2017-02-23
-releasedate: 2017-04-06
+date: 2017-04-20
 opub: Crime Fiction Stories
 opubdate: Dec. 1950
 opubissue: Vol. 1, No. 1
@@ -18,7 +17,7 @@ genre: Noir
 tags: Dixon Hawke, Professional Sleuth
 wordcount: 5534
 trfissue: Vol. 2 No. 8
-trfdate: Feb. 19, 2016
+trfdate: Apr. 9, 2017
 kindle: 
 epub: 
 ---

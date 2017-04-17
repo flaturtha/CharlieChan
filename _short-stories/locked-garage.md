@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefcd
 title: "The Case of the Locked Garage"
 series: A Dixon Hawke Mystery 
-date: 2017-04-24
-releasedate: 2017-06-06
+date: 2017-08-22
 opub: Dixon Hawke Casebook 
 opubdate: Spring 1940
 opubissue: No. 4
@@ -16,8 +15,8 @@ imgh: 450px
 genre: Professional Sleuth
 tags: short-story
 wordcount: 2730
-trfissue: Vol. 3 No. 17
-trfdate: Apr. 23, 2017
+trfissue: Vol. 5 No. 17
+trfdate: Aug. 13, 2017
 ---
 
 <section id="toc" class="toc">

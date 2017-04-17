@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef06
 title: "Double-Crosser"
 author: Johnston McCultey
-date: 2017-05-18
-releasedate: 2017-06-29
+date: 2017-10-05
 opub: 
 opubdate: 
 opubissue: 
@@ -15,7 +14,8 @@ image: /assets/img/short-stories/double-crosser.svg
 imgh: 300px
 genre: Crook, short-story
 wordcount: 4718
-timetoread: EST TIME TO READ
+trfissue: Vol. X No. 20
+trfdate: Sep. 24, 2017
 kindle: 
 epub: 
 ---

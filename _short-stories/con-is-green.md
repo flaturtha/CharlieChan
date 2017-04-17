@@ -5,8 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef93
 title: "The Con Is Green"
 subtitle: "A Dizzy Duo Yarn"
 author: Joe Archibald
-date: 2017-02-16
-releasedate: 2017-03-30
+date: 2017-04-06
 opub: Ten Detective Aces
 opubdate: November 1945
 opubissue: Vol. 11, No. 4
@@ -17,8 +16,8 @@ imgh: 300px
 genre: Amateur Sleuth
 tags: amateur sleuth, Ten Detective Aces, Archibald, Dizzy Duo, short-story
 wordcount: 4910
-trfissue: Vol. 1 No. 7
-trfdate: Feb. 12, 2016
+trfissue: Vol. 2 No. 7
+trfdate: Mar. 26, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Con_Is_Green.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Con_Is_Green.epub
 ---

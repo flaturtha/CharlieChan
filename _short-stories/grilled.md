@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef12
 title: "Grilled"
 author: Burns Patterson
-date: 2017-02-16
-releasedate: 2017-03-30
+date: 2017-03-17
 opub: Detective Story Magazine
 opubdate: Mar. 5, 1916
 opubissue: Vol. 2, No. 5
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Professional Sleuth
 tags: amateur sleuth, Ten Detective Aces, Archibald, Dizzy Duo, short-story
 wordcount: 519
-trfissue: Vol. 1 No. 7
-trfdate: Feb. 12, 2016
+trfissue: Vol. 2, No. 7
+trfdate: Mar. 26, 2017
 kindle: 
 epub: 
 ---

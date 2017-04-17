@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef92
 title: "The Ironclad Alibi"
 author: Gunnison Steele
-date: 2017-01-23
-releasedate: 2017-03-06
+date: 2017-01-16
 opub: Ten Detective Aces
 opubdate: Nov. 1945
 opubissue: Vol. 11, No. 4
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Crook
 tag: short-story
 wordcount: 1743
-trfissue: Vol. 1 No. 4
-trfdate: Jan. 22, 2017
+trfissue: Vol. 1 No. 2
+trfdate: Jan. 15, 2017
 kindle: 
 epub: 
 ---

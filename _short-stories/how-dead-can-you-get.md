@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef85
 title: "How Dead Can You Get?"
 author: Charles Beckman, Jr.
-date: 2017-06-08
-releasedate: 2017-07-20
+date: 2017-11-16
 opub: 
 opubdate: 
 opubissue: 
@@ -16,7 +15,8 @@ imgh: 300px
 genre: Noir
 tag: short-story
 wordcount: 4093
-timetoread: EST TIME TO READ
+trfissue: Vol. X No. 23
+trfdate: Nov. 5, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/How_Dead_Can_You_Get.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/How_Dead_Can_You_Get.epub
 ---

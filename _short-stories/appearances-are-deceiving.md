@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef4c
 title: "Appearances Are Deceiving"
 author: George B. Jenkins, Jr.
-date: 2017-05-03
-releasedate: 2017-06-14
+date: 2017-09-07
 opub: The Black Mask
 opubdate: Apr. 1922
 opubissue: Vol. 5, No. 1
@@ -17,7 +16,7 @@ genre: Crook
 tags: short-story, crook, "George B. Jenkins, Jr.", Black Mask
 wordcount: 4348
 trfissue: Vol. 3 No. 17
-trfdate: Apr. 24, 2016
+trfdate: Apr. 24, 2017
 timetoread: EST TIME TO READ
 kindle: 
 epub: 

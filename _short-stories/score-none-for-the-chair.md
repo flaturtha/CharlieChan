@@ -5,7 +5,6 @@ casefileNumber: 55ccf75fb3901011515aef04
 title: "Score None for the Chair"
 author: Thomas Thursday
 date: 2017-01-02
-releasedate: 2017-02-13
 opub: Crack Detective
 opubdate: May 1949
 opubissue: Vol. 10, No. 2
@@ -16,7 +15,8 @@ imgh: 300px
 genre: Professional Sleuth
 tag: short-story
 wordcount: 1878
-timetoread: EST TIME TO READ
+trfissue: Vol. 1 No. 1
+trfdate: Jan. 1, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Score_None_for_the_Chair.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Score_None_for_the_Chair.epub
 ---

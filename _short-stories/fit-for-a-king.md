@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef4a
 title: "Fit for a King"
 author: Walter Deffenbaugh
-date: 2017-01-13
-releasedate: 2017-02-24
+date: 2017-01-20
 opub: Black Mask
 opubdate: Dec. 1921
 opubissue: Vol. 4, No. 3
@@ -16,6 +15,8 @@ imgh: 300px
 genre: Professional Sleuth
 tags: short-story
 wordcount: 6188
+trfissue: Vol. 1 No. 2
+trfdate: Jan. 15, 2017
 kindle: 
 epub: 
 ---

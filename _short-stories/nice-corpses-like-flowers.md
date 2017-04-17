@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515af057
 title: "Nice Corpses Like Flowers"
 author: J. B. Hawley
-date: 2017-03-29
-releasedate: 2017-05-10
+date: 2017-06-21
 opub: Crime Fiction Stories
 opubdate: Mar. 1943
 opubissue: Vol. 4, No. 2
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Professional Sleuth
 tag: short-story
 wordcount: 4625
-trfissue: Vol. 2 No. 12
-trfdate: Mar. 26, 2017
+trfissue: Vol. 4 No. 13
+trfdate: Jun. 18, 2017
 kindle: 
 epub: 
 ---

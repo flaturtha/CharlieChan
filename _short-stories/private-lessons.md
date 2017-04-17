@@ -5,8 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef68
 title: "Private Lessons"
 author: By Hugh MacNair Kahler
 authorData: "(Author of “Local Talente”)"
-date: 2017-02-03
-releasedate: 2017-03-17
+date: 2017-03-11
 opub: Mammoth Mystery
 opubdate: Jan. 1946
 opubissue: Vol. 2, No. 1
@@ -17,7 +16,7 @@ genre: Professional Sleuth
 tag: short-story
 wordcount: 8551
 trfissue: Vol. 1 No. 5
-trfdate: Jan. 29, 2017
+trfdate: Feb. 26, 2017
 kindle: 
 epub: 
 ---

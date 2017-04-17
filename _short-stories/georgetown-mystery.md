@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef35
 title: "The Georgetown Mystery"
 author: William Wallace Major
-date: 2017-03-24
-releasedate: 2017-05-05
+date: 2017-06-09
 opub: Black Mask
 opubdate: Nov. 1920
 opubissue: Vol. 2, No. 2
@@ -17,8 +16,8 @@ imgh: 300px
 genre: Supernatural
 tags: short-story
 wordcount: 6722
-trfissue: Vol. 2 No. 12
-trfdate: Feb. 19, 2016
+trfissue: Vol. 4 No. 12
+trfdate: Jun. 4, 2017
 kindle: 
 epub: 
 ---

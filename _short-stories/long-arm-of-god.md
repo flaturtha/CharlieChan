@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef25
 title: "The Long Arm of God"
 author: Ward Sterling
-date: 2017-01-11
-releasedate: 2017-02-22
+date: 2017-01-18
 opub: Black Mask
 opubdate: Sept. 1920
 opubissue: Vol. 1, No. 6
@@ -16,7 +15,8 @@ imgh: 300px
 genre: Murder
 tags: short-story
 wordcount: 3686
-timetoread: EST TIME TO READ
+trfissue: Vol. 1 No. 2
+trfdate: Jan. 15, 2017
 kindle: 
 epub: 
 ---

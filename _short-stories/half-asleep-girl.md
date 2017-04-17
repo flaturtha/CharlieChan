@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef37
 title: "The Half-Asleep Girl"
 author: William H. Kofoed
-date: 2017-02-25
-releasedate: 2017-04-08
+date: 2017-04-22
 opub: Black Mask
 opubdate: Nov. 1920
 opubissue: Vol. 2, No. 2
@@ -17,7 +16,7 @@ genre: Financial Mystery
 tags: short-story
 wordcount: 8780
 trfissue: Vol. 2 No. 8
-trfdate: Feb. 19, 2016
+trfdate: Apr. 9, 2017
 kindle: 
 epub: 
 ---

@@ -5,8 +5,7 @@ casefileNumber: XXXXXXXXXX
 title: "The Siren"
 subtitle: "The Sardonic Tale of a Sentimental Prisoner"
 author: Charles T. Hickey
-date: 2017-05-02
-releasedate: 2017-05-29
+date: 2017-09-05
 opub: The Thriller Library
 opubdate: Feb. 20, 1932
 opubissue: Vol. 6, No. 159
@@ -17,8 +16,8 @@ imgh: 450px
 genre: Prison Break
 tags: short-story
 wordcount: 2332
-trfissue: Vol. 4 No. 18
-trfdate: Apr. 30, 2017
+trfissue: Vol. 5 No. 18
+trfdate: Aug. 27, 2017
 kindle: 
 epub: 
 ---

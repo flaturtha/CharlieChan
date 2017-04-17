@@ -5,8 +5,7 @@ casefileNumber: 55ccf75fb3901011515aeff3
 title: "The Poison"
 subtitle: "Tom Curry&#39;s Latest Story of the New York Detective Force"
 author: Tom Curry
-date: 2017-04-12
-releasedate: 2017-05-24
+date: 2017-07-19
 opub: Real Detective Tales
 opubdate: June/July 1927
 opubissue: Vol 11, No. 2
@@ -17,8 +16,8 @@ imgh: 300px
 genre: Professional Sleuth
 tags: short-story
 wordcount: 3449
-trfissue: Vol. 3 No. 15
-trfdate: Apr. 9, 2017
+trfissue: Vol. 4 No. 15
+trfdate: Jul. 16, 2017
 kindle: 
 epub: 
 ---

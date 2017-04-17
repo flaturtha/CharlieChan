@@ -5,8 +5,7 @@ casefileNumber: 55ccf75fb3901011515aefaf
 title: "You Can't Predict Death"
 author: Glen Peggie
 authorData: "(Author of “No Punishment For Murder”)"
-date: 2017-01-16
-releasedate: 2017-02-27
+date: 2017-01-30
 opub: Crack Detective
 opubdate: May 1949
 opubissue: Vol. 10, No. 2
@@ -18,7 +17,7 @@ genre: Noir
 tags: short-story
 wordcount: 470
 trfissue: Vol. 1 No. 3
-trfdate: Jan. 15, 2017
+trfdate: Jan. 29, 2017
 ---
 
 <!-- <section id="toc" class="toc">

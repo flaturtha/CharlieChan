@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef1d
 title: "More Deadly than the Viper"
 author: Harry C. Hervey, Jr.
-date: 2017-02-17
-releasedate: 2017-03-31
+date: 2017-04-08
 opub: Black Mask
 opubdate: Aug. 1920
 opubissue: Vol. 1, No. 5
@@ -16,8 +15,8 @@ imgh: 300px
 genre: Supernatural Adventure
 tags: short-story
 wordcount: 8179
-trfissue: Vol. 1 No. 7
-trfdate: Feb. 12, 2016
+trfissue: Vol. 2 No. 7
+trfdate: Mar. 26, 2017
 kindle: 
 epub: 
 ---

@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef24
 title: "After Midnight"
 author: Marthé Neville
-date: 2017-03-18
-releasedate: 2017-04-29
+date: 2017-06-03
 opub: Black Mask
 opubdate: Aug. 1920
 opubissue: Vol. 1, No. 5

@@ -4,9 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef97
 title: "The Criminal Had Crust"
 author: D. A. Hoover
-series: 
-date: 2017-01-17
-releasedate: 2017-02-28
+date: 2017-01-07
 opub: Ten Detective Aces
 opubdate: Nov. 1945
 opubissue: Vol. 11, No. 4
@@ -18,7 +16,7 @@ genre: Noir
 tags: short-story
 wordcount: 2209
 trfissue: Vol. 1 No. 3
-trfdate: Jan. 15, 2017
+trfdate: Jan. 29, 2017
 ---
 
 <section id="toc" class="toc">

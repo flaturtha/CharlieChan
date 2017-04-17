@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef27
 title: "Planned by the Stars"
 author: C. S. Montanye
-date: 2017-03-22
-releasedate: 2017-05-03
+date: 2017-06-07
 opub: 
 opubdate: 
 opubissue: 
@@ -16,7 +15,8 @@ imgh: 300px
 genre: Crook
 tag: short-story
 wordcount: 3551
-timetoread: EST TIME TO READ
+trfissue: Vol. 4 No. 12
+trfdate: Jun. 4, 2017
 kindle: 
 epub: 
 ---

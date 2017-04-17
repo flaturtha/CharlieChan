@@ -4,8 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef56
 title: "Blueberry Pie"
 author: Thyra Samter Winslow
-date: 2017-04-15
-releasedate: 2017-05-27
+date: 2017-07-29
 opub: Black Mask
 opubdate: Aug. 1922
 opubissue: Vol. 5, No. 5
@@ -17,8 +16,8 @@ imgh: 450px
 genre: Crime
 tags: short-story
 wordcount: 9130
-trfissue: Vol. 3 No. 15
-trfdate: Apr. 9, 2017
+trfissue: Vol. 4 No. 15
+trfdate: Jul. 16, 2017
 kindle: 
 epub: 
 ---
