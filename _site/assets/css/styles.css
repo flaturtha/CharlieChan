@@ -3678,3 +3678,11 @@ a {
 
 .d-block {
   display: block; }
+
+.placeholder {
+  height: 375px;
+  border: 1px solid #242424;
+  background-image: url("/assets/img/site/atticus_b_small.png");
+  background-size: 50px 75px;
+  background-repeat: no-repeat;
+  background-position: center; }

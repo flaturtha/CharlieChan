@@ -5,12 +5,22 @@
     </header>
 
     <ul class="cards__small">
-    {% for short-stories in site.short-stories | limit: 6 %}
+    {% assign shorts = site.short-stories | reverse %}
+    {% for short-stories in shorts | limit: 6 %}
 
       <li class="card__small" {% if short-stories.genre %} id="{{ short-stories.genre | downcase }}"{% endif %}>
         
+        <!-- <h4 class="xsmall"><span style="float:right;background-color:#8b0000;color:#fffff0;padding:3px;margin:3px;">{{ short-stories.date | date: "%a, %b %d, %Y" }}</span></h4> -->
+        
         <a href="{{ short-stories.url }}" class="readmore">
-        <img src="{{ short-stories.image }}" alt="{{ short-stories.title }} by {{ short-stories.author }}"></a>
+          
+          {% if short-stories.image %}
+            <div style="background-image:url(' {{ short-stories.image }} ');background-repeat:no-repeat;background-position:center;background-size:contain;height:375px"></div>
+          {% else %}
+            <div class="placeholder"></div>
+          {% endif %}
+        </a>
+
         <h2 class="title">{{ short-stories.title }}</h2>
         <h3 class="author">
           {% if short-stories.author %}
