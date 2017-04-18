@@ -21,7 +21,7 @@
 
     <li class="card" {% if short-stories.genre %} id="{{ short-stories.genre | downcase }}"{% endif %}>
 
-      <header class="card__header" style="background-image:url(' {{ short-stories.image }}');">
+      <header class="card__header" style="{% if short-stories.image %} background-image:url(' {{ short-stories.image }}') {% else %} background-image:url('/assets/img/site/atticus_b_small.png');background-size: 50px 75px;{% endif %}">
 
       <p class="card__genre">{{ short-stories.genre }}</p>
 

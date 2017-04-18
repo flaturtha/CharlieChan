@@ -9,11 +9,12 @@ layout: default2
 <header class="books__header">
 {% include jsonld_novels.html %}
 
-
-  <figure class="image-box">
-    <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="story__img" {% if page.imgh %} style="height:{{ page.imgh }};width:auto;" {% endif %} itemprop="image">
-    <figcaption>{{ page.caption }}</figcaption>
-  </figure>
+  {% if page.image %}
+    <figure class="image-box">
+      <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="story__img" {% if page.imgh %} style="height:{{ page.imgh }};width:auto;" {% endif %} itemprop="image">
+      <figcaption>{{ page.caption }}</figcaption>
+    </figure>    
+  {% endif %}
 
     <!-- README IF STATEMENT -->
     {% if site.readtime %}
@@ -24,9 +25,9 @@ layout: default2
       {% endif %}
     {% endif %}
 
-    <div class="book_details">
+    <div class="book_details"  {% unless page.image %} style="margin:0 auto;max-width:600px;" {% endunless %}>
 
-      <h5><span style="background-color:#6e6e6e;color:#fffff0;text-transform:uppercase;padding:0.5rem 0.5rem 0.5rem 0.5rem;letter-spacing:2px;">{{ page.genre }}</span></h5>
+      <h5 style="margin-top: 1rem;"><span style="background-color:#6e6e6e;color:#fffff0;text-transform:uppercase;padding:0.5rem 0.5rem 0.5rem 0.5rem;letter-spacing:2px;">{{ page.genre }}</span></h5>
 
       <h1 style="margin-top: 2rem;" class="books__title">{{ page.title }}</h1>
       {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}

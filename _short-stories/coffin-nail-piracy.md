@@ -10,7 +10,7 @@ opubdate: Nov. 1945
 opubissue: Vol. 11, No. 4
 category: short-stories
 excerpt: "Dying for smokes, that desperate gang would go to any extreme to get them, including &hellip;"
-image: /assets/img/short-stories/coffin-nail-piracy.svg
+<!-- image:  /assets/img/short-stories/coffin-nail-piracy.svg -->
 imgh: 300px
 genre: Crook
 tags: short-story
