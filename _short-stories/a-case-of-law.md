@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef11
 title: "A Case of Law"
 author: William Dudley Pelley
 authorData: "(Author of “The World Next Door,” “The Measure of a Man,” etc.)"
-date: 2017-03-04
+date: 2017-04-04
 opub: Adventure
 opubdate: Mid-September 1917
 opubissue: 
