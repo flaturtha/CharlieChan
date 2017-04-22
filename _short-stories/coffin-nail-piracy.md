@@ -85,7 +85,7 @@ kicked him.
 “Don’t laugh!” he said. “Ain’t it practical? Ain’t it ah in the kind of
 work we do?"
 
-“But holding up a bus,” said Dugan, “to get— Suppose we’re caught?"
+“But holding up a bus,” said Dugan, “to get — Suppose we’re caught?"
 
 “How can we be caught? A lonely road. I know this place. A bus comes
 along. The driver slows down when he sees us. Thinks we're passengers.

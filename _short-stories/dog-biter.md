@@ -225,13 +225,15 @@ Then, as he swung round and stared into its face, it snuffled and licked him gen
 
 He seemed in no way anxious to satisfy the astounded callers that, he was simply a person with a boyish sense of fun and not a lunatic.
 
-“That’s the way to train dogs,” he said, eyeing Hawke truculently from head to foot. “Bite ’em ”
+“That’s the way to train dogs,” he said, eyeing Hawke truculently from head to foot. “Bite ’em!”
 
-He slashed the ground with a flexible- handled leather dog-whip.
+He slashed the ground with a flexible-handled leather dog-whip.
 
 “Are you Mr. Arnold Wickham?” queried Hawke.
 
-“Yes. You a lawyer or something?” “No.”
+“Yes. You a lawyer or something?”
+
+“No.”
 
 “Then watch out you don’t annoy me in any way, or I shall let Pete take a bite out of you. Have a peanut,” ho added surprisingly, digging a handful from his jacket-pocket. “No? Well, I will. I like ’em—always carry some.”
 
@@ -248,7 +250,9 @@ Hawke and Tommy, after an exchange of questioning glances, followed him.
 ### “Untoward Circumstances”
 {: .chaptertitle }
 
-Within the brightly-lit and well-furnished sitting-room Hawke handed over his card. It had an electric effect on the man. “A detective!” he shouted in an oddly gleeful manner. “You’re investigating the circumstances of my brother’s death, eh? Now sit down there at the table and let’s listen to your deductions. Was he murdered? He ought to have been, of course, but the point is, was he?”
+Within the brightly-lit and well-furnished sitting-room Hawke handed over his card. It had an electric effect on the man.
+
+“A detective!” he shouted in an oddly gleeful manner. “You’re investigating the circumstances of my brother’s death, eh? Now sit down there at the table and let’s listen to your deductions. Was he murdered? He ought to have been, of course, but the point is, was he?”
 
 Hawke eyed the man in momentary surprise.
 
@@ -280,7 +284,7 @@ Wickham nodded vigorously.
 
 “Well, you see, it was like this. I hadn’t any say in the running of the business, but I was frequently hearing of hardships inflicted by my brother, and I used to give myself the pleasure, from time to time, of calling on him and telling him he was a rat. D’you follow?
 
-“I was there when that fellow Jack- son was shown in. I stood just outside amongst the shrubs, and heard the conversation. Made my blood boil. He treated Jackson like dirt instead of like a human being.
+“I was there when that fellow Jackson was shown in. I stood just outside amongst the shrubs, and heard the conversation. Made my blood boil. He treated Jackson like dirt instead of like a human being.
 
 “I stepped inside the room after Jackson had stepped out, and stood back against the wall, registering contempt.
 
@@ -292,7 +296,7 @@ Wickham nodded vigorously.
 
 “Pulling it out of my pocket, I showed it to him.
 
-“‘ There,’ I said, ‘ that’ll spoil your amusement. Strychnine — in your whisky. Can you taste it yet? Wait a minute. Wait till you feel the pains. It’ll tear the heart out of you.’ ”
+“‘There,’ I said, ‘that’ll spoil your amusement. Strychnine — in your whisky. Can you taste it yet? Wait a minute. Wait till you feel the pains. It’ll tear the heart out of you.’ ”
 
 “But you hadn’t put any in his whisky?” queried Hawke quickly.
 
