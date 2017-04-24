@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef12
 title: "Grilled"
 author: Burns Patterson
-date: 2017-03-17
+date: 2017-03-27
 opub: Detective Story Magazine
 opubdate: Mar. 5, 1916
 opubissue: Vol. 2, No. 5
@@ -58,7 +58,7 @@ trembled, and his lips sagged at the comers. The muscles of his face
 twisted and contorted into a grimace of abject fear. Tears welled up in
 his eyes. Would this torture never end?
 
-“I didn't murder my father,’’ whined Van Sandt. “The gun was stolen from
+“I didn't murder my father," whined Van Sandt. “The gun was stolen from
 my room by the murderer. I hadn't—"
 
 There was a resounding crack, of the impact of flesh against flesh, as

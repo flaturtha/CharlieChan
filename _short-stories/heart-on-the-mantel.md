@@ -9,7 +9,7 @@ opub: Black Mask
 opubdate: Sept. 1920
 opubissue: Vol. 1, No. 6
 category: short-stories
-excerpt: ""
+excerpt: "A dead man’s heart, cut from his body, sealed in a glass jar of alcohol—why should it move, how could it move?"
 image: 
 imgh: 300px
 genre: Mystery
@@ -40,8 +40,9 @@ epub:
 When I first saw it move I became skeptical as to the worth of my
 vision. A dead man's heart, cut from his body, sealed in a glass jar of
 alcohol—why should it move, how could it move? This heart was by far the
-most horrible thing in Leon Campeau's collection of human debris. As his
-roommate and fellow student in medicine I had tolerated the clutter of
+most horrible thing in Leon Campeau's collection of human debris. 
+
+As his roommate and fellow student in medicine I had tolerated the clutter of
 bones and skulls he had picked up, also the immaculate skeleton which
 leered grotesquely at me from its tall, glass-doored case. But to me
 this heart, this lump of muscle and tissue, seemed hardly appropriate as

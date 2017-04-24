@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aeefd
 title: "For This Reason"
 author: John Thomas Urwin
-date: 2017-06-24
+date: 2017-04-24
 opub: Smashing Detective Stories
 opubdate: Sept. 1951
 opubissue: Vol. 1, No. 3

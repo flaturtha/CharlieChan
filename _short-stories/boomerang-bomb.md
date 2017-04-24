@@ -89,7 +89,7 @@ Dr. Smith nodded.
 
 Hawke considered this information thoughtfully for a moment. He had a regard for apparently trivial detail which his friends the police occasionally found irritating, but which had proved of the greatest value in the solution of many of his most famous cases.
 
-“H’m. That’s very interesting. It suggests a possibility different from that which my friend, Detective- Inspector Gray, is entertaining.”
+“H’m. That’s very interesting. It suggests a possibility different from that which my friend, Detective-Inspector Gray, is entertaining.”
 
 “And what, if I may ask, is his idea of it?”
 
@@ -126,7 +126,7 @@ Hawke smiled and offered the disgruntled police officer a cigarette.
 
 “And you weren’t able to pick up any clues?”
 
-“There was one such group that called at ‘ The Brown Bear ’ at about half-past eight, and inquired for a timetable. They were strangers, and the landlord was able to agree to the description I gave him. But they dropped no hint of where they were meaning to go, and nobody at either the railway station or the bus depot is able to recall seeing anybody like Vesey leaving. It was a market day, and the town was a bit crowded.” Hawke had other work to dispose of, but half an hour after Gray’s departure he gave himself up to speculation about the affair, and after a few minutes’ thought and the study of a railway time-table he left the Hat and boarded a train to Marsdale.
+“There was one such group that called at ‘The Brown Bear’ at about half-past eight, and inquired for a timetable. They were strangers, and the landlord was able to agree to the description I gave him. But they dropped no hint of where they were meaning to go, and nobody at either the railway station or the bus depot is able to recall seeing anybody like Vesey leaving. It was a market day, and the town was a bit crowded.” Hawke had other work to dispose of, but half an hour after Gray’s departure he gave himself up to speculation about the affair, and after a few minutes’ thought and the study of a railway time-table he left the Hat and boarded a train to Marsdale.
 
 Some two hours later his assistant, Tommy Burke, received a phone message from him.
 
@@ -183,7 +183,7 @@ Tommy grinned, and nodded appreciatively.
 
 “I was about to follow it when the barman stopped me, remarking that the inner room was private. I said nothing to him about the dog, and it was apparent that he had not noticed it. I was in there for about ten minutes, expecting that the dog would be chased out, but it wasn’t.
 
-“I then watched the place from outside,” went on Hawke, “and, presently, the dog was brought out by a man who had it on a lead. No, lie wasn’t Vesey. He was a small, slim man. I followed him for a short distance, and then stopped him and said that the dog looked like one that had been lost by an acquaintance of mine.”
+“I then watched the place from outside,” went on Hawke, “and, presently, the dog was brought out by a man who had it on a lead. No, he wasn’t Vesey. He was a small, slim man. I followed him for a short distance, and then stopped him and said that the dog looked like one that had been lost by an acquaintance of mine.”
 
 Tommy nodded eagerly.
 
@@ -305,11 +305,11 @@ The head of the organisation for which Vesey, his wife and Pollitt had been work
 
 “I’d left my wife and Pollitt waiting by that empty house when I went to telephone, and when I entered the grounds of Rawson’s house I was surprised to find Pollitt coming out, followed, a few yards in the rear, by the dog.
 
-“‘ It’s all clear,’ Pollitt whispered. * I’ve just had a final look round.’
+“‘It’s all clear,’ Pollitt whispered. 'I’ve just had a final look round.’
 
-“I then went round to the back and got in that basement window and placed the bomb where it would l>e most effective. Whilst I was doing so 1 hoard an explosion nearby. 1 rushed out, and, when 1 saw what had happened, 1 beat it for the station.
+“I then went round to the back and got in that basement window and placed the bomb where it would l>e most effective. Whilst I was doing so 1 hoard an explosion nearby. I rushed out, and, when 1 saw what had happened, 1 beat it for the station.
 
-“It dawned on me then that the flog had been carrying something in its mouth when it was following Pollitt out of the grounds, and 1 was able to recall that that something was oblong and brown. It was, in fact, one of our little high-explosive packets, though, being intent on the job in hand; I hadn’t connected it with that at the time.
+“It dawned on me then that the dog had been carrying something in its mouth when it was following Pollitt out of the grounds, and 1 was able to recall that that something was oblong and brown. It was, in fact, one of our little high-explosive packets, though, being intent on the job in hand; I hadn’t connected it with that at the time.
 
 “You see the little plot which Pollitt and my wife had hatched? Pollitt had set that time-bomb at the last minute when he saw me approaching, and slipped it into the basement.
 

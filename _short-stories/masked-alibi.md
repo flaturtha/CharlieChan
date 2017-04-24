@@ -39,7 +39,7 @@ epub:
 
 Somewhere in the gathering gloom of the Adirondack forest a twig snapped sharply. Corporal Hal Robberts, New York state trooper, halted, his whipcord body of his tensing beneath the trim gray and black uniform. For a moment he listened, his gloved hand sliding back to the comforting assurance of the big .45 Colt belted around the sheepskin coat.
 
-Then he pushed slowly forward. A snow- covered branch caught the toe of his snowshoe, tripping him. Simultaneously came the whiplike crack of a rifle. Something tugged sharply at the trooper’s fur cap, whined off the darkness.
+Then he pushed slowly forward. A snow-covered branch caught the toe of his snowshoe, tripping him. Simultaneously came the whiplike crack of a rifle. Something tugged sharply at the trooper’s fur cap, whined off the darkness.
 
 Before the echoes of the shot died, Robberts was wriggling his way to the shelter of a nearby spruce.
 
@@ -258,9 +258,9 @@ He groped, once, for the gun dangling from its lanyard. Instantly Amsden’s fis
 
 With a mighty effort Robberts brought his right knee up to Amsden’s stomach, shoved with all his strength. The murderer staggered, mouthing maniacal curses, suddenly whirled and lunged toward the rifle standing in a: comer. Frantically Robberts fumbled for his .45. Amsden’s rifle came up, leveled, just as the trooper’s hand closed over the butt of the Colt.
 
-Red murder stared from Amsden’s glaring eyes as Robberts squeezed the trigger. Two thundering reports filled the cabin, pounded on Robberts’ ears through a fog of pain and powder smoke. .
+Red murder stared from Amsden’s glaring eyes as Robberts squeezed the trigger. Two thundering reports filled the cabin, pounded on Robberts’ ears through a fog of pain and powder smoke.
 
-Amsden slumped, completely cowed, in a comer, nursing a shattered shoulder. On the bunk old Amos Norton regarded the trooper with admiring eyes:
+Amsden slumped, completely cowed, in a corner, nursing a shattered shoulder. On the bunk old Amos Norton regarded the trooper with admiring eyes:
 
 “By cracky, you state cops kin fight, at that,” he said excitedly. “I ain’t goin’ to crack down on a state policeman agin! I had you figured for a bunch of nosey snoopers, but anybody that kin figure out a mess like this is okay!”
 

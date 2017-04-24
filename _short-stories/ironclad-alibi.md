@@ -43,7 +43,9 @@ Sheriff Capehart, a heavy, middle-aged man with phlegmatic grey eyes, came up cl
 
 Grinning slyly, Nick asked, “You come to turn me loose, sheriff?”
 
-“No, I didn’t,” grunted the sheriff. “I came to ask if you want to confess killin’ my brother Sam before I go to bed.” “Surely you don’t think I’d kill anybody!”
+“No, I didn’t,” grunted the sheriff. “I came to ask if you want to confess killin’ my brother Sam before I go to bed.”
+
+“Surely you don’t think I’d kill anybody!”
 
 “I sure do! You hid in Sam’s hardware and jewelry store until after he’d closed and was working on his books. You made him open his safe, cleaned out from it all the watches and rings and money and suchlike, then you killed him. You killed him, because he knew who you were.”
 
@@ -79,7 +81,7 @@ The dark man took a ring holding several keys from a nail on the wall. He opened
 
 Nick was puzzled. He didn’t know these two. He backed to the cot and sat down.
 
-“I’ll sit this one out,” he said. “That dumb sheriff’s got nothin’ on me. I’ve got a hot alibi. I’d be a sap to break out of here, when I’ll be out legally in twenty- four hours anyway. I’m not goin’ anywhere.”
+“I’ll sit this one out,” he said. “That dumb sheriff’s got nothin’ on me. I’ve got a hot alibi. I’d be a sap to break out of here, when I’ll be out legally in twenty-four hours anyway. I’m not goin’ anywhere.”
 
 “That’s what you think, smart aleck!” The tall man slapped Nick, hard, caught him by the shoulder and flung him toward the cell door. “Step out, fast!”
 
