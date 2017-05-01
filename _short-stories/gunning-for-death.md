@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: sns
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef02
 title: "Gunning for Death"
@@ -74,7 +74,7 @@ The way the dame accented the word, the disgust in her voice, roiled me and took
 
 \*\*\*
 
-The waitress served the drinks and I gulped mine needing it to cushion the shock. “Sure,” I said, my voice low, serious, “I’d like to find him, too. I’d also like to fly like a bird, or maybe break the bank at Jim’s place over in St. George’s County. But I can’t even get in the joint. Or sprout wings,” I added.
+<!-- The waitress served the drinks and I gulped mine needing it to cushion the shock. “Sure,” I said, my voice low, serious, “I’d like to find him, too. I’d also like to fly like a bird, or maybe break the bank at Jim’s place over in St. George’s County. But I can’t even get in the joint. Or sprout wings,” I added.
 
 Dee Morgan seemed not to hear me. “I need help.”
 
@@ -567,4 +567,4 @@ Dee, happiness tempered by concern in her eyes, helped me celebrate the night I 
 Dee Morgan squeezed my hand in return. “Let’s forget it for now, Dan. Until you go gunning for death again, let’s steal a moment for peace —and love.”
 
 <p id="theend">~ The End ~
-<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<h6 class="btt"><a href="#top">Back to Top</a></h6> -->
