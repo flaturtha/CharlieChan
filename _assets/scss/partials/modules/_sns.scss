@@ -1,0 +1,31 @@
+/*=============================================
+=    SATURDAY NIGHT SPECIAL PAGE              =
+=============================================*/
+
+.sns-header {
+	text-align: center;
+	border: 2px solid $acolor;
+	// border-bottom: 2px solid $acolor;
+	margin: 0 0 2rem 0;
+	transform: rotate(-2deg);
+	h4 {
+		color: $acolor;
+		font-size: 3rem;
+	}
+	h5 {
+		font-size: 1.5rem;
+	}
+}
+
+.sns__sample {
+	@extend .prebuysample;
+}
+
+.sns__disclaimer {
+	font-size: 0.875rem;
+	margin: 0.5rem 0;
+	strong {
+		color: $acolor;
+	}
+}
+

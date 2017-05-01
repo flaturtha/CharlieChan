@@ -6,6 +6,10 @@ layout: default2
 
 <article itemscope itemtype="http://schema.org/Blog" class="the-story">
 
+  <div style="border:1px solid #8b0000;margin-top: 1rem auto 0;text-align:center;background-color:#ffff00;color:#8b0000;text-transform:uppercase;padding:0.5rem 0.5rem 0.5rem 0.5rem;letter-spacing:2px;">
+    <h4>SATURDAY NIGHT SPECIAL - PREMIUM SHORT STORY</h4>
+  </div>
+
 <header class="books__header">
 {% include jsonld_novels.html %}
 
@@ -26,6 +30,7 @@ layout: default2
     {% endif %}
 
     <div class="book_details"  {% unless page.image %} style="margin:0 auto;max-width:600px;" {% endunless %}>
+
 
       <h5 style="margin-top: 1rem;"><span style="background-color:#6e6e6e;color:#fffff0;text-transform:uppercase;padding:0.5rem 0.5rem 0.5rem 0.5rem;letter-spacing:2px;">{{ page.genre }}</span></h5>
 
@@ -73,11 +78,29 @@ layout: default2
 
   </header> <!-- end header.books__header -->
 
+  <div class="sns" style="width:600px;max-width:90%;box-shadow: 3px 4px 15px -2px rgba(0,0,0,0.75);border: 2px solid #242424;padding:0.5rem;margin:0 auto;text-align:center;">
+    <h3 style="text-decoration: underline;margin-bottom: 0.5rem;text-transform:uppercase;">For Subscribers Only!</h3>
+    <h4>But you can get your <span class="bloodred">free</span> copy of this exciting<br><em>{{ page.genre }}</em> mystery story today.</h4>
+    <br>
+    <button style="width:250px;height:50px;color:#fffff0;background-color:#8b0000;padding:0.25rem;border:none;">YES!<br><span class="small">I want to read <em>{{ page.title }}</em></span></button>
+    <button style="width:250px;height:50px;color:#8b0000;background-color:#fffff0;padding:0.25rem;border:1px solid #8b0000;">No &hellip;<br><span class="small">I hate reading!</span></button>
+    <p class="xsmall" style="margin:1rem 2rem 0;">You'll also be subscribed to <em class="bloodred">Casefiles</em>, the free semi-daily email notifying you of new stories available for your enjoyment. Plus access to ALL Saturday Night Special Premium short stories!</p><br>
+    <p class="xsmall"><i class="fa fa-lock"></i> And your email address is locked away safe. No Spam Ever!<br>Unsubscribe anytime. Promise I won't send any leg breakers to your house!</p>
+  </div>
+
   <article class="story">
-    {{ content  }}
+    {{ content }}
   </article>
 
-  <!-- <div class="cf"></div> -->
+  <div class="sns" style="width:600px;max-width:90%;border: 2px solid #242424;padding:0.5rem;margin:0 auto;text-align:center;">
+    <h3 style="text-decoration: underline;margin-bottom: 0.5rem;text-transform:uppercase;">Did you enjoy that little bit of {{ page.title }}?</h3>
+    <h4>Get your <span class="bloodred">free</span> copy of this exciting<br><em>{{ page.genre }}</em> mystery story today.</h4>
+    <p class="small">Download ePub or Kindle format!</p>
+    <br>
+    <button style="width:250px;height:50px;color:#fffff0;background-color:#8b0000;padding:0.25rem;border:none;">YES!<br><span class="small">I want to read <em>{{ page.title }}</em></span></button>
+    <button style="width:250px;height:50px;color:#8b0000;background-color:#fffff0;padding:0.25rem;border:1px solid #8b0000;">No &hellip;<br><span class="small">I hate reading!</span></button>
+
+  </div>
 
   <footer>
     <h4>You May Also Enjoy</h4>

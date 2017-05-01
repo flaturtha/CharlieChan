@@ -2,23 +2,19 @@
 layout: default2
 ---
 
-{% include smallnav.html %}
+<header class="pagehead">
+   <section class="pagetitle">
+    <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
+  </section> <!-- end div.pagetitle --> 
+  
+  {% include smallnav.html %}
+  
+</header>
 
-<article itemscope itemtype="http://schema.org/Blog" class="the-story">
+<article class="books">
 
-  <div style="border:1px solid #8b0000;margin-top: 1rem auto 0;text-align:center;background-color:#ffff00;color:#8b0000;text-transform:uppercase;padding:0.5rem 0.5rem 0.5rem 0.5rem;letter-spacing:2px;">
-    <h4>SATURDAY NIGHT SPECIAL - PREMIUM SHORT STORY</h4>
-  </div>
-
-<header class="books__header">
-{% include jsonld_novels.html %}
-
-  {% if page.image %}
-    <figure class="image-box">
-      <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="story__img" {% if page.imgh %} style="height:{{ page.imgh }};width:auto;" {% endif %} itemprop="image">
-      <figcaption>{{ page.caption }}</figcaption>
-    </figure>    
-  {% endif %}
+  <header class="books__header">
+    <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="book__img">
 
     <!-- README IF STATEMENT -->
     {% if site.readtime %}
@@ -29,19 +25,20 @@ layout: default2
       {% endif %}
     {% endif %}
 
-    <div class="book_details"  {% unless page.image %} style="margin:0 auto;max-width:600px;" {% endunless %}>
+    <div class="book_details">
 
+      <div class="rubber_stamp">SATURDAY NIGHT SPECIAL <br> <span style="font-size:1rem;">For Subscribers Only!</span></div>
 
-      <h5 style="margin-top: 1rem;"><span style="background-color:#6e6e6e;color:#fffff0;text-transform:uppercase;padding:0.5rem 0.5rem 0.5rem 0.5rem;letter-spacing:2px;">{{ page.genre }}</span></h5>
+      <h5 style="margin: 1rem 0;"><span style="background-color:#6e6e6e;color:#fffff0;text-transform:uppercase;padding:0.5rem 0.5rem 0.5rem 0.5rem;letter-spacing:2px;">{{ page.genre }}</span></h5>
 
-      <h1 style="margin-top: 2rem;" class="books__title">{{ page.title }}</h1>
+      <h1 class="books__title">{{ page.title }}</h1>
       {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
 
-      <h2 class="books__author" itemprop="name">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
+      <h2 class="books__author">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
       {% if page.authorData %}
         <p class="authorData">{{ page.authorData }}</p>
       {% endif %}
-      
+
       <p>
         {% if page.opub %}
           <span style="display:block;" class="opub__ss"><em>{{ page.opub }}</em> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</span>
@@ -50,8 +47,8 @@ layout: default2
         <span style="display:block;font-size:0.875rem;">Casefile No: {{ page.casefileNumber }}</span>
       </p>
 
-
       <p class="metadata">
+        <!-- <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span> -->
         <span class="etr">read time:
           {% if site.readtime %}
           {% if readtime > 60 %}
@@ -64,64 +61,88 @@ layout: default2
             {% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
           {% endif %}
           </span>
-        <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span>
         </p>
-        <p style="border-top: 1px solid #242424;border-bottom: 1px solid #242424;padding: 0.5rem 0 0.5rem 0;">{{ page.excerpt }}</p>
-    </div>
-    
 
-    <!--  if page.kindle and page.epub %}
-      <a href="#ck_modal" rel="ck_modal" class="add-to-cart">Download <span class="small">ePub or Kindle</span></a>
-     else %}
-      <h6>Download (ePub &amp; Kindle format) coming soon!</h6>
-     endif %} -->
+        <p style="font-style:italic;border-top: 1px solid #242424;border-bottom: 1px solid #242424;padding: 0.5rem 0 0.5rem 0;">{{ page.excerpt }}</p>
+
+        <div class="sns__sample">
+          <p class="sns__disclaimer"><strong>SATURDAY NIGHT SPECIAL</strong> Premium Short Stories are available for download &mdash; <em>FREE</em> &mdash; as ePub &amp; Kindle ebooks, as part of your subscription.</p>
+          <p class="sns__disclaimer bold">Subscribe to download, or scroll down to read a sample.</p>
+
+          <button class="add-to-cart">SUBSCRIBE &amp; DOWNLOAD</button>
+          <br>
+          <p class="bold xsmall">Already a subscriber?<br><a href="#">Download <span class="underline italic">{{ page.title }}</span></a></p>
+
+        </div>
+
+        <!-- <div class="book__buttons">
+          
+            <div class="prebuysample">
+              <p class="prebuy-disclaimer">NOTE: Samples are added to your shopping cart with a $0.00 charge. If only samples are in your cart, you will <span class="bold">NOT</span> be required to provide a credit card, only an email address for delivery.</p>
+            </div>
+
+        </div> end div.book__buttons -->
+
+        <br>
+        
+        <!-- <p class="smallnote">NOTE: Samples are added to your shopping cart with a $0.00 charge. If you only have samples are in your cart, you will <strong>NOT</strong> be required to provide a credit card; only an email address for delivery.</p> -->
+
+    </div>
+
 
   </header> <!-- end header.books__header -->
-
-  <div class="sns" style="width:600px;max-width:90%;border: 2px solid #242424;padding:0.5rem;margin:0 auto;text-align:center;">
-    <h3 style="text-decoration: underline;margin-bottom: 0.5rem;text-transform:uppercase;">For Subscribers Only!</h3>
-    <h4>But you can get your <span class="bloodred">free</span> copy of this exciting<br><em>{{ page.genre }}</em> mystery story today.</h4>
-    <br>
-    <button style="width:250px;height:50px;color:#fffff0;background-color:#8b0000;padding:0.25rem;border:none;">YES!<br><span class="small">I want to read <em>{{ page.title }}</em></span></button>
-    <button style="width:250px;height:50px;color:#8b0000;background-color:#fffff0;padding:0.25rem;border:1px solid #8b0000;">No &hellip;<br><span class="small">I hate reading!</span></button>
-    <p class="xsmall" style="margin:1rem 2rem 0;">You'll also be subscribed to <em class="bloodred">Casefiles</em>, the free semi-daily email notifying you of new stories available for your enjoyment. Plus access to ALL Saturday Night Special Premium short stories!</p><br>
-    <p class="xsmall"><i class="fa fa-lock"></i> And your email address is locked away safe. No Spam Ever!<br>Unsubscribe anytime. Promise I won't send any leg breakers to your house!</p>
-  </div>
 
   <article class="story">
     {{ content }}
   </article>
 
-  <div class="sns" style="width:600px;max-width:90%;border: 2px solid #242424;padding:0.5rem;margin:0 auto;text-align:center;">
-    <h3 style="text-decoration: underline;margin-bottom: 0.5rem;text-transform:uppercase;">Did you enjoy that little bit of {{ page.title }}?</h3>
-    <h4>Get your <span class="bloodred">free</span> copy of this exciting<br><em>{{ page.genre }}</em> mystery story today.</h4>
-    <p class="small">Download ePub or Kindle format!</p>
+  <div class="sns__sample" style="border:2px solid #8b0000;width:550px;max-width:75%;margin:2rem auto;padding:1rem;">
+    <p class="sns__disclaimer bold">To read the rest of <em class="bloodred">{{ page.title }}</em>, subscribe below to download <em>your</em> copy today!</p>
+
+    <button class="add-to-cart">SUBSCRIBE &amp; DOWNLOAD</button>
     <br>
-    <button style="width:250px;height:50px;color:#fffff0;background-color:#8b0000;padding:0.25rem;border:none;">YES!<br><span class="small">I want to read <em>{{ page.title }}</em></span></button>
-    <button style="width:250px;height:50px;color:#8b0000;background-color:#fffff0;padding:0.25rem;border:1px solid #8b0000;">No &hellip;<br><span class="small">I hate reading!</span></button>
+    <p class="bold xsmall">Already a subscriber?<br><a href="#">Download <span class="underline italic">{{ page.title }}</span></a></p>
+
+  </div>
+
+  <!-- <div class="book__meta" style="margin: 1rem;">
+    <h4>Additional Info</h4>
+    <ul>
+      <li class="book__cfn"><span class="bold">MBIN No: </span>{{ page.casefileNumber }}</li>
+      <li class="book__length"><span class="bold">Length: </span>~ {{ page.wordcount | divided_by: 375 }} pages <span class="pagelengthdisclaimer">(depending on ereader font and font size)</span></li>
+      <li class="book__opub"><span class="bold">Original Publication: </span><span class="italics">{{ page.opub }}</span> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</li>
+      <li class="book__repub"><span class="bold">Republication Date: </span>
+        {% if page.pubdate %}
+          {{ page.pubdate | date: "%b %d, %Y"}}
+        {% else %}
+          Not yet published.
+        {% endif %}
+      </li>
+    </ul>
+  </div> -->
 
   </div>
 
   <footer>
     <h4>You May Also Enjoy</h4>
-    <!-- {% if page.url contains 'short-stories' %} -->
+    {% if page.url contains 'novels' %}
       <div class="relatedPosts">
 
           {% assign maxRelated = 4 %}
           {% assign minCommonTags =  1 %}
           {% assign maxRelatedCounter = 0 %}
 
-          {% for short-stories in site.short-stories %}
+          {% for novels in site.novels %}
 
           {% assign sameTagCount = 0 %}
           {% assign commonTags = '' %}
           {% assign commonTags = .commonTags %}
 
-          {% for tag in short-stories.tags %}
-            {% if short-stories.url != page.url %}
+          {% for tag in novels.tags %}
+            {% if novels.url != page.url %}
               {% if page.tags contains tag %}
                 {% assign sameTagCount = sameTagCount | plus: 1 %}
-                {% capture tagmarkup %} <!-- <span class="label label-default">{{ tag }}</span> --> {% endcapture %}
+                {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
                 {% assign commonTags = commonTags | append: tagmarkup %}
               {% endif %}
             {% endif %}
@@ -130,10 +151,10 @@ layout: default2
           {% if sameTagCount >= minCommonTags %}
 
               <div class="rel">
-                <a href="{{ short-stories.url }}">
-                <h5>{{ short-stories.title }}</h5>
-                <img src="{{ short-stories.image }}" alt="">
-                <h6>{{ commonTags }}</h6>
+                <a href="{{ novels.url }}">
+                <!-- <h5>{{ novels.title }}</h5> -->
+                <img src="{{ novels.image }}" alt="">
+                <!-- <h6>{{ commonTags }}</h6> -->
                 </a>
               </div>
 
@@ -145,15 +166,52 @@ layout: default2
 
        {% endfor %}
 
-      <!-- <div class="cf"></div> -->
+      <div class="cf"></div>
       </div>
-    <!-- {% endif %} -->
+    {% else %}
+            <div class="relatedPosts">
 
+          {% assign maxRelated = 4 %}
+          {% assign minCommonTags =  1 %}
+          {% assign maxRelatedCounter = 0 %}
 
+          {% for novellas in site.novellas %}
+
+          {% assign sameTagCount = 0 %}
+          {% assign commonTags = '' %}
+          {% assign commonTags = .commonTags %}
+
+          {% for tag in novellas.tags %}
+            {% if novellas.url != page.url %}
+              {% if page.tags contains tag %}
+                {% assign sameTagCount = sameTagCount | plus: 1 %}
+                {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+                {% assign commonTags = commonTags | append: tagmarkup %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+
+          {% if sameTagCount >= minCommonTags %}
+
+              <div class="rel">
+                <a href="{{ novellas.url }}">
+                <!-- <h5>{{ novellas.title }}</h5> -->
+                <img src="{{ novellas.image }}" alt="">
+                <!-- <h6>{{ commonTags }}</h6> -->
+                </a>
+              </div>
+
+            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+            {% if maxRelatedCounter >= maxRelated %}
+              {% break %}
+            {% endif %}
+          {% endif %}
+
+       {% endfor %}
+
+      <div class="cf"></div>
+      </div>
+    {% endif %}
   </footer>
 
 </article>
-
-<!-- <div class="cf"></div> -->
-
- <!-- optin4 -->

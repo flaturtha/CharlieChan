@@ -1907,7 +1907,7 @@ ol ol li:last-child {
   text-align: center;
   font-size: 1.25rem; }
 
-.prebuy, .prebuysample {
+.prebuy, .prebuysample, .sns__sample {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -1918,9 +1918,9 @@ ol ol li:last-child {
       -ms-flex-direction: column;
           flex-direction: column;
   margin: 1rem; }
-  .prebuy a, .prebuysample a {
+  .prebuy a, .prebuysample a, .sns__sample a {
     margin-left: 0; }
-  .prebuy .prebuy-disclaimer, .prebuysample .prebuy-disclaimer {
+  .prebuy .prebuy-disclaimer, .prebuysample .prebuy-disclaimer, .sns__sample .prebuy-disclaimer {
     font-size: 0.75rem;
     margin: 0.5rem 0;
     width: 150px; }
@@ -1951,6 +1951,9 @@ ol ol li:last-child {
   .prebuyh .note {
     font-size: 0.75rem;
     text-align: left; }
+
+.addmargin {
+  max-width: 50%; }
 
 .smallnote {
   font-size: 0.75rem;
@@ -2481,6 +2484,28 @@ ol ol li:last-child {
   margin: 0 auto;
   width: 500px;
   max-width: 90%; }
+
+/*=============================================
+=    SATURDAY NIGHT SPECIAL PAGE              =
+=============================================*/
+.sns-header {
+  text-align: center;
+  border: 2px solid #8B0000;
+  margin: 0 0 2rem 0;
+  -webkit-transform: rotate(-2deg);
+      -ms-transform: rotate(-2deg);
+          transform: rotate(-2deg); }
+  .sns-header h4 {
+    color: #8B0000;
+    font-size: 3rem; }
+  .sns-header h5 {
+    font-size: 1.5rem; }
+
+.sns__disclaimer {
+  font-size: 0.875rem;
+  margin: 0.5rem 0; }
+  .sns__disclaimer strong {
+    color: #8B0000; }
 
 /*==========  LAYOUT  ==========*/
 /*=============================================
@@ -3686,3 +3711,33 @@ a {
   background-size: 50px 75px;
   background-repeat: no-repeat;
   background-position: center; }
+
+.rubber_stamp {
+  font-size: 1.25rem;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  color: #8B0000;
+  background-color: #fffff0;
+  border: 4px solid #8B0000;
+  float: left;
+  -webkit-border-radius: 10px;
+          border-radius: 10px;
+  -webkit-transform: rotate(-3deg);
+      -ms-transform: rotate(-3deg);
+          transform: rotate(-3deg);
+  position: absolute;
+  left: 8%;
+  top: 280px;
+  width: 300px; }
+
+.rubber_stamp::after {
+  position: absolute;
+  content: " ";
+  width: 100%;
+  height: auto;
+  min-height: 100%;
+  top: -10px;
+  left: -10px;
+  padding: 10px;
+  background: url(https://raw.github.com/domenicosolazzo/css3/master/img/noise.png) repeat; }

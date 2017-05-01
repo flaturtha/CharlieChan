@@ -1,5 +1,5 @@
 ---
-layout: short-stories
+layout: sns
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef37
 title: "The Half-Asleep Girl"
@@ -9,7 +9,7 @@ opub: Black Mask
 opubdate: Nov. 1920
 opubissue: Vol. 2, No. 2
 category: short-stories
-excerpt: "Wealthy young Fleming Metcalf Knibbs is robbed by a sleepy-eyed young girl, he finds himself drawn to her and the mystery of who she is and what role she plays in the murder of John Ulrich, found dead in her invalid uncle’s room. Is she an innocent victim or a cold-blooded killer and thief?"
+excerpt: "When wealthy young Fleming Metcalf Knibbs is robbed by a sleepy-eyed young girl, he finds himself drawn to her and the mystery of who she is and what role she plays in the murder of John Ulrich, found dead in her invalid uncle’s room. Is she an innocent victim or a cold-blooded killer and thief?"
 image: 
 imgh: 300px
 genre: Financial Mystery
