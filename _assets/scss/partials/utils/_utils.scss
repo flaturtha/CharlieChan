@@ -46,6 +46,14 @@ a {
   font-size: 0.625rem;
 }
 
+.xlarge {
+  font-size: 1.25rem;
+}
+
+.xxlarge {
+  font-size: 1.5rem;
+}
+
 .underline {
   text-decoration: underline;
 }
@@ -56,10 +64,6 @@ a {
   font-weight: bold;
   font-size: 0.85rem;
 }
-
-// .small {
-//   font-size: small;
-// }
 
 .cf {
   &:after {

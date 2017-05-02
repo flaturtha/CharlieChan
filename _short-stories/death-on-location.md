@@ -11,7 +11,7 @@ opubissue: Vol. 2, No. 1
 category: short-stories
 excerpt: "It seemed to be a very good location for filming a horror movie. In fact it was so good the most horrible of all creatures kept everybody's nerves on edge and finally ran off with the heroine."
 image: /assets/img/short-stories/death-on-location_L.svg
-imgh: 300px
+imgh: 500px
 genre: Amateur Sleuth
 tag: short-story
 wordcount: 5221

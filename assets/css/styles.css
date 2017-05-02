@@ -1865,7 +1865,7 @@ ol ol li:last-child {
   color: #8B0000;
   font-size: 1.5rem; }
 
-.download-sample, .add-to-cart {
+.download-sample, .add-to-cart, .sub-and-download {
   /* http://css3buttongenerator.com/ */
   border: 1px solid #580000;
   -webkit-border-radius: 5px;
@@ -1874,7 +1874,7 @@ ol ol li:last-child {
   padding: 0.625rem 1.25rem;
   background-color: #580000;
   color: #fffff0; }
-  .download-sample:hover, .add-to-cart:hover {
+  .download-sample:hover, .add-to-cart:hover, .sub-and-download:hover {
     color: #580000;
     background-color: #fffff0; }
 
@@ -1907,7 +1907,7 @@ ol ol li:last-child {
   text-align: center;
   font-size: 1.25rem; }
 
-.prebuy, .prebuysample, .sns__sample {
+.prebuy, .prebuysample {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -1918,9 +1918,9 @@ ol ol li:last-child {
       -ms-flex-direction: column;
           flex-direction: column;
   margin: 1rem; }
-  .prebuy a, .prebuysample a, .sns__sample a {
+  .prebuy a, .prebuysample a {
     margin-left: 0; }
-  .prebuy .prebuy-disclaimer, .prebuysample .prebuy-disclaimer, .sns__sample .prebuy-disclaimer {
+  .prebuy .prebuy-disclaimer, .prebuysample .prebuy-disclaimer {
     font-size: 0.75rem;
     margin: 0.5rem 0;
     width: 150px; }
@@ -2501,11 +2501,25 @@ ol ol li:last-child {
   .sns-header h5 {
     font-size: 1.5rem; }
 
-.sns__disclaimer {
-  font-size: 0.875rem;
-  margin: 0.5rem 0; }
-  .sns__disclaimer strong {
+.sns__sample {
+  width: 600px;
+  max-width: 80%;
+  margin: 0 auto;
+  text-align: center; }
+
+.sub-and-download {
+  margin: 0 0 1rem 0; }
+
+.sns__header {
+  font-size: 1.25rem;
+  text-align: left;
+  margin: 0.5rem 0 1.5rem; }
+  .sns__header strong {
     color: #8B0000; }
+
+.sns__body {
+  text-align: center;
+  font-style: italic; }
 
 /*==========  LAYOUT  ==========*/
 /*=============================================
@@ -3654,6 +3668,12 @@ a {
 
 .xxsmall {
   font-size: 0.625rem; }
+
+.xlarge {
+  font-size: 1.25rem; }
+
+.xxlarge {
+  font-size: 1.5rem; }
 
 .underline {
   text-decoration: underline; }

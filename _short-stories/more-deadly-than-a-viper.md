@@ -149,4 +149,3 @@ quaint, ethereal—yet intensely human. She wore … but he did not see what
 she wore—except that it was dark.
 
 <p id="theend">~ End of Sample ~</p>
-<h6 class="btt"><a href="#top">Back to Top</a></h6>
