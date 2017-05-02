@@ -1,6 +1,6 @@
 ---
 layout: short-stories
-layoutTag: post
+layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aef24
 title: "After Midnight"
 author: Marthé Neville

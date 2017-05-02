@@ -1,6 +1,6 @@
 ---
 layout: sns
-layoutTag: post
+layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aef37
 title: "The Half-Asleep Girl"
 author: William H. Kofoed

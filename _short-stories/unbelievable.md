@@ -1,6 +1,6 @@
 ---
 layout: sns
-layoutTag: post
+layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aef34
 title: "The Unbelievable"
 author: J. B. Hawley

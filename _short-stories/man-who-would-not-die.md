@@ -1,6 +1,6 @@
 ---
 layout: short-stories
-layoutTag: post
+layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aef30
 title: "The Man Who Would Not Die"
 author: Harold Ward

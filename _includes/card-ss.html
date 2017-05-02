@@ -21,9 +21,15 @@
 
     <li class="card" {% if short-stories.genre %} id="{{ short-stories.genre | downcase }}"{% endif %}>
 
-      <header class="card__header" style="{% if short-stories.image %} background-image:url(' {{ short-stories.image }}') {% else %} background-image:url('/assets/img/site/atticus_b_small.png');background-size: 50px 75px;{% endif %}">
+      <header class="card__header" style="{% if short-stories.image and short-stories.image != '/assets/img/short-stories/blank.jpg' %} background-image:url(' {{ short-stories.image }}') {% else %} background-image:url('/assets/img/site/atticus_b_small.png');background-size: 50px 75px;{% endif %}">
 
       <p class="card__genre">{{ short-stories.genre }}</p>
+
+      {% if short-stories.layout == 'sns' %}
+          <div class="card__ribbonwrapper">
+            <div class="card__ribbon">PREMIUM</div> <!-- end of div card__ribbon -->
+          </div> <!-- end of div card__ribbonwrapper -->
+        {% endif %}
 
       <h2 class="card__meta">{{ short-stories.title }} 
         <span>
@@ -38,11 +44,13 @@
       </header> <!-- end header.card__header -->
 
       <p class="TOCexcerpt">{{ short-stories.excerpt | remove: '<p>' | remove: '</p>' }}<br><a href="{{ short-stories.url }}" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
-        <!-- if short-stories.wordcount < 3001 %} -->
-          Read&nbsp;<!-- online&nbsp; -->&rsaquo;&rsaquo;</a></p>
-<!--         else %}
-          Download&nbsp;&amp;&nbsp;read&nbsp;&rsaquo;&rsaquo;</a></p>
-         endif %} -->
+          {% if short-stories.layout == 'sns' %}
+            Download&nbsp;&rsaquo;&rsaquo;</a></p>
+          {% else %}
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          {% endif %}
+          
+
         <p class="meta">{{ short-stories.wordcount | thousands_separated }} words | {% if site.readtime %}
         {% if readtime > 60 %}
         {% assign readtime_hours = readtime | divided_by: 60 %}

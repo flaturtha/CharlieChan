@@ -1,6 +1,6 @@
 ---
 layout: sns
-layoutTag: post
+layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aef3b
 title: "Two Bells"
 author: Harry C. Hervey, Jr.

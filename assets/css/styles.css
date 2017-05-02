@@ -1202,6 +1202,36 @@ a.readmore {
       font-size: 0.9rem;
       padding-right: 1rem; }
 
+.card__ribbonwrapper {
+  height: 85px;
+  width: 85px;
+  overflow: hidden;
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  z-index: 1; }
+  .card__ribbonwrapper .card__ribbon {
+    -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+            transform: rotate(45deg);
+    background-color: yellow;
+    -webkit-box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.6);
+            box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.6);
+    font-family: sans-serif;
+    color: #8B0000;
+    font-size: 0.75em;
+    font-weight: 800;
+    left: -5px;
+    line-height: 1.5em;
+    padding: 2px 7px;
+    position: relative;
+    text-align: center;
+    top: 15px;
+    width: 120px; }
+
+.trans-black {
+  background-color: rgba(0, 0, 0, 0.65); }
+
 /* ==========================================================================
    SMALL CARD MODULE
    ========================================================================== */

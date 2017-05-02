@@ -1,6 +1,6 @@
 ---
 layout: sns
-layoutTag: post
+layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aef13
 title: "The White Cell"
 author: Gregory Hay

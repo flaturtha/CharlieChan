@@ -1,6 +1,6 @@
 ---
 layout: short-stories
-layoutTag: post
+layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aef3d
 title: "The Prisoner Speaks"
 author: J. Frederic Thorne

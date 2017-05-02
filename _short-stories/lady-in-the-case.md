@@ -1,6 +1,6 @@
 ---
 layout: short-stories
-layoutTag: post
+layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aefa9
 title: "The Lady in the Case"
 author: Lee E. Wells

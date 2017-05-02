@@ -1,6 +1,6 @@
 ---
 layout: sns
-layoutTag: post
+layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aef1d
 title: "More Deadly Than A Viper"
 author: Harry C. Hervey, Jr.

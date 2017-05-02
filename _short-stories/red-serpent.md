@@ -1,6 +1,6 @@
 ---
 layout: short-stories
-layoutTag: post
+layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aefef
 title: "The Red Serpent"
 subtitle: "A Novelette of Astonishment"

@@ -11,10 +11,11 @@
       <li class="card__small" {% if short-stories.genre %} id="{{ short-stories.genre | downcase }}"{% endif %}>
         
         <!-- <h4 class="xsmall"><span style="float:right;background-color:#8b0000;color:#fffff0;padding:3px;margin:3px;">{{ short-stories.date | date: "%a, %b %d, %Y" }}</span></h4> -->
+
         
         <a href="{{ short-stories.url }}" class="readmore">
-          
-          {% if short-stories.image %}
+        
+          {% if short-stories.image and short-stories.image != '/assets/img/short-stories/blank.jpg' %}
             <div style="background-image:url(' {{ short-stories.image }} ');background-repeat:no-repeat;background-position:center;background-size:contain;height:375px"></div>
           {% else %}
             <div class="placeholder"></div>
