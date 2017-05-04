@@ -20,6 +20,7 @@
 
 
     <li class="card" {% if short-stories.genre %} id="{{ short-stories.genre | downcase }}"{% endif %}>
+<a href="{{ short-stories.url }}" style="color:#242424;">
 
       <header class="card__header" style="{% if short-stories.image and short-stories.image != '/assets/img/short-stories/blank.jpg' %} background-image:url(' {{ short-stories.image }}') {% else %} background-image:url('/assets/img/site/atticus_b_small.png');background-size: 50px 75px;{% endif %}">
 
@@ -62,7 +63,9 @@
           {% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
         {% endif %}
         </p>
+</a>
     </li>
+
 
 <!-- endif %} -->
 

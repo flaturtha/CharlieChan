@@ -14,7 +14,7 @@ excerpt: "Dying for smokes, that desperate gang would go to any extreme to get t
 imgh: 300px
 genre: Crook
 tags: short-story
-wordcount: 6045
+wordcount: 2012
 trfissue: Vol. 1 No. 2
 trfdate: Jan. 15, 2017
 ---
