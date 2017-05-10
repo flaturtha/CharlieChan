@@ -42,13 +42,15 @@ We collect information from you when you place an order, subscribe to a newslett
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-      • To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-      • To improve our website in order to better serve you.
-      • To allow us to better service you in responding to your customer service requests.
-      • To administer a contest, promotion, survey or other site feature.
-      • To quickly process your transactions.
-      • To ask for ratings and reviews of services or products
-      • To follow up with them after correspondence (live chat, email or phone inquiries)
+<ul>
+      <li>To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.</li>
+      <li>To improve our website in order to better serve you.</li>
+      <li>To allow us to better service you in responding to your customer service requests.</li>
+      <li>To administer a contest, promotion, survey or other site feature.</li>
+      <li>To quickly process your transactions.</li>
+      <li>To ask for ratings and reviews of services or products.</li>
+      <li>To follow up with them after correspondence (live chat, email or phone inquiries).</li>
+</ul>
 
 ### Section 4
 {: .chapternumber .no_toc}
@@ -75,9 +77,11 @@ All transactions are processed through a gateway provider and are not stored or 
 Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
 We use cookies to:
-      • Help remember and process the items in the shopping cart.
-      • Understand and save user's preferences for future visits.
-      • Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+<ul>
+      <li>Help remember and process the items in the shopping cart.</li>
+      <li>Understand and save user's preferences for future visits.</li>
+      <li>Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.</li>
+</ul>
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
 
@@ -116,8 +120,10 @@ We use Google AdSense Advertising on our website.
 Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
 
 We have implemented the following:
-      • Remarketing with Google AdSense
-      • Demographics and Interests Reporting
+<ul>
+      <li>Remarketing with Google AdSense</li>
+      <li>Demographics and Interests Reporting</li>
+</ul>
 
 We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
@@ -138,18 +144,33 @@ Once this privacy policy is created, we will add a link to it on our home page o
 Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.
 
 You will be notified of any Privacy Policy changes:
-      • On our Privacy Policy Page
+<ul>
+      <li>On our Privacy Policy Page</li>
+</ul>
+
 Can change your personal information:
-      • By emailing us
-      • By logging in to your account
-
-How does our site handle Do Not Track signals?
-We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
-
-Does our site allow third-party behavioral tracking?
-It's also important to note that we allow third-party behavioral tracking
+<ul>
+      <li>By emailing us</li>
+      <li>By logging in to your account</li>
+</ul>
 
 ### Section 10
+{: .chapternumber .no_toc }
+
+### How does our site handle Do Not Track signals?
+{: .chaptertitle }
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+### Section 11
+{: .chapternumber .no_toc }
+
+### Does our site allow third-party behavioral tracking?
+{: .chaptertitle }
+
+It's also important to note that we allow third-party behavioral tracking.
+
+### Section 12
 {: .chapternumber .no_toc }
 
 ### COPPA (Children Online Privacy Protection Act)
@@ -159,7 +180,7 @@ When it comes to the collection of personal information from children under the 
 
 We do not specifically market to children under the age of 13 years old.
 
-### Section 11
+### Section 13
 {: .chapternumber .no_toc }
 
 ### Fair Information Practices
@@ -168,14 +189,14 @@ We do not specifically market to children under the age of 13 years old.
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
 In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
-We will notify you via email
-      • Within 1 business day
-We will notify the users via in-site notification
-      • Within 1 business day
+<ul>
+      <li>We will notify you via email within 1 business day.</li>
+      <li>We will notify the users via in-site notification within 1 business day.</li>
+</ul>
 
 We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
-### Section 12
+### Section 14
 {: .chapternumber .no_toc }
 
 ### CAN SPAM Act
@@ -184,25 +205,28 @@ We also agree to the Individual Redress Principle which requires that individual
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
 We collect your email address in order to:
-      • Send information, respond to inquiries, and/or other requests or questions
-      • Process orders and to send information and updates pertaining to orders.
-      • Send you additional information related to your product and/or service
-      • Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+<ul>
+      <li>Send information, respond to inquiries, and/or other requests or questions.</li>
+      <li>Process orders and to send information and updates pertaining to orders.</li>
+      <li>Send you additional information related to your product and/or service.</li>
+      <li>Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.</li>
+</ul>
 
 To be in accordance with CANSPAM, we agree to the following:
-      • Not use false or misleading subjects or email addresses.
-      • Identify the message as an advertisement in some reasonable way.
-      • Include the physical address of our business or site headquarters.
-      • Monitor third-party email marketing services for compliance, if one is used.
-      • Honor opt-out/unsubscribe requests quickly.
-      • Allow users to unsubscribe by using the link at the bottom of each email.
+<ul>
+      <li>Not use false or misleading subjects or email addresses.</li>
+      <li>Identify the message as an advertisement in some reasonable way.</li>
+      <li>Include the physical address of our business or site headquarters.</li>
+      <li>Monitor third-party email marketing services for compliance, if one is used.</li>
+      <li>Honor opt-out/unsubscribe requests quickly.</li>
+      <li>Allow users to unsubscribe by using the link at the bottom of each email.</li>
+</ul>
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at
-      • Follow the instructions at the bottom of each email.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at <a href="mailto:support@talesofmurder.com">Support</a> or by following the instructions at the bottom of each email.
 and we will promptly remove you from ALL correspondence.
 
 
-### Section 13
+### Section 15
 {: .chapternumber .no_toc }
 
 ### Contacting Us
@@ -215,6 +239,6 @@ Tales of Murder Press, LLC<br>
 Rowlett, TX 75089<br>
 United States
 
-<a href="mailto:support@talesofmurder.com" style="text-decoration:underline;">support@talesofmurder.com</a>
+<a href="mailto:support@talesofmurder.com" style="text-decoration:underline;">Support</a>
 
-<span class="small italics">Last Edited on 2017-03-15<br>This policy is subject to change. Check back to see any changes, which will be noted.</span>
+<span class="small italics">Last updated on 2017-03-15<br>This policy is subject to change. Check back to see any changes, which will be noted.</span>

@@ -545,6 +545,12 @@ h4, .h4 {
 /*=============================================
 =    PRIVACY POLICY                           =
 =============================================*/
+.privacy-policy ul li {
+  list-style-type: circle;
+  margin: 0 0 0 2rem; }
+  .privacy-policy ul li:last-of-type {
+    margin-bottom: 1rem; }
+
 /*=============================================
 =             WELCOME BAR                     =
 =============================================*/
