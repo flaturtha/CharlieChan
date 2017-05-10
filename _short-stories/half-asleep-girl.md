@@ -12,7 +12,7 @@ category: short-stories
 excerpt: "When wealthy young Fleming Metcalf Knibbs is robbed by a sleepy-eyed young girl, he finds himself drawn to her and the mystery of who she is and what role she plays in the murder of John Ulrich, found dead in her invalid uncle’s room. Is she an innocent victim or a cold-blooded killer and thief?"
 image: /assets/img/short-stories/blank.jpg
 imgh: 500px
-genre: Financial Mystery
+genre: Amateur Sleuth
 tags: short-story
 wordcount: 8780
 trfissue: Vol. 2 No. 8
