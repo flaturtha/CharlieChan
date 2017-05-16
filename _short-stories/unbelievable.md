@@ -19,7 +19,7 @@ trfissue: Vol. 1 No. 4
 trfdate: Jan. 22, 2017
 kindle: 
 epub: 
-buybutton: <a href="https://transactions.sendowl.com/products/586324/1A1DDB08/purchase" rel="nofollow" class="add-to-cart">DOWNLOAD The Unbelievable</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+buybutton: <a href="https://transactions.sendowl.com/products/586324/1A1DDB08/purchase" rel="nofollow" class="add-to-cart">DOWNLOAD</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 ---
 
 <div class="toc">

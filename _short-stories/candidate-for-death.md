@@ -19,7 +19,7 @@ trfissue: Vol. 3 No. 9
 trfdate: Apr. 23, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Candidate_for_Death.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Candidate_for_Death.epub
-buybutton: <a href="https://transactions.sendowl.com/products/586333/C8CEA90F/purchase" rel="nofollow" class="add-to-cart">DOWNLOAD Candidate for Death</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script> 
+buybutton: <a href="https://transactions.sendowl.com/products/586333/C8CEA90F/purchase" rel="nofollow" class="add-to-cart">DOWNLOAD</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 ---
 
 <div class="toc">

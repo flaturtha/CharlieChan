@@ -17,7 +17,7 @@ tags: short-story
 wordcount: 8179
 trfissue: Vol. 2 No. 7
 trfdate: Mar. 26, 2017
-buybutton: <a href="https://transactions.sendowl.com/products/586331/6E4FF506/purchase" rel="nofollow" class="add-to-cart">DOWNLOAD More Deadly Than A Viper</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+buybutton: <a href="https://transactions.sendowl.com/products/586331/6E4FF506/purchase" rel="nofollow" class="add-to-cart">DOWNLOAD</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 ---
 
 <div class="toc">

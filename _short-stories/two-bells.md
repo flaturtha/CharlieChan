@@ -19,7 +19,7 @@ trfissue: Vol. 1 No. 2
 trfdate: Jan. 15, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Two_Bells.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Two_Bells.epub
-buybutton: <a href="https://transactions.sendowl.com/products/586106/C1CE5BF5/purchase" rel="nofollow" class="add-to-cart">DOWNLOAD Two Bells</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+buybutton: <a href="https://transactions.sendowl.com/products/586106/C1CE5BF5/purchase" rel="nofollow" class="add-to-cart">DOWNLOAD</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 ---
 
 <div class="toc">

@@ -20,6 +20,7 @@ trfissue: Vol. 4 No. 15
 trfdate: Jul. 16, 2017
 kindle: 
 epub: 
+buybutton: <div class="add-to-cart">Download coming soon!</div>
 ---
 
 <section id="toc" class="toc">

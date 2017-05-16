@@ -19,6 +19,7 @@ trfissue: Vol. 3 No. 10
 trfdate: May 7, 2017
 kindle: 
 epub: 
+buybutton: <div class="add-to-cart">Download coming soon!</div>
 ---
 
 <section id="toc" class="toc">
