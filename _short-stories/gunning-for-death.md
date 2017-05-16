@@ -18,6 +18,7 @@ tags: short-story
 wordcount: 7880
 trfissue: Vol. 1 No. 1
 trfdate: Jan. 1, 2017
+buybutton: <a href="https://transactions.sendowl.com/products/586049/D3336045/purchase" rel="nofollow" class="add-to-cart">DOWNLOAD Gunning for Death</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 ---
 
 <div class="toc">

@@ -19,6 +19,7 @@ trfissue: Vol. 2 No. 8
 trfdate: Apr. 9, 2017
 kindle: 
 epub: 
+buybutton: <div class="add-to-cart">Download coming soon!</div>
 ---
 
 <div class="toc">

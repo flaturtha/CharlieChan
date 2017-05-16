@@ -85,7 +85,7 @@ var messages = {
  */
  gulp.task('watch', function() {
   gulp.watch('_assets/**/*.scss', ['sass']);
-  gulp.watch(['*.html', '_includes/*', '_layouts/*.html', '_pages/**/*', '_posts/*', '_short-stories/*', '_novellas/*', '_novels/*', '_the-red-file/*', '_murderwiki/*'], ['jekyll-rebuild']);
+  gulp.watch(['*.html', '_includes/*', '_layouts/*.html', '_pages/**/*', '_posts/*', '_short-stories/*', '_novellas/*', '_novels/*', '_the-red-file/*', '_murderwiki/*', '_downloads/*'], ['jekyll-rebuild']);
 });
 
 

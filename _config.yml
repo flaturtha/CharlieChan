@@ -52,6 +52,10 @@ collections:
     output: true
     permalink: /the-red-file/:path/
     title: The Red File
+  downloads:
+    output: true
+    permalink: /your-free-download/:path/
+    title: Your Free Download
 
 
 

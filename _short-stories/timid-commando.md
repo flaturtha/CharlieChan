@@ -19,6 +19,7 @@ trfissue: Vol. 2 No. 6
 trfdate: Feb. 26, 2017
 kindle: 
 epub: 
+buybutton: <a href="https://transactions.sendowl.com/products/586328/468F65C1/purchase" rel="nofollow" class="add-to-cart">DOWNLOAD The Case of the Timid Commando</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 ---
 
 <div class="toc">

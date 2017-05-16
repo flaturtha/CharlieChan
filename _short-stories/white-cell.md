@@ -17,6 +17,7 @@ tags: short-story
 wordcount: 8198
 trfissue: Vol. 1 No. 3
 trfdate: Jan. 15, 2017
+buybutton: <div class="add-to-cart">Download coming soon!</div>
 ---
 
 <div class="toc">

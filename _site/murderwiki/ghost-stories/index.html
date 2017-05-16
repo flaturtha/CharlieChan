@@ -869,6 +869,58 @@ function myFunction() {
   })(window, document, '_gscq','script','//widgets.getsitecontrol.com/70654/script.js');
 </script>
 
+
+
+
+<!-- sets story data (title, author, etc.) to localStorage/sessionStorage for use on download page -->
+<!-- <script>
+
+$(document).ready(function() {
+
+  $("#button__postdownload").click(function() {
+    console.log("button__postdownload clicked");
+    var url; // should be available throughout click function
+
+    init()
+    function init() {
+      if (!store.enabled) {
+        var url = "/downloads/your-free-download/"; //GENERIC DOWNLOAD PAGE
+        alert('Local storage is not supported by your browswer. Please disable "Private Mode", or upgrade your browser.')
+      return
+      } // end of if !store.enabled
+
+      var url = "/downloads/your-free-download/";
+      var metaArray = ["Ghost Stories", "Carolyn Wells", "The Techniques of the Mystery", "/assets/img/murderwiki/Whistle_and_I%27ll_come_to_you_illustration.jpg", "The fascination of this realm of experience, which is traditional from age to age, yet always elusive, is undeniable. Few men have seen ghosts, or will confess that they have seen them. But almost everybody knows some one of the few. Haunted houses are familiar in all neighborhoods, with the same story of the roistering sceptic who will gladly pass the night alone in the haunted chamber, and give monsieur the ghost a warm welcome; but who, if not found dead in the morning, emerges pale and haggard, with a settled terror in his look, and his lips sealed forever upon the awful story of the night.", "", "", ""];
+
+      // ARRAY KEY
+      // [0] = title
+      // [1] = author
+      // [2] = genre
+      // [3] = image
+      // [4] = excerpt
+      // [5] = kindle url
+      // [6] = epub url
+      // [7] = pdf url
+
+      store.set('storyMeta', JSON.stringify(metaArray));
+
+      console.log(metaArray);
+    } // end of function init()
+
+    if (store.get('registered')) {
+      console.log("registered user!");
+      console.log(url);
+
+      var emailaddress = store.get('emailaddress');
+      console.log(emailaddress);
+      $('#mce-EMAIL').val(emailaddress);
+      // $(location).attr('href', url);  sends past modal to download page .. not currently working due to val = url issue!
+    } // end if
+
+  }); // end of click function
+});
+</script> -->
+
   <!-- Quantcast Tag -->
 <script type="text/javascript">
 var _qevents = _qevents || [];

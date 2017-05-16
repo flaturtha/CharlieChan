@@ -330,6 +330,7 @@
 
     
     <figure class="image-box">
+      <div class="rubber_stamp">SATURDAY NIGHT SPECIAL <br> <span style="font-size:1rem;">For Subscribers Only!</span></div>
       <img src="/assets/img/short-stories/gunning-for-death.png" alt="Gunning for Death by James L. Harfe" class="story__img" style=" max-width:400px;" itemprop="image">
       <figcaption>"It'll be easy to pass her death off as suicide &hellip;"</figcaption>
     </figure>    
@@ -340,7 +341,6 @@
 
     <div class="book_details">
 
-      <div class="rubber_stamp">SATURDAY NIGHT SPECIAL <br> <span style="font-size:1rem;">For Subscribers Only!</span></div>
 
       <h5 style="margin: 1rem 0;"><span style="background-color:#6e6e6e;color:#fffff0;text-transform:uppercase;padding:0.5rem 0.5rem 0.5rem 0.5rem;letter-spacing:2px;">Professional Sleuth</span></h5>
 
@@ -390,10 +390,11 @@
     <div class="sns__sample">
       <p class="sns__header"><strong>SATURDAY NIGHT SPECIAL</strong> Premium Short Stories are available for download &mdash; <em>FREE</em> &mdash; as ePub &amp; Kindle ebooks, as part of your subscription to the free <em>CaseFiles</em> email list.</p>
       <p class="sns__body">Subscribe to download, or scroll down to read a sample.</p>
+      <a href="https://transactions.sendowl.com/products/586049/D3336045/purchase" rel="nofollow" class="add-to-cart">DOWNLOAD Gunning for Death</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+      <p class="xsmall" style="margin:2rem 0 0; text-align:left;">NOTE: After entering your email address, you'll get redirected to the download page. You'll also receive an email with links to redownload the story to a different device. Both ePub &amp; Kindle formats are included in a .zip file.<br><br><i class="fa fa-lock bloodred"></i>&nbsp;Your email will never be sold &amp; only used to communicate directly with you.</p>
 
-      <button class="sub-and-download">SUBSCRIBE &amp; DOWNLOAD</button>
-      <br>
-      <p class="bold xsmall">Already a subscriber?<br><a href="#">Download <span class="underline italic">Gunning for Death</span></a></p>
+      <hr style="margin:2rem 0;border-color:#8b0000;">
+
   </div> <!-- end div .sns__sample -->
 
   <article class="story">
@@ -482,7 +483,7 @@
   <footer>
     <h4>You May Also Enjoy</h4>
     
-            <div class="relatedPosts">
+      <div class="relatedPosts">
 
           
           
@@ -498,24 +499,16 @@
 
           
 
-       
+              <div class="rel">
+                <a href="/short-stories/score-none-for-the-chair/">
+                <!-- <h5>Score None for the Chair</h5> -->
+                <img src="/assets/img/short-stories/score-none-for-the-chair.svg" alt="">
+                <!-- <h6> <span class="label label-default">short-story</span> </h6> -->
+                </a>
+              </div>
 
-          
-          
-          
-
-          
-
-          
-
-       
-
-          
-          
-          
-
-          
-
+            
+            
           
 
        
@@ -528,6 +521,40 @@
 
           
 
+              <div class="rel">
+                <a href="/short-stories/dog-biter/">
+                <!-- <h5>The Case of the Dog-Biter</h5> -->
+                <img src="/assets/img/short-stories/dog-biter.svg" alt="">
+                <!-- <h6> <span class="label label-default">short-story</span> </h6> -->
+                </a>
+              </div>
+
+            
+            
+          
+
+       
+
+          
+          
+          
+
+          
+
+          
+
+              <div class="rel">
+                <a href="/short-stories/butterfly-of-death/">
+                <!-- <h5>Butterfly of Death</h5> -->
+                <img src="/assets/img/short-stories/butterfly-of-death.svg" alt="">
+                <!-- <h6> <span class="label label-default">short-story</span> </h6> -->
+                </a>
+              </div>
+
+            
+            
+          
+
        
 
           
@@ -538,22 +565,23 @@
 
           
 
-       
+              <div class="rel">
+                <a href="/short-stories/guerilla/">
+                <!-- <h5>The Guerilla</h5> -->
+                <img src="/assets/img/short-stories/guerilla.svg" alt="">
+                <!-- <h6> <span class="label label-default">short-story</span> </h6> -->
+                </a>
+              </div>
 
-          
-          
-          
-
-          
-
-          
-
-       
+            
+            
+              
 
       <div class="cf"></div>
       </div>
     
   </footer>
+
 
 </article>
 
@@ -682,6 +710,58 @@ function myFunction() {
     t.async=1;t.src=e;s=i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t, s);
   })(window, document, '_gscq','script','//widgets.getsitecontrol.com/70654/script.js');
 </script>
+
+
+
+
+<!-- sets story data (title, author, etc.) to localStorage/sessionStorage for use on download page -->
+<!-- <script>
+
+$(document).ready(function() {
+
+  $("#button__postdownload").click(function() {
+    console.log("button__postdownload clicked");
+    var url; // should be available throughout click function
+
+    init()
+    function init() {
+      if (!store.enabled) {
+        var url = "/downloads/your-free-download/"; //GENERIC DOWNLOAD PAGE
+        alert('Local storage is not supported by your browswer. Please disable "Private Mode", or upgrade your browser.')
+      return
+      } // end of if !store.enabled
+
+      var url = "/downloads/your-free-download/";
+      var metaArray = ["Gunning for Death", "James L. Harfe", "Professional Sleuth", "/assets/img/short-stories/gunning-for-death.png", "Branded as a yellow dog who let his best friend die, Dan Wilkins strikes back at the unknown traitor in the department, who was profiteering in blood and murder.", "", "", ""];
+
+      // ARRAY KEY
+      // [0] = title
+      // [1] = author
+      // [2] = genre
+      // [3] = image
+      // [4] = excerpt
+      // [5] = kindle url
+      // [6] = epub url
+      // [7] = pdf url
+
+      store.set('storyMeta', JSON.stringify(metaArray));
+
+      console.log(metaArray);
+    } // end of function init()
+
+    if (store.get('registered')) {
+      console.log("registered user!");
+      console.log(url);
+
+      var emailaddress = store.get('emailaddress');
+      console.log(emailaddress);
+      $('#mce-EMAIL').val(emailaddress);
+      // $(location).attr('href', url);  sends past modal to download page .. not currently working due to val = url issue!
+    } // end if
+
+  }); // end of click function
+});
+</script> -->
 
   <!-- Quantcast Tag -->
 <script type="text/javascript">

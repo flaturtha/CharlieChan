@@ -1328,6 +1328,58 @@ function myFunction() {
   })(window, document, '_gscq','script','//widgets.getsitecontrol.com/70654/script.js');
 </script>
 
+
+
+
+<!-- sets story data (title, author, etc.) to localStorage/sessionStorage for use on download page -->
+<!-- <script>
+
+$(document).ready(function() {
+
+  $("#button__postdownload").click(function() {
+    console.log("button__postdownload clicked");
+    var url; // should be available throughout click function
+
+    init()
+    function init() {
+      if (!store.enabled) {
+        var url = "/downloads/your-free-download/"; //GENERIC DOWNLOAD PAGE
+        alert('Local storage is not supported by your browswer. Please disable "Private Mode", or upgrade your browser.')
+      return
+      } // end of if !store.enabled
+
+      var url = "/downloads/your-free-download/";
+      var metaArray = ["Death on Location", "A. Boyd Correll", "Amateur Sleuth", "/assets/img/short-stories/death-on-location_L.svg", "It seemed to be a very good location for filming a horror movie. In fact it was so good the most horrible of all creatures kept everybody's nerves on edge and finally ran off with the heroine.", "", "", ""];
+
+      // ARRAY KEY
+      // [0] = title
+      // [1] = author
+      // [2] = genre
+      // [3] = image
+      // [4] = excerpt
+      // [5] = kindle url
+      // [6] = epub url
+      // [7] = pdf url
+
+      store.set('storyMeta', JSON.stringify(metaArray));
+
+      console.log(metaArray);
+    } // end of function init()
+
+    if (store.get('registered')) {
+      console.log("registered user!");
+      console.log(url);
+
+      var emailaddress = store.get('emailaddress');
+      console.log(emailaddress);
+      $('#mce-EMAIL').val(emailaddress);
+      // $(location).attr('href', url);  sends past modal to download page .. not currently working due to val = url issue!
+    } // end if
+
+  }); // end of click function
+});
+</script> -->
+
   <!-- Quantcast Tag -->
 <script type="text/javascript">
 var _qevents = _qevents || [];

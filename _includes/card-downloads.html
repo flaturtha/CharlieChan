@@ -1,0 +1,31 @@
+<ul class="cards__small">
+{% for downloads in site.downloads %}
+
+  <li class="card__small" {% if downloads.genre %} id="{{ downloads.genre | downcase }}"{% endif %}>
+    
+    <a href="{{ downloads.url }}" class="readmore">
+      <img src="{{ downloads.image }}" alt="{{ downloads.title }} by {{ downloads.author }}"></a>
+    <div class="card__small__header">
+      <div>
+        <h2 class="title">{{ downloads.title }}</h2>
+        <h3 class="author"><span>by</span> {{ downloads.author }}</h3>
+      </div>
+      <div class="price">
+        <p>${{ downloads.price }}</p>
+      </div>
+    </div>
+    <p class="excerpt">{{ downloads.description }}</p>
+    {% if downloads.prebuybutton %}
+      <p style="border:1px solid #8b0000;margin: 1rem 0;padding:0 0.5rem;color:#8b0000;line-height: 1.5;"><span style="font-weight: bold;display: block;">NOT YET RELEASED.</span> PRE-BUY TODAY &amp; GET 50% OFF! </p>
+      <button class="buybutton"><a href="{{ downloads.url }}" style="color:#fffff0;">PRE-BUY</a></button>
+    {% else %}
+      <button class="buybutton"><a href="{{ downloads.url }}" style="color:#fffff0;">BUY</a></button>
+    {% endif %}
+
+  </li>
+
+{% endfor %}
+
+</ul>
+
+<!-- optin4 -->

@@ -1,7 +1,7 @@
 ---
 layout: default2
-permalink: /brain-teaser/
-title: DEATH BY GAS Brain Teaser
+permalink: /brain-teaser/death-by-gas-solution/
+title: Solution to DEATH BY GAS
 description: "The solution to the brain teaser DEATH BY GAS is simple ...<br>if you know how to look at the evidence!"
 ---
 

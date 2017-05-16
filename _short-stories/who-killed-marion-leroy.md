@@ -101,7 +101,7 @@ The questions to be answered are:
 ### The Rules
 {: .chaptertitle}
 
-The rules are simplicity itself. On the previous page you are given details of a Baffler Problem —there will be another shortly. Briefly, you are told the story of a crime and given ALL the clues necessary for its solution. Be your own detective. Bead the problem through very carefully, giving consideration to every detail, then try to answer the Questions at the end.
+The rules are simplicity itself. On the previous page you are given details of a Baffler Problem. Briefly, you are told the story of a crime and given ALL the clues necessary for its solution. Be your own detective. Read the problem through very carefully, giving consideration to every detail, then try to answer the Questions at the end.
 
 Award yourselves marks as indicated after comparing your answers with those given below. These answers are printed upside down so that they may not catch your&#39; eye before you have had a chance to test your skill. Remember, it is the sense of your solution, not its exact wording, that counts.
 

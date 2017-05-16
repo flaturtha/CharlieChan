@@ -18,6 +18,7 @@ layout: default2
 
     {% if page.image %}
     <figure class="image-box">
+      <div class="rubber_stamp">SATURDAY NIGHT SPECIAL <br> <span style="font-size:1rem;">For Subscribers Only!</span></div>
       <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="story__img" style=" {% if page.imgh %} height:{{ page.imgh }};width:auto; {% endif %}max-width:400px;" itemprop="image">
       <figcaption>{{ page.caption }}</figcaption>
     </figure>    
@@ -34,7 +35,6 @@ layout: default2
 
     <div class="book_details">
 
-      <div class="rubber_stamp">SATURDAY NIGHT SPECIAL <br> <span style="font-size:1rem;">For Subscribers Only!</span></div>
 
       <h5 style="margin: 1rem 0;"><span style="background-color:#6e6e6e;color:#fffff0;text-transform:uppercase;padding:0.5rem 0.5rem 0.5rem 0.5rem;letter-spacing:2px;">{{ page.genre }}</span></h5>
 
@@ -92,10 +92,11 @@ layout: default2
     <div class="sns__sample">
       <p class="sns__header"><strong>SATURDAY NIGHT SPECIAL</strong> Premium Short Stories are available for download &mdash; <em>FREE</em> &mdash; as ePub &amp; Kindle ebooks, as part of your subscription to the free <em>CaseFiles</em> email list.</p>
       <p class="sns__body">Subscribe to download, or scroll down to read a sample.</p>
+      {{ page.buybutton }}
+      <p class="xsmall" style="margin:2rem 0 0; text-align:left;">NOTE: After entering your email address, you'll get redirected to the download page. You'll also receive an email with links to redownload the story to a different device. Both ePub &amp; Kindle formats are included in a .zip file.<br><br><i class="fa fa-lock bloodred"></i>&nbsp;Your email will never be sold &amp; only used to communicate directly with you.</p>
 
-      <button class="sub-and-download">SUBSCRIBE &amp; DOWNLOAD</button>
-      <br>
-      <p class="bold xsmall">Already a subscriber?<br><a href="#">Download <span class="underline italic">{{ page.title }}</span></a></p>
+      <hr style="margin:2rem 0;border-color:#8b0000;">
+
   </div> <!-- end div .sns__sample -->
 
   <article class="story">
@@ -131,21 +132,21 @@ layout: default2
 
   <footer>
     <h4>You May Also Enjoy</h4>
-    {% if page.url contains 'novels' %}
+    {% if page.url contains 'short-stories' %}
       <div class="relatedPosts">
 
           {% assign maxRelated = 4 %}
           {% assign minCommonTags =  1 %}
           {% assign maxRelatedCounter = 0 %}
 
-          {% for novels in site.novels %}
+          {% for short-stories in site.short-stories %}
 
           {% assign sameTagCount = 0 %}
           {% assign commonTags = '' %}
           {% assign commonTags = .commonTags %}
 
-          {% for tag in novels.tags %}
-            {% if novels.url != page.url %}
+          {% for tag in short-stories.tags %}
+            {% if short-stories.url != page.url %}
               {% if page.tags contains tag %}
                 {% assign sameTagCount = sameTagCount | plus: 1 %}
                 {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
@@ -157,9 +158,9 @@ layout: default2
           {% if sameTagCount >= minCommonTags %}
 
               <div class="rel">
-                <a href="{{ novels.url }}">
-                <!-- <h5>{{ novels.title }}</h5> -->
-                <img src="{{ novels.image }}" alt="">
+                <a href="{{ short-stories.url }}">
+                <!-- <h5>{{ short-stories.title }}</h5> -->
+                <img src="{{ short-stories.image }}" alt="">
                 <!-- <h6>{{ commonTags }}</h6> -->
                 </a>
               </div>
@@ -219,5 +220,6 @@ layout: default2
       </div>
     {% endif %}
   </footer>
+
 
 </article>
