@@ -1810,6 +1810,20 @@ ol ol li:last-child {
     font-weight: bold;
     margin-top: 0.5rem; }
 
+.qanda {
+  width: 550px;
+  margin: 0 0 2rem 2rem; }
+  .qanda p {
+    color: #303539;
+    padding-left: 1.5rem;
+    text-indent: -1.5rem; }
+  .qanda__sec {
+    text-indent: 1.5; }
+
+.sec {
+  text-indent: none !important;
+  color: hotpink; }
+
 /*=============================================
 =    BOOKS [NOVELLA & NOVELS] PAGE            =
 =============================================*/
@@ -3796,3 +3810,6 @@ a {
   left: -10px;
   padding: 10px;
   background: url(https://raw.github.com/domenicosolazzo/css3/master/img/noise.png) repeat; }
+
+.normalOL li {
+  text-transform: none; }
