@@ -158,7 +158,7 @@ against Thornton that afternoon.
 “It’s a clear case,” said the Colonel to Hawke. “We’ve got a witness who
 saw them together—Tom Mason, who prowls about a lot at night.”
 
-“Ah! The poacher! ”
+“Ah! The poacher!”
 
 “Yes. He happened to pass the lane and saw Thornton and Cargill
 together. They were shouting at one another. According to Mason, it was

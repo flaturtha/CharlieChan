@@ -18,8 +18,7 @@ social:
   email: rich@talesofmurder.com
   links:
     - "https://twitter.com/TalesofMurder"
-    - "https://business.facebook.com/theredfile"
-
+    - "https://www.facebook.com/whoisatticus/"
 
 facebook:
   app_id: 1035153329907183
@@ -80,7 +79,7 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
   # - jekyll-seo-tag
-  - jekyll-feed
+  # - jekyll-feed /* doesn't work for collections, only posts; which is STOOPID */
 
 kramdown:
   auto_ids: true

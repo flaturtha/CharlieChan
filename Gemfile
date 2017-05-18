@@ -6,5 +6,4 @@ source "https://rubygems.org"
 gem 'jekyll', '~> 3.3.0'
 gem 'font-awesome-sass', '~> 4.7.0'
 gem 'jekyll-sitemap'
-gem 'jekyll-feed'
 gem 'jekyll-seo-tag'
