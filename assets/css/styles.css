@@ -1507,6 +1507,11 @@ a.readmore {
       @media screen and (min-width: 24rem) {
         .pagetitle h1 span, .pagetitle .contact h2 span, .contact .pagetitle h2 span {
           padding: 0 2rem; } }
+  .pagetitle h2 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #fffff0;
+    padding: 0 0 1rem 0; }
   .pagetitle p {
     text-align: center;
     color: #fffff0; }
@@ -3711,6 +3716,10 @@ a {
 
 .strikethru {
   text-decoration: line-through; }
+
+.center {
+  text-align: center;
+  margin: 0 auto; }
 
 .small {
   font-size: 0.875rem; }

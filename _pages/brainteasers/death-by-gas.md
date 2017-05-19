@@ -1,6 +1,6 @@
 ---
 layout: default2
-permalink: /lp/death-by-gas/
+permalink: /brain-teaser/death-by-gas/
 title: Death By Gas - a brain teaser by J. J. Matthews
 description: "Read the short brain teaser and see if you can uncover the evidence of murder!"
 ---
