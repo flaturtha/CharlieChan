@@ -1,33 +1,30 @@
 ---
 layout: default2
-permalink: /brain-teaser/who-killed-marion-leroy-solution/
+permalink: /brain-teasers/who-killed-marion-leroy/solution/
 title: "Solution"
 subtitle: "Who Killed Marion Leroy"
 ---
 
 <div class="{{ page.title }}">
-
   <header class="pagehead">
      <section class="pagetitle">
       
       <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
-
-      <h1><span>{{ page.title }}</span></h1>
     
     </section> <!-- end div.pagetitle --> 
     
     {% include smallnav.html %}
     
   </header>
-
+    
   <section class="container card__container story" style="width:800px;max-width:80%;">
-    <h2 style="text-align:center;color:#8b0000;text-transform:uppercase;"><a href="/brain-teaser/death-by-gas/">{{ page.subtitle }}</a></h2>
-    <p style="text-align:center;">Bafflers: The Popular Detective Story Game<br>The Thriller Library, Feb. 20, 1932 &mdash; Vol. 6, No. 159</p>
+    <h2 style="text-align:center;color:#8b0000;text-transform:uppercase;"><a href="/brain-teasers/death-by-gas/">{{ page.subtitle }}</a></h2>
+    <p class="center" style="font-size:0.875rem;">Bafflers: The Popular Detective Story Game<br><em>The Thriller Library</em>, Feb. 20, 1932 &mdash; Vol. 6, No. 159</p>
     <br>
     
-    <h3>Solution</h3>
-  
-    <p class="italics margin1r"><span class="bloodred uppercase">Warning:</span>Do not read this answer until you have made your effort to solve the crime. To this end the facts are printed upside down.</p>
+    <p class="italics margin1r alert"><span class="bloodred uppercase">Warning:</span>Do not read this answer until you have made your effort to solve the crime. <a href="/who-killed-marion-leroy/" class="underline">Return to the story.</a></p>
+
+    <h3>The Solution</h3>
 
     <img src="/assets/img/short-stories/marion-leroy.png" alt="Who Killed Marion Leroy" style="margin:1rem;width:600px;max-width:60%;float:right;">
 
@@ -57,9 +54,9 @@ subtitle: "Who Killed Marion Leroy"
   </section>
 
   <section class="shareby bloodred" style="margin-top:2rem;text-align:center;">
-    <hr class="bloodred">
+    <hr style="border-color:#8b0000;">
     <br>
-    <h4>Did you enjoy WHO KILLED MARION LEROY?</h4>
+    <h4>Did you enjoy WHO KILLED MARION&nbsp;LEROY?</h4>
     <br>
     <h5>Share it with your friends &amp; see if they're smart&nbsp;enough&nbsp;to&nbsp;solve&nbsp;it!</h5>
     <div class="shareby__imgs">
@@ -70,34 +67,6 @@ subtitle: "Who Killed Marion Leroy"
     <p class="small italics" style="color:#242424;">Share with friends and earn points towards special discounts &amp; free stories! <span class="underline">Details</span></p>
   </section>
 
-  <section class="tripwire" style="margin-top:1rem;">
-    <hr style="margin: 3rem 0;">
-    <header class="center bloodred">
-      <div>
-        <h2 class="margin1r"><span style="border:2px solid #8b0000;border-radius:6px;padding:0.5rem;">SPECIAL OFFER</span></h2>
-        <h3 class="margin1r">For Armchair Detectives ONLY!</h3>
-      </div>
-    </header>
-    <div class="" style="margin:0 auto;width:650px;max-width:75%;">
-      <p>Since you've demonstrated your commitment to reading &amp; solving great mystery stories, and proven yourself to be a true <span class="bold">Armchair Detective</span>, I'd like to make you a special offer.</p>
-      <img src="/assets/img/novellas/killers-castle.jpg" alt="Killer's Castle by George Dilnot" style="height:200px;width:auto;float:right;margin:0 0 1rem 1rem;">
-      <p>If you click the button, below, I'll give you a copy of my favorite novella &mdash; <span class="bloodred"><span class="bold">Killer's&nbsp;Castle</span> by&nbsp;George&nbsp;Dilnot</span> &mdash; for 50% off the normal price of $2.99!</p>
-      <p>That's just <span class="bold bloodred">$1.49</span> if you click this button to buy today.</p>
-      <!-- <div class="cf"> -->
-      <br>
-      <br>
-    </div>
-
-    <div class="center">
-      <a href="https://transactions.sendowl.com/products/587633/B52303B8/purchase" rel="nofollow" class="add-to-cart">BUY NOW (50% off!)</a>
-      <script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
-    </div>
-    <p class="small center italics" style="margin:1rem;">Only available through this SPECIAL OFFER!</p>
-
-  </section>
+  {% include tripwire.html %}
 
 </div>
-
-
-
-

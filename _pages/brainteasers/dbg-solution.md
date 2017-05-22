@@ -1,6 +1,6 @@
 ---
 layout: default2
-permalink: /brain-teaser/death-by-gas-solution/
+permalink: /brain-teasers/death-by-gas/solution/
 title: "Solution"
 subtitle: "Death By Gas"
 ---
@@ -11,8 +11,6 @@ subtitle: "Death By Gas"
      <section class="pagetitle">
       
       <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
-
-      <h1><span>{{ page.title }}</span></h1>
     
     </section> <!-- end div.pagetitle --> 
     
@@ -21,15 +19,15 @@ subtitle: "Death By Gas"
   </header>
 
   <section class="container card__container">
-    <h2 style="text-align:center;color:#8b0000;text-transform:uppercase;"><a href="/brain-teaser/death-by-gas/">{{ page.subtitle }}</a></h2>
-    <p style="text-align:center;font-weight:bold;">A Brain-Teaser by J. J. Matthews</p>
+    <h2 style="text-align:center;color:#8b0000;text-transform:uppercase;"><a href="/brain-teasers/death-by-gas/">{{ page.subtitle }}</a></h2>
+    <p style="text-align:center;font-weight:bold;">A brain-teaser by J. J. Matthews</p>
     <img src="/assets/img/short-stories/radiator.svg" alt="Death by Gas" style="margin:1rem;width:400px;max-width:30%;float:right;">
   	<br>
-    <h3>Summary</h3>
-    <p>The milkman had smelled gas, gotten the help of a passing patrolman, and together, they'd broken down the door to the apartment. They found the girl laying on the couch, already dead, and Herman Matthews in the bedroom, coughing from the gas.</p>
+    <h3 class="chaptertitle">Summary</h3>
+    <p>Remember &hellip; the milkman had smelled gas, gotten the help of a passing patrolman, and together, they'd broken down the door to the apartment. They found the girl laying on the couch, already dead, and Herman Matthews in the bedroom, coughing from the gas.</p>
     <p>Neither testified that they had touched the gas cock. The cop removed the tube from the girl's mouth while the milkman opened windows to vent the gas still in the room.</p>
     <br>
-    <h3>Solution</h3>
+    <h3 class="chaptertitle">Solution</h3>
   	<p>The testimony of the milkman showed he never touched the tube or the gas cock. The patrolman took the tube from the girl’s mouth. If he didn’t turn it off, he must have seen it had been turned off.</p>
     <p class="bold">That left only Herman — who, by force of habit — had turned the gas off.</p>
   </section>

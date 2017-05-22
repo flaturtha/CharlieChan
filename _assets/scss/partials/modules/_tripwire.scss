@@ -1,0 +1,19 @@
+/*=============================================
+=    TRIPWIRE: 										            =
+=============================================*/
+
+.tw__desc {
+	border-top: 1px solid $acolor;
+	width: 600px;
+	max-width: 90%;
+	margin: 2rem auto 0;
+	padding: 1rem 0 0 0;
+	text-align: center;
+	p {
+		max-width: 75%;
+		margin: 1rem auto -1rem;
+	}
+	.metadata {
+		margin-bottom: 1rem;
+	}
+}

@@ -181,3 +181,14 @@ a {
 .normalOL li {
   text-transform: none;
 }
+
+.alert {
+  border: 2px solid $acolor;
+  background-color: yellow;
+  color: $acolor;
+  margin: 1rem auto 2rem;
+  padding: 0.5rem;
+  font-weight: bold;
+  text-align: center;
+  max-width: 75%;
+}
