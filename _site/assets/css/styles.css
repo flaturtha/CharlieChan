@@ -1962,7 +1962,8 @@ ol ol li:last-child {
 
 .tobecontinued {
   font-weight: bold;
-  text-align: center;
+  max-width: 90%;
+  margin: 0 auto;
   font-size: 1.25rem; }
 
 .prebuy, .prebuysample {
@@ -2593,6 +2594,24 @@ ol ol li:last-child {
     margin: 1rem auto -1rem; }
   .tw__desc .metadata {
     margin-bottom: 1rem; }
+
+/*=============================================
+=    LANDING PAGE(S)           								=
+=============================================*/
+.lp {
+  background-color: #242424;
+  background-image: url("/assets/img/site/pulpicons2.svg"); }
+  .lp__img {
+    margin: 1.5rem 0 -0.5rem 0; }
+    @media screen and (min-width: 48rem) {
+      .lp__img {
+        margin: 0.5rem 0 0 0; } }
+  .lp .main {
+    width: 800px;
+    max-width: 90%;
+    margin: 0 auto;
+    padding-top: 1px;
+    background-color: #fffff0; }
 
 /*==========  LAYOUT  ==========*/
 /*=============================================
@@ -3793,6 +3812,9 @@ a {
 .bloodred {
   color: #8B0000; }
 
+.grey {
+  color: #474F55; }
+
 .guarantee {
   font-weight: lighter;
   color: #535c63;
@@ -3848,3 +3870,11 @@ a {
   font-weight: bold;
   text-align: center;
   max-width: 75%; }
+
+.lineabove {
+  border-top: 1px solid #8B0000;
+  padding-top: 0.25rem; }
+
+.linebelow {
+  border-bottom: 1px solid #8B0000;
+  padding-bottom: 0.25rem; }

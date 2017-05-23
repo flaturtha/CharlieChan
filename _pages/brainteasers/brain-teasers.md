@@ -1,9 +1,9 @@
 ---
 layout: default2
 permalink: /brain-teasers/
-title: brain-teaserss
+title: brain-teasers
 tagline: Learn about murder mysteries &hellip;
-category: brain-teaserss
+category: brain-teasers
 description: "Test your armchair detective chops!"
 ---
 

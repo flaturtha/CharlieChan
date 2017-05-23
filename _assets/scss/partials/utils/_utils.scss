@@ -127,6 +127,10 @@ a {
   color: $acolor;
 }
 
+.grey {
+  color: $pcolor;
+}
+
 .guarantee {
   font-weight: lighter;
   color: lighten($pcolor, 5%);
@@ -192,3 +196,24 @@ a {
   text-align: center;
   max-width: 75%;
 }
+
+.lineabove {
+  border-top: 1px solid $acolor;
+  padding-top: 0.25rem;
+}
+
+.linebelow {
+  border-bottom: 1px solid $acolor;
+  padding-bottom: 0.25rem;
+}
+
+
+
+
+
+
+
+
+
+
+

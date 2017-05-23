@@ -55,6 +55,10 @@ collections:
     output: true
     permalink: /your-free-download/:path/
     title: Your Free Download
+  landingpages: 
+    output: true
+    permalink: /:path/
+    title: Landing Pages
 
 
 

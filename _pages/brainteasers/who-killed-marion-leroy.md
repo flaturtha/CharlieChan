@@ -7,7 +7,7 @@ series: "Bafflers: The Popular Detective Story Game"
 opub: The Thriller Library
 opubdate: Feb. 20, 1932
 opubissue: Vol. 6, No. 159
-category: brain-teaserss
+category: brain-teasers
 excerpt: "Can you decifer the clues and discover who killed Marion Leroy before checking for the answer?"
 image: /assets/img/short-stories/marion-leroy.png
 imgh: 450px

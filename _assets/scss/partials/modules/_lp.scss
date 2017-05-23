@@ -1,0 +1,21 @@
+/*=============================================
+=    LANDING PAGE(S)           								=
+=============================================*/
+
+.lp {
+	background-color: $bgcolor;
+	background-image: url('/assets/img/site/pulpicons2.svg');
+	&__img {
+		margin: 1.5rem 0 -0.5rem 0;
+		@media screen and (min-width: 48rem){
+			margin: 0.5rem 0 0 0;
+		}
+	}
+	.main {
+		width: 800px;
+		max-width: 90%;
+		margin: 0 auto;
+		padding-top: 1px;
+		background-color: $paper;
+	}
+}

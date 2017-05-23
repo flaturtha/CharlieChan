@@ -1,0 +1,104 @@
+{% include head.html %}
+
+<body {% if page.title %} id="{{ page.title }}" {% endif %} class="{{ page.category }} lp">
+	
+  {% include header_lp.html %}
+
+  <main class="main wrap">
+
+ 	  {% include smallnav.html %}
+
+		<article class="books">
+		  <header class="books__header">
+		    <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="book__img">
+
+		    <!-- README IF STATEMENT -->
+		    {% if site.readtime %}
+		      {% if site.wpm %}
+		        {% assign readtime = page.wordcount | divided_by:site.wpm %}
+		      {% else %}
+		        {% assign readtime = page.wordcount | divided_by:180 %}
+		      {% endif %}
+		    {% endif %}
+
+		    <div class="book_details">
+		      <h1 class="books__title">{{ page.title }}</h1>
+		      {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
+
+		      <h2 class="books__author">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
+
+		      <p class="metadata">
+		        <!-- <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span> -->
+		        <span class="etr">read time:
+		          {% if site.readtime %}
+		          {% if readtime > 60 %}
+		          {% assign readtime_hours = readtime | divided_by: 60 %}
+		          {% assign readtime_minutes = readtime | modulo:60 %}
+		            {% if readtime_hours > 1 and readtime_hours < 2 %}1 hour
+		            {% else %}<span class="hour">{{ readtime_hours }}</span> hr
+		            {% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} and <span class="time">{{ readtime_minutes }}</span> min{% endif %}
+		          {% else %}
+		            {% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
+		          {% endif %}
+		          </span>
+		        </p>
+
+		        <div class="">
+		          <p>{{ page.description }}</p>
+
+		          {% if page.testimonials %}<p class="testimonials">{{ page.testimonials }}</p>{% endif %}
+		        
+		        {% if page.saleprice %}
+		          <p class="book__price"><span class="strikethru grey">${{ page.price }}</span> ${{ page.saleprice }} <span class="prebuy-pitch"> SPECIAL PRICE!</span></p>
+		        {% else %}
+		          <p class="book__price">${{ page.price }}</p>
+		        {% endif %}
+		        	<!-- <p>You save {{ page.price | minus: page.saleprice | times: 100.0 | divided_by: page.price }}%</p> -->
+		        </div>
+						<br>
+		        <div class="book__buttons">
+	            {{ page.buybutton }}
+		        </div>
+		    </div>
+
+
+		  </header> <!-- end header.books__header -->
+
+		  <article class="books">
+		  	<hr style="border-color:#8b0000;margin-bottom:1rem;">
+		    {{ content }}
+		  </article>
+
+		  <div class="book__meta" style="margin: 1rem;">
+		    <h4>Additional Info</h4>
+		    <ul>
+		      <li class="book__cfn"><span class="bold">MBIN No: </span>{{ page.casefileNumber }}</li>
+		      <li class="book__length"><span class="bold">Length: </span>~ {{ page.wordcount | divided_by: 375 }} pages <span class="pagelengthdisclaimer">(depending on ereader font and font size)</span></li>
+		      <li class="book__opub"><span class="bold">Original Publication: </span><span class="italics">{{ page.opub }}</span> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</li>
+		      <li class="book__repub"><span class="bold">Republication Date: </span>
+		        {% if page.pubdate %}
+		          {{ page.pubdate | date: "%b %d, %Y"}}
+		        {% else %}
+		          Not yet published.
+		        {% endif %}
+		      </li>
+		    </ul>
+		  </div>
+			<hr style="border-color:#8b0000;">
+			<br><br>
+      <div class="book__buttons">
+        {{ page.buybutton }}
+      </div>
+      <p class="center margin1r">For only <span class="strikethru">${{ page.price }}</span> <span class="bloodred bold">${{ page.saleprice }}</span>!</p>
+      <p class="uppercase xsmall center">[limited time offer]</p>
+      <br>
+		  </div>
+  </main>
+
+  {% include footer.html %}
+
+  {% include scripts.html %}
+
+  {% include quantcast.html %}
+
+</body>
