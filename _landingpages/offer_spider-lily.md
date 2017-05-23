@@ -1,6 +1,6 @@
 ---
 layout: lp
-permalink: /spider-lily/
+permalink: /special-offers/spider-lily/
 casefileNumber: 5875381bfda8f27d5695e8eb
 title: "Spider Lily"
 author: Bruno Fischer

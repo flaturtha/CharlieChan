@@ -1,6 +1,6 @@
 ---
 layout: lp
-permalink: /killers-castle/
+permalink: /special-offers/killers-castle/
 casefileNumber: 55ccf75fb3901011515af01b
 title: "Killer's Castle"
 author: George Dilnot
