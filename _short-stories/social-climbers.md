@@ -2,17 +2,17 @@
 layout: short-stories
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefc9
-title: "Brothers of the Coast"
+title: "The Case of the Social Climbers"
 series: A Dixon Hawke Mystery
 date: 2017-05-24
 opub: Dixon Hawke's Casebook
 opubdate: Spring 1940
 opubissue: No. 4
 category: short-stories
-excerpt: "exerpt"
+excerpt: "Will John Burton's ruse win him love and social status or will it just end up being a silly game of make-believe that leads to murder?"
 image: /assets/img/short-stories/social-climbers.svg
 imgh: 300px
-genre: Adventure
+genre: Professional Sleuth
 tag: short-story
 wordcount: 3290
 trfissue: Vol. 3 No. 11
@@ -52,7 +52,9 @@ He had involuntarily emphasised the “he,” and the girl was quick to notice t
 
 “Eh? Oh—er—no. Rather not. I have all I need, thank goodness.”
 
-He strove to make light conversation, and on this occasion he did not acquit himself too well, for his mind kept drifting back to the subjects of Dixon Hawke, of criminal investigation, and of the business of “making money.” Things were not going right for him. He had “borrowed ” some three hundred pounds from the bank where he was employed as ledger-clerk, and that wealthy uncle of his, Arnold Croxton, had failed to “come across ” with the usual annual substantial gift which would have enabled him to put things right.
+He strove to make light conversation, and on this occasion he did not acquit himself too well, for his mind kept drifting back to the subjects of Dixon Hawke, of criminal investigation, and of the business of “making money.”
+
+Things were not going right for him. He had “borrowed” some three hundred pounds from the bank where he was employed as ledger-clerk, and that wealthy uncle of his, Arnold Croxton, had failed to “come across ” with the usual annual substantial gift which would have enabled him to put things right.
 
 The silly old fool was having a love affair with a nursemaid, and she was the cause of the trouble. Burton had not seen her, and he only knew of her existence through vague rumours from Fenside, Croxton's country home.
 
@@ -234,7 +236,7 @@ Hawke smiled at this.
 
 “I do my best,” he said. “You sound very interested in the young lady.”
 
-” I am,” was the fervent answer. “I don’t know what I shall do if I can’t find her.”
+“I am,” was the fervent answer. “I don’t know what I shall do if I can’t find her.”
 
 “Dear me. In that case, I shall have to see what I can do. You’re something of an engraver, I see.”
 
@@ -348,7 +350,7 @@ Burton looked round wildly.
 
 The police car came to a standstill beside them, and the superintendent produced a pair of handcuffs as he stepped out.
 
-“Tell me one thing,” demanded Burton, before he was taken away. “ Where is Lucinda?”
+“Tell me one thing,” demanded Burton, before he was taken away. “Where is Lucinda?”
 
 “You and she,” said Hawke, “were both playing the same silly game of make-believe, each thinking the other a means of social climbing. You both had the same idea, and were, by chance, both introduced to Carlotti's by the same person. Lucinda Mowbray,” he added, “is dead. Murdered.”
 
