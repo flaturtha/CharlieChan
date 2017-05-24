@@ -5,7 +5,7 @@ title: "Solution"
 subtitle: "Who Killed Marion Leroy"
 ---
 
-<div class="{{ page.title }}">
+<div class="{{ page.title }} brain-teasers">
   <header class="pagehead">
      <section class="pagetitle">
       
@@ -22,11 +22,11 @@ subtitle: "Who Killed Marion Leroy"
     <p class="center" style="font-size:0.875rem;">Bafflers: The Popular Detective Story Game<br><em>The Thriller Library</em>, Feb. 20, 1932 &mdash; Vol. 6, No. 159</p>
     <br>
     
-    <p class="italics margin1r alert"><span class="bloodred uppercase">Warning:</span>Do not read this answer until you have made your effort to solve the crime. <a href="/who-killed-marion-leroy/" class="underline">Return to the story.</a></p>
+    <p class="bt__alert"><span class="bloodred uppercase">Warning: </span>Do not read this answer until you have made your effort to solve the crime. <a href="/who-killed-marion-leroy/" class="underline"><span class="small">Return&nbsp;to&nbsp;the&nbsp;story.</span></a></p>
 
     <h3>The Solution</h3>
 
-    <img src="/assets/img/short-stories/marion-leroy.png" alt="Who Killed Marion Leroy" style="margin:1rem;width:600px;max-width:60%;float:right;">
+    <img src="/assets/img/short-stories/marion-leroy.png" alt="Who Killed Marion Leroy" class="bt__img">
 
     <div>
       <p class="qanda"><span class="bloodred bold">(1)</span> The prints on the butt were Dick Sherrington's and those on the barrel were Mervyn Holts.</p>

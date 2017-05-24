@@ -545,6 +545,14 @@ h4, .h4 {
 /*=============================================
 =    PRIVACY POLICY                           =
 =============================================*/
+.privacy-policy__link {
+  text-decoration: underline; }
+  @media screen and (min-width: 48rem) {
+    .privacy-policy__link {
+      display: block; } }
+  .privacy-policy__link a {
+    color: #fffff0; }
+
 .privacy-policy ul li {
   list-style-type: circle;
   margin: 0 0 0 2rem; }
@@ -1817,6 +1825,7 @@ ol ol li:last-child {
 
 .qanda {
   width: 550px;
+  max-width: 90%;
   margin: 0 0 2rem 2rem; }
   .qanda p {
     color: #303539;
@@ -2594,6 +2603,29 @@ ol ol li:last-child {
     margin: 1rem auto -1rem; }
   .tw__desc .metadata {
     margin-bottom: 1rem; }
+
+/*=============================================
+=    BOOKS [NOVELLA & NOVELS] PAGE            =
+=============================================*/
+.brain-teasers .bt__alert {
+  border: 2px solid #8B0000;
+  background-color: yellow;
+  color: #8B0000;
+  margin: 1rem auto 2rem;
+  padding: 0.5rem;
+  font-weight: bold;
+  max-width: 75%;
+  text-align: left; }
+  @media screen and (min-width: 48rem) {
+    .brain-teasers .bt__alert {
+      text-align: center; } }
+
+.brain-teasers .bt__img {
+  margin: 1rem auto; }
+  @media screen and (min-width: 48rem) {
+    .brain-teasers .bt__img {
+      float: right;
+      width: 500px; } }
 
 /*=============================================
 =    LANDING PAGE(S)           								=
@@ -3814,6 +3846,9 @@ a {
 
 .grey {
   color: #474F55; }
+
+.paper {
+  color: #fffff0; }
 
 .guarantee {
   font-weight: lighter;

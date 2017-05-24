@@ -1,0 +1,27 @@
+/*=============================================
+=    BOOKS [NOVELLA & NOVELS] PAGE            =
+=============================================*/
+
+.brain-teasers {
+	.bt__alert {
+		 border: 2px solid $acolor;
+	  background-color: yellow;
+	  color: $acolor;
+	  margin: 1rem auto 2rem;
+	  padding: 0.5rem;
+	  font-weight: bold;
+	  max-width: 75%;
+		text-align: left;
+		@media screen and (min-width:48rem){
+			text-align: center;
+		}
+	}
+	.bt__img {
+		margin: 1rem auto;
+		// max-width: 60%;
+		@media screen and (min-width:48rem){
+			float: right;
+			width: 500px;
+		}
+	}
+}

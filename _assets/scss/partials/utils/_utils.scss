@@ -131,6 +131,10 @@ a {
   color: $pcolor;
 }
 
+.paper {
+  color: $paper;
+}
+
 .guarantee {
   font-weight: lighter;
   color: lighten($pcolor, 5%);

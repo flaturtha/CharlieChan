@@ -50,8 +50,10 @@ layout: default2
         {% if page.opub %}
           <span style="display:block;" class="opub__ss"><em>{{ page.opub }}</em> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</span>
         {% endif %}
-        <span style="display:block;" class="opub__ss">THE RED FILE | {{ page.trfdate }} | {{ page.trfissue }}</span> <!-- make a link to the issue! -->
-        <span style="display:block;font-size:0.875rem;">Casefile No: {{ page.casefileNumber }}</span>
+        {% if page.trfissue %}
+          <span style="display:block;" class="opub__ss">THE RED FILE | {{ page.trfdate }} | {{ page.trfissue }}</span> <!-- make a link to the issue! -->
+          <span style="display:block;font-size:0.875rem;">Casefile No: {{ page.casefileNumber }}</span>
+        {% endif %}
       </p>
 
 
@@ -68,9 +70,9 @@ layout: default2
             {% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
           {% endif %}
           </span>
-        <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span>
+        <!-- <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span> -->
         </p>
-        <p style="font-style:italic;border-top: 1px solid #242424;border-bottom: 1px solid #242424;padding: 0.5rem 0 0.5rem 0;">{{ page.excerpt }}</p>
+        <p style="font-style:italic;border-top: 1px solid #8b0000;border-bottom: 1px solid #8b0000;padding: 0.5rem 0 0.5rem 0;" class="bloodred">{{ page.excerpt }}</p>
     </div>
     
 
