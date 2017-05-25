@@ -2622,7 +2622,7 @@ ol ol li:last-child {
 
 .brain-teasers .bt__img {
   margin: 1rem auto; }
-  @media screen and (min-width: 48rem) {
+  @media screen and (min-width: 60rem) {
     .brain-teasers .bt__img {
       float: right;
       width: 500px; } }
