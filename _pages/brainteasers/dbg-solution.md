@@ -31,6 +31,7 @@ subtitle: "Death By Gas"
   	<p>The testimony of the milkman showed he never touched the tube or the gas cock. The patrolman took the tube from the girl’s mouth. If he didn’t turn it off, he must have seen it had been turned off.</p>
     <p class="bold">That left only Herman — who, by force of habit — had turned the gas off.</p>
   </section>
+    <br>
 
   <section class="shareby bloodred" style="margin-top:2rem;text-align:center;">
     <hr class="bloodred">
@@ -39,11 +40,20 @@ subtitle: "Death By Gas"
     <br>
     <h5>Share it with your friends &amp; see if they're smart&nbsp;enough&nbsp;to&nbsp;solve&nbsp;it!</h5>
     <div class="shareby__imgs">
-      <img src="/assets/img/social/fbshare.jpg" alt="" style="width:150px;margin:0.75rem;">
-      <img src="/assets/img/social/twshare.jpg" alt="" style="width:150px;margin:0.75rem;">
-      <img src="/assets/img/social/eshare.jpg" alt="" style="width:150px;margin:0.75rem;">
+
+      <!-- FACEBOOK -->
+      <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.talesofmurder.com/brain-teasers/death-by-gas/"><img src="/assets/img/social/fbshare.jpg" alt="" style="width:150px;margin:0.75rem;"></a>
+
+      <!-- TWITTER       -->
+      <a target="_blank" href="https://ctt.ec/Q5Piu"><img src="/assets/img/social/twshare.jpg" style="width:150px;margin:0.75rem;" alt="Tweet: I just solved DEATH BY GAS, a murder mystery brain teaser. Can you find the clues to convict a killer? https://ctt.ec/Q5Piu+" /></a>
+
+      <!-- EMAIL -->
+      <a href="mailto:?subject=I solved DEATH BY GAS! Bet you can't find the clues!&body=<div style='padding: 0;'><div style='padding: 0;'><p>Check out this cool brain teaser: <a href='https://www.talesofmurder.com/brain-teasers/death-by-gas/' >DEATH BY GAS</a>. Its a great read and a fun test of your detective skills!</p></div></div>"><img src="/assets/img/social/eshare.jpg" alt="" style="width:150px;margin:0.75rem;"></a>
+
+      
+      <!-- <a href="mailto:?subject=&amp;body=Check out this cool brain teaser: https:www.talesofmurder.com/brain-teasers/death-by-gas/ . I found the clues and figured it out. Think you can?" title="Share by Email"><img src="/assets/img/social/eshare.jpg" alt="" style="width:150px;margin:0.75rem;"></a> -->
     </div>
-    <p class="small italics" style="color:#242424;">Share with friends and earn points towards special discounts &amp; free stories! <span class="underline">Details</span></p>
+    <p class="small italics" style="color:#242424;">Share with friends and earn points towards special discounts &amp; free stories! <a href="/policies/rank-scores/" class="undersline">Details</a></p>
   </section>
 
   <section class="wkml__tease" style="margin-top:1rem;">

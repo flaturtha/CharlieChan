@@ -60,9 +60,16 @@ subtitle: "Who Killed Marion Leroy"
     <br>
     <h5>Share it with your friends &amp; see if they're smart&nbsp;enough&nbsp;to&nbsp;solve&nbsp;it!</h5>
     <div class="shareby__imgs">
-      <img src="/assets/img/social/fbshare.jpg" alt="" style="width:150px;margin:0.75rem;">
-      <img src="/assets/img/social/twshare.jpg" alt="" style="width:150px;margin:0.75rem;">
-      <img src="/assets/img/social/eshare.jpg" alt="" style="width:150px;margin:0.75rem;">
+      
+      <!-- FACEBOOK -->
+      <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.talesofmurder.com/brain-teasers/who-killed-marion-leroy/"><img src="/assets/img/social/fbshare.jpg" alt="" style="width:150px;margin:0.75rem;"></a>
+
+      <!-- TWITTER       -->
+      <a target="_blank" href="https://ctt.ec/WOD99"><img src="/assets/img/social/twshare.jpg" style="width:150px;margin:0.75rem;" alt="Tweet: Can you figure out who killed the young actress Marion Leroy? Read the story, find the clues and stop a killer! https://ctt.ec/WOD99+" /></a>
+
+      <!-- EMAIL -->
+      <a href="mailto:?subject=I solved WHO KILLED MARION LEROY ... another thrilling murder mystery brain teaser!&body=<div style='padding: 0;'><div style='padding: 0;'><p>I thought you might enjoy reading this mind-boggler. See if you can figure it out before checking the solution: <a href='https://www.talesofmurder.com/brain-teasers/who-killed-marion-leroy/' >WHO KILLED MARION LEROY</a>. Its a great read and a fun test of your armchair detective skills!</p></div></div>"><img src="/assets/img/social/eshare.jpg" alt="" style="width:150px;margin:0.75rem;"></a>
+
     </div>
     <p class="small italics" style="color:#242424;">Share with friends and earn points towards special discounts &amp; free stories! <span class="underline">Details</span></p>
   </section>
