@@ -1,11 +1,30 @@
 ---
 layout: default2
-permalink: /privacy/
+permalink: /policies/privacy/
 title: Privacy Policy
 tagline: 
-category: privacy-policy
+category: site-policies
 description: 
 ---
+
+<header class="pagehead">
+ <section class="pagetitle">
+  <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
+
+</section> <!-- end div.pagetitle --> 
+
+{% include smallnav.html %}
+
+</header>
+
+<h1 class="bloodred uppercase center">Privacy Policies &mdash; WTF???</h1>
+<br>
+<div style="width:600px;max-width: 95%;margin:0 auto;">
+  <p class="xlarge">Your privacy and safety on this site and throughout your interactions with <span class="companyname">Tales of Murder Press, LLC</span> is of utmost importance.</p>
+  <p>To that end, the following <strong class="bloodred">Privacy Policy</strong> is written to outline what kind of information we collect from our site visitors and subscribers and what we do with it.</p>
+  <p>It can be summed up in a few words &mdash; <em>we want to create the best possible reading and entertainment experience possible and promise to never betray the trust you put in us by compromising your safety or privacy.</em></p>
+</div>
+
 <section id="toc" class="toc">
   <header>
     <h6>Table of Contents</h6>
@@ -14,7 +33,6 @@ description:
 1. Auto generated table of contents
 {:toc}
 </div>
-</section> <!-- table-of-contents -->
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -43,13 +61,13 @@ We collect information from you when you place an order, subscribe to a newslett
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
 <ul>
-      <li>To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.</li>
-      <li>To improve our website in order to better serve you.</li>
-      <li>To allow us to better service you in responding to your customer service requests.</li>
-      <li>To administer a contest, promotion, survey or other site feature.</li>
-      <li>To quickly process your transactions.</li>
-      <li>To ask for ratings and reviews of services or products.</li>
-      <li>To follow up with them after correspondence (live chat, email or phone inquiries).</li>
+  <li>To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.</li>
+  <li>To improve our website in order to better serve you.</li>
+  <li>To allow us to better service you in responding to your customer service requests.</li>
+  <li>To administer a contest, promotion, survey or other site feature.</li>
+  <li>To quickly process your transactions.</li>
+  <li>To ask for ratings and reviews of services or products.</li>
+  <li>To follow up with them after correspondence (live chat, email or phone inquiries).</li>
 </ul>
 
 ### Section 4
@@ -78,9 +96,9 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to:
 <ul>
-      <li>Help remember and process the items in the shopping cart.</li>
-      <li>Understand and save user's preferences for future visits.</li>
-      <li>Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.</li>
+  <li>Help remember and process the items in the shopping cart.</li>
+  <li>Understand and save user's preferences for future visits.</li>
+  <li>Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.</li>
 </ul>
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
@@ -121,8 +139,8 @@ Google, as a third-party vendor, uses cookies to serve ads on our site. Google's
 
 We have implemented the following:
 <ul>
-      <li>Remarketing with Google AdSense</li>
-      <li>Demographics and Interests Reporting</li>
+  <li>Remarketing with Google AdSense</li>
+  <li>Demographics and Interests Reporting</li>
 </ul>
 
 We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
@@ -145,13 +163,13 @@ Our Privacy Policy link includes the word 'Privacy' and can easily be found on t
 
 You will be notified of any Privacy Policy changes:
 <ul>
-      <li>On our Privacy Policy Page</li>
+  <li>On our Privacy Policy Page</li>
 </ul>
 
 Can change your personal information:
 <ul>
-      <li>By emailing us</li>
-      <li>By logging in to your account</li>
+  <li>By emailing us</li>
+  <li>By logging in to your account</li>
 </ul>
 
 ### Section 10
@@ -190,8 +208,8 @@ The Fair Information Practices Principles form the backbone of privacy law in th
 
 In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
 <ul>
-      <li>We will notify you via email within 1 business day.</li>
-      <li>We will notify the users via in-site notification within 1 business day.</li>
+  <li>We will notify you via email within 1 business day.</li>
+  <li>We will notify the users via in-site notification within 1 business day.</li>
 </ul>
 
 We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
@@ -206,20 +224,20 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 We collect your email address in order to:
 <ul>
-      <li>Send information, respond to inquiries, and/or other requests or questions.</li>
-      <li>Process orders and to send information and updates pertaining to orders.</li>
-      <li>Send you additional information related to your product and/or service.</li>
-      <li>Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.</li>
+  <li>Send information, respond to inquiries, and/or other requests or questions.</li>
+  <li>Process orders and to send information and updates pertaining to orders.</li>
+  <li>Send you additional information related to your product and/or service.</li>
+  <li>Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.</li>
 </ul>
 
 To be in accordance with CANSPAM, we agree to the following:
 <ul>
-      <li>Not use false or misleading subjects or email addresses.</li>
-      <li>Identify the message as an advertisement in some reasonable way.</li>
-      <li>Include the physical address of our business or site headquarters.</li>
-      <li>Monitor third-party email marketing services for compliance, if one is used.</li>
-      <li>Honor opt-out/unsubscribe requests quickly.</li>
-      <li>Allow users to unsubscribe by using the link at the bottom of each email.</li>
+  <li>Not use false or misleading subjects or email addresses.</li>
+  <li>Identify the message as an advertisement in some reasonable way.</li>
+  <li>Include the physical address of our business or site headquarters.</li>
+  <li>Monitor third-party email marketing services for compliance, if one is used.</li>
+  <li>Honor opt-out/unsubscribe requests quickly.</li>
+  <li>Allow users to unsubscribe by using the link at the bottom of each email.</li>
 </ul>
 
 If at any time you would like to unsubscribe from receiving future emails, you can email us at <a href="mailto:support@talesofmurder.com">Support</a> or by following the instructions at the bottom of each email.

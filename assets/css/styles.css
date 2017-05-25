@@ -545,18 +545,18 @@ h4, .h4 {
 /*=============================================
 =    PRIVACY POLICY                           =
 =============================================*/
-.privacy-policy__link {
+.site-policies__link {
   text-decoration: underline; }
   @media screen and (min-width: 48rem) {
-    .privacy-policy__link {
+    .site-policies__link {
       display: block; } }
-  .privacy-policy__link a {
+  .site-policies__link a {
     color: #fffff0; }
 
-.privacy-policy ul li {
+.site-policies ul li {
   list-style-type: circle;
   margin: 0 0 0 2rem; }
-  .privacy-policy ul li:last-of-type {
+  .site-policies ul li:last-of-type {
     margin-bottom: 1rem; }
 
 /*=============================================
@@ -912,7 +912,8 @@ label {
   border-bottom: 1px dotted #8B0000;
   display: inline; }
   .breadcrumb li {
-    display: inline; }
+    display: inline;
+    margin: 0 !important; }
     .breadcrumb li:not(:last-child):after {
       content: "\00bb";
       color: #8B0000; }

@@ -36,6 +36,7 @@
   display: inline;
   li {
     display: inline;
+    margin: 0 !important;
     &:not(:last-child):after {
       content: "\00bb";
       color: $acolor;
