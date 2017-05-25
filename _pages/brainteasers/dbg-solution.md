@@ -24,8 +24,8 @@ subtitle: "Death By Gas"
     <img src="/assets/img/short-stories/radiator.svg" alt="Death by Gas" style="margin:1rem;width:400px;max-width:30%;float:right;">
   	<br>
     <h3 class="chaptertitle">Summary</h3>
-    <p>Remember &hellip; the milkman had smelled gas, gotten the help of a passing patrolman, and together, they'd broken down the door to the apartment. They found the girl laying on the couch, already dead, and Herman Matthews in the bedroom, coughing from the gas.</p>
-    <p>Neither testified that they had touched the gas cock. The cop removed the tube from the girl's mouth while the milkman opened windows to vent the gas still in the room.</p>
+    <p><strong>Remember</strong> &hellip; the milkman had smelled gas, gotten the help of a passing patrolman, and together, they'd broken down the door to the apartment. They found the girl laying on the couch, already dead, and Herman Matthews in the bedroom, coughing from the gas.</p>
+    <!-- <p>Neither testified that they had touched the gas cock. The cop removed the tube from the girl's mouth while the milkman opened windows to vent the gas still in the room.</p> -->
     <br>
     <h3 class="chaptertitle">Solution</h3>
   	<p>The testimony of the milkman showed he never touched the tube or the gas cock. The patrolman took the tube from the girl’s mouth. If he didn’t turn it off, he must have seen it had been turned off.</p>
