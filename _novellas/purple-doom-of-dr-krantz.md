@@ -4,6 +4,7 @@ casefileNumber: 55ccf75fb3901011515af01b
 title: "The Purple Doom of Dr. Krantz"
 series: A Dixon Hawke Mystery
 price: 2.99
+preprice: 1.99
 opub: Dixon Hawke Library
 opubdate: December 14, 1940
 opubissue: No. 549
