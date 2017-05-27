@@ -5,6 +5,7 @@ title: "The Purple Doom of Dr. Krantz"
 series: A Dixon Hawke Mystery
 price: 2.99
 preprice: 1.99
+discount: 33%
 opub: Dixon Hawke Library
 opubdate: December 14, 1940
 opubissue: No. 549

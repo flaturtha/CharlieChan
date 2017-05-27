@@ -5,6 +5,8 @@ title: "And Sudden Death"
 author: Cleve F. Adams
 date: 2017-01-05
 price: 4.99
+preprice: 3.34
+discount: 33%
 opub: Red Star News Company
 opubdate: 1939
 pubdate: 2017-01-10
