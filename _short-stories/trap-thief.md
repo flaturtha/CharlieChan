@@ -12,7 +12,7 @@ category: short-stories
 excerpt: "“The low-down sneaking thief!” Jack Ramsey’s wrath hissed on his lips as he flung the steel traps to the ground. Of thirty, all but two had been stolen."
 image: /assets/img/short-stories/trap-thief.svg
 imgh: 300px
-genre: Hardboiled PI
+genre: Amateur Sleuth
 tag: short-story
 wordcount: 6248
 trfissue: Vol. 3 No. 11

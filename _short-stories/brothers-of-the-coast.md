@@ -22,16 +22,8 @@ epub:
 ---
 
 <section id="toc" class="toc">
-
-
 <header>
-
-
-
-
 <h6>Table of Contents</h6>
-
-
 </header>
 <div id="drawer" markdown="1">
 1. Auto generated table of contents
