@@ -14,7 +14,7 @@ image: /assets/img/short-stories/boomerang-bomb.svg
 imgh: 300px
 imgh: 300px
 genre: Professional Sleuth
-tags: Dixon Hawke, Professional Sleuth
+tags: Dixon Hawke, Professional Sleuth, short-story
 wordcount: 3360
 trfissue: Vol. 2 No. 8
 trfdate: Apr. 9, 2017

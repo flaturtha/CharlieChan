@@ -14,7 +14,7 @@ image: /assets/img/short-stories/after-midnight_1.svg
 caption: "For a moment her white lips quivered. \"I &mdash; I &mdash; there's a dead man out there by the green-houses.\""
 <!-- imgh: 400px -->
 genre: Hardboiled PI
-tag: short-story
+tags: short-story
 wordcount: 9216
 trfissue: Vol. 2 No. 11
 trfdate: Mar. 12, 2017

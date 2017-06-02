@@ -1,0 +1,102 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Tales of Murder",
+  "description": "A murder mystery short story, novella & novel website. Buy thrilling murder mystery & crime stories to read on any ebook device or app.",
+  "home_page_url": "https://www.talesofmurder.com",
+  "feed_url": "https://www.talesofmurder.com/feed.short-stories.json",
+  "favicon": "https://www.talesofmurder.com/favicon.png",
+  "items": [
+    
+    
+    {
+      "id": "https://www.talesofmurder.com/short-stories/score-none-for-the-chair/",
+      "url": "https://www.talesofmurder.com/short-stories/score-none-for-the-chair/",
+      "title": "Score None for the Chair",
+      "author": "Thomas Thursday",
+      "content_html": "“Look, bub, when you’ve been in the crime-chipping business as long as I have, you’ll learn that a criminal investigator has two duties. One is to prove guilt; the other is to prove innocence.”",
+      "date_published": "Mon, 02 Jan 2017 00:00:00 -0600"
+      },
+    
+    {
+      "id": "https://www.talesofmurder.com/short-stories/dog-biter/",
+      "url": "https://www.talesofmurder.com/short-stories/dog-biter/",
+      "title": "The Case of the Dog-Biter",
+      "author": null,
+      "content_html": "“When a man dies, my dear Hawke,” said Dr. Wilthorpe, lighting a cigar, “he usually gives up playing the fool, but not so Alderman Wickham.\"",
+      "date_published": "Wed, 04 Jan 2017 00:00:00 -0600"
+      },
+    
+    {
+      "id": "https://www.talesofmurder.com/short-stories/butterfly-of-death/",
+      "url": "https://www.talesofmurder.com/short-stories/butterfly-of-death/",
+      "title": "Butterfly of Death",
+      "author": "Harold Gluck",
+      "content_html": "A queer kind of a chuckle hit my eardrum. “You’re Joe Delaney,” repeated the voice, and then it added, “So you think you can take my little Butterfly away from me and nothing will happen to you?”",
+      "date_published": "Fri, 06 Jan 2017 00:00:00 -0600"
+      },
+    
+    {
+      "id": "https://www.talesofmurder.com/short-stories/guerilla/",
+      "url": "https://www.talesofmurder.com/short-stories/guerilla/",
+      "title": "The Guerilla",
+      "author": "Clinton Harcourt",
+      "content_html": "The man walked past the building, turned, and after a quick glance about, entered the tenement’s hallway.",
+      "date_published": "Tue, 10 Jan 2017 00:00:00 -0600"
+      },
+    
+    {
+      "id": "https://www.talesofmurder.com/short-stories/murder-in-small-packages/",
+      "url": "https://www.talesofmurder.com/short-stories/murder-in-small-packages/",
+      "title": "Murder in Small Packages",
+      "author": "William Rough",
+      "content_html": "Good-hearted Benny Kerr only wanted to hand that mislaid meat parcel back to its loser. But when it turned out that the package contained an axe-maniac's tidbit, it was the murder-mad chopper that wanted to make Benny the red-handed receiver.",
+      "date_published": "Thu, 12 Jan 2017 00:00:00 -0600"
+      },
+    
+    {
+      "id": "https://www.talesofmurder.com/short-stories/gunning-for-death/",
+      "url": "https://www.talesofmurder.com/short-stories/gunning-for-death/",
+      "title": "Gunning for Death",
+      "author": "James L. Harfe",
+      "content_html": "Branded as a yellow dog who let his best friend die, Dan Wilkins strikes back at the unknown traitor in the department, who was profiteering in blood and murder.",
+      "date_published": "Sat, 14 Jan 2017 00:00:00 -0600"
+      },
+    
+    {
+      "id": "https://www.talesofmurder.com/short-stories/ironclad-alibi/",
+      "url": "https://www.talesofmurder.com/short-stories/ironclad-alibi/",
+      "title": "The Ironclad Alibi",
+      "author": "Gunnison Steele",
+      "content_html": "Nick Ryan could prove he wasn't the murderer being sought for—prove it with the finality of the grave.",
+      "date_published": "Mon, 16 Jan 2017 00:00:00 -0600"
+      },
+    
+    {
+      "id": "https://www.talesofmurder.com/short-stories/long-arm-of-god/",
+      "url": "https://www.talesofmurder.com/short-stories/long-arm-of-god/",
+      "title": "The Long Arm of God",
+      "author": "Ward Sterling",
+      "content_html": "Without a sign of undue haste, Halligan buckled his belt and holster about his waist. Coolly he unbuttoned the holster and drew the gun. He cocked the weapon and, with his finger on the trigger, waited for the others to settle their argument.",
+      "date_published": "Wed, 18 Jan 2017 00:00:00 -0600"
+      },
+    
+    {
+      "id": "https://www.talesofmurder.com/short-stories/fit-for-a-king/",
+      "url": "https://www.talesofmurder.com/short-stories/fit-for-a-king/",
+      "title": "Fit for a King",
+      "author": "Walter Deffenbaugh",
+      "content_html": "Millionaire James J. Plainfield ordered a house ‘fit for a king’ but when four leading industrialists tied to the American war effort disappear, a team of special federal law enforcement officers are called in to investigate the House of a Cliff and its hidden mysteries.",
+      "date_published": "Fri, 20 Jan 2017 00:00:00 -0600"
+      },
+    
+    {
+      "id": "https://www.talesofmurder.com/short-stories/coffin-nail-piracy/",
+      "url": "https://www.talesofmurder.com/short-stories/coffin-nail-piracy/",
+      "title": "Coffin Nail Piracy",
+      "author": "Neil Moran",
+      "content_html": "Dying for smokes, that desperate gang would go to any extreme to get them, including &hellip;",
+      "date_published": "Tue, 24 Jan 2017 00:00:00 -0600"
+      }
+    
+  ]
+}
