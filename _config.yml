@@ -25,11 +25,6 @@ facebook:
 #   publisher:
 #   admins:
 
-
-# jekyll-json-feed params (https://github.com/snaptortoise/jekyll-json-feeds)
-name: "Tales of Murder (name)"
-
-
 # Read Time is a calculator to provide post Estimated Reading Time (ERT) based on word count. Usage is recommended.
 readtime: true
 wpm: 200
