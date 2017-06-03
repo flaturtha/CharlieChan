@@ -13,7 +13,7 @@ excerpt: "Willoughby is jealous of his wife's relationship with the new gardner.
 image: /assets/img/short-stories/after-midnight_1.svg
 caption: "For a moment her white lips quivered. \"I &mdash; I &mdash; there's a dead man out there by the green-houses.\""
 <!-- imgh: 400px -->
-genre: Hardboiled PI
+genre: Amateur Sleuth
 tags: short-story
 wordcount: 9216
 trfissue: Vol. 2 No. 11
@@ -29,7 +29,7 @@ buybutton: <a href="https://transactions.sendowl.com/products/586335/69D56D7A/pu
 	</header>
 	
 	<ol>
-		<li class="bloodred">The Gardnre</li>
+		<li class="bloodred">The Gardner</li>
 		<li class="bloodred">The Body of A Man, Unquestionably Dead</li>
 		<li class="bloodred">It Is Murder</li>
 		<li class="bloodred">No Indication of Foul Play</li>
