@@ -10,8 +10,8 @@ opubdate: Sept. 1921
 opubissue: Vol 1, No. 6
 category: short-stories
 excerpt: "Tennant wanted his insane wife dead if he couldn't divorse her, and he'd found the perfect plan. But would he succeed or would the devil take a hand first?"
-image: /assets/img/short-stories/devil-takes-a-hand.svg
-imgh: 300px
+image: /assets/img/short-stories/devil-takes-a-hand.png
+imgh: 400px
 genre: Professional Sleuth
 tags: short-story
 wordcount: 1366
@@ -85,13 +85,13 @@ Pressing his wife&#39;s hand tightly between his own, Tennant addressed her in t
 
 He looked at the woman keenly. He imagined that her dull eyes took on an added brightness—that she was not plucking at the hem of her dress so nervously. He hurried on:
 
-&quot;Now, I&#39;m going to show you how to do it, sweetheart. Then, when the nurse is out of the room, some day, for a few minutes, you can put one over on her. It&#39;ll be a good joke on her. won&#39;t it ? Come on, and I&#39;ll show you how to do it.&quot;
+&quot;Now, I&#39;m going to show you how to do it, sweetheart. Then, when the nurse is out of the room, some day, for a few minutes, you can put one over on her. It&#39;ll be a good joke on her. won&#39;t it? Come on, and I&#39;ll show you how to do it.&quot;
 
 Apathetically she arose and followed him across the floor to where the big, old-fashioned bed stood in the distant corner.
 
 &quot;Now, watch me, dearie, and see how I do it,&quot; he continued. &quot;The nurse thinks that she&#39;s got you cheated by removing everything that you might use—but we&#39;ll show her, won&#39;t we?&quot;
 
-He removed the light counterpane from the bed and twisted it into a rope. &quot;See, girlie, how it&#39;s done? Just the right size to hang one&#39;s self with, isn&#39;t it ? Now, then, we carry this chair across the room and put it under this chandelier. Get the idea?&quot;
+He removed the light counterpane from the bed and twisted it into a rope. &quot;See, girlie, how it&#39;s done? Just the right size to hang one&#39;s self with, isn&#39;t it? Now, then, we carry this chair across the room and put it under this chandelier. Get the idea?&quot;
 
 The demented woman made no answer. But Tennant knew that her suicidal mania was attracted by the scheme—that the seed planted in her brain was already sprouting. She followed close behind him, her dull, impassive eyes watching his every move.
 

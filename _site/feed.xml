@@ -8,6 +8,26 @@
 		
 		
 			<item>
+				<title>The Devil Takes A Hand</title>
+				
+					<dc:creator>Ward Sterling</dc:creator>
+				
+				
+					<image>
+						<url>https://www.talesofmurder.com/assets/img/short-stories/devil-takes-a-hand.png</url>
+						<title>The Devil Takes A Hand</title>
+						<link>https://www.talesofmurder.com/short-stories/the-devil-takes-a-hand</link>
+					</image>
+				        
+				
+					<description>Tennant wanted his insane wife dead if he couldn't divorse her, and he'd found the perfect plan. But would he succeed or would the devil take a hand first?</description>
+				
+				<pubDate>Mon, 05 Jun 2017 00:00:00 -0500</pubDate>
+				<link>https://www.talesofmurder.com/short-stories/devil-takes-a-hand/</link>
+				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/devil-takes-a-hand/</guid>
+			</item>
+		
+			<item>
 				<title>After Midnight</title>
 				
 					<dc:creator>Marthé Neville</dc:creator>
@@ -163,26 +183,6 @@
 				<pubDate>Tue, 16 May 2017 00:00:00 -0500</pubDate>
 				<link>https://www.talesofmurder.com/short-stories/chiming-clock/</link>
 				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/chiming-clock/</guid>
-			</item>
-		
-			<item>
-				<title>First Come, First Killed</title>
-				
-					<dc:creator>D. A. Kyle</dc:creator>
-				
-				
-					<image>
-						<url>https://www.talesofmurder.com/assets/img/short-stories/first-come-first-killed.svg</url>
-						<title>First Come, First Killed</title>
-						<link>https://www.talesofmurder.com/short-stories/first-come-first-killed</link>
-					</image>
-				        
-				
-					<description>Paul Corey, real estate agent and eager detective, is hot on the case when a skeleton in the basement of the old house attracts more corpses and seekers of the hidden bank loot.</description>
-				
-				<pubDate>Fri, 12 May 2017 00:00:00 -0500</pubDate>
-				<link>https://www.talesofmurder.com/short-stories/first-come-first-killed/</link>
-				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/first-come-first-killed/</guid>
 			</item>
 		
 	</channel>

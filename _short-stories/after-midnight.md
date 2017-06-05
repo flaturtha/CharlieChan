@@ -16,7 +16,7 @@ caption: "For a moment her white lips quivered. \"I &mdash; I &mdash; there's a 
 genre: Amateur Sleuth
 tags: short-story
 wordcount: 9216
-trfissue: Vol. 2 No. 11
+trfissue: Vol. 3 No. 11
 trfdate: Mar. 12, 2017
 kindle: 
 epub: 
