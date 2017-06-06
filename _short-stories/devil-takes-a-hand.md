@@ -9,10 +9,10 @@ opub: Black Mask
 opubdate: Sept. 1921
 opubissue: Vol 1, No. 6
 category: short-stories
-excerpt: "Tennant wanted his insane wife dead if he couldn't divorse her, and he'd found the perfect plan. But would he succeed or would the devil take a hand first?"
+excerpt: "Tennant wanted his insane wife dead if he couldn't divorce her, and he'd found the perfect plan. But would he succeed or would the devil take a hand first?"
 image: /assets/img/short-stories/devil-takes-a-hand.png
 imgh: 400px
-genre: Professional Sleuth
+genre: Murder
 tags: short-story
 wordcount: 1366
 trfissue: Vol. 4 No. 12
