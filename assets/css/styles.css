@@ -8,7 +8,7 @@
  * 1. Change the default font family in all browsers (opinionated).
  * 2. Prevent adjustments of font size after orientation changes in IE and iOS.
  */
-@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:400,600,700&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,600,700&subset=latin,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,700);
 html {
   font-family: sans-serif;
