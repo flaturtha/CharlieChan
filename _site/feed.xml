@@ -8,6 +8,26 @@
 		
 		
 			<item>
+				<title>Planned by the Stars</title>
+				
+					<dc:creator>C. S. Montanye</dc:creator>
+				
+				
+					<image>
+						<url>https://www.talesofmurder.com/assets/img/short-stories/planned-by-the-stars.svg</url>
+						<title>Planned by the Stars</title>
+						<link>https://www.talesofmurder.com/short-stories/planned-by-the-stars</link>
+					</image>
+				        
+				
+					<description>&quot;Murder!&quot; She said quietly. &quot;At midnight you come upon this earth and at midnight the stars plan that you shall be removed from it.&quot;</description>
+				
+				<pubDate>Wed, 07 Jun 2017 00:00:00 -0500</pubDate>
+				<link>https://www.talesofmurder.com/short-stories/planned-by-the-stars/</link>
+				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/planned-by-the-stars/</guid>
+			</item>
+		
+			<item>
 				<title>The Devil Takes A Hand</title>
 				
 					<dc:creator>Ward Sterling</dc:creator>
@@ -165,24 +185,6 @@
 				<pubDate>Thu, 18 May 2017 00:00:00 -0500</pubDate>
 				<link>https://www.talesofmurder.com/short-stories/deuces-dealt-for-death/</link>
 				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/deuces-dealt-for-death/</guid>
-			</item>
-		
-			<item>
-				<title>The Case of the Chiming Clock</title>
-				
-				
-					<image>
-						<url>https://www.talesofmurder.com/assets/img/short-stories/chiming-clock.svg</url>
-						<title>The Case of the Chiming Clock</title>
-						<link>https://www.talesofmurder.com/short-stories/the-case-of-the-chiming-clock</link>
-					</image>
-				        
-				
-					<description>The timing of the rain clues criminologist Dixon Hawke into the falsity of the alibi based on the chiming of the clock.</description>
-				
-				<pubDate>Tue, 16 May 2017 00:00:00 -0500</pubDate>
-				<link>https://www.talesofmurder.com/short-stories/chiming-clock/</link>
-				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/chiming-clock/</guid>
 			</item>
 		
 	</channel>
