@@ -109,7 +109,7 @@ The red-faced youth pocketed his money, shrugged with contempt and slouched out,
 
 Emerging onto Sixth Avenue, from the narrow entrance of the building housing the two rooms of the star-reader, Joe Carney laughed under his breath.
 
-“A hell of a spiel!” he said to himself. “I should get glomed for a bone to get that bunk dished out. “The old dame is nuts.”
+“A hell of a spiel!” he said to himself. “I should get glomed for a bone to get that bunk dished out. The old dame is nuts.”
 
 He crossed to the west side of Sixth Avenue and walked north. A firm believer in the Black Arts, he wished he had not listened to the dock-walloper who had told him of the astrologer. He could have interviewed a palmist or crystal-gazer and not wasted his time. He knew nothing, and now it was too late to seek another seer. Within twenty minutes he had an appointment with Stanley Ray, the leader of the Duster Band; final plans for the night’s adventures were to be unfolded to him.
 
