@@ -3806,6 +3806,9 @@ p {
   transition: all 2s;
   display: none !important; }
 
+.hidden3 {
+  display: none; }
+
 a {
   text-decoration: none; }
   a:hover {
