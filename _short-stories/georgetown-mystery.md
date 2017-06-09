@@ -12,7 +12,7 @@ category: short-stories
 excerpt: "Hell's a-pop- pin' down here. They's bin a murder committed, mebbe two."
 image: /assets/img/short-stories/georgetown-mystery.svg
 caption: "\"Your friends here are trying to get me to admit I've been picking pockets lately, and it's not so.\""
-imgh: 300px
+<!-- imgh: 300px -->
 genre: Supernatural
 tags: short-story
 wordcount: 6722

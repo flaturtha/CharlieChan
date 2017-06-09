@@ -2,6 +2,7 @@
 layout: sns
 layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aef24
+permalink: "/short-stories/after-midnight/"
 title: "After Midnight"
 author: Marthé Neville
 date: 2017-06-03
@@ -22,6 +23,9 @@ kindle:
 epub: 
 buybutton: <a href="https://transactions.sendowl.com/products/586335/69D56D7A/purchase" rel="nofollow" class="add-to-cart">DOWNLOAD</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 ---
+
+<a href="/short-stories/after-midnight/download/">DOWNLOAD</a>
+
 
 <div class="toc">
 	<header>

@@ -52,12 +52,15 @@ collections:
     title: The Red File
   downloads:
     output: true
-    permalink: /your-free-download/:path/
-    title: Your Free Download
+    permalink: /:path/download/
+    title: Your Download
   landingpages: 
     output: true
     permalink: /:path/
     title: Landing Pages
+  thank-you:
+    output: true
+    permalink: /thank-you/:path/
 
 
 
