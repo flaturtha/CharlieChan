@@ -10,7 +10,9 @@ opubissue: Vol. 1, No. 47
 pubdate: 2016-11-15
 category: novellas
 descriptive: "Murder: for Money or Revenge"
-description: "It is believed by the Chinese and Sartang Mongols that the soul of the Russian merchants wife was reincarnated in the form of a ghoul—and returns to feast upon men in the Valley of the Vanishing Men. But the facts remain that once every two weeks, a man of Tsagan-dhuntsa vanishes &hellip;"
+description: "The door was flung open and the tall crook stormed into the room in which the gang
+were grouped. His finger shot out towards Rackway. “That man,” he snarled.” That man
+is an impostor — a spy!”"
 tags: novella, spies, "Robert Murray"
 image: /assets/img/novellas/decoy.jpg
 wordcount: 28754

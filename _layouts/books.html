@@ -71,10 +71,10 @@ layout: default2
         {% endif %}
         </div>
 
-        <div class="book__buttons">
+        <div class="book__buttons"">
           {% if page.buybutton %}
-            {{ page.buybutton }}
-            {{ page.downloadsamplebutton }}
+            <div id="add-to-cart">{{ page.buybutton }}</div>
+            <div id="download-sample">{{ page.downloadsamplebutton }}</div>
           {% else if prebuybutton %}
             <div class="prebuy">
               {{ page.prebuybutton }}
@@ -90,7 +90,7 @@ layout: default2
             </div>
           {% endif %}
           
-        </div>
+        </div> <!-- end .book__buttons -->
         <br>
         {% if page.buybutton %}
           <p class="smallnote">NOTE: Samples are added to your shopping cart with a $0.00 charge. If you only have samples are in your cart, you will <strong>NOT</strong> be required to provide a credit card; only an email address for delivery.</p>
