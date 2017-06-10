@@ -15,8 +15,8 @@ image: /assets/img/novels/andsuddendeath.jpg
 wordcount: 46403
 description: "Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him &hellip; ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings & Loan."
 tags: novel
-buybutton: <a href="https://transactions.sendowl.com/products/507863/4044F76F/add_to_cart" rel="nofollow" class="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
-downloadsamplebutton: <a href="https://transactions.sendowl.com/products/507929/DE6BF4BF/add_to_cart" rel="nofollow" class="add-to-cart">Get Sample</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+buybutton: https://transactions.sendowl.com/products/507863/4044F76F/add_to_cart
+downloadsamplebutton: https://transactions.sendowl.com/products/507929/DE6BF4BF/add_to_cart
 ---
 
 Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him &hellip; ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings & Loan.

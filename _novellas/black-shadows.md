@@ -14,8 +14,8 @@ description: "When old man Guerney is found murdered in his locked study, then t
 tags: novella, noir, murder, revenge, "J. C. Kofoed"
 image: /assets/img/novellas/black-shadows.jpg
 wordcount: 13469
-buybutton: <a href="https://transactions.sendowl.com/packages/33166/417B8FBF/add_to_cart" rel="nofollow" class="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
-downloadsamplebutton: <a href="https://transactions.sendowl.com/packages/33167/B136C1FE/add_to_cart" rel="nofollow" class="add-to-cart">Get Sample</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+buybutton: https://transactions.sendowl.com/packages/33166/417B8FBF/add_to_cart
+downloadsamplebutton: https://transactions.sendowl.com/packages/33167/B136C1FE/add_to_cart
 ---
 
 ### Chapter 1

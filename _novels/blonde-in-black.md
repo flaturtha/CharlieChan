@@ -13,8 +13,8 @@ image: /assets/img/novels/blonde-in-black.jpg
 wordcount: 51,822
 description: "Sex was Junie's trademark, the wiggle, the tight black dress, the sultry voice. But now George Pringle, president of Micro Records, is dead &hellip; did Junie hit a sour note and kill the man who made her singing career?"
 tags: novel
-buybutton: <a href="https://transactions.sendowl.com/products/507367/D6DBDEC0/add_to_cart" rel="nofollow" class="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
-downloadsamplebutton: <a href="https://transactions.sendowl.com/products/507934/90834312/add_to_cart" rel="nofollow" class="add-to-cart">Get Sample</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+buybutton: https://transactions.sendowl.com/products/507367/D6DBDEC0/add_to_cart
+downloadsamplebutton: https://transactions.sendowl.com/products/507934/90834312/add_to_cart
 ---
 
 Sex was Junie's trademark, the wiggle, the tight black dress, the sultry voice. George Pringle, president of Micro Records, set it up that way.

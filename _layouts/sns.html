@@ -72,18 +72,6 @@ layout: default2
 
         <p style="font-style:italic;border-top: 1px solid #242424;border-bottom: 1px solid #242424;padding: 0.5rem 0 0.5rem 0;">{{ page.excerpt }}</p>
 
-        <!-- <div class="book__buttons">
-          
-            <div class="prebuysample">
-              <p class="prebuy-disclaimer">NOTE: Samples are added to your shopping cart with a $0.00 charge. If only samples are in your cart, you will <span class="bold">NOT</span> be required to provide a credit card, only an email address for delivery.</p>
-            </div>
-
-        </div> end div.book__buttons -->
-
-        <!-- <br> -->
-        
-        <!-- <p class="smallnote">NOTE: Samples are added to your shopping cart with a $0.00 charge. If you only have samples are in your cart, you will <strong>NOT</strong> be required to provide a credit card; only an email address for delivery.</p> -->
-
     </div>
 
 
@@ -92,7 +80,13 @@ layout: default2
     <div class="sns__sample">
       <p class="sns__header"><strong>SATURDAY NIGHT SPECIAL</strong> Premium Short Stories are available for download &mdash; <em>FREE</em> &mdash; as ePub &amp; Kindle ebooks, as part of your subscription to the free <em>CaseFiles</em> email list.</p>
       <p class="sns__body">Subscribe to download, or scroll down to read a sample.</p>
-      {{ page.buybutton }}
+      {% if page.buybutton %}
+        <a href="{{ page.buybutton }}" rel="nofollow" class="add-to-cart" id="downloand-sns">DOWNLOAD</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+      {% else %}
+        <div class="uppercase xxlarge bloodred margin2r">Download coming soon!</div>
+      {% endif %}
+      
+
       <p class="xsmall" style="margin:2rem 0 0; text-align:left;">NOTE: After entering your email address, you'll get redirected to the download page. You'll also receive an email with links to redownload the story to a different device. Both ePub &amp; Kindle formats are included in a .zip file.<br><br><i class="fa fa-lock bloodred"></i>&nbsp;Your email will never be sold &amp; only used to communicate directly with you.</p>
 
       <hr style="margin:2rem 0;border-color:#8b0000;">

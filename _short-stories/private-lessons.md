@@ -19,7 +19,6 @@ trfissue: Vol. 1 No. 5
 trfdate: Feb. 26, 2017
 kindle: 
 epub: 
-buybutton: <div class="add-to-cart">Download coming soon!</div>
 ---
 
 <div class="toc">

@@ -71,10 +71,11 @@ layout: default2
         {% endif %}
         </div>
 
-        <div class="book__buttons"">
+        <div class="book__buttons">
           {% if page.buybutton %}
-            <div id="add-to-cart">{{ page.buybutton }}</div>
-            <div id="download-sample">{{ page.downloadsamplebutton }}</div>
+            <a href="{{ page.buybutton }}" rel="nofollow" class="add-to-cart" id="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+            
+            <a href="{{ page.downloadsamplebutton }}" rel="nofollow" class="add-to-cart" id="get-sample">Get Sample</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
           {% else if prebuybutton %}
             <div class="prebuy">
               {{ page.prebuybutton }}

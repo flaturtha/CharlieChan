@@ -21,7 +21,7 @@ trfissue: Vol. 3 No. 11
 trfdate: Mar. 12, 2017
 kindle: 
 epub: 
-buybutton: <a href="https://transactions.sendowl.com/products/586335/69D56D7A/purchase" rel="nofollow" class="add-to-cart">DOWNLOAD</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+buybutton: https://transactions.sendowl.com/products/586335/69D56D7A/purchase
 ---
 
 <a href="/short-stories/after-midnight/download/">DOWNLOAD</a>

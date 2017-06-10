@@ -14,7 +14,7 @@ excerpt: "Quinn cuts loose with both barrels in this story. Strange events, eeri
 imgh: 300px
 genre: Amateur Sleuth
 tags: Amateur Sleuth, short-story
-wordcount: 6384
+wordcount: 8569
 trfissue: Vol. 3 No. 10
 trfdate: May 7, 2017
 kindle: 
