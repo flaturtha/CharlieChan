@@ -1,14 +1,18 @@
 .relatedPosts {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
   padding-top: 15px;
   // margin:0 auto;
+  @include susy-breakpoint($bp-large){
+    flex-direction: row;
+  }
 }
 
 .rel {
-  @include span(4 of 8);
+  // @include span(4 of 8);
   opacity: 0.8;
   margin-bottom: 1rem;
   &:hover {

@@ -72,6 +72,8 @@ layout: default2
 
         <p style="font-style:italic;border-top: 1px solid #242424;border-bottom: 1px solid #242424;padding: 0.5rem 0 0.5rem 0;">{{ page.excerpt }}</p>
 
+        {% include fb-like-share.html %}
+
     </div>
 
 
@@ -98,9 +100,11 @@ layout: default2
   </article>
 
   <div class="sns__sample" style="border:2px solid #8b0000;width:550px;max-width:95%;margin:2rem auto;padding:1rem;">
-    <p class="sns__body">To read the rest of <em class="bloodred uppercase bold d-block xlarge">{{ page.title }}</em>subscribe below &amp; download <em>your</em> copy&nbsp;today!</p>
+    <p class="sns__body">To read the rest of <em class="bloodred uppercase bold d-block xlarge">{{ page.title }}</em>subscribe below &amp; download <em>your</em>&nbsp;copy&nbsp;today!</p>
+    
+    <a href="{{ page.buybutton }}" rel="nofollow" class="add-to-cart" id="add-to-cart">Download</a>
 
-    {{ page.buybutton }}
+    {% include fb-like-share.html %}
     
     <p class="xsmall" style="margin:2rem 0 0; text-align:left;">NOTE: After entering your email address, you'll get redirected to the download page. You'll also receive an email with links to redownload the story to a different device. Both ePub &amp; Kindle formats are included in a .zip file.<br><br><i class="fa fa-lock bloodred"></i>&nbsp;Your email will never be sold &amp; only used to communicate directly with you.</p>
 
@@ -153,10 +157,14 @@ layout: default2
 
               <div class="rel">
                 <a href="{{ short-stories.url }}">
-                <!-- <h5>{{ short-stories.title }}</h5> -->
+                <h5>{{ short-stories.title }}</h5>
                 <img src="{{ short-stories.image }}" alt="">
                 <!-- <h6>{{ commonTags }}</h6> -->
                 </a>
+                <h6 style="text-transform:initial;">{% if short-stories.author %}By <span class="bloodred uppercase">{{ short-stories.author }}</span>{% else %}<span class="bloodred uppercase">{{ short-stories.series }}</span> {% endif %}</h6>
+                <p class="">{{ short-stories.excerpt }}</p>
+                <p><a style="background-color:#8b0000;color:#fffff0;padding:0.25rem" href="{{ short-stories.url }}">READ&nbsp;&raquo;&raquo;</a></p>
+
               </div>
 
             {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
@@ -196,7 +204,7 @@ layout: default2
 
               <div class="rel">
                 <a href="{{ novellas.url }}">
-                <!-- <h5>{{ novellas.title }}</h5> -->
+                <h5>{{ novellas.title }}</h5>
                 <img src="{{ novellas.image }}" alt="">
                 <!-- <h6>{{ commonTags }}</h6> -->
                 </a>
