@@ -2684,6 +2684,51 @@ ol ol li:last-child {
     padding-top: 1px;
     background-color: #fffff0; }
 
+/*=============================================
+=    FACEBOOK RELATED STUFF                   =
+=============================================*/
+.social-buttons {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  text-align: center;
+  margin: 0 auto; }
+  @media screen and (min-width: 48rem) {
+    .social-buttons {
+      margin: 0; } }
+  .social-buttons div {
+    padding-right: 1rem; }
+
+.social-buttons__bottom {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 400px;
+  max-width: 90%;
+  border: 2px solid #8B0000;
+  margin: 1rem auto;
+  padding: 0.5rem;
+  text-align: center; }
+  .social-buttons__bottom h4 {
+    padding-bottom: 0.5rem; }
+  .social-buttons__bottom div {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+
 /*==========  LAYOUT  ==========*/
 /*=============================================
 =            BRANDING                         =

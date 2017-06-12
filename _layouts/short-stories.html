@@ -62,7 +62,10 @@ layout: default2
         <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span>
         </p>
         <p style="font-style:italic;border-top: 1px solid #242424;border-bottom: 1px solid #242424;padding: 0.5rem 0 0.5rem 0;">{{ page.excerpt }}</p>
-    </div>
+
+        {% include fb-like-share.html %}
+    </div> <!-- end div.book_details -->
+
     
 
     <!--  if page.kindle and page.epub %}
@@ -75,6 +78,13 @@ layout: default2
 
   <article class="story">
     {{ content  }}
+
+    <div class="social-buttons__bottom">
+      <h4>Did you enjoy<br><span class="uppercase bloodred">{{ page.title }}</span>?</h4>
+      <p class="xxsmall">Help me spread the word by clicking&nbsp;below:</p>
+      {% include fb-like-share.html %}
+    </div>
+
   </article>
 
   <!-- <div class="cf"></div> -->
