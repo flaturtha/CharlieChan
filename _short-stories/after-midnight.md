@@ -24,9 +24,6 @@ epub:
 buybutton: https://transactions.sendowl.com/products/586335/69D56D7A/purchase
 ---
 
-<a href="/short-stories/after-midnight/download/">DOWNLOAD</a>
-
-
 <div class="toc">
 	<header>
 		<h6>Table of Contents</h6>

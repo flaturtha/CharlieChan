@@ -10,7 +10,8 @@ opubdate: March 1935
 opubissue: 
 category: short-stories
 excerpt: "Corey knows the one of men in the room at Sammy Modell's place is guilty but can he outwit the crook and prove it?"
-image: /assets/img/short-stories/ruse-in-cocain-alley.svg
+image: /assets/img/short-stories/ruse-in-cocain-alley.png
+caption: "Cocaine Alley was a notorious spot in a disreputable district, a favorite hangout of dope peddlers &mdash; human vultures who profited from the sale of illicit narcotics to unfortunate addicts."
 imgh: 300px
 genre: Professional Sleuth
 tags: short-story
