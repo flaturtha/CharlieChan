@@ -1,6 +1,7 @@
 ---
 layout: default2
 title: Your FREE Download
+permalink: /download/
 category: download
 ---
 
@@ -36,9 +37,9 @@ category: download
   
   <section class="intro">
     <div class="freebie">
-      <img src="/assets/img/novellas/campaign-for-vengeance.jpg" alt="The Campaign for Vengeance by John Baer">
+      <img src="/assets/img/novellas/campaign-for-vengeance.jpg" alt="The Campaign for Vengeance by John Baer" width="300px" height="auto">
       <div class="freebie__inner">
-        <p class="books__title">THE CAMPAIGN FOR VENGEANCE</p>
+        <p class="books__title">{{ post.title }}</p>
         <p class="books__author">by <span>John Baer</span></p>
         <p class="etr">READ TIME: 1 HR AND 15 MINS</p>
         <p>After her beloved brother, Captain Jimmy Cornell, was found dead, with a small, white card on his chest bearing the words, The Mogal, Marguerite swore she’d bring the killers to justice.</p>
