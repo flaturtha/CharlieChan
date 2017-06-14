@@ -19,7 +19,6 @@ tags: short-story
 wordcount: 9216
 trfissue: Vol. 3 No. 11
 trfdate: Mar. 12, 2017
-redirect: download
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Brand_of_Cain.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Brand_of_Cain.epub 
 buybutton: https://transactions.sendowl.com/products/586335/69D56D7A/purchase

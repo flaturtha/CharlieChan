@@ -2322,6 +2322,10 @@ ol ol li:last-child {
           border-radius: 8px;
   margin-bottom: 2rem; }
 
+.page-intro h3 {
+  text-align: center;
+  margin-bottom: 1.5rem; }
+
 .download-instructions {
   border-top: 1px solid #242424;
   border-bottom: 1px solid #242424;
