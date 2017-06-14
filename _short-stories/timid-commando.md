@@ -17,8 +17,8 @@ tag: short-story
 wordcount: 8850
 trfissue: Vol. 2 No. 6
 trfdate: Feb. 26, 2017
-kindle: 
-epub: 
+kindle: https://s3.amazonaws.com/talesofmurder.com/sns/Case_of_the_Timid_Commando.mobi
+epub: https://s3.amazonaws.com/talesofmurder.com/sns/Case_of_the_Timid_Commando.epub
 buybutton: https://transactions.sendowl.com/products/586328/468F65C1/purchase
 ---
 

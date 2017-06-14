@@ -219,9 +219,18 @@ a {
   padding-bottom: 0.25rem;
 }
 
+.no-border {
+  border: none !important;
+}
 
-
-
+.note {
+  max-width: 90%;
+  font-style: italic;
+  font-size: 0.875rem !important;
+  margin: 0 auto 2rem;
+  padding: 0.25rem;
+  background-color: darken($paper, 5%);
+}
 
 
 

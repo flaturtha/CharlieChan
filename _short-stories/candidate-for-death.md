@@ -17,8 +17,8 @@ tags: short-story, crook, All Detective, Tinsley
 wordcount: 7622
 trfissue: Vol. 3 No. 9
 trfdate: Apr. 23, 2017
-kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Candidate_for_Death.mobi
-epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Candidate_for_Death.epub
+kindle: https://s3.amazonaws.com/talesofmurder.com/sns/Candidate_for_Death.mobi
+epub: https://s3.amazonaws.com/talesofmurder.com/sns/Candidate_for_Death.epub
 buybutton: https://transactions.sendowl.com/products/586333/C8CEA90F/purchase
 ---
 

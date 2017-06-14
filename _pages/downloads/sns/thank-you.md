@@ -26,7 +26,7 @@ category: download
       <div class="download-instructions">
         <dl class="trf__dl">
           <dt>Step 1&#058;</dt>
-          <dd>Check your email for your special SNS package, but remember &hellip; depending on obstructions on the highways of the interwebs, it may take up to 15 minutes for the courier to deliver your package!</dd>
+          <dd>Check your email for your special SNS package. The subject line will read <span class="bloodred">[SNS] Your Special Download Links</span>.<br><br><span class="xsmall italics">But remember &hellip; depending on obstructions on the highways of the interwebs, it may take up to 15 minutes for the courier to deliver your package! If you don't receive it soon, <a href="mailto:atticus@talesofmurder.com?subject=SNS%20Not%20Received">contact me</a> and I'll track it down.</span></dd>
           <dt>Step 2&#058;</dt>
           <dd>Choose your preferred&nbsp;format:<br>(Kindle or ePub)<br><br><span class="xsmall italics">The Kindle file format is  .mobi and useable only on the Amazon Kindle app or devices. The ePub format is the standard ebook format and is readable on Nook, iBooks, or other ebook readers.</span></dd>
           <dt>Step 3&#058;</dt>

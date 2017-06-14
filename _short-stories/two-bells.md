@@ -17,8 +17,8 @@ tag: short-story
 wordcount: 8881
 trfissue: Vol. 1 No. 2
 trfdate: Jan. 15, 2017
-kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Two_Bells.mobi
-epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Two_Bells.epub
+kindle: https://s3.amazonaws.com/talesofmurder.com/sns/Two_Bells.mobi
+epub: https://s3.amazonaws.com/talesofmurder.com/sns/Two_Bells.epub
 buybutton: https://transactions.sendowl.com/products/586106/C1CE5BF5/purchase
 ---
 

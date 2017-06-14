@@ -17,8 +17,8 @@ tag: short-story
 wordcount: 7978
 trfissue: Vol. 1 No. 4
 trfdate: Jan. 22, 2017
-kindle: 
-epub: 
+kindle: https://s3.amazonaws.com/talesofmurder.com/sns/Unbelievable.mobi
+epub: https://s3.amazonaws.com/talesofmurder.com/sns/Unbelievable.epub
 buybutton: https://transactions.sendowl.com/products/586324/1A1DDB08/purchase
 ---
 

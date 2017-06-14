@@ -19,6 +19,8 @@ wordcount: 7880
 trfissue: Vol. 1 No. 1
 trfdate: Jan. 1, 2017
 buybutton: https://transactions.sendowl.com/products/586049/D3336045/purchase
+kindle: https://s3.amazonaws.com/talesofmurder.com/sns/Gunning_for_Death.mobi
+epub: https://s3.amazonaws.com/talesofmurder.com/sns/Gunning_for_Death.epub
 ---
 
 <div class="toc">

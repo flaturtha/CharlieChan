@@ -17,6 +17,8 @@ tags: short-story
 wordcount: 8179
 trfissue: Vol. 2 No. 7
 trfdate: Mar. 26, 2017
+kindle: https://s3.amazonaws.com/talesofmurder.com/sns/More_Deadly_Than_A_Viper.mobi
+epub: https://s3.amazonaws.com/talesofmurder.com/sns/More_Deadly_Than_A_Viper.epub 
 buybutton: https://transactions.sendowl.com/products/586331/6E4FF506/purchase
 ---
 

@@ -844,7 +844,7 @@ input[type=submit] {
     color: #580000;
     border: 1px solid #580000; }
 
-input[type=email] {
+input[type=email], input[type=text] {
   border: 1px solid #333;
   font-size: 1.25rem;
   padding-left: 0.5rem; }
@@ -858,11 +858,8 @@ label {
   font-weight: bold; }
   @media screen and (min-width: 30rem) {
     label {
-      margin-bottom: 0;
-      margin-right: 0.5rem;
-      -webkit-align-self: center;
-          -ms-flex-item-align: center;
-              align-self: center; } }
+      margin-top: 0.25rem;
+      margin-right: 0.5rem; } }
 
 .smallnav {
   border-top: 1px solid #5e6971;
@@ -4022,3 +4019,14 @@ a {
 .linebelow {
   border-bottom: 1px solid #8B0000;
   padding-bottom: 0.25rem; }
+
+.no-border {
+  border: none !important; }
+
+.note {
+  max-width: 90%;
+  font-style: italic;
+  font-size: 0.875rem !important;
+  margin: 0 auto 2rem;
+  padding: 0.25rem;
+  background-color: #ffffd7; }

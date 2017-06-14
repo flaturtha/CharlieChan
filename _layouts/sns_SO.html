@@ -82,9 +82,11 @@ layout: default2
     <div class="sns__sample">
       <p class="sns__header"><strong>SATURDAY NIGHT SPECIAL</strong> Premium Short Stories are available for download &mdash; <em>FREE</em> &mdash; as ePub &amp; Kindle ebooks, as part of your subscription to the free <em>CaseFiles</em> email list.</p>
       <p class="sns__body">Subscribe to download, or scroll down to read a sample.</p>
-      
-      
-      {% include sns-form.html %}
+      {% if page.buybutton %}
+        <a href="{{ page.buybutton }}" rel="nofollow" class="add-to-cart" id="downloand-sns">DOWNLOAD</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+      {% else %}
+        <div class="uppercase xxlarge bloodred margin2r">Download coming soon!</div>
+      {% endif %}
       
 
       <p class="xsmall" style="margin:2rem 0 0; text-align:left;">NOTE: After entering your email address, you'll get redirected to the download page. You'll also receive an email with links to redownload the story to a different device. Both ePub &amp; Kindle formats are included in a .zip file.<br><br><i class="fa fa-lock bloodred"></i>&nbsp;Your email will never be sold &amp; only used to communicate directly with you.</p>
