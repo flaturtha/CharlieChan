@@ -12,7 +12,7 @@ category: short-stories
 excerpt: "Scofield Carrington was dead but his call bell kept ringing. Who was the old man calling from beyond the grave?"
 image: /assets/img/short-stories/summons.svg
 caption: "\"I'm going in that room myself,\" he said severely, \"and we'll have this nonsense over will.\""
-imgh: 300px
+<!-- imgh: 300px -->
 genre: Supernatural
 tags: short-story
 wordcount: 4298

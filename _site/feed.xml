@@ -8,6 +8,26 @@
 		
 		
 			<item>
+				<title>The Summons</title>
+				
+					<dc:creator>Henry Altimus</dc:creator>
+				
+				
+					<image>
+						<url>https://www.talesofmurder.com/assets/img/short-stories/summons.svg</url>
+						<title>The Summons</title>
+						<link>https://www.talesofmurder.com/short-stories/the-summons</link>
+					</image>
+				        
+				
+					<description>Scofield Carrington was dead but his call bell kept ringing. Who was the old man calling from beyond the grave?</description>
+				
+				<pubDate>Thu, 15 Jun 2017 00:00:00 -0500</pubDate>
+				<link>https://www.talesofmurder.com/short-stories/summons/</link>
+				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/summons/</guid>
+			</item>
+		
+			<item>
 				<title>The Ruse in Cocaine Alley</title>
 				
 					<dc:creator>William Mahoney</dc:creator>
@@ -172,24 +192,6 @@
 				<pubDate>Fri, 26 May 2017 00:00:00 -0500</pubDate>
 				<link>https://www.talesofmurder.com/short-stories/trap-thief/</link>
 				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/trap-thief/</guid>
-			</item>
-		
-			<item>
-				<title>The Case of the Social Climbers</title>
-				
-				
-					<image>
-						<url>https://www.talesofmurder.com/assets/img/short-stories/social-climbers.svg</url>
-						<title>The Case of the Social Climbers</title>
-						<link>https://www.talesofmurder.com/short-stories/the-case-of-the-social-climbers</link>
-					</image>
-				        
-				
-					<description>Will John Burton's ruse win him love and social status or will it just end up being a silly game of make-believe that leads to murder?</description>
-				
-				<pubDate>Wed, 24 May 2017 00:00:00 -0500</pubDate>
-				<link>https://www.talesofmurder.com/short-stories/social-climbers/</link>
-				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/social-climbers/</guid>
 			</item>
 		
 	</channel>
