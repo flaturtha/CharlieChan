@@ -29,6 +29,7 @@ description:
     <ul>
       <li class="li"><a href="/policies/privacy/">Privacy Policies</a></li>
       <li class="li"><a href="/policies/rank-score/">Rank Score</a></li>
+      <li class="li"><a href="/policies/whitelisting-instructions/">Whitelisting Instructions</a></li>
     </ul>
 
   </section> <!-- end section .container .card__container -->
