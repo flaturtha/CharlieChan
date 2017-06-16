@@ -82,7 +82,7 @@ layout: default2
     <div class="sns__sample">
       <p class="sns__header"><strong>SATURDAY NIGHT SPECIAL</strong> Premium Short Stories are available for download &mdash; <em>FREE</em> &mdash; as ePub &amp; Kindle ebooks, as part of your subscription to the free <em>CaseFiles</em> email list.</p>
       <p class="sns__body">Subscribe to download, or scroll down to read a sample.</p>
-      {% if page.kindle  %}
+      {% if page.kindle %}
         {% include sns-form.html %}
       {% else %}
         <div class="uppercase xxlarge bloodred margin2r">Download coming soon!</div>
@@ -104,7 +104,7 @@ layout: default2
   <div class="sns__sample" style="margin-bottom: 2rem;">
     <p class="sns__body">To read the rest of <em class="bloodred uppercase bold d-block xlarge">{{ page.title }}</em>subscribe below &amp; download <em>your</em>&nbsp;copy&nbsp;today!</p>
     
-    {% if page.buybutton %}
+    {% if page.kindle %}
       {% include sns-form.html %}
     {% else %}
       <div class="uppercase xxlarge bloodred margin2r">Download coming soon!</div>
