@@ -150,7 +150,7 @@ Despite herself a tremor, half of doubt, half of awe, shook her. She turned to E
 
 &quot;What do you know about Carrington?&quot; she asked. &quot;You were with him for weeks. Can you think of anything that—&quot;
 
-She did not complete her question, her thought too unformed fot words.
+She did not complete her question, her thought too unformed for words.
 
 &quot;Was there anything,&quot; she resumed in a moment, &quot;before he died—anything that might explain this?&quot;
 
@@ -380,7 +380,7 @@ _Scofield Carrington._&quot;
 
 Madison Dodd looked up, his fingers folding the sheet he had just read.
 
-&quot;Scofield Carrington&#39;s spirit is at peace now,&quot; hg said, in a solemn voice.
+&quot;Scofield Carrington&#39;s spirit is at peace now,&quot; he said, in a solemn voice.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 
