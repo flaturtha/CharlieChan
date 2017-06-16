@@ -2,7 +2,7 @@
 layout: sns
 layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aef30
-title: "The Man Who Would&nbsp;Not&nbsp;Die"
+title: "The Man Who Would Not Die"
 author: Harold Ward
 date: 2017-06-16
 opub: Black Mask
