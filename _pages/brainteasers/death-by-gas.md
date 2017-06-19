@@ -54,33 +54,12 @@ Herman Matthews was indignant. "You can't prove that. I got a witness who will s
 
 A smile began to play over the lips of Captain Pearsons as he snapped back, "Of course you killed your wife. The evidence right there staring you in the face.”
 
-### The Test
-{: .chaptertitle }
-
 What evidence did Captain Pearson see that proved Herman Matthews killed his wife?
 {: .bold }
 
-Review the evidence carefully, and when you think you know what Captain Pearsons saw, fill out the form and GET THE SOLUTION to DEATH&nbsp;BY&nbsp;GAS!
+Think carefully and re-read the story if you need to. Then get &hellip;
 
-<h3 class="chaptertitle">GET THE SOLUTION!</h3>
-<p>After reading the solution, be sure to check your Inbox &hellip; I'm sending you something special!!</p>
+### The Solution
+{: .chaptertitle}
 
-<form action="https://www.getdrip.com/forms/42524924/submissions" method="post" data-drip-embedded-form="42524924" id="dbg-solution__form">
-	<div class="outer">
-		<div class="labels">
-	    <div>
-	        <label for="fields[first_name]">First Name</label>
-	        <input type="text" name="fields[first_name]" value="" />
-	    </div>
-	    <br>
-	    <div>
-	        <label for="fields[email]">Email Address</label>
-	        <input type="email" name="fields[email]" value="" />
-	    </div>
-    </div>
-		<div>
-	    <input type="submit" name="submit" value="Give me the solution!" data-drip-attribute="sign-up-button" />
-	  </div>
-	  <p><i class="fa fa-lock bloodred"></i> Your email address is safe! It will only be used to communicate with you &amp; will never be sold. Unsubscribe anytime.</p>
-	</div>
-</form>
+Review the evidence carefully, and when you think you know what Captain Pearsons saw, click to reveal <a href="/brain-teasers/death-by-gas/solution/" class="underline bold">THE SOLUTION</a> to <strong>DEATH&nbsp;BY&nbsp;GAS&nbsp;</strong>!
