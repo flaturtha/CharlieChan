@@ -4,13 +4,13 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef5b
 title: "A Weapon of the Law"
 author: George W. Breuker
-date: 2017-06-19
+date: 2017-06-18
 opub: Black Mask
 opubdate: Aug. 1922
 opubissue: Vol 5, No. 5
 category: short-stories
 excerpt: "Facing a man he sentenced to 10 years in prison, can Judge Lathrop outwit a desperate man bent on revenge?"
-image: /assets/img/short-stories/weapon-of-the-law.svg
+image: 
 imgh: 300px
 genre: Legal
 tags: short-story
