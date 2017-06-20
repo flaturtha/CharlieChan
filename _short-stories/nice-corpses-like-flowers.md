@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515af057
 title: "Nice Corpses Like Flowers"
 author: J. B. Hawley
-date: 2017-06-21
+date: 2017-06-20
 opub: Crime Fiction Stories
 opubdate: Mar. 1943
 opubissue: Vol. 4, No. 2
@@ -525,7 +525,7 @@ Then he looked at Pat a long moment. “How good are you at making bridal bouque
 
 “Why?”
 
-“Because I got a feeling we’re going to be needing one.
+“Because I got a feeling we’re going to be needing one."
 
 <p id="theend">~ The End ~
 <h6 class="btt"><a href="#top">Back to Top</a></h6>

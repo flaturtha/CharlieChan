@@ -18,6 +18,20 @@ trfissue:
 trfdate: 
 ---
 
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li>Captain Pearsons</li>
+		<li>The Girl on the Sofa</li>
+		<li>The Question</li>
+		<li>The Solution</li>
+	</ol>
+
+</div>
+
 ### Captain Pearsons
 {: .chaptertitle }
 
@@ -53,6 +67,9 @@ Something was bothering Captain Pearsons and he stroked his chin twice. There wa
 Herman Matthews was indignant. "You can't prove that. I got a witness who will swear my wife wanted to die. Be careful what you say, Officer."
 
 A smile began to play over the lips of Captain Pearsons as he snapped back, "Of course you killed your wife. The evidence right there staring you in the face.”
+
+### The Question
+{: .chaptertitle}
 
 What evidence did Captain Pearson see that proved Herman Matthews killed his wife?
 {: .bold }
