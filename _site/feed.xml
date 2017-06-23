@@ -8,6 +8,26 @@
 		
 		
 			<item>
+				<title>The Letter in the Mail</title>
+				
+					<dc:creator>Alfred Plowman</dc:creator>
+				
+				
+					<image>
+						<url>https://www.talesofmurder.com/assets/img/short-stories/letter-in-the-mail.png</url>
+						<title>The Letter in the Mail</title>
+						<link>https://www.talesofmurder.com/short-stories/the-letter-in-the-mail</link>
+					</image>
+				        
+				
+					<description>Confession may be good for the soul but when bank clerk Philip Moore confesses his crime to his boss, will he find redemption or death?</description>
+				
+				<pubDate>Fri, 23 Jun 2017 00:00:00 -0500</pubDate>
+				<link>https://www.talesofmurder.com/short-stories/letter-in-the-mail/</link>
+				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/letter-in-the-mail/</guid>
+			</item>
+		
+			<item>
 				<title>Nice Corpses Like Flowers</title>
 				
 					<dc:creator>J. B. Hawley</dc:creator>
@@ -179,19 +199,6 @@
 				<pubDate>Sat, 03 Jun 2017 00:00:00 -0500</pubDate>
 				<link>https://www.talesofmurder.com/short-stories/after-midnight/</link>
 				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/after-midnight/</guid>
-			</item>
-		
-			<item>
-				<title>Start With A Corse</title>
-				
-				        
-				
-					<description>
-</description>
-				
-				<pubDate>Thu, 01 Jun 2017 00:00:00 -0500</pubDate>
-				<link>https://www.talesofmurder.com/short-stories/start-with-a-corse/</link>
-				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/start-with-a-corse/</guid>
 			</item>
 		
 	</channel>

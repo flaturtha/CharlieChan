@@ -9,10 +9,10 @@ opub: Detective Story Magazine
 opubdate: Jan. 5, 1916
 opubissue: Vol. 6, No. 1
 category: short-stories
-excerpt: "excerpt"
-image: /assets/img/short-stories/letting-in-the-mail.svg
+excerpt: "Confession may be good for the soul but when bank clerk Philip Moore confesses his crime to his boss, will he find redemption or death?"
+image: /assets/img/short-stories/letter-in-the-mail.png
 imgh: 300px
-genre: 
+genre: Crook
 tag: short-story
 wordcount: 6236
 trfissue: Vol. 4 No. 13
@@ -30,6 +30,9 @@ epub:
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
+
+### The Crime
+{: .chaptertitle}
 
 It was Saturday morning, and the hands on the dial of the great clock in the main banking room of the Third National stood at half past eleven.
 
@@ -99,7 +102,10 @@ Moore picked up several sacks of money, and waited while Mr. Haskell turned out 
 
 The three of them—Moore first with the bags of money, then Haskell carrying the tray of bills, last the cashier— descended to the vault room.
 
-The trying moment had v come. Moore hardly breathed with suppressed excitement. Haskell thrust the key into the lock of his compartment, and threw open the door. He placed his tray upon a shelf, then turned and took the sacks from Moore. These he put beside the tray. He stepped back, shut the door, and locked it. As they passed out of the vault, Moore drew a long breath, and wiped the sweat from his face.
+### The Getaway
+{: .chaptertitle}
+
+The trying moment had come. Moore hardly breathed with suppressed excitement. Haskell thrust the key into the lock of his compartment, and threw open the door. He placed his tray upon a shelf, then turned and took the sacks from Moore. These he put beside the tray. He stepped back, shut the door, and locked it. As they passed out of the vault, Moore drew a long breath, and wiped the sweat from his face.
 
 The cashier was setting the time locks. &quot;Forty-three and one-half hours, Mr. Haskell,&quot; he said, working on the dials.
 
@@ -125,13 +131,16 @@ When he had taken it all out, he sank down upon a chair and stared at it.
 
 And so it was for this—this handful of faded and dirty bills—that he had bartered his honor, his peace of mind, his quietude of soul? For this he had become an outcast, a wanderer upon the face of the earth! Who for all this wealth would give him back the right to walk with honest men? How now could he look upon the world and say that it was good? All was black and murky, discolored by the guilt upon his soul. He laughed aloud discordantly, and rocked his body to and fro in an agony of vain remorse.
 
-If only the boy had stayed away one little moment longer! If only one of the other clerks had been sent for the gold! If only        Cursed, cursed fate that had conspired to undo him!
+If only the boy had stayed away one little moment longer! If only one of the other clerks had been sent for the gold! If only &hellip; Cursed, cursed fate that had conspired to undo him!
 
 Once he thought of taking the money back and confessing. No, that was impossible. The irrevocableness of his act sickened him. How could he erase from men&#39;s minds the knowledge of his guilt ? Would they not rather pity him as a weak fool, too cowardly to carry out the thievery he had devised?
 
 And the others—clerks, bookkeepers, tellers, Mr. Haskell, honest men all, poor, hard-working, struggling along on meager salaries, heads of families all—all—upon all would fall the shadow of his guilt. Mistrust would light upon all.
 
 Once before a clerk had stolen, and had been detected. It took six months to dissipate the vague suspicion which hovered over the bank.
+
+### The Confession
+{: .chaptertitle}
 
 Philip jerked upright in his seat, and seized a pad of paper which lay upon the table. He would do what he could in reparation. So far as lay within his power, he would make amends. Having no pen and ink, he took a lead pencil from his pocket and wrote:
 
@@ -146,6 +155,9 @@ He sealed the letter, feeling a warm glow of charity and good will run through h
 This done, he searched his pockets for a cigarette, then remembered that he had used the last one. He glanced at his watch. It was two o&#39;clock. To idle away an hour or more without the solace of tobacco was impossible. He arose from his chair, and, picking up the letter, left the room, locking the door after him.
 
 He dropped the letter into the mail box on the corner; then, as the lid fell with a clang, thought that he might just as well have waited until later. However, it did not matter—the bank&#39;s mail was not delivered until Monday morning. He purchased four packages of cigarettes from the corner druggist, and returned to his room. All was as he had left it.
+
+### The Discovery
+{: .chaptertitle}
 
 He busied himself going through his trunk, seeing if there was anything else he cared to take, and burned a few letters. He moved about leisurely, taking a mental farewell of the cheap little room and its contents. He took a five-dollar bill from his pocket, and put it on the dresser for the landlady, then remembered that he would need money for his railroad and steamship tickets. It would not do to be always unpacking his bag.
 
@@ -168,6 +180,9 @@ Hanging up the receiver, he wiped the sweat from his forehead. A clerk was watch
 He boarded a street car, and stood on the rear platform, trying to think how he should word what he had to say. Mr. Haskell was a bachelor, with apartments at the Buckingham Hotel, he had told Philip over the telephone that he had an engagement for the evening, and the young man was in a turmoil of anxiety lest the teller leave his rooms before he could get to him.
 
 At last he reached the hotel, and was shown to Mr. Haskell&#39;s rooms by a bell boy. He knocked upon the door with a hand that shook until his knuckles rattled against the panel.
+
+### The Confession, part 2
+{: .chaptertitle}
 
 At the word to enter, he opened the door and stepped into the room. He was in a magnificently furnished library, or study, lined with books and pictures. The furniture was heavy and luxurious. In the center of the room stood a massive table, on which was an electrolier, whose colored globe threw the recesses of the room into shadow. Just beyond the table stood Mr. Haskell, in evening dress, a lighted match held to the cigar between his lips. Philip closed the door and crossed the room.
 
@@ -225,6 +240,9 @@ Philip drew a long breath. &quot;Thanks for your confidence. It makes the rest e
 
 &quot;Yes, sir.&quot;
 
+### The Discovery, Part 2
+{: .chaptertitle}
+
 For fully a minute Haskell stood before Philip, staring into his face; then he turned away, put his cigar into his mouth, and, finding that it had burned out, lighted a fresh one. He walked up and down the room a few times; finally he came up to Philip, and, in slow, even words, said: &quot;Moore, I am the man who tampered with the reserves.&quot;
 
 &quot;You!&quot; cried Philip, staggering back.
@@ -277,6 +295,9 @@ Haskell looked steadily at him for a moment; then, going to the door, he locked 
 
 &quot;No—a thousand times!&quot;
 
+### The Deal
+{: .chaptertitle}
+
 &#39;All right—now, listen to me. I&#39;m going to keep you here all night. I have a lock box at the post office in which all my personal mail, even if it is addressed to me in care of the bank, is placed. I rented it to receive my numerous communications from bucket shops and stockbrokers. It would never do to have such mail coming to the bank. I had no idea it would serve me such a good turn as it has today. Early tomorrow morning I will send a bell boy down for the mail. When your confession is in my hands I&#39;ll give you one last chance to decide. If you refuse my offer, I&#39;ll have you arrested, and accuse you of the theft as certain as that my name is Wilbur Haskell. Now, that&#39;s all. There is no use arguing about this thing. Go into my bedroom if you like, and lie down. I&#39;ll sit up and watch. If you prefer to keep me company, all right.&quot;
 
 He took off his dress coat, and, putting on a lounging robe which lay on a chair, he dropped the revolver into the capacious pocket of the gown. He brought cigars, cigarettes, and a decanter of brandy from a cellarette, and placed them upon the table.
@@ -290,6 +311,9 @@ Haskell slowly placed his glass upon the table. &quot;What&#39;s the use, Moore?
 The hours dragged wearily into the past. Few noises came up from the street. Passing footsteps ceased to echo in the corridor. In the brooding silence the two men sat, Philip rousing himself now and then to make a plea for mercy, plunging back again into a sea of trouble at the cold, heartless reply to his appeal, struggling vainly in the net which enmeshed him. Haskell, sure of his power, watched his victim, now sneering, now snarling, now amused, now half angry. Then would come a long term of silence, broken only by the scratching of a match or the tinkle of a glass.
 
 The east began to redden. Presently a beam of sunlight flashed into the room and put the electric light to shame. Haskell pushed back his chair and arose.
+
+### The Bellboy
+{: .chaptertitle}
 
 &quot;At last the day is here!&quot;
 
@@ -322,6 +346,9 @@ He went to the percolator, and drew two cups of coffee.
 &quot;But why me ?&quot; asked Philip bitterly. &quot;Why don&#39;t you play the man, and pay for it yourself? I haven&#39;t done you any wrong.&quot;
 
 &quot;Well, console yourself with the thought that it is often the innocent who suffer. I&#39;m not going to argue my actions on moral grounds. I&#39;m satisfied with results as they are.&quot; He lighted a cigarette, and sipped his coffee.
+
+### The Letter
+{: .chaptertitle}
 
 Philip arose, and began to pace the floor. &quot; As he neared the door he heard a step in the corridor, then a knock. Instantly he called out: &quot;Is that you, Peter?&quot;
 
