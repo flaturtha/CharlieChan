@@ -10,7 +10,7 @@ opubdate: Aug. 1922
 opubissue: Vol 5, No. 5
 category: short-stories
 excerpt: "The madame, who is a good many years younger than the master, has completely disappeared. The master&#39;s disposition is jealous; he was very jealous of the madame, because of his nature and because she, being much younger than he, liked to go out and enjoy herself, dancing and the like."
-image: /assets/img/short-stories/runaway.svg
+image: 
 imgh: 300px
 genre: Professional Sleuth
 tags: short-story
