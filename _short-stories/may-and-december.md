@@ -4,13 +4,13 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef0f
 title: "May and December"
 author: Frank Parks
-date: 2017-06-29
+date: 2017-06-28
 opub: Detective Story Magazine
 opubdate: Mar. 5, 1916
 opubissue: Vol. 2, No. 5
 category: short-stories
-excerpt: "excerpt"
-image: /assets/img/short-stories/may-and-december.svg
+excerpt: "Only seventeen, it was a forgone conclusion that she would marry Norton Terry, more than three times her age. But when he dies in agony, exhibiting all the symptoms of poisoning by arsenic, will it be a simple case of murder for inheritance, or is there a deeper motive?"
+image:
 imgh: 300px
 genre: Professional Sleuth
 tag: short-story
@@ -109,7 +109,7 @@ Mrs. Torrey looked up at him with an intense expression, which deepened into hor
 
 The physician was silent for a full minute, during which time he eyed the woman&#39;s face with professional attention. What he saw there seemed to embolden him.
 
-&quot;Mrs. Torrey,&quot; he said, with a sudden access of firmness, &quot;it is my duty to tell you that your husband exhibited all the symptoms of poisoning with arsenic. Deeply as I regret the necessity of adding to your burden ax this time, I must put the case into the hands of the authorities for a full investigation.&quot;
+&quot;Mrs. Torrey,&quot; he said, with a sudden access of firmness, &quot;it is my duty to tell you that your husband exhibited all the symptoms of poisoning with arsenic. Deeply as I regret the necessity of adding to your burden at this time, I must put the case into the hands of the authorities for a full investigation.&quot;
 
 He was a man who had ever been faithful to the honorable rules of his profession, but the expression of his face had never been trained to keep a secret. It could be read at a glance.
 
