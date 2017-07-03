@@ -10,7 +10,7 @@ opubdate: Dec. 1921
 opubissue: Vol. 4, No. 3
 category: short-stories
 excerpt: "When the old gang boss gets out of prison, will he or the new leader of the gang take a fall?"
-image: /assets/img/short-stories/weeping-killer.svg
+image:
 imgh: 300px
 genre: Crook
 tags: short-story
@@ -31,7 +31,7 @@ epub:
 </div>
 </section> table-of-contents -->
 
-For Moriarity it had been almost as hard to walk from the condemned cell to freedom by way of the main entrance as it would have been to take that other walk through the little door that leads to the electric chair. He had suffered all that a man can suffer who faces a horrid death. The last of a once iron nerve had been put into the task of dressing himself in his execution garments and when the order for a new trial had been read to him, the once powerful gang leader had silently crumpled in a heap on the floor.
+For Moriarity, it had been almost as hard to walk from the condemned cell to freedom by way of the main entrance as it would have been to take that other walk through the little door that leads to the electric chair. He had suffered all that a man can suffer who faces a horrid death. The last of a once iron nerve had been put into the task of dressing himself in his execution garments and when the order for a new trial had been read to him, the once powerful gang leader had silently crumpled in a heap on the floor.
 
 He was all in—through—done for as surely as the electric chair could have finished him. Never again would he be able to hold a gun in his hand to take his place as the undisputed king of his world. They would not let him. He might try it but he knew they would find him out.
 

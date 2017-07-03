@@ -10,7 +10,7 @@ opubdate: Mar. 5, 1916
 opubissue: Vol. 2, No. 5
 category: short-stories
 excerpt: "Only seventeen, it was a forgone conclusion that she would marry Norton Terry, more than three times her age. But when he dies in agony, exhibiting all the symptoms of poisoning by arsenic, will it be a simple case of murder for inheritance, or is there a deeper motive?"
-image:
+image: /assets/img/short-stories/may-and-december.png
 imgh: 300px
 genre: Professional Sleuth
 tag: short-story

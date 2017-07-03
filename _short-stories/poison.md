@@ -11,7 +11,7 @@ opubdate: June/July 1927
 opubissue: Vol 11, No. 2
 category: short-stories
 excerpt: "Detective Sullivan thought he had an air-tight murder charge against Francis Small. Clearly, he had poisoned his wealthy aunt in order to get her money, and Sullivan was confident his evidence would convict the ambitious young man … And then something happened, something quite unexpected, that completely upset Sullivan’s case … By a pretty piece of detective work he trapped the real murderer — and provided Tom Curry with a good story plot."
-image: /assets/img/short-stories/poison.svg
+image: /assets/img/misc/poisonbottle.svg
 imgh: 300px
 genre: Professional Sleuth
 tags: short-story

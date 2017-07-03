@@ -11,7 +11,7 @@ layout: default2
 
   {% if page.image %}
     <figure class="image-box">
-      <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="story__img" {% if page.imgh %} style="height:{{ page.imgh }};width:auto;" {% endif %} itemprop="image">
+      <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="story__img" {% if page.imgh %} style="height:auto;width:{{ page.imgh }};" {% endif %} itemprop="image">
       <figcaption>{{ page.caption }}</figcaption>
     </figure>    
   {% endif %}
