@@ -1,0 +1,16 @@
+<script>
+	var dataLayer = window.dataLayer = window.dataLayer || [];
+	dataLayer.push({
+		'title': '{{ page.title }}',
+		{% if page.author %}
+			'author': '{{ page.author }}',
+		{% else %}
+			'series': '{{ page.series }}',
+		{% endif %}
+		{% if page.layout == 'sns' %}
+			'category': 'Saturday Night Special',
+		{% else %}
+			'category': 'short-stories'
+		{% endif %}
+	});
+</script>
