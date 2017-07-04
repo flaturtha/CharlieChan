@@ -21,7 +21,7 @@ category: download
     <div class="trf__main">
       <h3 class="intro">Thanks for requesting your<br><span class="bloodred bold uppercase">Saturday&nbsp;Night&nbsp;Special</span> Premium short story.</h3>
       <p>My special courier has your <span class="bold">SNS Packet</span> in hand and is on his way to deliver it to your inbox as we speak. Follow the instructions, below, to locate, download and read your newest mystery selection.</p>
-      <p>And when you're done, be sure to come back to the main story page to LIKE or SHARE your comments. Don't let the evil forces who want to surpress these great stories from winning! Share this story!!</p>
+      <p>And when you're done, be sure to come back to the main story page to <span class="bold bloodred">LIKE</span> or <span class="bold bloodred">SHARE</span> your comments. Don't let the evil forces who want to surpress these great stories from winning! Share this story!!</p>
 
       <div class="download-instructions">
         <dl class="trf__dl">
