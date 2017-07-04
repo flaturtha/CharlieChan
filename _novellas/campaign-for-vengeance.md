@@ -8,6 +8,7 @@ opub: The Black Mask
 opubdate: Sep. 1922
 opubissue: Vol. 1, No. 6
 category: novellas
+genre: Amateur Sleuth
 descriptive: "Murder: for Money or Revenge"
 description: "After her beloved brother, Captain Jimmy Cornell, was found dead, with a small, white card on his chest bearing the words, The Mogal, Marguerite swore she’d bring the killers to justice."
 tags: 

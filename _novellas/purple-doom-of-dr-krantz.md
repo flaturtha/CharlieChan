@@ -11,6 +11,7 @@ opubdate: December 14, 1940
 opubissue: No. 549
 pubdate: 2016-11-15
 category: novellas
+genre: Professional Sleuth
 descriptive: "A Dixon Hawke Mystery"
 description: "Will Dixon Hawke's wiley wisdom be enough to allow him to penetrate Hitler's inner sanctum and destroy the secret weapon created by Nazi scientist Dr. Krantz or will he be found out as a British Spy?"
 tags: novella, world war 2, Hitler, espionage

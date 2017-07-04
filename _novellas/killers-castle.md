@@ -9,6 +9,7 @@ opubdate: Feb. 18, 1933
 opubissue:
 pubdate: 2016-11-15
 category: novellas
+genre: Professional Sleuth
 descriptive: 
 description: "Magda Stewart had asked for his help and now she was missing. Could Elver find the girl before it was too late?"
 tags: novella, England, kidnapping

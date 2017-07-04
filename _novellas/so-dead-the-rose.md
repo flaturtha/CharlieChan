@@ -9,6 +9,7 @@ opubdate: Sep. 1951
 opubissue: Vol. 1, No. 3
 pubdate: 2016-11-15
 category: novellas
+genre: hardboiled PI
 descriptive: 
 description: "It was love that made him agree to make the payment, to protect her from her husband's infedelity. But will his love for her force him to take the rap for murder?"
 tags: novella, cruise liner, murder, blackmail, "Sim Albert"

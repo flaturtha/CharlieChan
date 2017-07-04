@@ -9,6 +9,7 @@ opubdate: Sep. 1922
 opubissue: Vol. 1, No. 6
 pubdate: 2016-11-15
 category: novella
+genre: Professional Sleuth
 descriptive: "Murder: for Money or Revenge"
 description: "When old man Guerney is found murdered in his locked study, then the prime suspect and a mysterious tattooed man are also found murdered, newspaperman Johnny Suggs is determined to prove Mildred Guerney's innocense and prove himself to his father."
 tags: novella, noir, murder, revenge, "J. C. Kofoed"
