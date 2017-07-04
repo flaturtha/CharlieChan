@@ -1,16 +1,48 @@
 <script>
 	var dataLayer = window.dataLayer = window.dataLayer || [];
 	dataLayer.push({
+		'category': '{{ page.category }}',
+			{% if page.layout == 'sns' %}
+				'category': 'Saturday Night Special',
+			{% endif %}
+
 		'title': '{{ page.title }}',
+
 		{% if page.author %}
 			'author': '{{ page.author }}',
-		{% else %}
+		{% elsif page.series %}
 			'series': '{{ page.series }}',
 		{% endif %}
-		{% if page.layout == 'sns' %}
-			'category': 'Saturday Night Special',
-		{% else %}
-			'category': 'short-stories'
+
+		{% if page.category == 'short-stories' %}
+			'sku': '{{ page.casefileNumber }}',
+			'pubDate': '{{ page.date }}',
+			'genre': '{{ page.genre }}',
+			'tags': '{{ page.tags }}',
 		{% endif %}
+
+		{% if page.layout == 'sns' %}
+			'currency': 'USD',
+			'value': '{{ page.value }}',
+		{% endif %}
+
+		{% if page.category == 'novellas' %}
+			'sku': '{{ page.casefileNumber }}',
+			'pubDate': '{{ page.date }}',
+			'genre': '{{ page.genre }}',
+			'tags': '{{ page.tags }}',
+			'currency': 'USD',
+			'price': '{{ page.price }}'
+		{% endif %}
+
+		{% if page.category == 'novels' %}
+			'sku': '{{ page.casefileNumber }}',
+			'pubDate': '{{ page.date }}',
+			'genre': '{{ page.genre }}',
+			'tags': '{{ page.tags }}',
+			'currency': 'USD',
+			'price': '{{ page.price }}'
+		{% endif %}
+
 	});
 </script>

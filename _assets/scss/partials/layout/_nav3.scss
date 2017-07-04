@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,700);
+
 
 //Color Variables
 $color1: $paper;
@@ -9,7 +9,7 @@ $color3: $acolor;
 // body {
 //   background-color: $color1;
 //   color: $color2;
-//   font-family: 'Oswald', sans-serif;
+  // font-family: 'Oswald', sans-serif !important;
 //   line-height: 2em;
 //   text-transform: uppercase;
 // }
@@ -59,6 +59,7 @@ nav {
     width: 80%;
 
     a {
+      font-family: 'Oswald', sans-serif !important;
       color: $color1;
       text-decoration: none;
       transition: all .5s ease;

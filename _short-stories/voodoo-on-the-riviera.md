@@ -15,6 +15,7 @@ image: /assets/img/short-stories/voodoo-on-the-riviera.svg
 genre: Professional Sleuth
 tags: short-story
 wordcount: 9151
+value: 1.07
 trfissue: Vol. 3 No. 13
 trfdate: Mar 26, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/sns/Voodoo-On-the-Riviera.mobi

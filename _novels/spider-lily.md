@@ -10,6 +10,7 @@ opubdate: Jan. 1946
 opubissue: Vol. 2, No. 1
 pubdate: 2017-01-10
 category: novels
+genre: Legal
 image: /assets/img/novels/spider-lily.jpg
 wordcount: 75013
 description: "Alec Linn returns home after two years in the Air Force, fighting the Japs in India to find his wife, Lily, not waiting for him at the train station and his family unwilling to tell him where she is. Then Lily turns up dead and Alec is accused of her murder."

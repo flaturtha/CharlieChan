@@ -9,6 +9,8 @@
  * 2. Prevent adjustments of font size after orientation changes in IE and iOS.
  */
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,600,700&subset=latin,latin-ext);
+@import url("https://fonts.googleapis.com/css?family=Spectral:300,400,700,800&subset=latin-ext");
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,700);
 html {
   font-family: sans-serif;
@@ -467,6 +469,13 @@ img {
 
 h1, .contact h2, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: sans-serif; }
+
+p {
+  font-family: "Spectral", serif; }
+
+.toc li {
+  font-family: "Spectral", serif;
+  font-weight: 700; }
 
 h1, .contact h2, .h1 {
   font-size: 2em;
