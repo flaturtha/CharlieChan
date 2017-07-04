@@ -11,7 +11,7 @@ opubissue: Vol. 1, No. 5
 category: short-stories
 excerpt: "Scofield Carrington was dead but his call bell kept ringing. Who was the old man calling from beyond the grave?"
 image: /assets/img/short-stories/summons.svg
-caption: "\"I'm going in that room myself,\" he said severely, \"and we'll have this nonsense over will.\""
+caption: "\"I'm going in that room myself,\" he said severely, \"and we'll have this nonsense over with.\""
 <!-- imgh: 300px -->
 genre: Supernatural
 tags: short-story
