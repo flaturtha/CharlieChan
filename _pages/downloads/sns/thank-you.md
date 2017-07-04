@@ -20,13 +20,13 @@ category: download
   <section class="page-intro">
     <div class="trf__main">
       <h3 class="intro">Thanks for requesting your<br><span class="bloodred bold uppercase">Saturday&nbsp;Night&nbsp;Special</span> Premium short story.</h3>
-      <p>My special courier has your SNS packet in hand and is on his way to deliver it to your inbox as we speak. Follow the instructions, below, to locate, download and read your newest mystery selection.</p>
+      <p>My special courier has your <span class="bold">SNS Packet</span> in hand and is on his way to deliver it to your inbox as we speak. Follow the instructions, below, to locate, download and read your newest mystery selection.</p>
       <p>And when you're done, be sure to come back to the main story page to LIKE or SHARE your comments. Don't let the evil forces who want to surpress these great stories from winning! Share this story!!</p>
 
       <div class="download-instructions">
         <dl class="trf__dl">
           <dt>Step 1&#058;</dt>
-          <dd>Check your email for your special SNS package. The subject line will read <span class="bloodred">[SNS] Your Special Download Links</span>.<br><br><span class="xsmall italics">But remember &hellip; depending on obstructions on the highways of the interwebs, it may take up to 15 minutes for the courier to deliver your package! If you don't receive it soon, <a href="mailto:atticus@talesofmurder.com?subject=SNS%20Not%20Received">contact me</a> and I'll track it down.</span></dd>
+          <dd>Check your email for your special SNS Packet. The subject line will read <span class="bloodred">[SNS] Your Special Download Links</span>.<br><br><span class="xsmall italics">But remember &hellip; depending on obstructions on the highways of the interwebs, it may take up to 15 minutes for the courier to deliver your package! If you don't receive it soon, <a href="mailto:atticus@talesofmurder.com?subject=SNS%20Not%20Received">contact me</a> and I'll track it down.</span></dd>
           <dt>Step 2&#058;</dt>
           <dd>Choose your preferred&nbsp;format:<br>(Kindle or ePub)<br><br><span class="xsmall italics">The Kindle file format is  .mobi and useable only on the Amazon Kindle app or devices. The ePub format is the standard ebook format and is readable on Nook, iBooks, or other ebook readers.</span></dd>
           <dt>Step 3&#058;</dt>
