@@ -10,7 +10,7 @@ opubdate: Aug. 1922
 opubissue: Vol 5, No. 5
 category: short-stories
 excerpt: "Just how much nonsense do you expect nitroglycerine to stand for? It had been scratched, scraped, tossed about carelessly and stepped on. Now the hot end of a cigar was being applied to it. Can yon blame it for raising a splutter?"
-image: /assets/img/short-stories/explosive-gentleman.svg
+image: /assets/img/short-stories/explosive-gentleman.png
 imgh: 300px
 genre: Revenge
 tags: short-story
