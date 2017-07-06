@@ -8,6 +8,26 @@
 		
 		
 			<item>
+				<title>Daughter of the Pigeon</title>
+				
+					<dc:creator>Harry C. Hervey, Jr.</dc:creator>
+				
+				
+					<image>
+						<url>https://www.talesofmurder.com/assets/img/short-stories/daughter-of-the-pigeon.svg</url>
+						<title>Daughter of the Pigeon</title>
+						<link>https://www.talesofmurder.com/short-stories/daughter-of-the-pigeon</link>
+					</image>
+				        
+				
+					<description>“The cave!” I shouted, pressing the knife into her hand and pointing to the nearby cavity.</description>
+				
+				<pubDate>Thu, 06 Jul 2017 00:00:00 -0500</pubDate>
+				<link>https://www.talesofmurder.com/short-stories/daughter-of-the-pigeon/</link>
+				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/daughter-of-the-pigeon/</guid>
+			</item>
+		
+			<item>
 				<title>The Explosive Gentleman</title>
 				
 					<dc:creator>J. J. Stagg</dc:creator>
@@ -165,26 +185,6 @@
 				<pubDate>Fri, 16 Jun 2017 00:00:00 -0500</pubDate>
 				<link>https://www.talesofmurder.com/short-stories/man-who-would-not-die/</link>
 				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/man-who-would-not-die/</guid>
-			</item>
-		
-			<item>
-				<title>The Summons</title>
-				
-					<dc:creator>Henry Altimus</dc:creator>
-				
-				
-					<image>
-						<url>https://www.talesofmurder.com/assets/img/short-stories/summons.svg</url>
-						<title>The Summons</title>
-						<link>https://www.talesofmurder.com/short-stories/the-summons</link>
-					</image>
-				        
-				
-					<description>Scofield Carrington was dead but his call bell kept ringing. Who was the old man calling from beyond the grave?</description>
-				
-				<pubDate>Thu, 15 Jun 2017 00:00:00 -0500</pubDate>
-				<link>https://www.talesofmurder.com/short-stories/summons/</link>
-				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/summons/</guid>
 			</item>
 		
 	</channel>
