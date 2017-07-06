@@ -38,7 +38,7 @@ epub:
 ### Bloody Taoha
 {: .chaptertitle }
 
-That last night in Marquesan waters, as Cleaves and I sat on the fore-deck of the anchored Jezbel, listening to the talk of Leaping Fire, the Polynesian midshipman, the Bay of Traitors was lit with an eerie glow. Along Taha-uka, from the rockbound shore where the surf hurled its futile rage upon a Bastile of dun-colored stone, to the somnolent lights of Hivaoa dreaming beneath the black thunders of Temetiu, legions of phosphorus battled in green strife.
+That last night in Marquesan waters, as Cleaves and I sat on the fore-deck of the anchored _Jezbel_, listening to the talk of Leaping Fire, the Polynesian midshipman, the Bay of Traitors was lit with an eerie glow. Along Taha-uka, from the rockbound shore where the surf hurled its futile rage upon a Bastile of dun-colored stone, to the somnolent lights of Hivaoa dreaming beneath the black thunders of Temetiu, legions of phosphorus battled in green strife.
 
 “Yonder is the isle of Taoha, Menikes.” Leaping Fire was saying, pointing with his tattooed arm toward what seemed a mass of stone rising upon the moonlit night, his speech punctuated by the creaking of the boom as it swung with the slide and heave of the lazy rollers. “In the days before the Christian God came, when Po, the Power of Darkness, ruled the islands, the sea-robbers of Tahiti used to hide their treasures there—somewhere near the High Place and the Vale Where Dead Men Walk.”
 
@@ -66,7 +66,7 @@ Cleaves and I gazed seaward to the isle of tragic history, a bulk of stone that 
 
 I smiled. “Take you up.”
 
-“It is two miles away I” protested Leaping Fire. “And in the bay are mako and feke—fierce, man-devouring sharks and devil-fish!”
+“It is two miles away!” protested Leaping Fire. “And in the bay are mako and feke—fierce, man-devouring sharks and devil-fish!”
 
 But we would not listen to him; the tales of hidden loot and crimson deeds had stirred our blood.
 
@@ -124,7 +124,7 @@ The figures, five in number, all lithe of body with the exception of one, crawle
 
 I continued to stare at the trees where they vanished. Men—islanders from the color of their naked skins—coming from the cave. It was rather intriguing, even insidious, and I immediately determined to penetrate the cave whose jaws had spewn them.
 
-As I swung down from the High Place, dropping on the narrow ledge, I regretted my hasty action. ‘ The wiser plan would have been to wait for Cleaves, but I had started, without him, and being young, which is to say stubborn, too, I decided to finish it alone.
+As I swung down from the High Place, dropping on the narrow ledge, I regretted my hasty action. The wiser plan would have been to wait for Cleaves, but I had started, without him, and being young, which is to say stubborn, too, I decided to finish it alone.
 
 More than once during that perilous descent into the gorge did I wish I had abandoned my purpose on the narrow trail below the High Place.
 
@@ -415,7 +415,7 @@ I carried her down to the beach and placed her gently on the white sands. I shal
 
 A half hour later Cleaves and Leaping Fire came upon us on the beach. They were about to abandon the search for me, believing me gone to the sharks. After I told them the story we carried Tahaiupehii to the paepae of her father, and here, not far from the bamboo house that had known her love and sorrow, we buried her… between Mahuma and Red Moon.
 
-Several hours afterward I was on the deck of the Jezbel, and while a sullen, red-shot dawn flared above the thunders of Temetiu, the yacht throbbed out of the Bay of Traitors.
+Several hours afterward I was on the deck of the *Jezbel*, and while a sullen, red-shot dawn flared above the thunders of Temetiu, the yacht throbbed out of the Bay of Traitors.
 
 The last sight that I had of Taoha, the dying isle, was through the morning fog, a haze that lay upon it like a spirit hand ... as if the volcano that in ages past had spewn it above the green Pacific was reaching up from fathomless depths to reclaim it.”
 
