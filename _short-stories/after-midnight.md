@@ -17,7 +17,6 @@ caption: "For a moment her white lips quivered. \"I &mdash; I &mdash; there's a 
 genre: Amateur Sleuth
 tags: short-story
 wordcount: 9216
-value: 1.07
 trfissue: Vol. 3 No. 11
 trfdate: Mar. 12, 2017
 kindle: https://s3.amazonaws.com/talesofmurder.com/sns/After_Midnight.mobi

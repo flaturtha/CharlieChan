@@ -23,7 +23,11 @@
 
 		{% if page.layout == 'sns' %}
 			'currency': 'USD',
-			'price': {{ page.value }},
+			{% if page.price %}
+				'price': {{ page.price }}
+			{% else %}
+				'price': {{ page.wordcount | times: 0.0001165 | round:2 }}
+			{% endif %}
 		{% endif %}
 
 		{% if page.category == 'novellas' %}
@@ -32,7 +36,11 @@
 			'genre': '{{ page.genre }}',
 			'tags': '{{ page.tags }}',
 			'currency': 'USD',
-			'price': {{ page.price }}
+			{% if page.price %}
+				'price': {{ page.price }}
+			{% else %}
+				'price': {{ page.wordcount | divided_by: 180 }}
+			{% endif %}
 		{% endif %}
 
 		{% if page.category == 'novels' %}

@@ -4,13 +4,13 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef90
 title: "A Snitch in Time"
 author: E. C. Marshall
-date: 2017-07-11
+date: 2017-07-10
 opub: Ten Detective Aces
 opubdate: Nov. 1945
 opubissue: Vol 51, No. 4
 category: short-stories
 excerpt: "Locked in a windowless room, in a secret building, this kidnaped magnate still found a dead sure way to trap his unknown captor."
-image: /assets/img/short-stories/snitch-in-time.svg
+image: /assets/img/short-stories/snitch-in-time.png
 imgh: 300px
 genre: Noir
 tags: short-story
