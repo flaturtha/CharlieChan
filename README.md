@@ -1,5 +1,6 @@
-# v2.1 FuManchu (aka fu_manchu)
-## Tales of Murder site redux w/ SnipCart
+# v2.0 CharlieChan
+## Tales of Murder site redux
 
 list junk that changes of v1.0 NOS
-*fixed clone error ... again!*
+
+* fixed now (I think)*
