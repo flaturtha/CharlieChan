@@ -2,4 +2,4 @@
 ## Tales of Murder site redux w/ SnipCart
 
 list junk that changes of v1.0 NOS
-*fixed clone error*
+*fixed clone error ... again!*
