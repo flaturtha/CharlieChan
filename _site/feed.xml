@@ -8,6 +8,24 @@
 		
 		
 			<item>
+				<title>The Case of the Tell-Tale Corpse</title>
+				
+				
+					<image>
+						<url>https://www.talesofmurder.com/assets/img/short-stories/tell-tale-corpse.png</url>
+						<title>The Case of the Tell-Tale Corpse</title>
+						<link>https://www.talesofmurder.com/short-stories/the-case-of-the-tell-tale-corpse</link>
+					</image>
+				        
+				
+					<description>When a dead body is found in the hold of the coaster Trojan, can Hawke prove that it's not murder?</description>
+				
+				<pubDate>Wed, 12 Jul 2017 00:00:00 -0500</pubDate>
+				<link>https://www.talesofmurder.com/short-stories/tell-tale-corpse/</link>
+				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/tell-tale-corpse/</guid>
+			</item>
+		
+			<item>
 				<title>A Snitch in Time</title>
 				
 					<dc:creator>E. C. Marshall</dc:creator>
@@ -171,20 +189,6 @@
 				<pubDate>Tue, 20 Jun 2017 00:00:00 -0500</pubDate>
 				<link>https://www.talesofmurder.com/short-stories/nice-corpses-like-flowers/</link>
 				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/nice-corpses-like-flowers/</guid>
-			</item>
-		
-			<item>
-				<title>A Weapon of the Law</title>
-				
-					<dc:creator>George W. Breuker</dc:creator>
-				
-				        
-				
-					<description>Facing a man he sentenced to 10 years in prison, can Judge Lathrop outwit a desperate man bent on revenge?</description>
-				
-				<pubDate>Sun, 18 Jun 2017 00:00:00 -0500</pubDate>
-				<link>https://www.talesofmurder.com/short-stories/weapon-of-the-law/</link>
-				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/weapon-of-the-law/</guid>
 			</item>
 		
 	</channel>

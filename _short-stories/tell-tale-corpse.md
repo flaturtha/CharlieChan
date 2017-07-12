@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefbf
 title: "The Case of the Tell-Tale Corpse"
 series: A Dixon Hawke Mystery
-date: 2017-07-27
+date: 2017-07-12
 opub: Dixon Hawke Case Book
 opubdate: Spring 1940
 opubissue: No. 4

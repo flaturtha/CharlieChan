@@ -4,13 +4,13 @@ layoutTag: post
 casefileNumber: xxxxxxx
 title: "The Bird Burglar's Last Crime"
 series: A Dixon Hawke Mystery
-date: 2017-07-13
+date: 2017-07-27
 opub: Dixon Hawke Library
 opubdate: 
 opubissue: No. 559
 category: short-stories
 excerpt: "Can Dixon Hawke unmask the mysterious Bird Burglar before he flies the coop?"
-image: /assets/img/short-stories/bird-burglars-last-crime.png
+image: /assets/img/short-stories/bird-burglar.png
 imgh: 100px
 genre: Professional Sleuth
 tags: short-story
