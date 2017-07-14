@@ -10,8 +10,7 @@ opubdate: May 1949
 opubissue: Vol. 10, No. 2
 category: short-stories
 excerpt: "A fight manager can’t be fooled by one of his oldtime boys even in disguise!"
-image: 
-imgh: 300px
+image: /assets/img/short-stories/easy-money.png
 genre: Sports
 tags: short-story
 wordcount: 1164
