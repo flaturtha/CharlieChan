@@ -9,7 +9,7 @@ opub: Crack Detective
 opubdate: May 1949
 opubissue: Vol. 10, No. 2
 category: short-stories
-excerpt: "A panoramic view of New York&#39;s underworld, of studio life in Hollywood, of con men and dicks, of counterfeiters und government agents, of thieves and dips and jail birds, and a former chief of police who promotes a private detective bureau for the purpose of snaring all law-breakers, large and small."
+excerpt: "A panoramic view of New York&#39;s underworld, of studio life in Hollywood, of con men and dicks, of counterfeiters and government agents, of thieves and dips and jail birds, and a former chief of police who promotes a private detective bureau for the purpose of snaring all law-breakers, large and small."
 image: /assets/img/short-stories/hollywoodsign.png
 genre: Noir
 tags: short-story
