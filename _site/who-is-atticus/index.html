@@ -207,21 +207,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <header class="header" role="banner">
 
-  <nav class="nav" role="navigation">
-
-  <div class="social-nav hidden">
-    <h2 class="hidden">Social Media Submenu</h2>
+    <div class="top-nav">
+    <h2 class="hidden">Top Submenu Navigation</h2>
     <ul>
       <!-- <li class="submenu__search"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li> -->
-      <li class="submenu__facebook"><a href=""><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
-      <li class="submenu__twitter"><a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-      <li class="submenu__rss"><a href="http://feeds.feedburner.com/TalesOfMurder" rel="alternate" type="application/rss+xml"><i class="fa fa-rss-square" aria-hidden="true"></i></a></li>
-      <li class="submenu__slack"><a href=""><i class="fa fa-slack" aria-hidden="true"></i></a></li>
+      <li class="submenu__facebook"><a href=""><i class="fa fa-facebook-official fa-lg" aria-hidden="true"></i></a></li>
+      <li class="submenu__twitter"><a href=""><i class="fa fa-twitter-square fa-lg" aria-hidden="true"></i></a></li>
+      <li class="submenu__rss"><a href="http://feeds.feedburner.com/TalesOfMurder" rel="alternate" type="application/rss+xml"><i class="fa fa-rss-square fa-lg" aria-hidden="true"></i></a></li>
+      <li>&emsp;|&emsp;</li>
+      <li><i class="fa fa-shopping-cart fa-lg"></i> <span class="xsmall">CART (0)</span></li>
     </ul>
+    
+    <!-- <ul>
+    </ul> -->
+
   </div>
 
+		<section class="branding_banner">
+      <!-- <img class="big_logo" src="/assets/img/site/tmp_main.png" alt="Tales of Murder, for readers with time to kill!"> -->
+    </section> <!-- end div.pagetitle --> 
+
+	<nav class="nav" role="navigation">
+
   <div class="main-nav">
-    <a class="logo" title="Tales of Murder" href="https://www.talesofmurder.com"><p><span>Tales of Murder</span></p></a>
+    <!-- <a class="logo" title="Tales of Murder" href="https://www.talesofmurder.com"><p><span>Tales of Murder</span></p></a> -->
 
     <h2 class="hidden">Main Navigation</h2>
     <input id="nav" type="checkbox">
@@ -242,12 +251,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </nav> <!-- end nav.nav -->
 
-	
-  
-
-  <!-- include dateline.html -->
-
-</header>
+</header> <!-- originally header2 -->
 
   <main class="main wrap">
     <div class="Who is Atticus?">
@@ -294,16 +298,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- SEARCH -->
   <!-- <div style="margin-top:1rem;font-size:0.75rem;color:#8b0000;font-weight:bold;border-bottom:1px solid #8b0000;">SEARCH <i class="fa fa-search"></i></div> -->
 
-  <div class="showcart" id="showcart">
-    <script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js"></script>
-    <a href="https://transactions.sendowl.com/cart?merchant_id=32054" rel="nofollow"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
-    <script>sendOwl.cartWidget({merchantID: 32054,
-                                cartPhrase: "Cart: ",
-                                parent: document.getElementById("showcart"),
-                                useCartImage: false,
-                                customStyle: true
-    });</script>
-</div>
+  <!-- include showcart.html -->
 
 </section>
     
