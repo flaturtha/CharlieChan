@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aeff3
 title: "The Poison"
 subtitle: "Tom Curry&#39;s Latest Story of the New York Detective Force"
 author: Tom Curry
-date: 2017-07-19
+date: 2017-07-18
 opub: Real Detective Tales
 opubdate: June/July 1927
 opubissue: Vol 11, No. 2
@@ -13,7 +13,7 @@ category: short-stories
 excerpt: "Detective Sullivan thought he had an air-tight murder charge against Francis Small. Clearly, he had poisoned his wealthy aunt in order to get her money, and Sullivan was confident his evidence would convict the ambitious young man … And then something happened, something quite unexpected, that completely upset Sullivan’s case … By a pretty piece of detective work he trapped the real murderer — and provided Tom Curry with a good story plot."
 image: /assets/img/misc/poisonbottle.svg
 imgh: 300px
-genre: Professional Sleuth
+genre: True Crime
 tags: short-story
 wordcount: 3449
 trfissue: Vol. 4 No. 15

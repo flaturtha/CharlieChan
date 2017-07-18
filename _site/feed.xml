@@ -8,6 +8,26 @@
 		
 		
 			<item>
+				<title>The Poison</title>
+				
+					<dc:creator>Tom Curry</dc:creator>
+				
+				
+					<image>
+						<url>https://www.talesofmurder.com/assets/img/misc/poisonbottle.svg</url>
+						<title>The Poison</title>
+						<link>https://www.talesofmurder.com/short-stories/the-poison</link>
+					</image>
+				        
+				
+					<description>Detective Sullivan thought he had an air-tight murder charge against Francis Small. Clearly, he had poisoned his wealthy aunt in order to get her money, and Sullivan was confident his evidence would convict the ambitious young man … And then something happened, something quite unexpected, that completely upset Sullivan’s case … By a pretty piece of detective work he trapped the real murderer — and provided Tom Curry with a good story plot.</description>
+				
+				<pubDate>Tue, 18 Jul 2017 00:00:00 -0500</pubDate>
+				<link>https://www.talesofmurder.com/short-stories/poison/</link>
+				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/poison/</guid>
+			</item>
+		
+			<item>
 				<title>Easy Money</title>
 				
 					<dc:creator>Lee Floren</dc:creator>
@@ -175,20 +195,6 @@
 				<pubDate>Wed, 28 Jun 2017 00:00:00 -0500</pubDate>
 				<link>https://www.talesofmurder.com/short-stories/may-and-december/</link>
 				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/may-and-december/</guid>
-			</item>
-		
-			<item>
-				<title>The Runaway</title>
-				
-					<dc:creator>Al Peters</dc:creator>
-				
-				        
-				
-					<description>The madame, who is a good many years younger than the master, has completely disappeared. The master&amp;#39;s disposition is jealous; he was very jealous of the madame, because of his nature and because she, being much younger than he, liked to go out and enjoy herself, dancing and the like.</description>
-				
-				<pubDate>Tue, 27 Jun 2017 00:00:00 -0500</pubDate>
-				<link>https://www.talesofmurder.com/short-stories/runaway/</link>
-				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/runaway/</guid>
 			</item>
 		
 	</channel>
