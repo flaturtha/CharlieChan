@@ -938,23 +938,25 @@ label {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  margin-right: 1rem;
-  height: 15px;
-  margin-top: 0.5rem; }
+  margin: 0 1rem 0.5rem 0;
+  border: 1px solid #001a11;
+  background-color: #009966;
+  padding: 0.5rem; }
 
 .fa-shopping-cart {
   color: #8B0000;
   margin: 0 0.4rem 0 0; }
 
 #sendowl-cart-widget {
-  color: #8B0000;
+  color: #fffff0;
   text-align: center;
-  margin-top: 0.2rem;
-  font-size: 0.875rem; }
+  font-size: 1rem; }
 
-.cart-count {
-  font-weight: bold;
-  font-style: italic; }
+.cart-count:before {
+  content: "("; }
+
+.cart-count:after {
+  content: ")"; }
 
 .header__about {
   text-transform: uppercase;
@@ -1350,18 +1352,18 @@ a.readmore {
             -ms-flex-direction: row;
                 flex-direction: row; } }
   .card__small .buybutton {
-    background-color: #580000;
+    background-color: #009966;
     color: #fffff0;
     margin-top: 0.5rem;
     height: 35px;
     width: 150px;
-    border: 1px solid #580000;
+    border: 1px solid #006644;
     -webkit-border-radius: 4px;
             border-radius: 4px; }
     .card__small .buybutton a {
       color: #fffff0 !important; }
     .card__small .buybutton:hover {
-      background-color: #8B0000; }
+      background-color: #006644; }
   .card__small .descriptive {
     font-size: 0.857rem;
     font-style: italic;
@@ -1941,16 +1943,16 @@ ol ol li:last-child {
 
 .download-sample, .add-to-cart, .sub-and-download {
   /* http://css3buttongenerator.com/ */
-  border: 1px solid #580000;
+  border: 1px solid #009966;
   -webkit-border-radius: 5px;
           border-radius: 5px;
   font-size: 1rem;
   padding: 0.625rem 1.25rem;
-  background-color: #580000;
+  background-color: #009966;
   color: #fffff0; }
   .download-sample:hover, .add-to-cart:hover, .sub-and-download:hover {
-    color: #580000;
-    background-color: #fffff0; }
+    color: #fffff0;
+    background-color: #006644; }
 
 .book__buttons {
   display: -webkit-box;
@@ -3759,7 +3761,7 @@ p {
 /* nav */
 .top-nav {
   background-color: #242424;
-  border-bottom: 2px solid #8B0000;
+  border-bottom: 4px solid #8B0000;
   color: #fffff0; }
   .top-nav ul {
     display: -webkit-box;
@@ -3773,8 +3775,7 @@ p {
     -webkit-box-align: center;
     -webkit-align-items: center;
         -ms-flex-align: center;
-            align-items: center;
-    height: 50px; }
+            align-items: center; }
     .top-nav ul li {
       padding: 0.5rem 1rem 0 0; }
   .top-nav .fa {

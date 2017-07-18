@@ -220,7 +220,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <li class="submenu__twitter"><a href=""><i class="fa fa-twitter-square fa-lg" aria-hidden="true"></i></a></li>
       <li class="submenu__rss"><a href="http://feeds.feedburner.com/TalesOfMurder" rel="alternate" type="application/rss+xml"><i class="fa fa-rss-square fa-lg" aria-hidden="true"></i></a></li>
       <li>&emsp;|&emsp;</li>
-      <li><i class="fa fa-shopping-cart fa-lg"></i> <span class="xsmall">CART (0)</span></li>
+      <li><span class="xsmall"><div class="showcart" id="showcart">
+    <script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+    <a href="https://transactions.sendowl.com/cart?merchant_id=32054" rel="nofollow"><i class="fa fa-shopping-cart fa-lg" aria-hidden="true"></i></a>
+    <script>sendOwl.cartWidget({merchantID: 32054,
+                                cartPhrase: "Cart ",
+                                parent: document.getElementById("showcart"),
+                                useCartImage: false,
+                                customStyle: true
+    });</script>
+</div></span></li>
     </ul>
     
     <!-- <ul>

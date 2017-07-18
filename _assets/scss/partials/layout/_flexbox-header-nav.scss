@@ -162,13 +162,13 @@ $bgcolor2: darken($bgcolor, 5%);
 
 .top-nav {
   background-color: $bgcolor;
-  border-bottom: 2px solid $acolor;
+  border-bottom: 4px solid $acolor;
   color: $paper;
   ul {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  height: 50px;
+  // height: 50px;
   li {
     padding: 0.5rem 1rem 0 0;
   }

@@ -125,15 +125,15 @@
 // }
 
 .download-sample, .add-to-cart { /* http://css3buttongenerator.com/ */
-	border: 1px solid darken($acolor, 10%);
+	border: 1px solid $thegreen;
 	border-radius: 5px;
 	font-size: 1rem;
 	padding: 0.625rem 1.25rem;
-	background-color: darken($acolor, 10%);
+	background-color: $thegreen;
 	color: $paper;
 	&:hover {
-		color: darken($acolor, 10%);
-		background-color: $paper;
+		color: $paper;
+		background-color: darken($thegreen, 10%);
 	}
 }
 
