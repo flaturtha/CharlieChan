@@ -4,20 +4,20 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef3e
 title: "Ananias Ltd."
 author: Elizabeth Dudley
-date: 2017-07-21
+date: 2017-07-20
 opub: Black Mask
 opubdate: Dec. 1921
 opubissue: Vol. 4, No. 3
 category: short-stories
 excerpt: "There are thousands of tons of gold locked up in God's eternal mountains which men will never see nor spend. But that fact doesn't keep them from trying. There is something about yellow metal which turns heads, transforms morals and grows devils in the soil of saints."
-image: /assets/img/short-stories/ananias-ltd.png
+image: /assets/img/short-stories/ananias-ltd2.png
 caption: "From some place the Chink produced a bottle of alcohol."
 imgh: 450px
 genre: Professional Sleuth
 tags: short-story
 wordcount: 5220
-trfissue: Vol. 3 No. 15
-trfdate: Apr. 9, 2017
+trfissue: Vol. 4 No. 15
+trfdate: Jul. 16, 2017
 kindle: 
 epub: 
 ---
