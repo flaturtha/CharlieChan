@@ -4,21 +4,19 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefd6
 title: "The Case of the Amateur Astrologer"
 series: A Dixon Hawke Mystery
-date: 2017-08-10
+date: 2017-07-23 12:05
 opub: Dixon Hawke's Casebook
 opubdate: Spring 1940
 opubissue: No. 4
 category: short-stories
 excerpt: "When things go bump in the night, can Dixon Hawke uncover the truth behind Miss Baxter's ghosts?"
-image: /assets/img/short-stories/amateur-astrologer.png
-imgh: 100px
+image: /assets/img/short-stories/amateur-astrologer2.png
+imgh: 300px
 genre: Professional Sleuth
 tags: short-story
 wordcount: 4057
-trfissue: Vol. 3 No. 16
-trfdate: Apr. 16, 2017
-kindle: 
-epub: 
+trfissue: Vol. 4 No. 15
+trfdate: Jul. 16, 2017
 ---
 
 <section id="toc" class="toc">

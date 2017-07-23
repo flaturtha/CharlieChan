@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef21
 title: "The Strange Story of Martin Colby"
 author: Ward Sterling
-date: 2017-02-21
+date: 2017-07-23 12:01
 opub: Black Mask
 opubdate: Aug. 1920
 opubissue: Vol. 1, No. 5
@@ -12,11 +12,11 @@ category: short-stories
 excerpt: "This is Martin Colby’s story, not mine. Three of us heard him tell it &mdash; Willoughby, the eminent English clergyman, who is now filling a number of lecture engagements in this country, Mosby, the attorney, and myself—and we are all firmly convinced that he spoke the truth. I write it just as he gave it to us."
 image: /assets/img/short-stories/strange-story-of-martin-colby.svg
 imgh: 300px
-genre: Crook
+genre: Supernatural
 tag: short-story
 wordcount: 2391
-trfissue: Vol. 1 No. 4
-trfdate: Feb. 12, 2017
+trfissue: Vol. 4 No. 15
+trfdate: Jul. 16, 2017
 kindle: 
 epub: 
 ---
