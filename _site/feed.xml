@@ -8,6 +8,26 @@
 		
 		
 			<item>
+				<title>Blackmail</title>
+				
+					<dc:creator>Stanley Rushton</dc:creator>
+				
+				
+					<image>
+						<url>https://www.talesofmurder.com/assets/img/short-stories/blackmail.png</url>
+						<title>Blackmail</title>
+						<link>https://www.talesofmurder.com/short-stories/blackmail</link>
+					</image>
+				        
+				
+					<description>When you use a typewriter for an unlawful letter you might as well sign it with your own thumbprint, because of all the typewriters in use throughout the entire world, no two, Cortelyou points out, write exactly alike.</description>
+				
+				<pubDate>Mon, 31 Jul 2017 00:00:00 -0500</pubDate>
+				<link>https://www.talesofmurder.com/short-stories/blackmail/</link>
+				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/blackmail/</guid>
+			</item>
+		
+			<item>
 				<title>Blueberry Pie</title>
 				
 					<dc:creator>Thyra Samter Winslow</dc:creator>
@@ -181,24 +201,6 @@
 				<pubDate>Fri, 14 Jul 2017 00:00:00 -0500</pubDate>
 				<link>https://www.talesofmurder.com/short-stories/easy-money-men/</link>
 				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/easy-money-men/</guid>
-			</item>
-		
-			<item>
-				<title>The Case of the Tell-Tale Corpse</title>
-				
-				
-					<image>
-						<url>https://www.talesofmurder.com/assets/img/short-stories/tell-tale-corpse.png</url>
-						<title>The Case of the Tell-Tale Corpse</title>
-						<link>https://www.talesofmurder.com/short-stories/the-case-of-the-tell-tale-corpse</link>
-					</image>
-				        
-				
-					<description>When a dead body is found in the hold of the coaster Trojan, can Hawke prove that it's not murder?</description>
-				
-				<pubDate>Wed, 12 Jul 2017 00:00:00 -0500</pubDate>
-				<link>https://www.talesofmurder.com/short-stories/tell-tale-corpse/</link>
-				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/tell-tale-corpse/</guid>
 			</item>
 		
 	</channel>
