@@ -49,7 +49,11 @@
           {% else %}
             Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
           {% endif %}
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="{{ site.url }}{{ short-stories.url }}" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
           
+
 
         <p class="meta">{{ short-stories.wordcount | thousands_separated }} words | {% if site.readtime %}
         {% if readtime > 60 %}
