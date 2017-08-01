@@ -11,7 +11,6 @@ opubissue: Vol. 5, No. 5
 category: short-stories
 excerpt: "They talked about little things, Irma and Laurence Martin. About Irma&#39;s coming to Chicago, when the aunt with whom she had lived in New York had died, and how Irma had met Martin a few weeks later, with &quot;love at first sight.&quot; But the story about the execution of Stuart Dennison shook Irma as she recalled her old life back in New York. Before she was Irma Martin."
 image: /assets/img/short-stories/blueberry-pie.png
-caption: "From some place the Chink produced a bottle of alcohol."
 imgh: 450px
 genre: Crime
 tags: short-story
