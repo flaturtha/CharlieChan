@@ -100,7 +100,7 @@
   <meta name="twitter:image:src" content="https://www.talesofmurder.comassets/img/site/atticus_fffff0.svg">
 
     <!-- OG -->
-    <!-- <meta content="1035153329907183" property="fb:app_id"> -->
+    <meta content="1035153329907183" property="fb:app_id">
 
 <meta content="Tales of Murder" property="og:site_name">
 
@@ -113,8 +113,6 @@
 
 
 
-  <meta content="" property="book:author">
-
 
 
   <meta content="books.book" property="og:type">
@@ -123,7 +121,7 @@
 <meta content="" property="books:isbn">
 
 
-  <meta content="Page not found &hellip; but don't worry, our detectives are on the case!" property="og:description">
+  <meta content="A murder mystery short story, novella & novel website. Buy thrilling murder mystery & crime stories to read on any ebook device or app." property="og:description">
 
 
 
@@ -199,14 +197,34 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-	<div id="fb-root"></div>
+	<!-- <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+}(document, 'script', 'facebook-jssdk'));</script> -->
+
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '150675128843895',
+      xfbml      : true,
+      version    : 'v2.10'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
 
   <header class="header" role="banner">
 

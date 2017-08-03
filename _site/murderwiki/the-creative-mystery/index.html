@@ -103,7 +103,7 @@
   <meta name="twitter:image:alt" content="The Creative Mystery by Wilfred L. Randel">
 
     <!-- OG -->
-    <!-- <meta content="1035153329907183" property="fb:app_id"> -->
+    <meta content="1035153329907183" property="fb:app_id">
 
 <meta content="Tales of Murder" property="og:site_name">
 
@@ -116,8 +116,6 @@
 
 
 
-  <meta content="Wilfred L. Randel" property="book:author">
-
 
 
   <meta content="article" property="og:type">
@@ -126,15 +124,13 @@
 <meta content="" property="books:isbn">
 
 
-  <meta content="The teller of stories began to perceive — very slowly, indeed, that within his own limited being lay a strange, unsuspected, unlimited power: that he possessed a magic crucible by which all things he observed, all things he heard, might not only be stored as memories, but might be transmuted, re-cast, projected and given forth in a marvellous semblance of life. Astonishing vistas were henceforward opened to his fascinated gaze, though stumbling indeed must have been his first bewildered steps in the effort to explore their endless, lonely labyrinths." property="og:description">
+  <meta content="A murder mystery short story, novella & novel website. Buy thrilling murder mystery & crime stories to read on any ebook device or app." property="og:description">
 
 
 
   <meta content="https://www.talesofmurder.com/murderwiki/the-creative-mystery/" property="og:url">
 
 
-
-  <meta content="2016-09-26T00:00:00-05:00" property="article:published_time">
 
 
 
@@ -208,14 +204,34 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-	<div id="fb-root"></div>
+	<!-- <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+}(document, 'script', 'facebook-jssdk'));</script> -->
+
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '150675128843895',
+      xfbml      : true,
+      version    : 'v2.10'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
 
   <header class="header" role="banner">
 

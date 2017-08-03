@@ -103,7 +103,7 @@
   <meta name="twitter:image:alt" content="The Modern Short Story by W. J. Dawson">
 
     <!-- OG -->
-    <!-- <meta content="1035153329907183" property="fb:app_id"> -->
+    <meta content="1035153329907183" property="fb:app_id">
 
 <meta content="Tales of Murder" property="og:site_name">
 
@@ -116,8 +116,6 @@
 
 
 
-  <meta content="W. J. Dawson" property="book:author">
-
 
 
   <meta content="article" property="og:type">
@@ -126,15 +124,13 @@
 <meta content="" property="books:isbn">
 
 
-  <meta content="The point at which any true appreciation of the short story begins is the clear perception that it is a distinct form of art; and the reason why the older novelists so rarely succeeded in the short story is that they did not apprehend this. If we bear in mind the three principles, that the short story must be complete in itself, that it is short because it cannot be long, and that it consists of a single incident, we can readily apply a critical test, which, while not infallible, nevertheless affords a valuable means of discrimination." property="og:description">
+  <meta content="A murder mystery short story, novella & novel website. Buy thrilling murder mystery & crime stories to read on any ebook device or app." property="og:description">
 
 
 
   <meta content="https://www.talesofmurder.com/murderwiki/the-modern-short-story/" property="og:url">
 
 
-
-  <meta content="2016-09-30T00:00:00-05:00" property="article:published_time">
 
 
 
@@ -208,14 +204,34 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-	<div id="fb-root"></div>
+	<!-- <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+}(document, 'script', 'facebook-jssdk'));</script> -->
+
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '150675128843895',
+      xfbml      : true,
+      version    : 'v2.10'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
 
   <header class="header" role="banner">
 

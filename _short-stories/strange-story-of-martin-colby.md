@@ -10,6 +10,7 @@ opubdate: Aug. 1920
 opubissue: Vol. 1, No. 5
 category: short-stories
 excerpt: "This is Martin Colby’s story, not mine. Three of us heard him tell it &mdash; Willoughby, the eminent English clergyman, who is now filling a number of lecture engagements in this country, Mosby, the attorney, and myself—and we are all firmly convinced that he spoke the truth. I write it just as he gave it to us."
+tease: "A strange and mysterious story that takes you into a world of darkness and evil. Click to read ... if you dare!"
 image: /assets/img/short-stories/strange-story-of-martin-colby.svg
 fb-image: /assets/img/short-stories/strange-story-of-martin-colby-fb.jpg
 imgh: 300px
