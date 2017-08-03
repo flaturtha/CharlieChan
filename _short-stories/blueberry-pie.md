@@ -9,8 +9,10 @@ opub: Black Mask
 opubdate: Aug. 1922
 opubissue: Vol. 5, No. 5
 category: short-stories
-excerpt: "They talked about little things, Irma and Laurence Martin. About Irma&#39;s coming to Chicago, when the aunt with whom she had lived in New York had died, and how Irma had met Martin a few weeks later, with &quot;love at first sight.&quot; But the story about the execution of Stuart Dennison shook Irma as she recalled her old life back in New York. Before she was Irma Martin."
+excerpt: "The story about the execution of Stuart Dennison shook Irma as she recalled her old life back in New York. Before she was Irma Martin. When she was Mrs. Stuart Dennison."
+tease: "A story that will haunt you long after you've put it down! Read this thriller today ... if you dare!"
 image: /assets/img/short-stories/blueberry-pie.png
+fb-image: /assets/img/short-stories/blueberry-pie_fb.jpg
 imgh: 450px
 genre: Crime
 tags: short-story

@@ -10,7 +10,9 @@ opubdate: Spring 1940
 opubissue: No. 4
 category: short-stories
 excerpt: "When things go bump in the night, can Dixon Hawke uncover the truth behind Miss Baxter's ghosts?"
+tease: "Another thriller from master detective Dixon Hawke. But this time, is he up against forces even he cannot fight? Find out when you read this exciting story today!"
 image: /assets/img/short-stories/amateur-astrologer2.png
+fb-image: /assets/img/short-stories/amateur-astrologer_fb.jpg
 imgh: 300px
 genre: Professional Sleuth
 tags: short-story

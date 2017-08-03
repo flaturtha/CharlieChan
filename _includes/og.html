@@ -13,7 +13,7 @@
 {% endif %}
 
 {% if page.title %}
-  <meta content="{{ page.title | upcase }} | {% if page.author %}By {{ page.author }}{% else %}{{ page.series }} {% endif %} ({% if site.readtime %}{% if readtime > 60 %}{% assign readtime_hours = readtime | divided_by: 60 %}{% assign readtime_minutes = readtime | modulo:60 %}{% if readtime_hours > 1 and readtime_hours < 2 %}1 hour{% else %}{{ readtime_hours }} hr{% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} and {{ readtime_minutes }} min {% endif %}{% else %}{% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}{{ readtime }} min {% endif %}{% endif %}{% endif %}read)" property="og:title">
+  <meta content="{{ page.title | upcase }} | {% if page.author %}By {{ page.author }}{% else %}{{ page.series }}{% endif %} ({% if site.readtime %}{% if readtime > 60 %}{% assign readtime_hours = readtime | divided_by: 60 %}{% assign readtime_minutes = readtime | modulo:60 %}{% if readtime_hours > 1 and readtime_hours < 2 %}1 hour{% else %}{{ readtime_hours }} hr{% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} and {{ readtime_minutes }} min {% endif %}{% else %}{% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}{{ readtime }} min {% endif %}{% endif %}{% endif %}read)" property="og:title">
 {% else %}
   <meta content="{{ site.title }}" property="og:title">
 {% endif %}

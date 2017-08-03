@@ -54,9 +54,9 @@ layout: default2
           {% assign readtime_minutes = readtime | modulo:60 %}
             {% if readtime_hours > 1 and readtime_hours < 2 %}1 hour
             {% else %}<span class="hour">{{ readtime_hours }}</span> hr
-            {% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} and <span class="time">{{ readtime_minutes }}</span> minA{% endif %}
+            {% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} and <span class="time">{{ readtime_minutes }}</span> min{% endif %}
           {% else %}
-            {% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> minB {% endif %}{% endif %}
+            {% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
           {% endif %}
           </span>
         <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span>
