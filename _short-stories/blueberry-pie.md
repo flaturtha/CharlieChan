@@ -15,6 +15,7 @@ imgh: 450px
 genre: Crime
 tags: short-story
 wordcount: 9130
+etr: 45
 trfissue: Vol. 4 No. 15
 trfdate: Jul. 16, 2017
 kindle: 

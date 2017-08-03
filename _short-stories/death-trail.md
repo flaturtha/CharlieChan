@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aefb1
 title: "Death Trail"
 author: Ray Cummings
 authorDetail: (Author of “Publicity Plus”)
-date: 2017-08-02
+date: 2018-08-02
 opub: Crack Detective
 opubdate: May 1949
 opubissue: Vol. 10, No. 2

@@ -4,14 +4,15 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef86
 title: "Ah, Sweet Mystery of Death"
 author: Bryce Walton
-date: 2017-08-04
+date: 2017-08-03
 opub: Crime Fiction Stories
 opubdate: Dec. 1950
 opubissue: Vol. 1, No. 1
 category: short-stories
 excerpt: "He called Death &quot;A woman, soft and sweet — Was this guy a poet, a neurotic — or was he really … ?"
 image: /assets/img/short-stories/ah-sweet-mystery-of-death.png
-imgh: 100px
+fb-image: /assets/img/short-stories/ah-sweet-mystery-of-death-fb.jpg
+imgh: 400px
 genre: Noir
 tags: short-story
 wordcount: 5592

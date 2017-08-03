@@ -27,7 +27,7 @@ facebook:
 
 # Read Time is a calculator to provide post Estimated Reading Time (ERT) based on word count. Usage is recommended.
 readtime: true
-wpm: 200
+wpm: 180
 
 collections:
   murderwiki:
