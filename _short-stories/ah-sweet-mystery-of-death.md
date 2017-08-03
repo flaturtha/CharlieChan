@@ -10,6 +10,7 @@ opubdate: Dec. 1950
 opubissue: Vol. 1, No. 1
 category: short-stories
 excerpt: "He called Death &quot;A woman, soft and sweet — Was this guy a poet, a neurotic — or was he really … ?"
+tease: "\"Now they've left me alone. I tell them how it happened, and I laugh. But no one else seems to think it's funny, how I cut up Warren Burron with a hand-ax.\""
 image: /assets/img/short-stories/ah-sweet-mystery-of-death.png
 fb-image: /assets/img/short-stories/ah-sweet-mystery-of-death-fb.jpg
 imgh: 400px
