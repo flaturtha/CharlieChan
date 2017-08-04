@@ -1,7 +1,7 @@
 {
   "version": "https://jsonfeed.org/version/1",
   "title": "Tales of Murder",
-  "description": "A murder mystery short story, novella & novel website. Buy thrilling murder mystery & crime stories to read on any ebook device or app.",
+  "description": "A murder mystery short story, novella &amp; novel website.",
   "home_page_url": "https://www.talesofmurder.com",
   "feed_url": "https://www.talesofmurder.com/feed.short-stories.json",
   "favicon": "https://www.talesofmurder.com/favicon.png",
