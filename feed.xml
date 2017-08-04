@@ -8,7 +8,7 @@
 		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>		
 		<atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
 		{% assign datesort = site.short-stories | sort: 'date' | reverse %}
-		{% for post in datesort limit:1 %}
+		{% for post in datesort limit:10 %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				{% if post.author %}
