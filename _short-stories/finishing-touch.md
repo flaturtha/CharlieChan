@@ -10,8 +10,9 @@ opubdate: Dec. 1921
 opubissue: Vol. 4, No. 3
 category: short-stories
 excerpt: "Ridgely had planned it carefully, the murder and the letter. But one seemingly insignificant detail was the weak link in his chain."
+tease: "There's no such thing as a perfectly planned murder. Something always trips up the most careful of crooks! Find out what that was in today's thriller ..."
 image: /assets/img/short-stories/finishing-touch.png
-image-fb: /assets/img/short-stories/finishing-touch_fb.jpg
+fb-image: /assets/img/short-stories/finishing-touch_fb.jpg
 imgh: 300px
 genre: Murder
 tags: short-story
