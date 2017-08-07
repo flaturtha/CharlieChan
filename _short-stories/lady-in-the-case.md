@@ -4,7 +4,7 @@ layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aefa9
 title: "The Lady in the Case"
 author: Lee E. Wells
-date: 2017-08-04
+date: 2017-08-11
 opub: Crack Detective
 opubdate: Mar. 1943
 opubissue: Vol. 4, No. 2
