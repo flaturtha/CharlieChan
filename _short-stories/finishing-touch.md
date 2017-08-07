@@ -4,14 +4,15 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef40
 title: "The Finishing Touch"
 author: Charles S. Wolfe
-date: 2017-08-08
+date: 2017-08-07
 opub: Black Mask
 opubdate: Dec. 1921
 opubissue: Vol. 4, No. 3
 category: short-stories
 excerpt: "Ridgely had planned it carefully, the murder and the letter. But one seemingly insignificant detail was the weak link in his chain."
 image: /assets/img/short-stories/finishing-touch.png
-imgh: 450px
+image-fb: /assets/img/short-stories/finishing-touch_fb.jpg
+imgh: 300px
 genre: Murder
 tags: short-story
 wordcount: 2075

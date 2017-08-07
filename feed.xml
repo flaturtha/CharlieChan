@@ -12,9 +12,9 @@
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				{% if post.author %}
-					<dc:creator>{{ post.author | xml_escape }}</dc:creator>
+					<author>{{ post.author | xml_escape }}</author>
 				{% else %}
-					<dc:creator>{{ post.series | xml_escape }}
+					<author>{{ post.series | xml_escape }}</author>
 				{% endif %}       
 				{% if post.excerpt %}
 					<description>{{ post.excerpt | xml_escape }}</description>
