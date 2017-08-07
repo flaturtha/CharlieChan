@@ -8,23 +8,21 @@
 		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>		
 		<atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
 		{% assign datesort = site.short-stories | sort: 'date' | reverse %}
-		{% for post in datesort limit:10 %}
+		{% for post in datesort limit:1 %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				{% if post.author %}
 					<dc:creator>{{ post.author | xml_escape }}</dc:creator>
+				{% else %}
+					<dc:creator>{{ post.series | xml_escape }}
 				{% endif %}       
 				{% if post.excerpt %}
 					<description>{{ post.excerpt | xml_escape }}</description>
 				{% endif %}
+				<image>{{ site.url }}{{ post.image }}</image>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-				<content:encoded>
-					<![CDATA[
-						<img src="{{ site.url }}{{ post.image }}" alt="{{ post.title | xml_escape }}"/>
-					]]>
-				</content:encoded>
 			</item>
 		{% endfor %}
 	</channel>
