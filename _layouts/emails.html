@@ -1,0 +1,150 @@
+---
+layout: default2
+---
+
+{% include smallnav.html %}
+
+<article itemscope itemtype="http://schema.org/Blog" class="the-story">
+
+<header class="books__header">
+{% include jsonld_novels.html %}
+
+  {% if page.image %}
+    <figure class="image-box">
+      <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="story__img" {% if page.imgh %} style="height:{{ page.imgh }};width:auto;" {% endif %} itemprop="image">
+      <figcaption>{{ page.caption }}</figcaption>
+    </figure>    
+  {% endif %}
+
+    <!-- README IF STATEMENT -->
+    {% if site.readtime %}
+      {% if site.wpm %}
+        {% assign readtime = page.wordcount | divided_by:site.wpm %}
+      {% else %}
+        {% assign readtime = page.wordcount | divided_by:180 %}
+      {% endif %}
+    {% endif %}
+
+    <div class="book_details"  {% unless page.image %} style="margin:0 auto;max-width:600px;" {% endunless %}>
+
+      <h5 style="margin-top: 1rem;"><span style="background-color:#6e6e6e;color:#fffff0;text-transform:uppercase;padding:0.5rem 0.5rem 0.5rem 0.5rem;letter-spacing:2px;">{{ page.genre }}</span></h5>
+
+      <h1 style="margin-top: 2rem;" class="books__title">{{ page.title }}</h1>
+      {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
+
+      <h2 class="books__author" itemprop="name">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
+      {% if page.authorData %}
+        <p class="authorData">{{ page.authorData }}</p>
+      {% endif %}
+      
+      <p>
+        {% if page.opub %}
+          <span style="display:block;" class="opub__ss"><em>{{ page.opub }}</em> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</span>
+        {% endif %}
+        <span style="display:block;" class="opub__ss">THE RED FILE | {{ page.trfdate }} | {{ page.trfissue }}</span> <!-- make a link to the issue! -->
+        <span style="display:block;font-size:0.875rem;">Casefile No: {{ page.casefileNumber }}</span>
+      </p>
+
+
+      <p class="metadata">
+        <span class="etr">read time:
+          {% if site.readtime %}
+          {% if readtime > 60 %}
+          {% assign readtime_hours = readtime | divided_by: 60 %}
+          {% assign readtime_minutes = readtime | modulo:60 %}
+            {% if readtime_hours > 1 and readtime_hours < 2 %}1 hour
+            {% else %}<span class="hour">{{ readtime_hours }}</span> hr
+            {% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} and <span class="time">{{ readtime_minutes }}</span> min{% endif %}
+          {% else %}
+            {% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
+          {% endif %}
+          </span>
+        <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span>
+        </p>
+        <p style="font-style:italic;border-top: 1px solid #242424;border-bottom: 1px solid #242424;padding: 0.5rem 0 0.5rem 0;">{{ page.excerpt }}</p>
+
+        {% include fb-like-share.html %}
+    </div> <!-- end div.book_details -->
+
+    
+
+    <!--  if page.kindle and page.epub %}
+      <a href="#ck_modal" rel="ck_modal" class="add-to-cart">Download <span class="small">ePub or Kindle</span></a>
+     else %}
+      <h6>Download (ePub &amp; Kindle format) coming soon!</h6>
+     endif %} -->
+
+  </header> <!-- end header.books__header -->
+
+  <article class="story">
+    {{ content  }}
+
+    <div class="social-buttons__bottom">
+      <h4>Did you enjoy<br><span class="uppercase bloodred">{{ page.title }}</span>?</h4>
+      <p class="xxsmall">Help me spread the word by clicking&nbsp;below:</p>
+      {% include fb-like-share.html %}
+    </div>
+
+  </article>
+
+  <!-- <div class="cf"></div> -->
+
+  <footer>
+    <h4>You May Also Enjoy</h4>
+    <!-- {% if page.url contains 'short-stories' %} -->
+      <div class="relatedPosts">
+
+          {% assign maxRelated = 4 %}
+          {% assign minCommonTags =  1 %}
+          {% assign maxRelatedCounter = 0 %}
+
+          {% for short-stories in site.short-stories %}
+
+          {% assign sameTagCount = 0 %}
+          {% assign commonTags = '' %}
+          {% assign commonTags = .commonTags %}
+
+          {% for tag in short-stories.tags %}
+            {% if short-stories.url != page.url %}
+              {% if page.tags contains tag %}
+                {% assign sameTagCount = sameTagCount | plus: 1 %}
+                {% capture tagmarkup %} <!-- <span class="label label-default">{{ tag }}</span> --> {% endcapture %}
+                {% assign commonTags = commonTags | append: tagmarkup %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+
+          {% if sameTagCount >= minCommonTags %}
+
+              <div class="rel">
+                <a href="{{ short-stories.url }}">
+                <h5>{{ short-stories.title }}</h5>
+                <img src="{{ short-stories.image }}" alt="">
+                <h6>{{ commonTags }}</h6>
+                </a>
+
+                <h6 style="text-transform:initial;">{% if short-stories.author %}By <span class="bloodred uppercase">{{ short-stories.author }}</span>{% else %}<span class="bloodred uppercase">{{ short-stories.series }}</span> {% endif %}</h6>
+                <p>{{ short-stories.excerpt }}</p>
+                <p><a style="background-color:#8b0000;color:#fffff0;padding:0.25rem" href="{{ short-stories.url }}">READ&nbsp;&raquo;&raquo;</a></p>
+              </div>
+
+            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+            {% if maxRelatedCounter >= maxRelated %}
+              {% break %}
+            {% endif %}
+          {% endif %}
+
+       {% endfor %}
+
+      <!-- <div class="cf"></div> -->
+      </div>
+    <!-- {% endif %} -->
+
+
+  </footer>
+
+</article>
+
+<!-- <div class="cf"></div> -->
+
+ <!-- optin4 -->

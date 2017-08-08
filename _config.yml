@@ -62,6 +62,9 @@ collections:
   thank-you:
     output: true
     permalink: /thank-you/:path/
+  email-archives:
+    output: true
+    permalink: /email-archives/:path/
 
 
 

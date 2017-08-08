@@ -1,0 +1,6 @@
+<ul>
+  {% assign datesort = site.short-stories | sort: 'date' | reverse %} <!-- sorts in blog-post-like reverse chron order -->
+  {% for short-stories in datesort %}
+    <li style="background-color:#e6e6c1;margin-bottom:3rem;padding:0.5rem;border:2px solid #80806b;"><span class="xsmall">{{ short-stories.date |date: "%a, %b %d, %Y" }}<br>CASEFILE NO: {{ short-stories.casefileNumber }}</span><br><br>{{ short-stories.title | upcase }} by {{ short-stories.author }} ({{ short-stories.readtime }} min read)</li>
+  {% endfor %}
+</ul>
