@@ -12,7 +12,7 @@
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				{% if post.author %}
-					<author>{{ post.author | xml_escape }}</author>
+					<author>atticus@talesofmurder.com ({{ post.author | xml_escape }})</author>
 				{% else %}
 					<author>{{ post.series | xml_escape }}</author>
 				{% endif %}       
