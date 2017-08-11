@@ -16,9 +16,10 @@
 
 .adb {
 	margin: 0.5rem 0 2rem 2rem;
-	color: lighten($pcolor, 25%);
+	color: lighten($pcolor, 10%);
 	font-style: italics;
 	font-size: 0.875rem;
+	font-family: Spectral;
 	dt {
 		font-weight: bold;
 		text-transform: uppercase;
@@ -44,14 +45,25 @@
 		text-align: center;
 		text-transform: uppercase;
 		color: $acolor;
+		margin-top: 5rem;
 	}
 	p {
-		margin: 0 auto;
+		margin: 0 auto 1rem;
 		width: 500px;
 		max-width: 90%;
 	}
+	img {
+		// width: 600px;
+		// max-width: 90%;
+		margin: 0 0 3rem 0;
+	}
 }
 
+.subject-line {
+	font-size: 0.875rem !important;
+	color: $acolor;
+	max-width: 85%;
+}
 
 
 

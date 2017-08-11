@@ -57,6 +57,9 @@ ul {
     }
   }
   @media screen and (min-width: 48rem){
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
     // min-height: 50vh;
   }
 }
@@ -67,7 +70,7 @@ ul {
 // }
 
 .siteintro_top {
-  margin-top: 76px;
+  margin: 76px 0 25px;
   padding-top: 30px;
 }
 

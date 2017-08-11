@@ -218,7 +218,7 @@ category: start-here
 
 			</div> <!-- end div.novels -->
 
-			<div class="sh__subscriptions">
+			<div class="sh__subscriptions hidden">
 				<a href="/subscriptions/"><img src="/assets/img/starthere/subs-label2.png" alt="Subscriptions" class="label"></a>
 				<p>What if you could get all the murder mystery, crime &amp; detective fiction delivered staight to your inbox?</p>
 				<p>What if you could automatically download individual stories to read anytime/anywhere?</p>
