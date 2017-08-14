@@ -12,8 +12,10 @@ pubdate: 2017-01-10
 category: novels
 genre: Legal
 image: /assets/img/novels/spider-lily.jpg
+fb-image: /assets/img/novels/spider-lily_fb.jpg
 wordcount: 75013
-description: "Alec Linn returns home after two years in the Air Force, fighting the Japs in India to find his wife, Lily, not waiting for him at the train station and his family unwilling to tell him where she is. Then Lily turns up dead and Alec is accused of her murder."
+description: "A World War II era murder mystery: Alec Linn steps off the train at home after two years in the Air Force, fighting the Japs in India, expecting to find his wife, Lily, waiting for him on the platform. But she wasn't there, and his family is unwilling to tell him where she is. Then Lily turns up dead and Alec is accused of her murder."
+tease: "A troubled WWII vet returns home after fighting the Japanese in India to find himself accused of murdering his wife in a jealous rage. Buy this World War II eara murder mystery thriller today and follow Alec Linn as he struggles to defeat his demons, prove his innocence, and find who really killed his Lily."
 tags: novel
 buybutton: https://transactions.sendowl.com/products/507897/3321B926/add_to_cart
 downloadsamplebutton: https://transactions.sendowl.com/products/507933/C766E81E/add_to_cart

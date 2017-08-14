@@ -31,6 +31,8 @@
 {% if page.tease %}
   <meta content="{{ page.tease }}" property="og:description">
 {% else %}
+  <meta content="{{ page.description }}" property="og:description">
+{% else %}
   <meta content="{{ site.description }}" property="og:description">
 {% endif %}
 
