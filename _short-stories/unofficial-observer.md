@@ -10,7 +10,8 @@ opubdate: June/July 1927
 opubissue: Vol. 11, No. 2
 category: short-stories
 excerpt: "This is in the popular Burks manner. High-pressure thrills. Smashing action. Red-blooded excitement. Breathless suspense. And then the devastating climax."
-image: /assets/img/short-stories/dehavilland.png
+image: /assets/img/short-stories/dehavilland2.png
+fb-image: /assets/img/short-stories/dehavilland_fb.jpg
 caption: "de Havilland DH.66 Hercules"
 imgh: 200px
 genre: Action
