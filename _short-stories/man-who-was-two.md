@@ -10,6 +10,7 @@ opubdate: Apr. 1922
 opubissue: Vol. 5, No. 1
 category: short-stories
 excerpt: "Six years ago, the death of New York City Detective Capt. John Connors was reported by the papers. Today, the man he arrested claims to know the true fate of the detective hero."
+caption: "The train wreck that interrupted Capt. John Connor's arrest of the notorious gangster and forger, Simon Latham."
 image: /assets/img/short-stories/man-who-was-two.svg
 imgh: 300px
 genre: Professional Sleuth
@@ -35,7 +36,7 @@ trfdate: Aug. 13, 2017
 ### The True Story of John Conners
 {: .chaptertitle}
 
-_To The Governor and Members of The Board of Pardons: Some six years ago, according to the _Daily Press_, Captain John Conners of the Detective Bureau of the New York City Police Department was killed in a wreck of the Oscaloosa Limited between Chicago, Illinois, and Clinton, Iowa. His body, horribly mangled and disfigured beyond recognition, was shipped home, where it was buried with all the honors due a man of his position._
+_**To The Governor and Members of The Board of Pardons:** Some six years ago, according to the Daily Press, Captain John Conners of the Detective Bureau of the New York City Police Department was killed in a wreck of the Oscaloosa Limited between Chicago, Illinois, and Clinton, Iowa. His body, horribly mangled and disfigured beyond recognition, was shipped home, where it was buried with all the honors due a man of his position._
 
 _In view of the fact that his was the only body not positively identified, together with the further fact that he was a personal friend of the conductor, one James Barley, who testified at the inquest that he had talked with Conners not over five minutes before the wreck, his family and friends accepted the remains without question._
 

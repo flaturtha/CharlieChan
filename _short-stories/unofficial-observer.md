@@ -4,14 +4,15 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aeff6
 title: "The Unofficial Observer"
 author: Lieutentant Arthur J. Burks
-date: 2017-08-16
+date: 2017-08-15
 opub: Real Detective Tales 
 opubdate: June/July 1927
 opubissue: Vol. 11, No. 2
 category: short-stories
 excerpt: "This is in the popular Burks manner. High-pressure thrills. Smashing action. Red-blooded excitement. Breathless suspense. And then the devastating climax."
-image: /assets/img/short-stories/dehavilland.svg
-imgh: 400px
+image: /assets/img/short-stories/dehavilland.png
+caption: "de Havilland DH.66 Hercules"
+imgh: 200px
 genre: Action
 tags: short-story
 wordcount: 1728
@@ -41,7 +42,7 @@ My spectacles are the bar between me and aviation; they are shell-rimmed affairs
 
 It&#39;s this way: I wasn&#39;t born with a silver spoon in my mouth; but a paternal uncle left me some money right after I left school, and I guess there must have been quite a bit of it, since none of my checks has ever come back marked &quot;insufficient funds&quot; — and I&#39;m always writing &#39;em.
 
-I have a sizeable interest in an airport in the thriving city of San Diego, and one of the DeHavilands is always in readiness for my use. I don&#39;t fly it myself, unless we are so high up in the air that the real pilot has enough time to take her over and straighten her out before we hit earth after some idiotic mistake of mine; hut I always get a terrific kick out of acting as the unofficial observer in the rear cockpit, where I consider myself monarch of all I survey.
+I have a sizeable interest in an airport in the thriving city of San Diego, and one of the De Havillands is always in readiness for my use. I don&#39;t fly it myself, unless we are so high up in the air that the real pilot has enough time to take her over and straighten her out before we hit earth after some idiotic mistake of mine; hut I always get a terrific kick out of acting as the unofficial observer in the rear cockpit, where I consider myself monarch of all I survey.
 
 All of which rambling leads up to the fact that I believe that airplanes and crime dovetail in many ways. Crooks use &#39;em as well as honest men. From this I figure that there is, ready-made, a niche for a brand new kind of detective — of which, as far as I know, I am among the first. Having modestly got that off my chest I shall now proceed with the story.
 
@@ -118,7 +119,7 @@ Then he closed the vault door.
 ### Chapter 4
 {: .chapternumber .no_toc}
 
-### The Guns of the DeHavilands
+### The Guns of the De Havillands
 {: .chaptertitle}
 
 At three-thirty exactly I received a call from the Chief of Police.
@@ -135,13 +136,13 @@ I noted with a wry grin that he mentioned the loss of the fifteen thousand befor
 
 I hung up the receiver. Then I got an idea. I called the taxicab company and asked if they had received a call for a taxi within the last half hour from anywhere near the Merchants&#39; County Bank. That business of the little red automobile didn&#39;t sound exactly right to me. A good hunch, this. A call had just come in from a drug store within three blocks of the bank. They gave me the number of the cab that had been sent. I called the Chief of Police and told him.
 
-It was now almost four o&#39;clock, which is the regular time when our two passenger-carrying DeHavilands take off for Los Angeles. I had just hung up the receiver when the roaring of the Liberties drowned out all other sounds. It is a sound one never forgets. It always thrills me. I decided to have my own &#39;plane convoy the two passenger carriers as far as Oceanside, just for the ride.
+It was now almost four o&#39;clock, which is the regular time when our two passenger-carrying De Havillands take off for Los Angeles. I had just hung up the receiver when the roaring of the Liberties drowned out all other sounds. It is a sound one never forgets. It always thrills me. I decided to have my own &#39;plane convoy the two passenger carriers as far as Oceanside, just for the ride.
 
-I signaled to my own pet pilot. The propeller was spun by a mechanic with more nerve than I&#39;ll ever have, and I saw, for the thousandth time, a sight which always makes me feel as though I were king of the world — three sweet-singing DeHavilands tugging at their blocks impatiently, wagging their tails with eagerness to be off. The propellers are invisible, almost, and dust behind the &#39;planes goes blizzarding across the avenue behind the airport, blotting from view the passing automobiles which scurry across Dutch Flats from Ocean Beach to San Diego.
+I signaled to my own pet pilot. The propeller was spun by a mechanic with more nerve than I&#39;ll ever have, and I saw, for the thousandth time, a sight which always makes me feel as though I were king of the world — three sweet-singing De Havillands tugging at their blocks impatiently, wagging their tails with eagerness to be off. The propellers are invisible, almost, and dust behind the &#39;planes goes blizzarding across the avenue behind the airport, blotting from view the passing automobiles which scurry across Dutch Flats from Ocean Beach to San Diego.
 
-Then two things happen with startling suddenness. The dust behind the middle DeHaviland clears for a moment, and I see an orange-colored taxicab drawn up at the curb. There is no one in it but the chauffeur, and he is staring at that middle DeHaviland as though he had gone crazy. I note, with a suppressed shout of excitement, the number on the side of the taxicab, and turn to the middle DeHaviland to see what it is all about.
+Then two things happen with startling suddenness. The dust behind the middle De Havilland clears for a moment, and I see an orange-colored taxicab drawn up at the curb. There is no one in it but the chauffeur, and he is staring at that middle De Havilland as though he had gone crazy. I note, with a suppressed shout of excitement, the number on the side of the taxicab, and turn to the middle De Havilland to see what it is all about.
 
-Even as I turn, the DeHaviland in question, with the gun full on, the engines howling protest at tire heavens, leaps the blocks and hurtles down the field like an airplane gone mad. There is only one passenger in the &#39;plane, and this one is crouched in the rear cockpit, his right hand, holding something sinister, pressed against the neck of the pilot.
+Even as I turn, the De Havilland in question, with the gun full on, the engines howling protest at tire heavens, leaps the blocks and hurtles down the field like an airplane gone mad. There is only one passenger in the &#39;plane, and this one is crouched in the rear cockpit, his right hand, holding something sinister, pressed against the neck of the pilot.
 
 The guns of the two other &#39;planes are cut instantly. In the comparative silence I see police cars, careening like ships in a storm, swing into the avenue from both ends. The chauffeur of the taxicab holds his ground, though he is about as scared a driver as I have ever seen.
 
@@ -159,7 +160,7 @@ I decide not to wait for the police. I am prodded into action by the beckoning h
 
 The &#39;plane ahead of us has straightened and pointed her nose in the general direction of Tijuana, which is so near that they may make the border before we can head &#39;em off. My &#39;plane is a fast baby, though, and when we settle on the tail of that bandit&#39;s &#39;plane we&#39;re stepping &#39;em a few, believe me. The wind shrieks through the struts and braces, and the ground below looks, for once, as though it were really moving. We are going around a hundred and forty, I judge.
 
-My pilot lifts her again, then once more. He&#39;s trying to get above that other &#39;plane for a dive. It&#39;s no go though, that. I know. That pilot in the other &#39;plane is a friend of ours. I daren&#39;t crash him. If it were just the bandit now, and the loss of a DeHaviland, that would be all right. They still honor my checks, even for enough to buy DeHavilands at regular intervals. We are now six thousand feet up, and the leading &#39;plane is well below us, and we are gaining. That other pilot knows his stuff, too. Even with a gun against his neck, in the hand of a man who has shown he will use it, that pilot is still doing everything he can to delay reaching the border.
+My pilot lifts her again, then once more. He&#39;s trying to get above that other &#39;plane for a dive. It&#39;s no go though, that. I know. That pilot in the other &#39;plane is a friend of ours. I daren&#39;t crash him. If it were just the bandit now, and the loss of a De Havilland, that would be all right. They still honor my checks, even for enough to buy De Havillands at regular intervals. We are now six thousand feet up, and the leading &#39;plane is well below us, and we are gaining. That other pilot knows his stuff, too. Even with a gun against his neck, in the hand of a man who has shown he will use it, that pilot is still doing everything he can to delay reaching the border.
 
 Then I remember something. That pilot was supposed to make a trip to Los, which means that he has a parachute! Why didn&#39;t I think of that before? I yell at my pilot, and the wind drives the words hack into my throat until they fetch up with a thud against the soles of my feet. Dumb! Then I jab the pilot in the back and signal for him to dive. He grins at me and lifts both hands to the edge of the cowling.
 
