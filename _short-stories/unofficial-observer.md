@@ -16,7 +16,7 @@ caption: "de Havilland DH.66 Hercules"
 imgh: 200px
 genre: Action
 tags: short-story
-wordcount: 1728
+wordcount: 3829
 trfissue: Vol. 3 No. 17
 trfdate: Apr 23, 2017
 ---
