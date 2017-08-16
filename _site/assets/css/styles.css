@@ -555,9 +555,12 @@ h4, .h4 {
      ADB SIGNUP
    ============== */
 .adb-signup {
+  width: 289px;
   position: absolute;
-  top: 65px;
-  right: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
   z-index: 5; }
   .adb-signup span {
     background-color: #ffff00;
@@ -565,6 +568,11 @@ h4, .h4 {
     font-weight: bold;
     border: 1px solid #8B0000;
     padding: 0.25rem 0.5rem; }
+  @media screen and (min-width: 48rem) {
+    .adb-signup {
+      top: 65px;
+      right: 30px;
+      left: initial; } }
 
 /*=============================================
 =    PRIVACY POLICY                           =
@@ -2876,14 +2884,15 @@ ul {
     color: #8B0000; }
 
 .whitebar {
-  background-color: #8B0000;
-  color: #fffff0;
+  background-color: #fffff0;
+  color: #8B0000;
   padding: 0.5rem 1rem;
+  padding: 0 0.5rem;
   font-weight: bold;
-  font-size: 0.72rem; }
+  font-size: 0.875rem; }
   .whitebar a {
-    color: #fffff0; }
-  @media screen and (min-width: 466px) {
+    color: #8B0000; }
+  @media screen and (min-width: 810px) {
     .whitebar {
       font-size: 1rem;
       background-color: #fffff0;

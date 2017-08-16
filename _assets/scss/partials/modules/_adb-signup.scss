@@ -3,9 +3,12 @@
    ============== */
 
 .adb-signup {
+	width: 289px;
 	position: absolute;
-	top: 65px;
-	right: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
 	z-index: 5;
 	span {
 		background-color: $highlight;
@@ -13,6 +16,12 @@
 		font-weight: bold;
 		border:1px solid $acolor;
 		padding:0.25rem 0.5rem;
+	}	
+
+	@media screen and (min-width: 48rem){
+		top: 65px;
+		right: 30px;
+		left: initial;
 	}
 }
 

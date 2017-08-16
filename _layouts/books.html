@@ -67,11 +67,14 @@ layout: default2
 
           {% if page.testimonials %}<p class="testimonials">{{ page.testimonials }}</p>{% endif %}
         
-        {% if page.preprice %}
-          <p class="book__price" style="text-align:center;"><span class="strikethru">${{ page.price }}</span> ${{ page.preprice }} <span class="prebuy-pitch"> MEMORIAL&nbsp;DAY&nbsp;SPECIAL&nbsp;PRICE!</span><br><span class="xsmall">Price valid through May 31, 2017</span></p>
-        {% else %}
-          <p class="book__price">${{ page.price }}</p>
-        {% endif %}
+          <div style="display:flex;flex-direction:row;justify-content:space-around;">
+            {% if page.preprice %}
+              <p class="book__price" style="text-align:center;"><span class="strikethru">${{ page.price }}</span> ${{ page.preprice }} <span class="prebuy-pitch"> MEMORIAL&nbsp;DAY&nbsp;SPECIAL&nbsp;PRICE!</span><br><span class="xsmall">Price valid through May 31, 2017</span></p>
+            {% else %}
+              <p class="book__price">${{ page.price }}</p>
+            {% endif %}
+            {% include fb-like-share.html %}
+          </div>
         </div>
 
         <div class="book__buttons">
