@@ -13,6 +13,7 @@ pubdate: 2017-01-10
 category: novels
 genre: hardboiled PI
 image: /assets/img/novels/andsuddendeath.jpg
+fb-image: /assets/img/novels/andsuddendeath_fb.jpg
 wordcount: 46403
 description: "Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him &hellip; ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings & Loan."
 tags: novel
