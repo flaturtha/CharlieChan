@@ -85,6 +85,7 @@ collections:
 # Build settings
 permalink: /:categories/:title/
 markdown: kramdown
+highligher: rouge
 
 gems:
   - jekyll-sitemap
@@ -97,6 +98,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
+  # syntax_highlighter: rouge
 
 include: ["_pages"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "gulpfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "bower.json"]

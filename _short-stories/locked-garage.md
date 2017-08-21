@@ -4,13 +4,15 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefcd
 title: "The Case of the Locked Garage"
 series: A Dixon Hawke Mystery 
-date: 2017-08-22
+date: 2017-08-21
 opub: Dixon Hawke Casebook 
 opubdate: Spring 1940
 opubissue: No. 4
 category: short-stories
 excerpt: "Can Hawke prove young Thorpe is just an innocent patsy and not the killer of his boss Mr. Wilson, the bank manager?"
+tease: "Yet another thrill ride with master detective Dixon Hawke ... but will he and his sidekick, Tommy, manage to slip their bonds before its too late? Find out in ..."
 image: /assets/img/short-stories/locked-garage.png
+fb-image: /assets/img/short-stories/locked-garage_fb.jpg
 imgh: 450px
 genre: Professional Sleuth
 tags: short-story

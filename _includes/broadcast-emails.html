@@ -1,0 +1,43 @@
+  <section class="hp__short-stories wrap">
+    
+    <ul class="">
+    {% assign shorts = site.short-stories | reverse %}
+    {% for short-stories in shorts %}
+
+      <li class="">
+        <h1>CASEFILES</h1>
+        <p>{{ short-stories.date | date:"%a, %b %d %Y" }}</p>
+        <p>CASEFILE NUMBER: {{ short-stories.casefileNumber }}</p>
+
+        <hr>
+
+        <img src="{{ short-stories.image }}" alt="{{ short-stories.title}} {% if short-stories.author %}By {{ short-stories.author }}{% else %}{{ short-stories.series }}{%endif%}" style="float:left;max-width:25%;margin:10px 10px 10px 10px;">
+
+        <h2>{{ short-stories.title }}</h2>
+        <h3>
+          {% if short-stories.author %}
+            <span>by</span> {{ short-stories.author }}
+          {% else %}
+            {{ short-stories.series }}
+          {% endif %}
+        </h3>
+        <p>{{ short-stories.etr }}</p>
+        <p>{{ short-stories.excerpt }}</p>
+
+        <hr>
+
+        <p>{{ short-sories.tease }}</p>
+
+        
+      </li>
+
+      <div class="cf"></div>
+
+      <hr style="margin: 2rem 0;border:3px solid #8b0000;">
+
+    {% endfor %}
+    
+    </ul>
+  
+
+  </section>
