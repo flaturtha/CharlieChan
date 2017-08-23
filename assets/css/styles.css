@@ -925,7 +925,6 @@ label {
       -webkit-box-align: baseline;
       -webkit-align-items: baseline;
           -ms-flex-align: baseline;
-                  -ms-grid-row-align: baseline;
               align-items: baseline; } }
 
 .breadcrumbs {
@@ -1633,6 +1632,7 @@ a.readmore {
 .image-box {
   -webkit-align-self: center;
       -ms-flex-item-align: center;
+              -ms-grid-row-align: center;
           align-self: center; }
   .image-box figcaption {
     font-weight: bold;
@@ -2217,6 +2217,7 @@ ol ol li:last-child {
     margin: 1rem 0;
     -webkit-align-self: center;
         -ms-flex-item-align: center;
+                -ms-grid-row-align: center;
             align-self: center; }
   @media screen and (min-width: 48rem) {
     .freebie {
@@ -2435,6 +2436,7 @@ ol ol li:last-child {
       letter-spacing: 2px;
       -webkit-align-self: center;
           -ms-flex-item-align: center;
+                  -ms-grid-row-align: center;
               align-self: center; }
       .optin3 .optin__header h2 span {
         display: block;
@@ -2476,6 +2478,7 @@ ol ol li:last-child {
       border: 1px solid #242424;
       -webkit-align-self: center;
           -ms-flex-item-align: center;
+                  -ms-grid-row-align: center;
               align-self: center; }
     .optin3 .optin__content h3 span {
       display: block;

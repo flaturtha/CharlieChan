@@ -4,13 +4,15 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef05
 title: "You'll Kill the People"
 author: Richard Brister
-date: 2017-08-24
+date: 2017-08-23
 opub: Smashing Detective Stories
 opubdate: Sept. 1951
 opubissue: Vol. 1, No. 3
 category: short-stories
 excerpt: "Right after he first appeared on TV, Buddy Burton began to receive warnings&#58; get out while you’re still alive! It didn’t seem to make any sense, but Buddy found that the party sending them mean business, and &hellip;"
+tease: "When popular TV singer Buddy Burton is threaten &mdash; GET OFF TV OR ELSE &mdash; will he run or face down this threat to his life and career? Read this frighteningly real story today!"
 image: /assets/img/short-stories/youll-kill-the-people.svg
+fb-image: /assets/img/short-stories/youll-kill-the-people_fb.jpg
 imgh: 300px
 genre: Noir
 tag: short-story
@@ -36,7 +38,7 @@ trfdate: Aug. 13, 2017
 ### You Kill Me
 {: .chaptertitle }
 
-The orchestra gave him a couple of bars, for an introduction, and he stood there, still a little uncomfortable under the staring eyes of the TV cameras and a dozen assorted studio technicians, and gave out with his rich baritone on an oldie, something called Careless.
+The orchestra gave him a couple of bars, for an introduction, and he stood there, still a little uncomfortable under the staring eyes of the TV cameras and a dozen assorted studio technicians, and gave out with his rich baritone on an oldie, something called *Careless*.
 
 He sang with feeling. Professionally, he now called himself Burton, Buddy Burton, but he had been born plain Joe Caterisano, in a brick row house on the outskirts of Newark, NJ. His Latin blood showed in his raven black hair, in his slightly overripe but wholly natural gestures, as he punched emphasis into the worn-out words of the old song lyric. He was swarthily, masculinely handsome, and he sang, people said, like a bird.
 

@@ -87,7 +87,7 @@ permalink: /:categories/:title/
 markdown: kramdown
 highligher: rouge
 
-gems:
+plugins:
   - jekyll-sitemap
   # - jekyll-seo-tag
   # - jekyll-feed /* doesn't work for collections, only posts; which is STOOPID */
