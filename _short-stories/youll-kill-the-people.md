@@ -9,7 +9,7 @@ opub: Smashing Detective Stories
 opubdate: Sept. 1951
 opubissue: Vol. 1, No. 3
 category: short-stories
-excerpt: "Right after he first appeared on TV, Buddy Burton began to receive warnings&#58; get out while you’re still alive! It didn’t seem to make any sense, but Buddy found that the party sending them mean business, and &hellip;"
+excerpt: "Right after he first appeared on TV, Buddy Burton began to receive warnings&#58; get out while you’re still alive! It didn’t seem to make any sense, but Buddy found that the party sending them meant business, and &hellip;"
 tease: "When popular TV singer Buddy Burton is threaten &mdash; GET OFF TV OR ELSE &mdash; will he run or face down this threat to his life and career? Read this frighteningly real story today!"
 image: /assets/img/short-stories/youll-kill-the-people.svg
 fb-image: /assets/img/short-stories/youll-kill-the-people_fb.jpg
@@ -87,7 +87,7 @@ They went up to bed and at eleven-thirty, the phone rang. Joe threw a robe over 
 
 “You stink, Burton. I caught you on the TV tonight, and you stink.”
 
-He had only just begun to be somebody, but he bad always known that once he got there he would have cranks to contend with. He couldn’t help grinning, remembering what he’d said to Marie about getting stuck on himself.
+He had only just begun to be somebody, but he had always known that once he got there he would have cranks to contend with. He couldn’t help grinning, remembering what he’d said to Marie about getting stuck on himself.
 
 Not much danger of that, with characters around like this one on the other end of the wire.
 
@@ -117,7 +117,7 @@ GET OUT OF TV, KID. BIG MONEY AIN’T WORTH IT. HOW MUCH DOUGH CAN YOU SPEND SIX
 
 “Just some nut,” Joe said. “Some—”
 
-“You can’t dismiss it like that, Toe. This is a threat on your life. Take it to the police. Please?” she said.
+“You can’t dismiss it like that, Joe. This is a threat on your life. Take it to the police. Please?” she said.
 
 He frowned at the prospect, but looking at Marie, sensing her fear for his safety, he knew he had no real choice in the matter...
 
@@ -179,13 +179,13 @@ He frowned at the prospect, but looking at Marie, sensing her fear for his safet
 ### This Is A Stick-Up
 {: .chaptertitle }
 
-He drove in Tuesday afternoon to rehearse for that evening’s slow, and Alec Thornbush, the program director, remarked that he seemed nervous.
+He drove in Tuesday afternoon to rehearse for that evening’s show, and Alec Thornbush, the program director, remarked that he seemed nervous.
 
 “It’s nothing,” Joe told him. “Been off my feed the last day or two, Alec.”
 
 He got through the show better than he had hoped to, rising to the occasion like any seasoned campaigner, but he hurried down to get his car, when it was over. In the back of his mind was a nameless worry; somehow he was eager to be home again, to know that Marie and the kids were okay.
 
-As he nosed the car out to the street, he had to wait for the light to change at the corner. A man in a light tan topcoat, wearing a felt bat pulled low over his eyes, stepped casually up to the car, on the passenger side, opened the door, and slid in beside Joe.
+As he nosed the car out to the street, he had to wait for the light to change at the corner. A man in a light tan topcoat, wearing a felt hat pulled low over his eyes, stepped casually up to the car, on the passenger side, opened the door, and slid in beside Joe.
 
 Joe felt a tightness in his throat as he peered toward the intruder.
 
@@ -209,7 +209,7 @@ Joe saw that the street was momentarily clear and he swung out from the garage, 
 
 The man not only talked mad, he looked mad. The gun again made a cone-shaped bulge against, the pocket of the tan topcoat, and, like a dog, the man seemed to be bristling with anger.
 
-“They laughed at me,” Joe tried to mollify him. “They seemed to think I was gunning for some free publicity at their expense, if yon must know.”
+“They laughed at me,” Joe tried to mollify him. “They seemed to think I was gunning for some free publicity at their expense, if you must know.”
 
 “You know something?” the man laughed. “I can believe that. I don’t think you’re lying.”
 
@@ -228,7 +228,7 @@ The man not only talked mad, he looked mad. The gun again made a cone-shaped bul
 
 Joe parked at the curb and turned for a better look at his rider.
 
-The man said, “Uh-unh. Yon keep staring straight ahead, through the windshield. Now, you asked what I want, and I’ve already told you, but I’m ready to give you one more chance, pal. I want you to quit singing. Get oat of show business, see? Find some other way to earn a living, pal.”
+The man said, “Uh-unh. You keep staring straight ahead, through the windshield. Now, you asked what I want, and I’ve already told you, but I’m ready to give you one more chance, pal. I want you to quit singing. Get oat of show business, see? Find some other way to earn a living, pal.”
 
 “I worked hard for the break I’m finally getting,” Joe said. “What are you, some kind of a nut? You don’t know what you’re asking.”
 

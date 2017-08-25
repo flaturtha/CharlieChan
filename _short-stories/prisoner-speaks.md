@@ -4,14 +4,16 @@ layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aef3d
 title: "The Prisoner Speaks"
 author: J. Frederic Thorne
-date: 2017-08-26
+date: 2017-08-25
 opub: Black Mask
 opubdate: Dec. 1921
 opubissue: Vol. 4, No. 3
 category: short-stories
 excerpt: "Will the case against Samuel Smith for the murder of his wife fall apart when he testifies in his own defense?"
 image: /assets/img/short-stories/prisoner-speaks.png
+fb-image: /assets/img/short-stories/prisoner-speaks_fb.jpg
 caption: "Mrs. Garford had \"almost stepped on\" the body of Harriet Smith."
+tease: "A thrilling legal thriller ... the perfect read for a rainy Saturday evening! Download it today!!"
 imgh: 450px
 genre: Courtroom
 tag: short-story
