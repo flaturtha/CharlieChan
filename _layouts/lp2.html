@@ -5,86 +5,85 @@
   {% include header_lp.html %}
 
 	<section class="offer__top" style="background-image:url('{{ page.bg-image }}');">
-		<!-- <div class="alpha"> -->
-	    <img src="{{ page.cover-img }}" alt="{{ page.title }} by {{ page.author }}" class="book__img">
+    <img src="{{ page.cover-img }}" alt="{{ page.title }} by {{ page.author }}" class="book__img">
 
-	    <!-- README IF STATEMENT -->
-	    {% if site.readtime %}
-	      {% if site.wpm %}
-	        {% assign readtime = page.wordcount | divided_by:site.wpm %}
-	      {% else %}
-	        {% assign readtime = page.wordcount | divided_by:180 %}
-	      {% endif %}
-	    {% endif %}
+    <!-- README IF STATEMENT -->
+    {% if site.readtime %}
+      {% if site.wpm %}
+        {% assign readtime = page.wordcount | divided_by:site.wpm %}
+      {% else %}
+        {% assign readtime = page.wordcount | divided_by:180 %}
+      {% endif %}
+    {% endif %}
 
-	    <div class="offer_details">
-	    	<h5><span>{{ page.genre }}</span></h5>
-	      <h1 class="books__title">{{ page.title }}</h1>
-	      {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
+    <div class="offer_details">
+    	<h5><span>{{ page.genre }}</span></h5>
+      <h1 class="books__title">{{ page.title }}</h1>
+      {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
 
-	      <h2 class="books__author">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
-	      {% if page.authorData %}
-	        <p class="authorData">{{ page.authorData }}</p>
-	      {% endif %}
+      <h2 class="books__author">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
+      {% if page.authorData %}
+        <p class="authorData">{{ page.authorData }}</p>
+      {% endif %}
 
-	      <p>
-	        {% if page.opub %}
-	          <span style="display:block;" class="opub__ss"><em>{{ page.opub }}</em> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</span>
-	        {% endif %}
-	        <span style="display:block;" class="opub__ss">THE RED FILE | {{ page.trfdate }} | {{ page.trfissue }}</span> <!-- make a link to the issue! -->
-	        <span style="display:block;font-size:0.875rem;">Casefile No: {{ page.casefileNumber }}</span>
-	      </p>
+      <p>
+        {% if page.opub %}
+          <span style="display:block;" class="opub__ss"><em>{{ page.opub }}</em> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</span>
+        {% endif %}
+        <span style="display:block;" class="opub__ss">THE RED FILE | {{ page.trfdate }} | {{ page.trfissue }}</span> <!-- make a link to the issue! -->
+        <span style="display:block;font-size:0.875rem;">Casefile No: {{ page.casefileNumber }}</span>
+      </p>
 
-	      <p class="metadata">
-	        <!-- <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span> -->
-	        <span class="etr">read time:
-	          {% if site.readtime %}
-	          {% if readtime > 60 %}
-	          {% assign readtime_hours = readtime | divided_by: 60 %}
-	          {% assign readtime_minutes = readtime | modulo:60 %}
-	            {% if readtime_hours > 1 and readtime_hours < 2 %}1 hour
-	            {% else %}<span class="hour">{{ readtime_hours }}</span> hr
-	            {% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} and <span class="time">{{ readtime_minutes }}</span> min{% endif %}
-	          {% else %}
-	            {% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
-	          {% endif %}
-	          </span>
-	        </p>
+      <p class="metadata">
+        <!-- <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span> -->
+        <span class="etr">read time:
+          {% if site.readtime %}
+          {% if readtime > 60 %}
+          {% assign readtime_hours = readtime | divided_by: 60 %}
+          {% assign readtime_minutes = readtime | modulo:60 %}
+            {% if readtime_hours > 1 and readtime_hours < 2 %}1 hour
+            {% else %}<span class="hour">{{ readtime_hours }}</span> hr
+            {% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} and <span class="time">{{ readtime_minutes }}</span> min{% endif %}
+          {% else %}
+            {% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
+          {% endif %}
+          </span>
+        </p>
 
-	        <div>
-	          <p class="lp_description">{{ page.excerpt }}</p>
+        <div>
+          <p class="lp_description">{{ page.excerpt }}</p>
 
-	          {% if page.testimonials %}<p class="testimonials">{{ page.testimonials }}</p>{% endif %}
-	        	
-	        	<!-- FB LIKE/SHARE Buttons -->
-						<div class="social-buttons">
-						  <div class="fb-like" data-href="{{ site.url }}{{ page.ourl }}" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="false"></div>
-							<div class="tmp_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-size="large"data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+          {% if page.testimonials %}<p class="testimonials">{{ page.testimonials }}</p>{% endif %}
+        	
+        	<!-- FB LIKE/SHARE Buttons -->
+					<div class="social-buttons">
+					  <div class="fb-like" data-href="{{ site.url }}{{ page.ourl }}" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="false"></div>
+						<div class="tmp_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-size="large"data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+					</div>
+      	</div>
+        
+        <div class="buttonsdiv" style="">
+        	{% if page.buybutton %}
+						{% if page.saleprice %}
+		          <p class="book__price"><span class="strikethru grey">${{ page.price }}</span> ${{ page.saleprice }} <span class="prebuy-pitch"> SPECIAL PRICE!</span></p>
+		        {% else %}
+		          <p class="book__price">${{ page.price }}</p>
+		        {% endif %}
+		        	<!-- <p>You save {{ page.price | minus: page.saleprice | times: 100.0 | divided_by: page.price }}%</p> -->
+		        </div>
+						<br>
+		        <div class="book__buttons">
+	            {{ page.buybutton }}
+		        </div>
+ 	        {% else %}
+						<div class="book__buttons" style="margin-top: 1.5rem;">
+							<a href="#sample" class="add-to-cart">READ SAMPLE</a>
+							<a href="#" class="add-to-cart">DOWNLOAD</a>
 						</div>
-        	</div>
-	        
-	        <div class="buttonsdiv" style="">
-	        	{% if page.buybutton %}
-							{% if page.saleprice %}
-			          <p class="book__price"><span class="strikethru grey">${{ page.price }}</span> ${{ page.saleprice }} <span class="prebuy-pitch"> SPECIAL PRICE!</span></p>
-			        {% else %}
-			          <p class="book__price">${{ page.price }}</p>
-			        {% endif %}
-			        	<!-- <p>You save {{ page.price | minus: page.saleprice | times: 100.0 | divided_by: page.price }}%</p> -->
-			        </div>
-							<br>
-			        <div class="book__buttons">
-		            {{ page.buybutton }}
-			        </div>
-	 	        {% else %}
-							<div class="book__buttons" style="margin-top: 1.5rem;">
-								<a href="#sample" class="add-to-cart">READ SAMPLE</a>
-								<a href="#" class="add-to-cart">DOWNLOAD</a>
-							</div>
-						{% endif %}
-	        </div>
+					{% endif %}
+        </div>
 
-	    </div>
+    </div>
   </section> <!-- end header.offer__top -->
 	
 	<div id="sample"></div>

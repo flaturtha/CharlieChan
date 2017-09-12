@@ -1,0 +1,11 @@
+
+
+.ad-internal {
+	background-color: darken($paper, 15%);
+	border: 2px solid $acolor;
+	margin-bottom: 2rem;
+	padding: 1rem;
+	@media screen and (min-width: 48rem){
+		margin: 2rem 0 2rem -6rem;
+	}
+}
