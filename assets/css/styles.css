@@ -473,7 +473,7 @@ h1, .contact h2, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 p {
   font-family: "Spectral", serif; }
 
-.toc li {
+.toc li, .lp__toc li {
   font-family: "Spectral", serif;
   font-weight: 700; }
 
@@ -1712,7 +1712,7 @@ span.etr {
   line-height: 1.25rem;
   text-align: left; }
 
-.toc {
+.toc, .lp__toc {
   font-size: 95%;
   width: 400px;
   max-width: 95%;
@@ -1721,14 +1721,14 @@ span.etr {
   padding: 1rem;
   border-bottom: 1px solid #8B0000;
   text-align: center; }
-  .toc header {
+  .toc header, .lp__toc header {
     background-color: #8B0000; }
-  .toc h6 {
+  .toc h6, .lp__toc h6 {
     margin: 0 0 1rem 0;
     padding: 5px 10px;
     color: #fff;
     text-transform: uppercase; }
-    .toc h6:hover {
+    .toc h6:hover, .lp__toc h6:hover {
       cursor: pointer; }
 
 /* http://www.456bereastreet.com/archive/201105/styling_ordered_list_numbers/ */
@@ -2723,19 +2723,97 @@ ol ol li:last-child {
 =    LANDING PAGE(S)           								=
 =============================================*/
 .lp {
-  background-color: #242424;
-  background-image: url("/assets/img/site/pulpicons2.svg"); }
-  .lp__img {
-    margin: 1.5rem 0 -0.5rem 0; }
+  height: 100vh; }
+  .lp__header {
+    background-color: #242424;
+    background-image: url("/assets/img/lp/title.svg"), url("/assets/img/site/pulpicons2.svg");
+    background-repeat: no-repeat, repeat;
+    background-position: center center;
+    background-size: 55%, 100%;
+    border-bottom: 4px solid #8B0000;
+    margin-bottom: 0 !important;
+    height: 45px; }
     @media screen and (min-width: 48rem) {
-      .lp__img {
-        margin: 0.5rem 0 0 0; } }
-  .lp .main {
-    width: 800px;
-    max-width: 90%;
-    margin: 0 auto;
-    padding-top: 1px;
-    background-color: #fffff0; }
+      .lp__header {
+        background-size: 45%, 100%;
+        height: 78px; } }
+  .lp__toc {
+    border: 1px solid #8B0000;
+    padding: 0.5rem;
+    margin-left: 1rem;
+    float: right; }
+
+.offer__top {
+  background-color: rgba(230, 230, 170, 0.25);
+  background-size: cover;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  border-bottom: 5px solid #e6e6aa;
+  padding: 4rem 0;
+  display: -webkit-flex;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  /* messes up layout on ipad & iphone */
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-flex-direction: column; }
+  @media screen and (min-width: 48rem) {
+    .offer__top {
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: row;
+          -ms-flex-direction: row;
+              flex-direction: row;
+      height: 556px; } }
+  .offer__top img {
+    -webkit-box-shadow: 5px 5px 20px #888888;
+            box-shadow: 5px 5px 20px #888888;
+    width: 300px;
+    width: auto;
+    margin: 0 -1rem 0 6rem; }
+
+.offer_details {
+  max-width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-align-self: center;
+      -ms-flex-item-align: center;
+          align-self: center;
+  padding: 0 1rem;
+  margin-right: 2rem; }
+  .offer_details h1, .offer_details .contact h2, .contact .offer_details h2 {
+    font-size: 1.5rem; }
+  .offer_details h5 {
+    margin-bottom: 1rem; }
+    .offer_details h5 span {
+      background-color: #6e6e6e;
+      color: #fffff0;
+      text-transform: uppercase;
+      padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+      letter-spacing: 2px; }
+  .offer_details p {
+    font-weight: bold; }
+  @media screen and (min-width: 48rem) {
+    .offer_details {
+      margin-left: 2rem;
+      text-align: left; } }
+
+.lp_description {
+  border-top: 1px solid #717100;
+  border-bottom: 1px solid #717100;
+  padding: 0.5rem 0;
+  background-color: rgba(249, 249, 225, 0.4);
+  font-weight: normal !important; }
 
 /*=============================================
 =    FACEBOOK RELATED STUFF                   =

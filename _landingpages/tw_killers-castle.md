@@ -1,5 +1,5 @@
 ---
-layout: lp
+layout: lp2
 permalink: special-offers/killers-castle/
 casefileNumber: 55ccf75fb3901011515af01b
 title: "Killer's Castle"
@@ -11,9 +11,12 @@ opubdate: Feb. 18, 1933
 opubissue:
 pubdate: 2016-11-15
 category: special offer
-description: "Magda Stewart had asked for his help and now she was missing. Could Elver find the girl before it was too late?"
+genre: Professional Sleuth
+excerpt: "Magda Stewart had asked for his help and now she was missing. Could Elver find the girl before it was too late?"
 tags: novella, England, kidnapping
 image: /assets/img/novellas/killers-castle.jpg
+cover-img: /assets/img/novellas/killers-castle.jpg
+bg-image: /assets/img/lp/kc-bg.png
 wordcount: 28377
 buybutton: <a href="https://transactions.sendowl.com/products/587633/B52303B8/purchase" rel="nofollow" class="add-to-cart">BUY NOW</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 ---

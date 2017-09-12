@@ -62,55 +62,6 @@ layout: default2
 
   <!-- <div class="cf"></div> -->
 
-  <footer>
-    <h4>You May Also Enjoy</h4>
-    <!-- {% if page.url contains 'murderwiki' %} -->
-      <div class="relatedPosts">
-
-          {% assign maxRelated = 4 %}
-          {% assign minCommonTags =  1 %}
-          {% assign maxRelatedCounter = 0 %}
-
-          {% for murderwiki in site.murderwiki %}
-
-          {% assign sameTagCount = 0 %}
-          {% assign commonTags = '' %}
-          {% assign commonTags = .commonTags %}
-
-          {% for tag in murderwiki.tags %}
-            {% if murderwiki.url != page.url %}
-              {% if page.tags contains tag %}
-                {% assign sameTagCount = sameTagCount | plus: 1 %}
-                {% capture tagmarkup %} <!-- <span class="label label-default">{{ tag }}</span> --> {% endcapture %}
-                {% assign commonTags = commonTags | append: tagmarkup %}
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-
-          {% if sameTagCount >= minCommonTags %}
-
-              <div class="rel">
-                <a href="{{ murderwiki.url }}">
-                <h5>{{ murderwiki.title }}</h5>
-                <img src="{{ murderwiki.image }}" alt="">
-                <h6>{{ commonTags }}</h6>
-                </a>
-              </div>
-
-            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-            {% if maxRelatedCounter >= maxRelated %}
-              {% break %}
-            {% endif %}
-          {% endif %}
-
-       {% endfor %}
-
-      <!-- <div class="cf"></div> -->
-      </div>
-    <!-- {% endif %} -->
-
-
-  </footer>
 
 </article>
 

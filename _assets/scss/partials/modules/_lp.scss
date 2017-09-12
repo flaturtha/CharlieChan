@@ -2,20 +2,112 @@
 =    LANDING PAGE(S)           								=
 =============================================*/
 
+
 .lp {
-	background-color: $bgcolor;
-	background-image: url('/assets/img/site/pulpicons2.svg');
-	&__img {
-		margin: 1.5rem 0 -0.5rem 0;
-		@media screen and (min-width: 48rem){
-			margin: 0.5rem 0 0 0;
+	height: 100vh;
+	&__header {
+		background-color: $bgcolor;
+		background-image: url('/assets/img/lp/title.svg'), url('/assets/img/site/pulpicons2.svg');
+		background-repeat: no-repeat, repeat;
+		background-position: center center;
+		background-size: 55%, 100%;
+		border-bottom: 4px solid $acolor;
+		margin-bottom: 0 !important;
+		height: 45px;
+		@media screen and (min-width: 48rem) {
+			background-size: 45%, 100%;
+			height: 78px;
 		}
 	}
-	.main {
-		width: 800px;
-		max-width: 90%;
-		margin: 0 auto;
-		padding-top: 1px;
-		background-color: $paper;
+	&__toc {
+		@extend .toc;
+		border: 1px solid $acolor;
+		padding: 0.5rem;
+		margin-left: 1rem;
+		float: right;
 	}
 }
+
+.offer__top {
+	background-color: rgba(230,230,170,0.25);
+	background-size: cover;
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	border-bottom: 5px solid #e6e6aa;
+	padding: 4rem 0;
+	display: -webkit-flex;
+	display: flex; /* messes up layout on ipad & iphone */
+	flex-direction: column;
+	-webkit-flex-direction: column;
+	@media screen and (min-width: 48rem){
+		flex-direction: row;
+		height: 556px;
+	}
+
+	img {
+		box-shadow: 5px 5px 20px #888888;
+		// height:400px;
+		width: 300px;
+		width:auto;
+		margin: 0 -1rem 0 6rem;
+	}
+}
+
+.offer_details {
+	// background-color: green;
+	max-width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-self: center;
+	padding: 0 1rem;
+	margin-right: 2rem;
+	h1 {
+		font-size: 1.5rem;
+	}
+	h5 {
+		margin-bottom: 1rem;
+		span {
+			background-color:#6e6e6e;
+			color:#fffff0;
+			text-transform:uppercase;
+			padding:0.5rem 0.5rem 0.5rem 0.5rem;
+			letter-spacing:2px;
+		}
+	}
+	p {
+		font-weight: bold;
+		// background-color: rgba(249,249,225,0.35);
+	}
+	@media screen and (min-width: 48rem){
+		margin-left: 2rem;
+		text-align: left;
+	}
+}
+
+.lp_description {
+	border-top: 1px solid darken($paper, 75%);
+	border-bottom: 1px solid darken($paper, 75%);
+	padding: 0.5rem 0;
+	background-color: rgba(249,249,225,0.40);
+	font-weight: normal !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

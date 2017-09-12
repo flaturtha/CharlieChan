@@ -13,6 +13,7 @@ excerpt: "What is death, my dear inspectors? Who knows? No one but me. What is t
 image: /assets/img/short-stories/man-who-would-not-die-1.svg
 caption: "I stepped up to the casket. The body of my wife was gone! In its place was the body of Dolly, her maid, cold in death!"
 <!-- imgh: 300px -->
+fb-image: /assets/img/short-stories/man-who-would-not-die_fb.png
 genre: Supernatural Mystery
 tags: short-story
 wordcount: 9444
