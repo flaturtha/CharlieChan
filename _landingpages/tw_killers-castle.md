@@ -68,3 +68,6 @@ He strode beside the well-knit Scotland Yard man, a long, loose figure, that yet
 The story continues &hellip; buy it today and find out if Horace Elver can find Magda Stewart before its too late!
 {: .tobecontinued }
 
+<div class="book__buttons" style="margin-top: 1.5rem;">
+	<a href="https://transactions.sendowl.com/products/587633/B52303B8/purchase" rel="nofollow" class="add-to-cart">BUY NOW</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+</div>

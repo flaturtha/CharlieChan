@@ -21,10 +21,13 @@
 	}
 	&__toc {
 		@extend .toc;
-		border: 1px solid $acolor;
 		padding: 0.5rem;
-		margin-left: 1rem;
-		float: right;
+		margin: 0 auto;
+		@media screen and (min-width: 48rem){
+			margin-left: 1rem;
+			float: right;
+			border: 1px solid $acolor;
+		}
 	}
 }
 
@@ -39,17 +42,19 @@
 	display: flex; /* messes up layout on ipad & iphone */
 	flex-direction: column;
 	-webkit-flex-direction: column;
-	@media screen and (min-width: 48rem){
+	@media screen and (min-width: 55rem){
 		flex-direction: row;
 		height: 556px;
 	}
 
 	img {
 		box-shadow: 5px 5px 20px #888888;
-		// height:400px;
-		width: 300px;
-		width:auto;
-		margin: 0 -1rem 0 6rem;
+		width: 75%;
+		margin: -2rem auto 3rem;
+		@media screen and (min-width: 55rem) {
+			width: 300px;
+			margin: 0 -1rem 0 6rem;			
+		}
 	}
 }
 
@@ -60,7 +65,8 @@
 	flex-direction: column;
 	align-self: center;
 	padding: 0 1rem;
-	margin-right: 2rem;
+	margin: 0 auto;
+	max-width: 95%;
 	h1 {
 		font-size: 1.5rem;
 	}
@@ -79,7 +85,7 @@
 		// background-color: rgba(249,249,225,0.35);
 	}
 	@media screen and (min-width: 48rem){
-		margin-left: 2rem;
+		margin: 0 2rem;
 		text-align: left;
 	}
 }

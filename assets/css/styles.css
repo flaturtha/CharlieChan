@@ -2738,10 +2738,13 @@ ol ol li:last-child {
         background-size: 45%, 100%;
         height: 78px; } }
   .lp__toc {
-    border: 1px solid #8B0000;
     padding: 0.5rem;
-    margin-left: 1rem;
-    float: right; }
+    margin: 0 auto; }
+    @media screen and (min-width: 48rem) {
+      .lp__toc {
+        margin-left: 1rem;
+        float: right;
+        border: 1px solid #8B0000; } }
 
 .offer__top {
   background-color: rgba(230, 230, 170, 0.25);
@@ -2760,7 +2763,7 @@ ol ol li:last-child {
       -ms-flex-direction: column;
           flex-direction: column;
   -webkit-flex-direction: column; }
-  @media screen and (min-width: 48rem) {
+  @media screen and (min-width: 55rem) {
     .offer__top {
       -webkit-box-orient: horizontal;
       -webkit-box-direction: normal;
@@ -2771,9 +2774,12 @@ ol ol li:last-child {
   .offer__top img {
     -webkit-box-shadow: 5px 5px 20px #888888;
             box-shadow: 5px 5px 20px #888888;
-    width: 300px;
-    width: auto;
-    margin: 0 -1rem 0 6rem; }
+    width: 75%;
+    margin: -2rem auto 3rem; }
+    @media screen and (min-width: 55rem) {
+      .offer__top img {
+        width: 300px;
+        margin: 0 -1rem 0 6rem; } }
 
 .offer_details {
   max-width: 100%;
@@ -2790,7 +2796,8 @@ ol ol li:last-child {
       -ms-flex-item-align: center;
           align-self: center;
   padding: 0 1rem;
-  margin-right: 2rem; }
+  margin: 0 auto;
+  max-width: 95%; }
   .offer_details h1, .offer_details .contact h2, .contact .offer_details h2 {
     font-size: 1.5rem; }
   .offer_details h5 {
@@ -2805,7 +2812,7 @@ ol ol li:last-child {
     font-weight: bold; }
   @media screen and (min-width: 48rem) {
     .offer_details {
-      margin-left: 2rem;
+      margin: 0 2rem;
       text-align: left; } }
 
 .lp_description {
