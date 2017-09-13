@@ -1,11 +1,86 @@
 
 
 .ad-internal {
-	background-color: darken($paper, 15%);
-	border: 2px solid $acolor;
+	background-color: darken($paper, 2%);
+	border: 2px solid $bgcolor;
 	margin-bottom: 2rem;
 	padding: 1rem;
-	@media screen and (min-width: 48rem){
+	@media screen and (min-width: 55rem){
 		margin: 2rem 0 2rem -6rem;
 	}
+
+	.black_header {
+		background-color: $bgcolor;
+		color: $paper;
+		margin: -1rem;
+		margin-bottom: 1rem;
+		padding: 1rem;
+		text-align: center;
+		p {
+			margin: 0.5rem 0 0 0;
+		}
+	}
+
+	.black {
+		@extend .black_header;
+		margin: 0;
+		padding: 0 0.5rem;
+		font-size: 0.875rem;
+		display: inline-block;
+	}
+
+	img {
+		float: left;
+		height: 110px;
+		width: auto;
+		margin: 0 1rem 1rem 0;
+		@media screen and (min-width: 30rem){
+			height: 150px;
+			width: 120px;
+		}
+		@media screen and (min-width: 48rem){
+			margin: 0 2rem;
+		}
+	}
+
+	.div {
+		@media screen and (min-width: 32rem){
+			display: flex;
+		}
+		// flex-direction: column;
+	}
+
+	.tease {
+		font-size: 0.857rem;
+		font-style: italic;
+		text-align: center;
+		border-top: 1px solid $bgcolor;
+		border-bottom: 1px solid $bgcolor;
+	}
+
+	footer {
+		margin: 2rem auto -1rem;
+		text-align: center;
+		button {
+			padding: 0.5rem;
+			color: $paper;
+			background-color: $acolor;
+			border: 1px solid $acolor;
+			border-radius: 3px;
+			&:hover {
+				color: $acolor;
+				background-color: $paper;
+			}
+		}
+		p {
+			margin-top: 1rem;
+		}
+	}
 }
+
+
+
+
+
+
+

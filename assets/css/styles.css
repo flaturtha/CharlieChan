@@ -2875,13 +2875,66 @@ ol ol li:last-child {
           justify-content: center; }
 
 .ad-internal {
-  background-color: #ffffa4;
-  border: 2px solid #8B0000;
+  background-color: #ffffe6;
+  border: 2px solid #242424;
   margin-bottom: 2rem;
   padding: 1rem; }
-  @media screen and (min-width: 48rem) {
+  @media screen and (min-width: 55rem) {
     .ad-internal {
       margin: 2rem 0 2rem -6rem; } }
+  .ad-internal .black_header, .ad-internal .black {
+    background-color: #242424;
+    color: #fffff0;
+    margin: -1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    text-align: center; }
+    .ad-internal .black_header p, .ad-internal .black p {
+      margin: 0.5rem 0 0 0; }
+  .ad-internal .black {
+    margin: 0;
+    padding: 0 0.5rem;
+    font-size: 0.875rem;
+    display: inline-block; }
+  .ad-internal img {
+    float: left;
+    height: 110px;
+    width: auto;
+    margin: 0 1rem 1rem 0; }
+    @media screen and (min-width: 30rem) {
+      .ad-internal img {
+        height: 150px;
+        width: 120px; } }
+    @media screen and (min-width: 48rem) {
+      .ad-internal img {
+        margin: 0 2rem; } }
+  @media screen and (min-width: 32rem) {
+    .ad-internal .div {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex; } }
+  .ad-internal .tease {
+    font-size: 0.857rem;
+    font-style: italic;
+    text-align: center;
+    border-top: 1px solid #242424;
+    border-bottom: 1px solid #242424; }
+  .ad-internal footer {
+    margin: 2rem auto -1rem;
+    text-align: center; }
+    .ad-internal footer button {
+      padding: 0.5rem;
+      color: #fffff0;
+      background-color: #8B0000;
+      border: 1px solid #8B0000;
+      -webkit-border-radius: 3px;
+              border-radius: 3px; }
+      .ad-internal footer button:hover {
+        color: #8B0000;
+        background-color: #fffff0; }
+    .ad-internal footer p {
+      margin-top: 1rem; }
 
 /*==========  LAYOUT  ==========*/
 /*=============================================
@@ -4046,19 +4099,19 @@ a {
   margin: 0 auto; }
 
 .small {
-  font-size: 0.875rem; }
+  font-size: 0.875rem !important; }
 
 .xsmall {
-  font-size: 0.75rem; }
+  font-size: 0.75rem !important; }
 
 .xxsmall {
-  font-size: 0.625rem; }
+  font-size: 0.625rem !important; }
 
 .xlarge {
-  font-size: 1.25rem; }
+  font-size: 1.25rem !important; }
 
 .xxlarge {
-  font-size: 1.5rem; }
+  font-size: 1.5rem !important; }
 
 .underline {
   text-decoration: underline; }
