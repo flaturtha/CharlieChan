@@ -80,10 +80,12 @@ layout: default2
     {{ content  }}
 
     <div class="social-buttons__bottom">
-      <h4>Did you enjoy<br><span class="uppercase bloodred">{{ page.title }}</span>?</h4>
-      <p class="xxsmall">Help me spread the word by clicking&nbsp;below:</p>
       {% include fb-like-share.html %}
     </div>
+
+    {% if page.title == 'The Strange Story of Martin Colby' %}
+      {% include ad2.html %}
+    {% endif %}
 
   </article>
 

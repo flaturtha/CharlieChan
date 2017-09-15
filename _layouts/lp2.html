@@ -56,10 +56,10 @@
           {% if page.testimonials %}<p class="testimonials">{{ page.testimonials }}</p>{% endif %}
         	
         	<!-- FB LIKE/SHARE Buttons -->
-					<div class="social-buttons">
+<!-- 					<div class="social-buttons">
 					  <div class="fb-like" data-href="{{ site.url }}{{ page.ourl }}" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="false"></div>
 						<div class="tmp_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-size="large"data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-					</div>
+					</div> -->
       	</div>
         
         <div class="buttonsdiv" style="">
@@ -78,7 +78,7 @@
  	        {% else %}
 						<div class="book__buttons" style="margin-top: 1.5rem;">
 							<a href="#sample" class="add-to-cart">READ SAMPLE</a>
-							<a href="#" class="add-to-cart">DOWNLOAD</a>
+							<a href="#lp-download" class="add-to-cart">DOWNLOAD</a>
 						</div>
 					{% endif %}
         </div>
@@ -86,13 +86,21 @@
     </div>
   </section> <!-- end header.offer__top -->
 	
-	<div id="sample"></div>
+  <div id="sample"></div>
+
+	<!-- <div class="bob" style="border-top:2px solid #8b0000;border-bottom:2px solid #8b0000;margin:3rem auto 2rem;padding-top:1rem;width:600px;max-width:90%;font-weight:bold;">
+    <p>{{ page.bob }}</p>
+  </div> -->
 
 	<main class="wrap">
 	  <article  style="margin-top:2rem;">
 	    {{ content }}
 	  </article>
 	</main>
+
+  <div class="lp-download" id="lp-download">
+    {% include sns_download_form.html %}
+  </div>
 
   {% include footer.html %}
 

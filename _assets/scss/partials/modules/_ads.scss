@@ -1,7 +1,11 @@
 
 
 .ad-internal {
-	background-color: darken($paper, 2%);
+	background-image: url('/assets/img/short-stories/man-who-would-not-die_bg.png');
+	background-color: rgba(230,230,170,0.25);
+	background-size: cover;
+	background-position: 0 0;
+	background-repeat: no-repeat;
 	border: 2px solid $bgcolor;
 	margin-bottom: 2rem;
 	padding: 1rem;
@@ -78,7 +82,17 @@
 	}
 }
 
-
+.ad-bottom {
+	@extend .ad-internal;
+	// background-color: $bgcolor;
+	// color: $paper;
+	// border: none;
+	margin: 2rem 0 0;
+	// text-align: center;
+	button {
+		margin: -1rem 0 1rem 0;
+	}
+}
 
 
 

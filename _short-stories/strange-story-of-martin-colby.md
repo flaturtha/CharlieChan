@@ -305,4 +305,3 @@ her by, ‘Edith Morley.’ And beneath it I had these words engraved:
 *“‘She left the world as clean as she, came into it' ”*
 
 <p id="theend">~ The End ~
-<h6 class="btt"><a href="#top">Back to Top</a></h6>

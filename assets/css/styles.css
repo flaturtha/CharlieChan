@@ -844,15 +844,9 @@ h4, .h4 {
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
       -ms-flex-direction: column;
-          flex-direction: column;
-  margin: 1rem 0 0 0; }
+          flex-direction: column; }
   @media screen and (min-width: 30rem) {
     .email-field {
-      -webkit-box-orient: horizontal;
-      -webkit-box-direction: normal;
-      -webkit-flex-direction: row;
-          -ms-flex-direction: row;
-              flex-direction: row;
       -webkit-box-pack: center;
       -webkit-justify-content: center;
           -ms-flex-pack: center;
@@ -878,7 +872,10 @@ input[type=submit] {
 
 input[type=email], input[type=text] {
   border: 1px solid #333;
-  font-size: 1.25rem;
+  background-color: #ffffd7;
+  font-size: 0.85rem;
+  height: 30px;
+  color: #979797;
   padding-left: 0.5rem; }
 
 label {
@@ -892,6 +889,10 @@ label {
     label {
       margin-top: 0.25rem;
       margin-right: 0.5rem; } }
+
+input[type=value] {
+  font-size: 0.75rem;
+  color: lightblue; }
 
 .smallnav {
   border-top: 1px solid #5e6971;
@@ -2729,13 +2730,12 @@ ol ol li:last-child {
     background-image: url("/assets/img/lp/title.svg"), url("/assets/img/site/pulpicons2.svg");
     background-repeat: no-repeat, repeat;
     background-position: center center;
-    background-size: 55%, 100%;
+    background-size: contain, 100%;
     border-bottom: 4px solid #8B0000;
     margin-bottom: 0 !important;
     height: 45px; }
     @media screen and (min-width: 48rem) {
       .lp__header {
-        background-size: 45%, 100%;
         height: 78px; } }
   .lp__toc {
     padding: 0.5rem;
@@ -2762,27 +2762,29 @@ ol ol li:last-child {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  -webkit-flex-direction: column; }
-  @media screen and (min-width: 55rem) {
+  -webkit-flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center; }
+  @media screen and (min-width: 48rem) {
     .offer__top {
       -webkit-box-orient: horizontal;
       -webkit-box-direction: normal;
       -webkit-flex-direction: row;
           -ms-flex-direction: row;
-              flex-direction: row;
-      height: 556px; } }
+              flex-direction: row; } }
   .offer__top img {
     -webkit-box-shadow: 5px 5px 20px #888888;
             box-shadow: 5px 5px 20px #888888;
     width: 75%;
     margin: -2rem auto 3rem; }
-    @media screen and (min-width: 55rem) {
+    @media screen and (min-width: 48rem) {
       .offer__top img {
         width: 300px;
-        margin: 0 -1rem 0 6rem; } }
+        margin: 0 -1rem 0 2rem; } }
 
 .offer_details {
-  max-width: 100%;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -2797,7 +2799,7 @@ ol ol li:last-child {
           align-self: center;
   padding: 0 1rem;
   margin: 0 auto;
-  max-width: 95%; }
+  max-width: 800px; }
   .offer_details h1, .offer_details .contact h2, .contact .offer_details h2 {
     font-size: 1.5rem; }
   .offer_details h5 {
@@ -2820,7 +2822,62 @@ ol ol li:last-child {
   border-bottom: 1px solid #717100;
   padding: 0.5rem 0;
   background-color: rgba(249, 249, 225, 0.4);
-  font-weight: normal !important; }
+  font-weight: normal !important;
+  font-style: italic; }
+
+#sample {
+  padding-top: -5rem; }
+
+.lp-download {
+  width: 600px;
+  max-width: 90%;
+  margin: 0 auto; }
+
+.sns-download-form .form-body {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  background-color: rgba(230, 230, 170, 0.25);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: -1rem; }
+  .sns-download-form .form-body div {
+    max-width: 300px;
+    margin: 1rem auto;
+    font-weight: bold; }
+    .sns-download-form .form-body div span {
+      font-weight: bold;
+      font-size: 1.25rem;
+      color: #8B0000;
+      font-style: italic; }
+  @media screen and (min-width: 48rem) {
+    .sns-download-form .form-body {
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: row;
+          -ms-flex-direction: row;
+              flex-direction: row;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+          -ms-flex-align: center;
+              align-items: center; } }
+  .sns-download-form .form-body img {
+    border: 1px solid #242424;
+    height: auto;
+    width: 400px;
+    max-width: 90%;
+    margin: 1rem auto 0; }
+    @media screen and (min-width: 48rem) {
+      .sns-download-form .form-body img {
+        width: 200px;
+        height: 267px;
+        margin: 1rem; } }
 
 /*=============================================
 =    FACEBOOK RELATED STUFF                   =
@@ -2831,31 +2888,14 @@ ol ol li:last-child {
   display: -ms-flexbox;
   display: flex;
   text-align: center;
-  margin: 0 auto; }
-  @media screen and (min-width: 48rem) {
-    .social-buttons {
-      margin: 0; } }
+  margin: 0; }
   .social-buttons div {
     padding-right: 1rem; }
 
 .social-buttons__bottom {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
   width: 400px;
   max-width: 90%;
-  border: 2px solid #8B0000;
-  margin: 1rem auto;
-  padding: 0.5rem;
-  text-align: center; }
-  .social-buttons__bottom h4 {
-    padding-bottom: 0.5rem; }
+  margin: 0 auto; }
   .social-buttons__bottom div {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -2874,67 +2914,76 @@ ol ol li:last-child {
       -ms-flex-pack: center;
           justify-content: center; }
 
-.ad-internal {
-  background-color: #ffffe6;
+.ad-internal, .ad-bottom, .sns-download-form {
+  background-image: url("/assets/img/short-stories/man-who-would-not-die_bg.png");
+  background-color: rgba(230, 230, 170, 0.25);
+  background-size: cover;
+  background-position: 0 0;
+  background-repeat: no-repeat;
   border: 2px solid #242424;
   margin-bottom: 2rem;
   padding: 1rem; }
   @media screen and (min-width: 55rem) {
-    .ad-internal {
+    .ad-internal, .ad-bottom, .sns-download-form {
       margin: 2rem 0 2rem -6rem; } }
-  .ad-internal .black_header, .ad-internal .black {
+  .ad-internal .black_header, .ad-bottom .black_header, .sns-download-form .black_header, .ad-internal .black, .ad-bottom .black, .sns-download-form .black {
     background-color: #242424;
     color: #fffff0;
     margin: -1rem;
     margin-bottom: 1rem;
     padding: 1rem;
     text-align: center; }
-    .ad-internal .black_header p, .ad-internal .black p {
+    .ad-internal .black_header p, .ad-bottom .black_header p, .sns-download-form .black_header p, .ad-internal .black p, .ad-bottom .black p, .sns-download-form .black p {
       margin: 0.5rem 0 0 0; }
-  .ad-internal .black {
+  .ad-internal .black, .ad-bottom .black, .sns-download-form .black {
     margin: 0;
     padding: 0 0.5rem;
     font-size: 0.875rem;
     display: inline-block; }
-  .ad-internal img {
+  .ad-internal img, .ad-bottom img, .sns-download-form img {
     float: left;
     height: 110px;
     width: auto;
     margin: 0 1rem 1rem 0; }
     @media screen and (min-width: 30rem) {
-      .ad-internal img {
+      .ad-internal img, .ad-bottom img, .sns-download-form img {
         height: 150px;
         width: 120px; } }
     @media screen and (min-width: 48rem) {
-      .ad-internal img {
+      .ad-internal img, .ad-bottom img, .sns-download-form img {
         margin: 0 2rem; } }
   @media screen and (min-width: 32rem) {
-    .ad-internal .div {
+    .ad-internal .div, .ad-bottom .div, .sns-download-form .div {
       display: -webkit-box;
       display: -webkit-flex;
       display: -ms-flexbox;
       display: flex; } }
-  .ad-internal .tease {
+  .ad-internal .tease, .ad-bottom .tease, .sns-download-form .tease {
     font-size: 0.857rem;
     font-style: italic;
     text-align: center;
     border-top: 1px solid #242424;
     border-bottom: 1px solid #242424; }
-  .ad-internal footer {
+  .ad-internal footer, .ad-bottom footer, .sns-download-form footer {
     margin: 2rem auto -1rem;
     text-align: center; }
-    .ad-internal footer button {
+    .ad-internal footer button, .ad-bottom footer button, .sns-download-form footer button {
       padding: 0.5rem;
       color: #fffff0;
       background-color: #8B0000;
       border: 1px solid #8B0000;
       -webkit-border-radius: 3px;
               border-radius: 3px; }
-      .ad-internal footer button:hover {
+      .ad-internal footer button:hover, .ad-bottom footer button:hover, .sns-download-form footer button:hover {
         color: #8B0000;
         background-color: #fffff0; }
-    .ad-internal footer p {
+    .ad-internal footer p, .ad-bottom footer p, .sns-download-form footer p {
       margin-top: 1rem; }
+
+.ad-bottom, .sns-download-form {
+  margin: 2rem 0 0; }
+  .ad-bottom button, .sns-download-form button {
+    margin: -1rem 0 1rem 0; }
 
 /*==========  LAYOUT  ==========*/
 /*=============================================

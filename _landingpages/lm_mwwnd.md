@@ -11,6 +11,7 @@ opubdate: Sept. 1920
 opubissue: Vol. 1, No. 6
 category: short-stories
 excerpt: "What is death, my dear inspectors? Who knows? No one but me. What is the human body? Only a prison in which the soul is confined &mdash; a piece of clay to be discarded at will. God kills when he wishes. Why not I? It suited my purpose to use the mortal form of Mrs. Winters, and I took it."
+bob: "The death of Mrs. Winters was only the beginning. Professor Darius Lessman, self-proclaimed as <em>the man who laughs at death</em>, claims he will kill again by the power of thought alone! Can Inspector Des Moines unmask this psychic killer and will his friend, Mahommed Gunga, the Master, as he was known to those who loved and obeyed him, summon the mental strength to defeat The Man Who Would Not Die?"
 image: /assets/img/short-stories/man-who-would-not-die-1.svg
 caption: "I stepped up to the casket. The body of my wife was gone! In its place was the body of Dolly, her maid, cold in death!"
 <!-- imgh: 300px -->
@@ -133,14 +134,3 @@ They were interrupted by a rap at the door. In response to Des Moines&#39; gruff
 &quot;Not a mark on her body.&quot;
 
 <p id="theend">~ End of Sample ~</p>
-
-<div class="book__buttons" style="margin-top: 1.5rem;">
-						<!-- <a href="#sample" class="add-to-cart">READ SAMPLE</a> -->
-						<a href="#" class="add-to-cart">DOWNLOAD</a>
-					</div>
-
-<!-- <figure style="margin: 2rem 0 2rem 0;max-width:100%;">
-	<img src="/assets/img/short-stories/man-who-would-not-die-2.svg" alt="">
-	<figcaption style="font-size: 0.875rem;color:#8b0000;">From his body emanated a thin vapor &mdash; an aura. It spread across the room like a nauseous miasma. <em class="uppercase bold">From Chapter 13 &mdash; A Tiny Smoky, Grey Ball of Vapor</em></figcaption>
-</figure> -->
-
