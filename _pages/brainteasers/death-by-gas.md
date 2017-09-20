@@ -79,4 +79,12 @@ Think carefully and re-read the story if you need to. Then get &hellip;
 ### The Solution
 {: .chaptertitle}
 
-Review the evidence carefully, and when you think you know what Captain Pearsons saw, click to reveal <a href="/brain-teasers/death-by-gas/solution/" class="underline bold">THE SOLUTION</a> to <strong>DEATH&nbsp;BY&nbsp;GAS&nbsp;</strong>!
+Review the evidence carefully, and when you think you know what Captain Pearsons saw, enter your email address and get the solution to <strong>DEATH&nbsp;BY&nbsp;GAS&nbsp;</strong>!
+
+<div class="bt_form">
+	{% include dbg_solution_optin.html %}
+</div>
+
+
+
+

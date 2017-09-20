@@ -2720,6 +2720,14 @@ ol ol li:last-child {
   width: 400px;
   max-width: 90%; }
 
+.bt_form {
+  background-image: none !important;
+  border: none !important;
+  border: 2px dashed #242424 !important;
+  -webkit-box-shadow: 5px 5px 20px #888888;
+          box-shadow: 5px 5px 20px #888888;
+  text-align: center !important; }
+
 /*=============================================
 =    LANDING PAGE(S)           								=
 =============================================*/
@@ -2833,7 +2841,7 @@ ol ol li:last-child {
   max-width: 90%;
   margin: 0 auto; }
 
-.sns-download-form .form-body {
+.sns-download-form .form-body, .bt_form .form-body {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -2847,17 +2855,17 @@ ol ol li:last-child {
   background-size: cover;
   background-repeat: no-repeat;
   margin: -1rem; }
-  .sns-download-form .form-body div {
+  .sns-download-form .form-body div, .bt_form .form-body div {
     max-width: 300px;
     margin: 1rem auto;
     font-weight: bold; }
-    .sns-download-form .form-body div span {
+    .sns-download-form .form-body div span, .bt_form .form-body div span {
       font-weight: bold;
       font-size: 1.25rem;
       color: #8B0000;
       font-style: italic; }
   @media screen and (min-width: 48rem) {
-    .sns-download-form .form-body {
+    .sns-download-form .form-body, .bt_form .form-body {
       -webkit-box-orient: horizontal;
       -webkit-box-direction: normal;
       -webkit-flex-direction: row;
@@ -2867,14 +2875,14 @@ ol ol li:last-child {
       -webkit-align-items: center;
           -ms-flex-align: center;
               align-items: center; } }
-  .sns-download-form .form-body img {
+  .sns-download-form .form-body img, .bt_form .form-body img {
     border: 1px solid #242424;
     height: auto;
     width: 400px;
     max-width: 90%;
     margin: 1rem auto 0; }
     @media screen and (min-width: 48rem) {
-      .sns-download-form .form-body img {
+      .sns-download-form .form-body img, .bt_form .form-body img {
         width: 200px;
         height: 267px;
         margin: 1rem; } }
@@ -2914,7 +2922,7 @@ ol ol li:last-child {
       -ms-flex-pack: center;
           justify-content: center; }
 
-.ad-internal, .ad-bottom, .sns-download-form {
+.ad-internal, .ad-bottom, .sns-download-form, .bt_form {
   background-image: url("/assets/img/short-stories/man-who-would-not-die_bg.png");
   background-color: rgba(230, 230, 170, 0.25);
   background-size: cover;
@@ -2924,65 +2932,65 @@ ol ol li:last-child {
   margin-bottom: 2rem;
   padding: 1rem; }
   @media screen and (min-width: 55rem) {
-    .ad-internal, .ad-bottom, .sns-download-form {
+    .ad-internal, .ad-bottom, .sns-download-form, .bt_form {
       margin: 2rem 0 2rem -6rem; } }
-  .ad-internal .black_header, .ad-bottom .black_header, .sns-download-form .black_header, .ad-internal .black, .ad-bottom .black, .sns-download-form .black {
+  .ad-internal .black_header, .ad-bottom .black_header, .sns-download-form .black_header, .bt_form .black_header, .ad-internal .black, .ad-bottom .black, .sns-download-form .black, .bt_form .black {
     background-color: #242424;
     color: #fffff0;
     margin: -1rem;
     margin-bottom: 1rem;
     padding: 1rem;
     text-align: center; }
-    .ad-internal .black_header p, .ad-bottom .black_header p, .sns-download-form .black_header p, .ad-internal .black p, .ad-bottom .black p, .sns-download-form .black p {
+    .ad-internal .black_header p, .ad-bottom .black_header p, .sns-download-form .black_header p, .bt_form .black_header p, .ad-internal .black p, .ad-bottom .black p, .sns-download-form .black p, .bt_form .black p {
       margin: 0.5rem 0 0 0; }
-  .ad-internal .black, .ad-bottom .black, .sns-download-form .black {
+  .ad-internal .black, .ad-bottom .black, .sns-download-form .black, .bt_form .black {
     margin: 0;
     padding: 0 0.5rem;
     font-size: 0.875rem;
     display: inline-block; }
-  .ad-internal img, .ad-bottom img, .sns-download-form img {
+  .ad-internal img, .ad-bottom img, .sns-download-form img, .bt_form img {
     float: left;
     height: 110px;
     width: auto;
     margin: 0 1rem 1rem 0; }
     @media screen and (min-width: 30rem) {
-      .ad-internal img, .ad-bottom img, .sns-download-form img {
+      .ad-internal img, .ad-bottom img, .sns-download-form img, .bt_form img {
         height: 150px;
         width: 120px; } }
     @media screen and (min-width: 48rem) {
-      .ad-internal img, .ad-bottom img, .sns-download-form img {
+      .ad-internal img, .ad-bottom img, .sns-download-form img, .bt_form img {
         margin: 0 2rem; } }
   @media screen and (min-width: 32rem) {
-    .ad-internal .div, .ad-bottom .div, .sns-download-form .div {
+    .ad-internal .div, .ad-bottom .div, .sns-download-form .div, .bt_form .div {
       display: -webkit-box;
       display: -webkit-flex;
       display: -ms-flexbox;
       display: flex; } }
-  .ad-internal .tease, .ad-bottom .tease, .sns-download-form .tease {
+  .ad-internal .tease, .ad-bottom .tease, .sns-download-form .tease, .bt_form .tease {
     font-size: 0.857rem;
     font-style: italic;
     text-align: center;
     border-top: 1px solid #242424;
     border-bottom: 1px solid #242424; }
-  .ad-internal footer, .ad-bottom footer, .sns-download-form footer {
+  .ad-internal footer, .ad-bottom footer, .sns-download-form footer, .bt_form footer {
     margin: 2rem auto -1rem;
     text-align: center; }
-    .ad-internal footer button, .ad-bottom footer button, .sns-download-form footer button {
+    .ad-internal footer button, .ad-bottom footer button, .sns-download-form footer button, .bt_form footer button {
       padding: 0.5rem;
       color: #fffff0;
       background-color: #8B0000;
       border: 1px solid #8B0000;
       -webkit-border-radius: 3px;
               border-radius: 3px; }
-      .ad-internal footer button:hover, .ad-bottom footer button:hover, .sns-download-form footer button:hover {
+      .ad-internal footer button:hover, .ad-bottom footer button:hover, .sns-download-form footer button:hover, .bt_form footer button:hover {
         color: #8B0000;
         background-color: #fffff0; }
-    .ad-internal footer p, .ad-bottom footer p, .sns-download-form footer p {
+    .ad-internal footer p, .ad-bottom footer p, .sns-download-form footer p, .bt_form footer p {
       margin-top: 1rem; }
 
-.ad-bottom, .sns-download-form {
+.ad-bottom, .sns-download-form, .bt_form {
   margin: 2rem 0 0; }
-  .ad-bottom button, .sns-download-form button {
+  .ad-bottom button, .sns-download-form button, .bt_form button {
     margin: -1rem 0 1rem 0; }
 
 /*==========  LAYOUT  ==========*/
