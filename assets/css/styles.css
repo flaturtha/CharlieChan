@@ -915,7 +915,7 @@ input[type=value] {
       -ms-flex-align: center;
           align-items: center;
   padding: 0.5rem 0;
-  margin: 2rem 0 1rem; }
+  margin: 8rem 0 1rem; }
   @media screen and (min-width: 48rem) {
     .smallnav {
       -webkit-box-orient: horizontal;
@@ -926,7 +926,8 @@ input[type=value] {
       -webkit-box-align: baseline;
       -webkit-align-items: baseline;
           -ms-flex-align: baseline;
-              align-items: baseline; } }
+              align-items: baseline;
+      margin-top: 7rem; } }
 
 .breadcrumbs {
   font-size: 0.75rem;
@@ -1784,7 +1785,8 @@ ol ol li:last-child {
 .chapternumber {
   color: #682323;
   font-size: 1rem;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  margin-top: 2rem; }
 
 .chaptertitle {
   color: #8B0000;
