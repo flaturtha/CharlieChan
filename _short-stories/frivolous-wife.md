@@ -7,8 +7,10 @@ series: A Dixon Hawke Mystery
 date: 2017-08-30
 category: short-stories
 excerpt: “A present, Janie—from an unknown admirer! Try one of the goldpaper ones—they’re Benedictine.” Almost grudgingly Nurse Wilmot put her hand into the box and took a liqueur chocolate wrapped in gold-coloured foil.
-image: /assets/img/short-stories/frivolous-wife.svg
-imgh: 300px
+image: /assets/img/short-stories/frivolous-wife.png
+fb-image: /assets/img/short-stories/frivolous-wife_fb.jpg
+imgh: 350px
+tease: "Sonia picked out a cherry brandy chocolate and popped it into her mouth. Ten minutes later she was dead!"
 genre: Professional Sleuth
 tag: short-story
 wordcount: 3843
@@ -53,7 +55,7 @@ Again Sonia laughed. “Oh, he won’t mind if you have a little pick-me-up,” 
 
 Sonia picked out a cherry brandy chocolate and popped it into her mouth.
 
-“He never gets to know anything about my amusements through me,’ ’ slid said meaningly. “They’re quite harmless, anyway. Why shouldn’t I dance or go on the river if men my own age ask me to? John can’t expect me to sit beside his bed all day long. John–”
+“He never gets to know anything about my amusements through me," she said meaningly. “They’re quite harmless, anyway. Why shouldn’t I dance or go on the river if men my own age ask me to? John can’t expect me to sit beside his bed all day long. John–”
 
 Suddenly her voice stopped. Her hands darted to her throat, and she gave a strangled gasp.
 
@@ -61,7 +63,7 @@ Nurse Wilmot stared in horror at her patient’s young wife.
 
 “Mrs. Priestly, what’s the matter?”
 
-“I—I feel so—so–” But without another word Sonia collapsed on the floor and passed into a state of semi- consciousness. *
+“I—I feel so—so–” But without another word Sonia collapsed on the floor and passed into a state of semi-consciousness.
 
 Ten minutes later she was dead!
 
@@ -76,7 +78,7 @@ Ten minutes later she was dead!
 
 Dr. Hollis, the Priestlys’ medical attendant, was at the house within half an hour.
 
-“I can’t understand it,” said Nurse Wilmot. “Ono minute she was talking to me as gay and happy-go-lucky as usual; the next, there she was stretched out on the floor. I should never have believed she’d got anything wrong with her. But there—you can’t tell with those that bum the candle at both ends, can you? Many’s the time she’s never come back to the house until two or three in the morning.”
+“I can’t understand it,” said Nurse Wilmot. “Ono minute she was talking to me as gay and happy-go-lucky as usual; the next, there she was stretched out on the floor. I should never have believed she’d got anything wrong with her. But there—you can’t tell with those that burn the candle at both ends, can you? Many’s the time she’s never come back to the house until two or three in the morning.”
 
 “There was nothing wrong with Mrs. Priestly’s constitution,” said Dr. Hollis coldly.
 
@@ -86,9 +88,9 @@ Dr. Hollis, the Priestlys’ medical attendant, was at the house within half an 
 
 The nurse’s face paled. “Poisoned! It’s impossible. She—”
 
-“Poisons of that type act quickly, as you probably know, nurse. What hliad Mrs. Priestly eaten just before she collapsed?”
+“Poisons of that type act quickly, as you probably know, nurse. What had Mrs. Priestly eaten just before she collapsed?”
 
-Jane Wilmot leaned forward tensely. “Oh, it must have been the chocolates!” she declared. Her face went even whiter. “And I ate one myself— just before she did!”
+Jane Wilmot leaned forward tensely. “Oh, it must have been the chocolates!” she declared. Her face went even whiter. “And I ate one myself—just before she did!”
 
 “Well, yours couldn’t have been poisoned; you would have been in a coma by now. Chocolates, eh? Where did she get them?”
 
@@ -142,7 +144,7 @@ Denver Hushed. “This isn’t the sort of case for quick results. We shall have
 
 The inspector shrugged his shoulders.
 
-“Well, no offence, Hawke, but one man can’t possibly investigate all the possibilities there are in this affair— not in the time the police will take, anyway. You see, this Mrs. Priestly had plenty of enemies. One of them sent her a box of poisoned chocolates. Well, we shall make a list of suspects and then tackle each one of them for an alibi for the time when the chocolates were handed in at the post office.”
+“Well, no offence, Hawke, but one man can’t possibly investigate all the possibilities there are in this affair—not in the time the police will take, anyway. You see, this Mrs. Priestly had plenty of enemies. One of them sent her a box of poisoned chocolates. Well, we shall make a list of suspects and then tackle each one of them for an alibi for the time when the chocolates were handed in at the post office.”
 
 “Splendid,” declared the famous criminologist. “In that case I shall earn my fee without having to do much work for it. I’ll join you later, Inspector. I must go and report my arrival to my old friend, John Priestly.”
 
