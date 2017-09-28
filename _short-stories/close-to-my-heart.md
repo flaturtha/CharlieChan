@@ -9,9 +9,11 @@ opub: Mammoth Mystery
 opubdate: Jan. 1946
 opubissue: Vol. 2, No. 1
 category: short-stories
-excerpt: Hatred caused Reece to send his rival a gift to be worn next to the heart. But he forgot to say whose heart …
+excerpt: "Hatred caused Reece to send his rival a gift to be worn next to the heart. But he forgot to say whose heart …"
 image: /assets/img/short-stories/close-to-my-heart.svg
+fb-image: /assets/img/short-stories/close-to-my-heart_fb.jpg
 imgh: 300px
+tease: "Hatred caused Reece to send his rival a gift to be worn next to the heart. But he forgot to say whose heart …"
 genre: Noir
 tags: noir, Geier, Mammoth Mystery, short-story
 wordcount: 4859
