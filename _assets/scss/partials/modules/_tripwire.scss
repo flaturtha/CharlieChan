@@ -2,6 +2,23 @@
 =    TRIPWIRE: 										            =
 =============================================*/
 
+.tripwire {
+	img {
+		box-shadow: 5px 5px 20px #888888;
+		@media screen and (min-width: 30rem){
+			height:300px;
+			width:auto;
+			float:left;
+			margin:0 2rem 1rem 0;
+		}
+	}
+	.toc {
+		margin-top: 2rem;
+	}
+}
+
+
+
 .tw__desc {
 	border-top: 1px solid $acolor;
 	width: 600px;
@@ -17,3 +34,5 @@
 		margin-bottom: 1rem;
 	}
 }
+
+

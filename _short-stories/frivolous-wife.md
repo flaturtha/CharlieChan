@@ -299,7 +299,7 @@ The sergeant nodded.
 ### Wanted—A Girl Guide!
 {: .chaptertitle}
 
-It was past three when they returned to Priestly s house.
+It was past three when they returned to Priestly's house.
 
 “Well, Hawke,” said Inspector Denver sarcastically, “do you know who we’ve got to arrest yet?”
 

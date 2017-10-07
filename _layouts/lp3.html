@@ -1,0 +1,92 @@
+{% include head.html %}
+
+<body {% if page.title %} id="{{ page.title }}" {% endif %} class="{{ page.category }} lp">
+	
+  {% include header2.html %}
+
+  <div class="wrap">{% include smallnav.html %}</div>
+
+	<section class="offer__top" style="background-image:url('{{ page.bg-image }}');margin-top:-8rem;padding-top:10rem;">
+    <img src="{{ page.cover-img }}" alt="{{ page.title }} by {{ page.author }}" class="book__img">
+
+    <!-- README IF STATEMENT -->
+    {% if site.readtime %}
+      {% if site.wpm %}
+        {% assign readtime = page.wordcount | divided_by:site.wpm %}
+      {% else %}
+        {% assign readtime = page.wordcount | divided_by:180 %}
+      {% endif %}
+    {% endif %}
+
+    <div class="offer_details">
+    	<h5><span>{{ page.genre }}</span></h5>
+      <h1 class="books__title">{{ page.title }}</h1>
+      {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
+
+      <h2 class="books__author">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
+      {% if page.authorData %}
+        <p class="authorData">{{ page.authorData }}</p>
+      {% endif %}
+
+      <p>
+        {% if page.opub %}
+          <span style="display:block;" class="opub__ss"><em>{{ page.opub }}</em> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</span>
+        {% endif %}
+        <span style="display:block;" class="opub__ss">THE RED FILE | {{ page.trfdate }} | {{ page.trfissue }}</span> <!-- make a link to the issue! -->
+        <span style="display:block;font-size:0.875rem;">Casefile No: {{ page.casefileNumber }}</span>
+      </p>
+
+      <p class="metadata">
+        <!-- <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span> -->
+        <span class="etr">read time:
+          {% if site.readtime %}
+          {% if readtime > 60 %}
+          {% assign readtime_hours = readtime | divided_by: 60 %}
+          {% assign readtime_minutes = readtime | modulo:60 %}
+            {% if readtime_hours > 1 and readtime_hours < 2 %}1 hour
+            {% else %}<span class="hour">{{ readtime_hours }}</span> hr
+            {% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} and <span class="time">{{ readtime_minutes }}</span> min{% endif %}
+          {% else %}
+            {% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
+          {% endif %}
+          </span>
+        </p>
+
+        <div>
+          <p class="lp_description">{{ page.excerpt }}</p>
+
+          {% if page.testimonials %}<p class="testimonials">{{ page.testimonials }}</p>{% endif %}
+        	
+        	<!-- FB LIKE/SHARE Buttons -->
+<!-- 					<div class="social-buttons">
+					  <div class="fb-like" data-href="{{ site.url }}{{ page.ourl }}" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="false"></div>
+						<div class="tmp_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-size="large"data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+					</div> -->
+      	</div>
+        
+        <div class="buttonsdiv" style="">
+        	<div style="margin-top: 2rem;" class="book__buttons">
+            <a href="{{ page.kindle }}" rel="nofollow" class="add-to-cart">KINDLE</a>
+            
+            <a href="{{ page.epub }}" rel="nofollow" class="add-to-cart">ePUB</a>
+          </div>
+          <div style="margin:2rem auto 0;max-width:80%;">
+            <p class="small">Choose your preferred format: (Kindle or ePub). Click the appropriate button below&nbsp;the&nbsp;description to download &amp; enjoy.</p>
+            <p class="xsmall">NOTE: On desktop, clicking the buttons will open the download dialog box. On mobile devices, they will activate the download, which, once complete will allow you to open the file in your preferred app.</p>
+          </div>
+        </div>
+
+    </div>
+  </section> <!-- end header.offer__top -->
+	
+	<main class="wrap">
+	  <article  style="margin-top:2rem;">
+	    {% include tripwire.html %}
+	  </article>
+	</main>
+
+  {% include footer.html %}
+
+  {% include scripts.html %}
+
+</body>

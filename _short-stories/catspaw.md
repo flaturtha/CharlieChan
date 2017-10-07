@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 55ccf75fb3901011515aef3d
+casefileNumber: 55ccf75fb3901011515aef63
 title: "The Catspaw"
 author: Ward Sterling
 date: 2018-09-01

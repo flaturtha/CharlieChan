@@ -915,7 +915,7 @@ input[type=value] {
       -ms-flex-align: center;
           align-items: center;
   padding: 0.5rem 0;
-  margin: 8rem 0 1rem; }
+  margin: 1rem 0 1rem; }
   @media screen and (min-width: 48rem) {
     .smallnav {
       -webkit-box-orient: horizontal;
@@ -926,8 +926,7 @@ input[type=value] {
       -webkit-box-align: baseline;
       -webkit-align-items: baseline;
           -ms-flex-align: baseline;
-              align-items: baseline;
-      margin-top: 7rem; } }
+              align-items: baseline; } }
 
 .breadcrumbs {
   font-size: 0.75rem;
@@ -2648,6 +2647,19 @@ ol ol li:last-child {
 /*=============================================
 =    TRIPWIRE: 										            =
 =============================================*/
+.tripwire img {
+  -webkit-box-shadow: 5px 5px 20px #888888;
+          box-shadow: 5px 5px 20px #888888; }
+  @media screen and (min-width: 30rem) {
+    .tripwire img {
+      height: 300px;
+      width: auto;
+      float: left;
+      margin: 0 2rem 1rem 0; } }
+
+.tripwire .toc, .tripwire .lp__toc {
+  margin-top: 2rem; }
+
 .tw__desc {
   border-top: 1px solid #8B0000;
   width: 600px;

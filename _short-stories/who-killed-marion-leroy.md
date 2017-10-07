@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: post
-casefileNumber: XXXXXXXXXX
+casefileNumber: 55ccf75fb3901011515aef9b
 title: "Who Killed Marion Leroy"
 series: "Bafflers: The Popular Detective Story Game"
 date: 2017-08-28

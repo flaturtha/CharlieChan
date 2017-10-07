@@ -13,7 +13,9 @@ layout: default2
     <figure class="image-box">
       <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="story__img" {% if page.imgh %} style="height:{{ page.imgh }};width:auto;" {% endif %} itemprop="image">
       <figcaption>{{ page.caption }}</figcaption>
-    </figure>    
+    </figure>
+  {% else %}
+     <div class="placeholder" style="width:300px;"></div>
   {% endif %}
 
     <!-- README IF STATEMENT -->

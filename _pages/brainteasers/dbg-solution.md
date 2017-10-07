@@ -33,7 +33,7 @@ subtitle: "Death By Gas"
   </section>
     <br>
 
-  <section class="shareby bloodred" style="margin-top:2rem;text-align:center;">
+  <section class="shareby bloodred hidden" style="margin-top:2rem;text-align:center;">
     <hr class="bloodred">
     <br>
     <h4>Did you enjoy DEATH BY GAS?</h4>
@@ -56,7 +56,7 @@ subtitle: "Death By Gas"
     <p class="small italics" style="color:#242424;">Share with friends and earn points towards special discounts &amp; free stories! <a href="/policies/rank-scores/" class="undersline">Details</a></p>
   </section>
 
-  <section class="wkml__tease" style="margin-top:1rem;">
+  <section class="wkml__tease hidden" style="margin-top:1rem;">
     <hr style="margin: 3rem 0;">
     <div class="center" style="width:650px;max-width:75%;">
       <p class="center bold">And check your email 'cause I just sent you another thrilling brain teaser called &hellip;</p>
@@ -64,6 +64,8 @@ subtitle: "Death By Gas"
       <p>Check it out and see if you can figure out the clues to who killed this&nbsp;beautiful&nbsp;young&nbsp;actress!</p>
     </div>
   </section>
+
+  {% include tw_spider-lily.html %}
 
 </div>
 
