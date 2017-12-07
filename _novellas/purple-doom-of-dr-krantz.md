@@ -17,8 +17,8 @@ description: "Will Dixon Hawke's wiley wisdom be enough to allow him to penetrat
 tags: novella, world war 2, Hitler, espionage
 image: /assets/img/novellas/purple-doom-of-dr-krantz.jpg
 wordcount: 17454
-buybutton: https://transactions.sendowl.com/packages/33176/421F8364/add_to_cart
-downloadsamplebutton: https://transactions.sendowl.com/packages/33177/B0B66642/add_to_cart
+buybutton: 
+downloadsamplebutton: 
 ---
 
 ### Chapter 1

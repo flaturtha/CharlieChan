@@ -15,8 +15,8 @@ description: "Magda Stewart had asked for his help and now she was missing. Coul
 tags: novella, England, kidnapping
 image: /assets/img/novellas/killers-castle.jpg
 wordcount: 28377
-buybutton: https://transactions.sendowl.com/packages/33172/02170A8F/add_to_cart
-downloadsamplebutton: https://transactions.sendowl.com/packages/33173/DD447923/add_to_cart
+buybutton: 
+downloadsamplebutton: 
 ---
 ### Chapter 1
 {: .chapternumber }

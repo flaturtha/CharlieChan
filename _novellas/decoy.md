@@ -17,8 +17,8 @@ is an impostor — a spy!”"
 tags: novella, spies, "Robert Murray"
 image: /assets/img/novellas/decoy.jpg
 wordcount: 28754
-buybutton: https://transactions.sendowl.com/packages/33180/2827273C/add_to_cart
-downloadsamplebutton: https://transactions.sendowl.com/packages/33181/48180432/add_to_cart
+buybutton: 
+downloadsamplebutton: 
 ---
 
 ### Chapter 1

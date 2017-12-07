@@ -19,8 +19,8 @@ tags:
  - "John Baer"
 image: /assets/img/novellas/campaign-for-vengeance.jpg
 wordcount: 15158
-buybutton: https://transactions.sendowl.com/packages/33168/1A5285B4/add_to_cart
-downloadsamplebutton: https://transactions.sendowl.com/packages/33169/51023CA4/add_to_cart
+buybutton: 
+downloadsamplebutton: 
 testimonials: "\"I had a lot of fun reading through THE CAMPAIGN FOR VENGEANCE.\" &mdash; Micah Zontelli"
 ---
 

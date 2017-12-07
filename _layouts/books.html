@@ -68,32 +68,19 @@ layout: default2
           {% if page.testimonials %}<p class="testimonials">{{ page.testimonials }}</p>{% endif %}
         
           <div style="display:flex;flex-direction:row;justify-content:space-around;">
-            {% if page.preprice %}
-              <p class="book__price" style="text-align:center;"><span class="strikethru">${{ page.price }}</span> ${{ page.preprice }} <span class="prebuy-pitch"> MEMORIAL&nbsp;DAY&nbsp;SPECIAL&nbsp;PRICE!</span><br><span class="xsmall">Price valid through May 31, 2017</span></p>
-            {% else %}
-              <p class="book__price">${{ page.price }}</p>
-            {% endif %}
+            <!-- <p class="book__price">${{ page.price }}</p> -->
             {% include fb-like-share.html %}
           </div>
         </div>
 
         <div class="book__buttons">
           {% if page.buybutton %}
-            <a href="{{ page.buybutton }}" rel="nofollow" class="add-to-cart" id="add-to-cart">Add to Cart</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+            <a href="{{ page.buybutton }}" rel="nofollow" class="add-to-cart" id="add-to-cart">Add to Cart</a>
             
-            <a href="{{ page.downloadsamplebutton }}" rel="nofollow" class="add-to-cart" id="get-sample">Get Sample</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
-          {% else if prebuybutton %}
-            <div class="prebuy">
-              {{ page.prebuybutton }}
-              <p class="prebuy-disclaimer">Pre-buy now and download a full sample. Complete novel will be automatically sent when released.</p>
-            </div>
-            <div class="prebuysample">
-              {{ page.downloadsamplebutton }}
-              <p class="prebuy-disclaimer">NOTE: Samples are added to your shopping cart with a $0.00 charge. If only samples are in your cart, you will <span class="bold">NOT</span> be required to provide a credit card, only an email address for delivery.</p>
-            </div>
+            <a href="{{ page.downloadsamplebutton }}" rel="nofollow" class="add-to-cart" id="get-sample">Get Sample</a>
           {% else %}
-            <div style="border:1px solid #8b0000;">
-              <p style="color:#8b0000;padding:1rem 1rem 0 1rem;">NOT YET RELEASED</p>
+            <div style="border:1px solid #8b0000;margin-top:2rem;">
+              <p style="color:#8b0000;padding:1rem 1rem 0 1rem;">CURRENTLY UNAVAILABLE</p>
             </div>
           {% endif %}
           

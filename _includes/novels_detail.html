@@ -24,11 +24,11 @@
         <p class="excerpt">{{ novels.description }}</p>
         <!-- <p class="excerpt">{{ novels.descriptor }}</p> -->
         
-        {% if novels.prebuybutton %}
-          <p style="border:1px solid #8b0000;margin: 1rem 0;padding:0 0.5rem;color:#8b0000;line-height: 1.5;"><span style="font-weight: bold;display: block;">NOT YET RELEASED.</span> PRE-BUY TODAY &amp; GET 50% OFF! </p>
-          <button class="buybutton"><a href="{{ novels.url }}" style="color:#fffff0;">PRE-BUY</a></button>
-        {% else %}
+        {% if page.buybutton %}
           <button class="buybutton"><a href="{{ novels.url }}" style="color:#fffff0;">BUY</a></button>
+        {% else %}
+          <p class="small" style="margin:1rem 0;padding:0.5rem;color:#8b0000;text-transform:uppdercase;font-weight:bold;">Currently Unavailable</p>
+          <button class="buybutton"><a href="{{ novels.url }}" style="color:#fffff0;">MORE INFO</a></button>
         {% endif %}
 
       </li>
