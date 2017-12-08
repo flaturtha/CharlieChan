@@ -68,24 +68,24 @@ layout: default2
           {% if page.testimonials %}<p class="testimonials">{{ page.testimonials }}</p>{% endif %}
         
           <div style="display:flex;flex-direction:row;justify-content:space-around;">
-            <!-- <p class="book__price">${{ page.price }}</p> -->
+            <p class="book__price">${{ page.price }}</p>
             {% include fb-like-share.html %}
           </div>
         </div>
 
         <div class="book__buttons">
-          {% if page.buybutton %}
-            <a href="{{ page.buybutton }}" rel="nofollow" class="add-to-cart" id="add-to-cart">Add to Cart</a>
-            
-            <a href="{{ page.downloadsamplebutton }}" rel="nofollow" class="add-to-cart" id="get-sample">Get Sample</a>
-          {% else %}
-            <div style="border:1px solid #8b0000;margin-top:2rem;">
-              <p style="color:#8b0000;padding:1rem 1rem 0 1rem;">CURRENTLY UNAVAILABLE</p>
-            </div>
-          {% endif %}
+          <button class="snipcart-add-item add-to-cart"
+          data-item-id="{{ page.casefileNumber }}"
+          data-item-name="{{ page.title }}"
+          data-item-price="{{ page.price }}"
+          data-item-url="{{ page.url }}">
+          BUY {{ page.title }}
+        </button>
           
         </div> <!-- end .book__buttons -->
+
         <br>
+        
         {% if page.buybutton %}
           <p class="smallnote">NOTE: Samples are added to your shopping cart with a $0.00 charge. If you only have samples are in your cart, you will <strong>NOT</strong> be required to provide a credit card; only an email address for delivery.</p>
         {% endif %}
