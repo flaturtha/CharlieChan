@@ -232,7 +232,18 @@ a {
   background-color: darken($paper, 5%);
 }
 
+.showOnMob {
+  @media screen and (min-width:48rem){
+    display: none;
+  }
+}
 
+.showOnDesk {
+  display: none;
+  @media screen and (min-width:48rem){
+    display: block;
+  }
+}
 
 
 

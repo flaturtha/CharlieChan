@@ -185,7 +185,31 @@ $bgcolor2: darken($bgcolor, 5%);
   }
 }
 
+.snipcart-ul {
+  display: flex !important;
+  flex-direction: row;
+  opacity: 1 !important;
+  visibility: visible !important;
+  height: auto !important;
+  li {
+    margin: 1rem;
+    color: $paper;
+    width: 50%;
+  }
+  @media screen and (min-width:48rem){
+    // position: absolute;
+    // top: 0;
+    // right: 0;
+    width: 100% !important;
+    height: 50px !important;
+    border: 1px solid green;
+    padding: 0;
+    margin: 0;
+    li {
 
+    }
+  }
+} 
 
 
 /* BRANDING */

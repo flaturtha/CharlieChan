@@ -3889,6 +3889,204 @@ p {
     text-decoration: underline;
     color: #474F55; }
 
+.sc-nav {
+  background-color: #242424;
+  background-image: url("/assets/img/site/pulpicons2.svg");
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column; }
+  .sc-nav .login {
+    background-color: #8B0000;
+    -webkit-box-ordinal-group: 3;
+    -webkit-order: 2;
+        -ms-flex-order: 2;
+            order: 2; }
+    @media screen and (min-width: 48rem) {
+      .sc-nav .login {
+        background-color: transparent;
+        height: 25px; } }
+    .sc-nav .login ul {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: row;
+          -ms-flex-direction: row;
+              flex-direction: row;
+      -webkit-justify-content: space-around;
+          -ms-flex-pack: distribute;
+              justify-content: space-around;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+          -ms-flex-align: center;
+              align-items: center;
+      min-height: 72px; }
+      .sc-nav .login ul li {
+        border: 1px solid #fffff0;
+        -webkit-border-radius: 3px;
+                border-radius: 3px;
+        height: 60px;
+        width: 45%;
+        text-align: center;
+        padding: 1rem 0 0 0; }
+        .sc-nav .login ul li a {
+          font-size: 1.5rem;
+          color: #fffff0; }
+      @media screen and (min-width: 48rem) {
+        .sc-nav .login ul {
+          -webkit-box-pack: end;
+          -webkit-justify-content: flex-end;
+              -ms-flex-pack: end;
+                  justify-content: flex-end;
+          min-height: 100%;
+          padding: 1rem;
+          margin-bottom: -1rem; }
+          .sc-nav .login ul li {
+            background-color: #8B0000;
+            border: none;
+            -webkit-border-radius: 0;
+                    border-radius: 0;
+            height: 100%;
+            width: 100px;
+            padding: 0.5rem 0;
+            text-align: right; }
+            .sc-nav .login ul li a {
+              font-size: 0.75rem;
+              margin-right: 1rem; } }
+    @media screen and (min-width: 48rem) {
+      .sc-nav .login {
+        -webkit-box-ordinal-group: 2;
+        -webkit-order: 1;
+            -ms-flex-order: 1;
+                order: 1; } }
+  .sc-nav .primary {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-ordinal-group: 2;
+    -webkit-order: 1;
+        -ms-flex-order: 1;
+            order: 1;
+    border-bottom: 4px solid #8B0000; }
+    .sc-nav .primary ul {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+          -ms-flex-align: center;
+              align-items: center;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+          -ms-flex-pack: center;
+              justify-content: center; }
+      .sc-nav .primary ul li {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        height: 72px;
+        width: 100%;
+        border-bottom: 1px solid #fffff0;
+        -webkit-box-pack: center;
+        -webkit-justify-content: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+            -ms-flex-align: center;
+                align-items: center; }
+        .sc-nav .primary ul li a {
+          color: #fffff0; }
+    @media screen and (min-width: 48rem) {
+      .sc-nav .primary {
+        -webkit-box-ordinal-group: 3;
+        -webkit-order: 2;
+            -ms-flex-order: 2;
+                order: 2;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: row;
+            -ms-flex-direction: row;
+                flex-direction: row;
+        -webkit-justify-content: space-around;
+            -ms-flex-pack: distribute;
+                justify-content: space-around; }
+        .sc-nav .primary ul {
+          -webkit-box-orient: horizontal;
+          -webkit-box-direction: normal;
+          -webkit-flex-direction: row;
+              -ms-flex-direction: row;
+                  flex-direction: row;
+          -webkit-box-flex: 2;
+          -webkit-flex-grow: 2;
+              -ms-flex-positive: 2;
+                  flex-grow: 2;
+          -webkit-justify-content: space-around;
+              -ms-flex-pack: distribute;
+                  justify-content: space-around;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+              -ms-flex-align: center;
+                  align-items: center; }
+          .sc-nav .primary ul li {
+            height: 20px;
+            border: none;
+            padding: 0; } }
+    .sc-nav .primary .logo-wide {
+      height: 55px;
+      width: 300px;
+      margin: 0.5rem; }
+      @media screen and (min-width: 48rem) {
+        .sc-nav .primary .logo-wide {
+          margin: 1rem; } }
+    .sc-nav .primary .logo-narrow {
+      height: 55px;
+      width: 37px;
+      margin: 0.5rem; }
+      @media screen and (min-width: 48rem) {
+        .sc-nav .primary .logo-narrow {
+          margin: 1rem; } }
+  .sc-nav .join {
+    background-color: yellow;
+    border: 1px solid yellow;
+    -webkit-border-radius: 3px;
+            border-radius: 3px;
+    -webkit-box-ordinal-group: 4;
+    -webkit-order: 3;
+        -ms-flex-order: 3;
+            order: 3;
+    margin: 0.25rem;
+    padding: 0.5rem;
+    width: 375px;
+    text-align: center; }
+    @media screen and (min-width: 48rem) {
+      .sc-nav .join {
+        margin: -0.5rem 0 0 65%; } }
+    .sc-nav .join a {
+      color: #8B0000;
+      font-weight: bold; }
+
 /*====================================================
 =            ALL HEADER/NAV/BRANDING SCSS            =
 ====================================================*/
@@ -4051,6 +4249,31 @@ p {
   @media screen and (min-width: 48rem) {
     .social-nav {
       display: inline; } }
+
+.snipcart-ul {
+  display: -webkit-box !important;
+  display: -webkit-flex !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  opacity: 1 !important;
+  visibility: visible !important;
+  height: auto !important; }
+  .snipcart-ul li {
+    margin: 1rem;
+    color: #fffff0;
+    width: 50%; }
+  @media screen and (min-width: 48rem) {
+    .snipcart-ul {
+      width: 100% !important;
+      height: 50px !important;
+      border: 1px solid green;
+      padding: 0;
+      margin: 0; } }
 
 /* BRANDING */
 @media screen and (min-width: 48rem) {
@@ -4308,3 +4531,13 @@ a {
   margin: 0 auto 2rem;
   padding: 0.25rem;
   background-color: #ffffd7; }
+
+@media screen and (min-width: 48rem) {
+  .showOnMob {
+    display: none; } }
+
+.showOnDesk {
+  display: none; }
+  @media screen and (min-width: 48rem) {
+    .showOnDesk {
+      display: block; } }
