@@ -2,7 +2,7 @@
 layout: default3
 permalink: /test/
 title: TEST
-category: home
+category: start-here
 ---
 
 <div style="height:100vh;background-color:lightblue;">

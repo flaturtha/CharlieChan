@@ -8,20 +8,28 @@
   </div>
 
   <div class="primary">
-    <img src="/assets/img/site/logo_mobile_w2.png" alt="" class="logo-wide showOnMob">
-    <img src="/assets/img/site/atticus_fffff0.png" alt="" class="logo-narrow showOnDesk">
-    <ul class="">
-      <li><a href="#">HOME</a></li>
-      <li><a href="#">START HERE</a></li>
-      <li><a href="#">MURDERWIKI</a></li>
-      <li><a href="#">SHORT STORIES</a></li>
-      <li><a href="#">NOVELLAS</a></li>
-      <li><a href="#">NOVELS</a></li>
+    <div>
+      <img src="/assets/img/site/logo_mobile_w2.png" alt="" class="logo-wide showOnMob">
+      <img src="/assets/img/site/atticus_fffff0.png" alt="" class="logo-narrow showOnDesk">
+
+      <h2 class="hidden">Main Navigation</h2>
+      <input id="nav" type="checkbox">
+      <label for="nav">Menu</label>
+    </div>
+
+    <ul>
+      <li><a {% if page.category == 'home' %} class="active" {% endif %} href="/"><span>Home</span></a></li>
+      <li><a {% if page.category == 'start-here' %} class="active" {% endif %} href="/start-here"/><span class="bg-start-here">Start Here</span></a></li>
+      <li><a {% if page.category == 'murderwiki' %} class="active" {% endif %} href="/murderwiki/"><span>MurderWiki</span></a></li>
+      <li><a {% if page.category == 'short-stories' %} class="active" {% endif %} href="/short-stories/"><span>Short Stories</span></a></li>
+      <li><a {% if page.category == 'novellas' %} class="active" {% endif %} href="/novellas/"><span>Novellas</span></a></li>
+      <li><a {% if page.category == 'novels' %} class="active" {% endif %} href="/novels/"><span>Novels</span></a></li>
+      <!-- <li><a {% if page.category == 'adb' %} class="active" {% endif %} href="/novels/"><span>A.D.B.</span></a></li> -->
     </ul>
   </div>
 
   <div class="join">
-    <a href="/armchair-detectives-bureau/" class="">JOIN THE ARMCHAIR DETECTIVES BUREAU</a> <!-- class was .adb-signup -->
+    <a href="/armchair-detectives-bureau/" class="">JOIN THE ARMCHAIR&nbsp;DETECTIVES&nbsp;BUREAU</a> <!-- class was .adb-signup -->
   </div>
 
 
