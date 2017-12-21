@@ -3889,7 +3889,15 @@ p {
     text-decoration: underline;
     color: #474F55; }
 
-nav.outer {
+.sc-header {
+  background-color: #242424;
+  height: 150px;
+  border-bottom: 4px solid rgba(0, 0, 0, 0.1); }
+
+.sc-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -3899,26 +3907,12 @@ nav.outer {
   -webkit-flex-direction: column;
       -ms-flex-direction: column;
           flex-direction: column;
-  background: #242424;
-  background-image: url("/assets/img/site/pulpicons2.svg");
+  border: 2px solid deeppink;
+  height: 100vh;
+  width: 100%;
   color: #fffff0; }
 
-.site-title {
-  font-size: 1rem; }
-
-.nav-toggle {
-  cursor: pointer; }
-
-a {
-  color: #fffff0;
-  text-decoration: none; }
-
-nav li {
-  list-style: none; }
-
 .banner {
-  background: #242424;
-  background-image: url("/assets/img/site/pulpicons2.svg");
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -3930,13 +3924,41 @@ nav li {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  height: 72px;
-  width: 100%;
-  position: fixed;
-  top: 0;
-  left: 0; }
+  -webkit-box-ordinal-group: 2;
+  -webkit-order: 1;
+      -ms-flex-order: 1;
+          order: 1;
+  color: #fffff0;
+  height: 72px; }
+  .banner img {
+    height: 50px;
+    width: auto; }
 
-.main-navigation {
+.acct-nav {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 0.75rem;
+  text-decoration: underline;
+  -webkit-box-ordinal-group: 3;
+  -webkit-order: 2;
+      -ms-flex-order: 2;
+          order: 2;
+  height: 62px;
+  width: 100%;
+  background-color: #3e3e3e; }
+  .acct-nav a {
+    color: #fffff0; }
+
+.main-nav {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -3946,36 +3968,23 @@ nav li {
   -webkit-flex-direction: column;
       -ms-flex-direction: column;
           flex-direction: column;
-  position: fixed;
-  top: 72px;
-  left: -100%;
-  width: 100%;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-ordinal-group: 4;
+  -webkit-order: 3;
+      -ms-flex-order: 3;
+          order: 3;
   height: 100vh;
-  text-align: center;
-  -webkit-transition: left 0.8s ease;
-  transition: left 0.8s ease; }
-
-.main-navigation.open {
-  left: 0; }
-
-.main-navigation .nav-toggle {
-  text-align: right; }
-
-.main-navigation ul {
-  margin: 0;
-  padding: 0; }
-
-.main-navigation ul li {
-  padding: 10px 20px;
-  display: block; }
-
-.main-navigation ul li ul li:hover {
-  background: #333; }
-
-.primary-nav {
-  background: #242424;
-  background-image: url("/assets/img/site/pulpicons2.svg"); }
-  .primary-nav ul {
+  width: 100%;
+  background-color: #242424;
+  position: fixed;
+  top: 134px;
+  left: -100%;
+  -webkit-transition: left 0.7s ease;
+  transition: left 0.7s ease; }
+  .main-nav ul {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -3985,46 +3994,24 @@ nav li {
     -webkit-flex-direction: column;
         -ms-flex-direction: column;
             flex-direction: column;
-    height: 100%; }
-    .primary-nav ul li {
-      display: -webkit-box;
-      display: -webkit-flex;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-pack: center;
-      -webkit-justify-content: center;
-          -ms-flex-pack: center;
-              justify-content: center;
-      -webkit-box-align: center;
-      -webkit-align-items: center;
-          -ms-flex-align: center;
-              align-items: center;
-      font-size: 1.5rem;
-      padding: 1rem 0;
-      border-bottom: 1px solid white; }
-
-.top-nav {
-  background: #8B0000;
-  height: 72px; }
-  .top-nav ul {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
     -webkit-justify-content: space-around;
         -ms-flex-pack: distribute;
-            justify-content: space-around; }
-    .top-nav ul li {
-      border: 1px solid white; }
+            justify-content: space-around;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    height: 100%; }
+
+.main-nav.open {
+  left: 0; }
 
 .join-nav {
-  background: yellow;
-  color: #8b0000;
-  font-weight: bold;
-  width: 75%;
-  margin: -0.25rem auto 0;
-  -webkit-box-shadow: 4px 4px 10px #242424;
-          box-shadow: 4px 4px 10px #242424; }
+  -webkit-box-ordinal-group: 5;
+  -webkit-order: 4;
+      -ms-flex-order: 4;
+          order: 4;
+  background-color: #646464; }
 
 /*====================================================
 =            ALL HEADER/NAV/BRANDING SCSS            =
@@ -4073,7 +4060,7 @@ nav li {
     .nav .main-nav a.logo {
       display: inline-block;
       margin: 1rem -2rem 1rem 1rem;
-      background: url("/assets/img/site/logo_mobile_w2.png") no-repeat;
+      background: url("/assets/img/site/atticus_fffff0.svg") no-repeat;
       background-size: contain;
       height: 50px;
       width: 70%; }
