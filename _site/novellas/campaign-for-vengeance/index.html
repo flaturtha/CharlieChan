@@ -28,7 +28,7 @@
 
 		
 			'id': '55ccf75fb3901011515aef53',
-			'pubDate': '2017-12-19 15:50:29 -0600',
+			'pubDate': '2017-12-21 12:47:00 -0600',
 			'genre': 'Amateur Sleuth',
 			'tags': 'revengefemale protagonistpolicenovellaJohn Baer',
 			'currency': 'USD',
@@ -265,39 +265,132 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <header class="header" role="banner">
 
-  <nav class="sc-nav">
-  
-  <div class="login">
-    <ul class="">
-      <li><a href="#">LOG IN</a></li>
-      <li><a href="#">REGISTER</a></li>
-    </ul>    
+  <nav class="outer">
+  <div class="banner">
+    <h1 class="site-title">TALES OF MURDER</h1>
+    <!-- <p class="nav-toggle">MENU</p> -->
+    <i class="fa fa-bars nav-toggle"></i>
   </div>
-
-  <div class="primary">
-    <div>
-      <img src="/assets/img/site/logo_mobile_w2.png" alt="" class="logo-wide showOnMob">
-      <img src="/assets/img/site/atticus_fffff0.png" alt="" class="logo-narrow showOnDesk">
-
-      <h2 class="hidden">Main Navigation</h2>
-      <input id="nav" type="checkbox">
-      <label for="nav">Menu</label>
-    </div>
-
+  <nav class="main-navigation">
     <ul>
-      <li><a  href="/"><span>Home</span></a></li>
-      <li><a  href="/start-here"/><span class="bg-start-here">Start Here</span></a></li>
-      <li><a  href="/murderwiki/"><span>MurderWiki</span></a></li>
-      <li><a  href="/short-stories/"><span>Short Stories</span></a></li>
-      <li><a  class="active"  href="/novellas/"><span>Novellas</span></a></li>
-      <li><a  href="/novels/"><span>Novels</span></a></li>
-      <!-- <li><a  href="/novels/"><span>A.D.B.</span></a></li> -->
+      <li class="primary-nav">
+        <ul>
+          <li><a href="#">HOME</a></li>
+          <li><a href="#">START HERE</a></li>
+          <li><a href="#">MURDERWIKI</a></li>
+          <li><a href="#">SHORT STORIES</a></li>
+          <li><a href="#">NOVELLAS</a></li>
+          <li><a href="#">NOVELS</a></li>
+          <!-- <li><a href="#">A.D.B.</a></li> -->
+        </ul>
+      </li>
+      
+      <li class="top-nav">
+        <ul>
+          <li>LOG IN</li>
+          <li>REGISTER</li>
+        </ul>
+      </li>
+      
+      <li class="join-nav">JOIN THE A.D.B.</li>
     </ul>
-  </div>
+  </nav>
+</nav>
 
-  <div class="join">
+
+<script>
+  $(function() {
+  $('.nav-toggle').on('click', function(){
+    $('.main-navigation').toggleClass('open');
+  });
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <nav class="sc-nav">
+
+  <input id="nav" type="checkbox">
+  <label for="nav">Menu</label>
+  
+  <ul>
+    <li>
+      <div class="login">
+        <ul class="">
+          <li><a href="#">LOG IN</a></li>
+          <li><a href="#">REGISTER</a></li>
+        </ul>    
+      </div>
+    </li>
+    <li>
+      <div class="primary">
+        <div>
+          <img src="/assets/img/site/logo_mobile_w2.png" alt="" class="logo-wide showOnMob">
+          <img src="/assets/img/site/atticus_fffff0.png" alt="" class="logo-narrow showOnDesk">
+
+          <h2 class="hidden">Main Navigation</h2>
+          
+        </div>
+
+        <ul>
+          <li><a  href="/"><span>Home</span></a></li>
+          <li><a  href="/start-here"/><span class="bg-start-here">Start Here</span></a></li>
+          <li><a  href="/murderwiki/"><span>MurderWiki</span></a></li>
+          <li><a  href="/short-stories/"><span>Short Stories</span></a></li>
+          <li><a  class="active"  href="/novellas/"><span>Novellas</span></a></li>
+          <li><a  href="/novels/"><span>Novels</span></a></li>
+          <li><a  href="/novels/"><span>A.D.B.</span></a></li>
+        </ul>
+      </div>
+
+    </li>
+    <li>
+      <div class="join">
     <a href="/armchair-detectives-bureau/" class="">JOIN THE ARMCHAIR&nbsp;DETECTIVES&nbsp;BUREAU</a> <!-- class was .adb-signup -->
   </div>
+    </li>
+  </ul>
+
+
+
+  
+
+  
 
 
 
