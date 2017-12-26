@@ -1088,6 +1088,10 @@ input[type=value] {
 /* ==========================================================================
    CARD MODULE
    ========================================================================== */
+@media screen and (min-width: 48rem) {
+  .card__container {
+    margin-top: 2rem; } }
+
 .cards {
   list-style: none;
   font-size: 0;
@@ -3054,8 +3058,17 @@ ul {
     .showonmobile {
       display: none; } }
 
+.marginonmobile {
+  margin-top: 6rem; }
+  @media screen and (min-width: 48rem) {
+    .marginonmobile {
+      margin: 0; } }
+
 .home .main {
-  margin-top: 0; }
+  margin-top: 7rem; }
+  @media screen and (min-width: 48rem) {
+    .home .main {
+      margin: 0; } }
 
 .siteintro {
   background-color: #8B0000;
@@ -3689,8 +3702,10 @@ ul {
 .welcome {
   width: 700px;
   max-width: 90%;
-  margin: 0 auto;
-  /* should be 0 auto; -5rem is temporary fix */ }
+  margin: 0 auto; }
+  @media screen and (min-width: 48rem) {
+    .welcome {
+      margin-top: 2rem; } }
   .welcome p {
     font-size: 1.125rem;
     font-weight: bold;
@@ -3894,7 +3909,8 @@ p {
 ====================================================*/
 /* HEADER */
 .header {
-  background-color: #242424; }
+  background-color: #242424;
+  margin-bottom: 2rem; }
 
 /* NAV */
 .fixedtop {
@@ -3910,6 +3926,9 @@ p {
   z-index: 2;
   border-bottom: 4px solid #8B0000;
   font-family: 'Oswald',sans-serif;
+  position: fixed;
+  top: 0;
+  /* 105px 62px */
   width: 100%;
   background: #242424 url("/assets/img/site/pulpicons2.svg");
   /* main-nav */ }

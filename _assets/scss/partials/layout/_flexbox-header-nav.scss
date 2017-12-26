@@ -10,7 +10,7 @@ $bgcolor2: darken($bgcolor, 5%);
 .header {
   background-color: $bgcolor;
   // padding-bottom: 2rem;
-  // margin-bottom: 2rem;
+  margin-bottom: 2rem;
 }
 
 .bg-start-here {
@@ -38,8 +38,8 @@ $bgcolor2: darken($bgcolor, 5%);
   z-index: 2;
   border-bottom: 4px solid $acolor;
   font-family: 'Oswald',sans-serif;
-  // position: fixed;
-  // top: 0; /* 105px 62px */
+  position: fixed;
+  top: 0; /* 105px 62px */
   width: 100%;
   background: $bgcolor url('/assets/img/site/pulpicons2.svg');
 
