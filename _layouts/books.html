@@ -53,22 +53,14 @@ layout: default2
         </p>
 
 
-        {% if page.preprice %}
-        <div class="prebuyh">
-          <h3>MEMORIAL DAY SPECIAL!</h3>
-          <p class="discount"><span>Through May 31 &mdash; get&nbsp;<span class="bold italics">{{ page.discount }}</span>&nbsp;off!</span></p>
-          <p class="note">Use the coupon code <span style="font-size:14px;letter-spacing:1.25px;font-weight:bold;">#REMEMBER</span> (be sure to include the hash symbol &ndash; #) to get the special price and help us honor those who made the ultimate sacrifice for all of us.</span></p>
-        </div>
-      {% endif %}
-
-        <div class="">
+       <div class="">
 
           <p class="italics" style="border-top:1px solid #8b0000;border-bottom:1px solid #8b0000;padding:0.5rem 0;">{{ page.description }}</p>
 
           {% if page.testimonials %}<p class="testimonials">{{ page.testimonials }}</p>{% endif %}
         
           <div style="display:flex;flex-direction:row;justify-content:space-around;">
-            <!-- <p class="book__price">${{ page.price }}</p> -->
+            <p class="book__price">${{ page.price }}</p>
             {% include fb-like-share.html %}
           </div>
         </div>
