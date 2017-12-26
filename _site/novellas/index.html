@@ -254,232 +254,49 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <header class="header" role="banner">
 
-  
-<section class="sc-nav">
-  <div class="banner">
-    <img src="/assets/img/site/logo_mobile_w2.png" alt="">
-    <i class="fa fa-bars fa-2x nav-toggle"></i>
-  </div>
+  <nav class="nav" role="navigation">
 
-  <div class="acct-nav">
-    <a href="#">LOG IN</a>
-    <a href="#">REGISTER</a>  
-  </div>
+  <div class="social-nav hidden" style="display:flex;flex-direction:column;justify-content:space-around;">
+    <h2 class="hidden">Social Media Submenu</h2>
 
+    <a href="#" class="snipcart-user-profile" style="background-color:#8b0000;color:#fffff0;padding:4px 6px;margin-bottom:12px;"><span class="snipcart-user-email"><i class="fa fa-user"></i> Login/Register</span></a>
+    <div style="align-self:center">
+      <a href="#" class="snipcart-edit-profile small" style="color:#fffff0;">Edit Profile&nbsp;|</a>
+      <a href="#" class="snipcart-user-logout small" style="color:#fffff0;">&nbsp;Logout</a>
+    </div>
+    <br>
+
+    <!-- <ul>
+      <li class="submenu__search"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li> 
+      <li class="submenu__facebook"><a href=""><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+      <li class="submenu__twitter"><a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+      <li class="submenu__rss"><a href="http://feeds.feedburner.com/TalesOfMurder" rel="alternate" type="application/rss+xml"><i class="fa fa-rss-square" aria-hidden="true"></i></a></li>
+      <li class="submenu__slack"><a href=""><i class="fa fa-slack" aria-hidden="true"></i></a></li>
+    </ul>-->
+  </div>
 
   <div class="main-nav">
+    <a class="logo" title="Tales of Murder" href="https://www.talesofmurder.com"><p><span>Tales of Murder</span></p></a>
 
+    <h2 class="hidden">Main Navigation</h2>
+    <input id="nav" type="checkbox">
+    <label for="nav">Menu</label>
     <ul>
-      <li>MENU 1</li>
-      <li>MENU 2</li>
-      <li>MENU 3</li>
-      <li>MENU 4</li>
-      <li>MENU 5</li>
-      <li style="background-color: yellow; color: $242424;">MENU 6</li>
+      <li><a  href="/"><span>Home</span></a></li>
+      <li><a  href="/start-here"/><span class="bg-start-here">Start Here</span></a></li>
+      <li><a  href="/murderwiki/"><span>MurderWiki</span></a></li>
+      <li><a  href="/short-stories/"><span>Short Stories</span></a></li>
+      <li><a  class="active"  href="/novellas/"><span>Novellas</span></a></li>
+      <li><a  href="/novels/"><span>Novels</span></a></li>
+      <!-- <li><a  href="/armchair-detectives-bureau/"><span>A.D.B.</span></a></li> -->
+      <!--<li><a  href="/subscriptions/"><span>Subscriptions</span></a></li>
+       <li id="searchbar"><a href="#">Search</a></li> -->
     </ul>
-
-  </div>
-
-
-  <div class="join-nav">
-    BOTTOM
-  </div>
-
-</section>
-
-<script>
-  $(function() {
-  $('.nav-toggle').on('click', function(){
-    $('.main-nav').toggleClass('open');
-  });
-});
-</script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- <nav class="sc-nav">
-
-  <input id="nav" type="checkbox">
-  <label for="nav">Menu</label>
-  
-  <ul>
-    <li>
-      <div class="login">
-        <ul class="">
-          <li><a href="#">LOG IN</a></li>
-          <li><a href="#">REGISTER</a></li>
-        </ul>    
-      </div>
-    </li>
-    <li>
-      <div class="primary">
-        <div>
-          <img src="/assets/img/site/logo_mobile_w2.png" alt="" class="logo-wide showOnMob">
-          <img src="/assets/img/site/atticus_fffff0.png" alt="" class="logo-narrow showOnDesk">
-
-          <h2 class="hidden">Main Navigation</h2>
-          
-        </div>
-
-        <ul>
-          <li><a  href="/"><span>Home</span></a></li>
-          <li><a  href="/start-here"/><span class="bg-start-here">Start Here</span></a></li>
-          <li><a  href="/murderwiki/"><span>MurderWiki</span></a></li>
-          <li><a  href="/short-stories/"><span>Short Stories</span></a></li>
-          <li><a  class="active"  href="/novellas/"><span>Novellas</span></a></li>
-          <li><a  href="/novels/"><span>Novels</span></a></li>
-          <li><a  href="/novels/"><span>A.D.B.</span></a></li>
-        </ul>
-      </div>
-
-    </li>
-    <li>
-      <div class="join">
-    <a href="/armchair-detectives-bureau/" class="">JOIN THE ARMCHAIR&nbsp;DETECTIVES&nbsp;BUREAU</a> <!-- class was .adb-signup -->
-  </div>
-    </li>
-  </ul>
-
-
+  </div> <!-- end .main-nav -->
 
   
 
-  
-
-
-
-
-</nav>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- <nav class="sc-nav" role="navigation">
-  
-
-  <div class="navs">
-
-    <ul class="top">
-      <li><a href="#">LOG IN</a></li>
-      <li><a href="#">REGISTER</a></li>
-    </ul>
-
-    <ul class="main">
-      <img src="/assets/img/test/test-logo-wide.jpg" alt="">
-      <li><a href="#">HOME</a></li>
-      <li><a href="#">START HERE</a></li>
-      <li><a href="#">MURDERWIKI</a></li>
-      <li><a href="#">SHORT STORIES</a></li>
-      <li><a href="#">NOVELLAS</a></li>
-      <li><a href="#">NOVELS</a></li>
-    </ul>
-
-    <ul class="btm">
-      <li><a href="#">JOIN A.D.B.</a></li>
-    </ul>
-    
-
-  </div>
-
-
-
-
-
-</nav> -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- <nav class="sc-nav">
-  <img src="/assets/img/test/test-logo-wide.jpg" alt="">
-  <ul class="login-sub">
-    <li><a href="#">LOGIN</a></li>
-    <li><a href="#">REGISTER</a></li>
-  </ul>
-  <ul class="nav-main">
-    <li><a href="#">HOME</a></li>
-    <li><a href="#">START HERE</a></li>
-    <li><a href="#">MURDERWIKI</a></li>
-    <li><a href="#">SHORT STORIES</a></li>
-    <li><a href="#">NOVELLAS</a></li>
-    <li><a href="#">NOVELS</a></li>
-    <li class="adb-nav"><a href="#">JOIN THE ARMCHAIR DETECTIVES BUREAU</a></li>
-  </ul>
-</nav> -->
+</nav> <!-- end nav.nav -->
 
 	
   
