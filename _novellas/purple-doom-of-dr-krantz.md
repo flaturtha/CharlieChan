@@ -1,6 +1,7 @@
 ---
 layout: books
 casefileNumber: 55ccf75fb3901011515af01b
+snipcart-guid: f0f09b30-8196-4dda-9ed9-6078ed4c412f
 title: "The Purple Doom of Dr. Krantz"
 series: A Dixon Hawke Mystery
 price: 2.99

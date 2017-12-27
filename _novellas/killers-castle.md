@@ -1,6 +1,7 @@
 ---
 layout: books
 casefileNumber: 55ccf75fb3901011515af01b
+snipcart-guid: d81c7028-e487-4582-85fe-4e6c3dd72476
 title: "Killers' Castle"
 author: George Dilnot
 price: 2.99

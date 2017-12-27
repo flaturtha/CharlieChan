@@ -2,18 +2,9 @@
 layout: default2
 ---
 
- <!-- <header class="pagehead">
-   <section class="pagetitle">
-    <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
-  </section> end div.pagetitle  
-  
-  
-</header>-->
-
 <article class="books">
 
   {% include smallnav.html %}
-
 
   <header class="books__header">
     <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="book__img">
@@ -51,15 +42,6 @@ layout: default2
           {% endif %}
           </span>
         </p>
-
-
-        {% if page.preprice %}
-        <div class="prebuyh">
-          <h3>MEMORIAL DAY SPECIAL!</h3>
-          <p class="discount"><span>Through May 31 &mdash; get&nbsp;<span class="bold italics">{{ page.discount }}</span>&nbsp;off!</span></p>
-          <p class="note">Use the coupon code <span style="font-size:14px;letter-spacing:1.25px;font-weight:bold;">#REMEMBER</span> (be sure to include the hash symbol &ndash; #) to get the special price and help us honor those who made the ultimate sacrifice for all of us.</span></p>
-        </div>
-      {% endif %}
 
         <div class="">
 

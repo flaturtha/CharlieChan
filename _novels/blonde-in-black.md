@@ -1,6 +1,7 @@
 ---
 layout: books
 casefileNumber: 58753737fda8f27d5695e8e8
+snipcart-guid: b4426283-d707-4a89-82de-a60747f4cb85
 title: "The Blonde in Black"
 author: Ben Benson
 date: 2017-01-05

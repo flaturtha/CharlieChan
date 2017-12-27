@@ -1,6 +1,7 @@
 ---
 layout: books
 casefileNumber: 55ccf75fb3901011515af012
+snipcart-guid: db5b7388-11b0-4ff1-aabb-0cd6ad65e93a
 title: "The Decoy"
 author: Robert Murray
 price: 2.99

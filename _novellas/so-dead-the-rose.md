@@ -1,6 +1,7 @@
 ---
 layout: books
 casefileNumber: 55ccf75fb3901011515aef0a
+snipcart-guid: e1bc5e40-91e8-4542-8ddd-40cc24f4aabf
 title: "So Dead the&nbsp;Rose"
 author: Sim Albert
 price: 0.99

@@ -1,6 +1,7 @@
 ---
 layout: books
 casefileNumber: 55ccf75fb3901011515aef28
+snipcart-guid: 3a4a3763-54f7-46c4-9b43-3463ef830806
 title: "Black Shadows"
 author: J. C. Kofoed
 price: 1.25

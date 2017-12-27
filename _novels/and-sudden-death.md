@@ -1,7 +1,7 @@
 ---
 layout: books
 casefileNumber: 587537d0fda8f27d5695e8e9
-snipcart-guid: 018bd781-1173-47cc-a1b6-f31a367a5b77
+snipcart-guid: 03237968-cba9-4ef2-881e-14c9ea94adee
 title: "And Sudden Death"
 author: Cleve F. Adams
 date: 2017-01-05
