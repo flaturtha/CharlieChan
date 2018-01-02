@@ -1,12 +1,15 @@
 ---
 layout: books
 casefileNumber: 587538f0fda8f27d5695e8ed
+snipcart-guid: 262dbd9f-8ea9-4ec6-bc64-51dbf4320ad6
 title: "The Opening Door"
 author: Helen Reilly
 date: 2017-01-31
-price: 6.99
+price: 1.99
+actualprice: 6.99
 category: novels
-image: /assets/img/novels/comingsoon.svg
+genre: amateur sleuth
+image: /assets/img/novels/opening-door.jpg
 wordcount: 72,804
 description: "Eve Flavell has news. News that will deepen the rift between her and her father. But then a murder of one of the household. What does the murder tell of the deep secrets in the Flavell household?"
 ---
