@@ -1377,18 +1377,22 @@ a.readmore {
             -ms-flex-direction: row;
                 flex-direction: row; } }
   .card__small .buybutton {
-    background-color: #580000;
+    background-color: #008b00;
+    -webkit-box-shadow: 1px 2px 10px #242424;
+            box-shadow: 1px 2px 10px #242424;
     color: #fffff0;
     margin-top: 0.5rem;
     height: 35px;
     width: 150px;
-    border: 1px solid #580000;
+    border: 1px solid #008b00;
     -webkit-border-radius: 4px;
             border-radius: 4px; }
     .card__small .buybutton a {
       color: #fffff0 !important; }
     .card__small .buybutton:hover {
-      background-color: #8B0000; }
+      background-color: #fffff0; }
+      .card__small .buybutton:hover a {
+        color: #008b00 !important; }
   .card__small .descriptive {
     font-size: 0.857rem;
     font-style: italic;
@@ -1470,7 +1474,9 @@ a.readmore {
     padding: 1rem 0.25rem;
     height: 25px; }
   .hp__card__small .buybutton {
-    background-color: #580000;
+    background-color: #008b00;
+    -webkit-box-shadow: 1px 2px 10px #242424;
+            box-shadow: 1px 2px 10px #242424;
     color: #fffff0;
     margin-top: 0.5rem;
     padding: 0;
@@ -1479,13 +1485,15 @@ a.readmore {
     width: 125px;
     max-width: 80%;
     /* added to see if it'll fix Dads text overlap issue */
-    border: 1px solid #580000;
+    border: 1px solid #008b00;
     -webkit-border-radius: 4px;
             border-radius: 4px; }
     .hp__card__small .buybutton a {
       color: #fffff0 !important; }
     .hp__card__small .buybutton:hover {
-      background-color: #8B0000; }
+      background-color: #fffff0; }
+      .hp__card__small .buybutton:hover a {
+        color: #008b00 !important; }
   .hp__card__small .descriptive {
     font-size: 0.857rem;
     font-style: italic;
@@ -1889,6 +1897,9 @@ ol ol li:last-child {
       -ms-flex-direction: column;
           flex-direction: column;
   -webkit-flex-direction: column; }
+  .books__header img {
+    -webkit-box-shadow: 3px 5px 10px #242424;
+            box-shadow: 3px 5px 10px #242424; }
   @media screen and (min-width: 48rem) {
     .books__header {
       -webkit-box-orient: horizontal;
@@ -1969,16 +1980,26 @@ ol ol li:last-child {
 
 .download-sample, .add-to-cart, .sub-and-download {
   /* http://css3buttongenerator.com/ */
-  border: 1px solid #580000;
+  border: 2px solid #008b00;
   -webkit-border-radius: 5px;
           border-radius: 5px;
   font-size: 1rem;
   padding: 0.625rem 1.25rem;
-  background-color: #580000;
-  color: #fffff0; }
+  width: 45%;
+  text-align: center;
+  background-color: #008b00;
+  color: #fffff0;
+  -webkit-box-shadow: 1px 2px 10px #242424;
+          box-shadow: 1px 2px 10px #242424; }
   .download-sample:hover, .add-to-cart:hover, .sub-and-download:hover {
-    color: #580000;
+    color: #008b00;
     background-color: #fffff0; }
+
+.zip-instructions {
+  border: 1px solid #008b00;
+  font-size: 0.8125rem;
+  padding: 0.5rem;
+  text-align: center; }
 
 .book__buttons {
   display: -webkit-box;
@@ -1987,7 +2008,8 @@ ol ol li:last-child {
   display: flex;
   -webkit-justify-content: space-around;
       -ms-flex-pack: distribute;
-          justify-content: space-around; }
+          justify-content: space-around;
+  margin: 1rem 0 0 0; }
 
 .book__meta {
   border-top: 2px solid #8B0000;

@@ -1,12 +1,11 @@
 ---
 layout: books
 casefileNumber: 587538f0fda8f27d5695e8ed
-snipcart-guid: 262dbd9f-8ea9-4ec6-bc64-51dbf4320ad6
+snipcart-guid: 
 title: "The Opening Door"
 author: Helen Reilly
 date: 2017-01-31
-price: 1.99
-actualprice: 6.99
+price: 6.99
 category: novels
 genre: amateur sleuth
 image: /assets/img/novels/opening-door.jpg

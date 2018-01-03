@@ -19,7 +19,7 @@ description: "A World War II era murder mystery: Alec Linn steps off the train a
 tease: "A troubled WWII vet returns home after fighting the Japanese in India to find himself accused of murdering his wife in a jealous rage. Buy this World War II eara murder mystery thriller today and follow Alec Linn as he struggles to defeat his demons, prove his innocence, and find who really killed his Lily."
 tags: novel
 buybutton: 
-downloadsamplebutton: 
+downloadsamplebutton: https://s3.amazonaws.com/talesofmurder.com/samples/Spider_Lily-sample.zip
 ---
 
 ### Chapter 1

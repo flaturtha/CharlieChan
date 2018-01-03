@@ -23,13 +23,8 @@
       {% endif %}
     </div>
     <p class="excerpt">{{ novellas.description }}</p>
-    {% if page.buybutton %}
-      <button class="buybutton"><a href="{{ novellas.url }}" style="color:#fffff0;">BUY</a></button>
-    {% else %}
-      <p class="small" style="margin:1rem 0;padding:0.5rem;color:#8b0000;text-transform:uppdercase;font-weight:bold;">Currently Unavailable</p>
-      <button class="buybutton"><a href="{{ novellas.url }}" style="color:#fffff0;">MORE INFO</a></button>
-    {% endif %}
-    <!-- <p class="buybutton">Buy</p> -->
+    
+    <button class="buybutton"><a href="{{ novellas.url }}" style="color:#fffff0;">BUY</a></button>
 
   </li>
 

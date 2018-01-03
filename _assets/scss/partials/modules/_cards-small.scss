@@ -87,21 +87,26 @@
 		}
 	}
 	.buybutton {
-		background-color: darken($acolor, 10%);
+		background-color: $bcolor;
+		box-shadow: 1px 2px 10px $bgcolor;
 		color: $paper;
 		margin-top: 0.5rem;
 		// padding: 1rem;
 		height: 35px;
 		width: 150px;
-		border: 1px solid darken($acolor, 10%);
+		border: 1px solid $bcolor;
 		border-radius: 4px;
 		a {
 			color: $paper !important;
 		}
 		&:hover {
-			background-color: $acolor;
+			background-color: $paper;
+			a {
+				color: $bcolor !important;
+			}
 		}
 	}
+
 	.descriptive {
 		font-size: 0.857rem;
 		font-style: italic;
@@ -167,20 +172,24 @@
 		height: 25px;
 	}
 	.buybutton {
-		background-color: darken($acolor, 10%);
+		background-color: $bcolor;
+		box-shadow: 1px 2px 10px $bgcolor;
 		color: $paper;
 		margin-top: 0.5rem;
 		padding: 0; /* to fix the scrunched LEARN MORE on Mom's computer! */
 		height: 35px;
 		width: 125px;
 		max-width: 80%; /* added to see if it'll fix Dads text overlap issue */
-		border: 1px solid darken($acolor, 10%);
+		border: 1px solid $bcolor;
 		border-radius: 4px;
 		a {
 			color: $paper !important;
 		}
 		&:hover {
-			background-color: $acolor;
+			background-color: $paper;
+			a {
+				color: $bcolor !important;
+			}
 		}
 	}
 	.descriptive {
