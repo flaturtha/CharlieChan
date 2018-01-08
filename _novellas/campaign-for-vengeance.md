@@ -1,7 +1,8 @@
 ---
 layout: books
 casefileNumber: 55ccf75fb3901011515aef53
-snipcart-guid: 1c8c09cb-43db-4ff1-8e9b-7f53fa43cd1f
+e-guid: fdc3bcde-2b24-4e9b-87b5-a31e6d5b137a
+k-guid: 6054f084-29f9-4533-96dd-993ee0ff7664
 title: "The Campaign for Vengeance"
 author: John Baer
 price: 1.49

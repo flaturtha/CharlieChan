@@ -55,17 +55,29 @@ layout: default2
         <div class="book__buttons">
           <button class="snipcart-add-item add-to-cart"
             data-item-id="{{ page.casefileNumber }}"
-            data-item-file-guid="{{ page.snipcart-guid }}"
-            data-item-name="{{ page.title }}"
+            data-item-file-guid="{{ page.e-guid }}"
+            data-item-name="{{ page.title }} (ePub edition)"
             data-item-price="{{ page.price }}"
-            data-item-url="{{ site.baseurl }}{{ page.url }}">
-            ADD TO CART
+            data-item-url="{{ site.baseurl }}{{ page.url }}"
+            data-item-max-quantity="1">
+            BUY EPUB EDITION
           </button>
 
-          <a class="add-to-cart hidden" href="{{ page.downloadsamplebutton }}">DOWNLOAD SAMPLE</a>
+          <button class="snipcart-add-item add-to-cart"
+            data-item-id="{{ page.casefileNumber }}"
+            data-item-file-guid="{{ page.k-guid }}"
+            data-item-name="{{ page.title }} (Kindle edition)"
+            data-item-price="{{ page.price }}"
+            data-item-url="{{ site.baseurl }}{{ page.url }}"
+            data-item-max-quantity="1">
+            BUY KINDLE EDITION
+          </button>
+
 
         </div> <!-- end .book__buttons -->
 
+        <a class="underline bold" style="margin-top:1.5rem;text-align:center;" href="{{ page.downloadsamplebutton }}">Download sample</a>
+        
         <br>
 
         <p class="zip-instructions hidden">Once your purchase is complete, you will receive an email with a zip file containing both the ePub and .mobi (Kindle) files. Unzip the file and load your preferred version on your favorite ebook reader app or device. <span class="underline hidden">Instructions</span></p>
@@ -88,6 +100,8 @@ layout: default2
 
   <article class="books">
     {{ content }}
+
+    <!-- <a class="underline bold" style="margin-top:2rem;text-align:center;" href="{{ page.downloadsamplebutton }}">Download sample</a> -->
   </article>
 
   <div class="book__meta" style="margin: 1rem;">

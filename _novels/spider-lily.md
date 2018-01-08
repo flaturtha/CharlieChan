@@ -1,7 +1,8 @@
 ---
 layout: books
 casefileNumber: 5875381bfda8f27d5695e8eb
-snipcart-guid: b8d989e6-1a4a-44a3-ba50-882ceab997f6
+e-guid: 1ce8f85c-069e-424d-a28e-d2dd9e7cefbc
+k-guid: f1cb2b41-3942-4470-8bed-e8034f3784b2
 title: "Spider Lily"
 author: Bruno Fischer
 date: 2017-01-05
