@@ -17,8 +17,8 @@ description: "It was love that made him agree to make the payment, to protect he
 tags: novella, cruise liner, murder, blackmail, "Sim Albert"
 image: /assets/img/novellas/so-dead-the-rose.jpg
 wordcount: 12268
-buybutton: 
-downloadsamplebutton: 
+k-sample: https://s3.amazonaws.com/talesofmurder.com/samples/So-Dead-the-Rose_sample.mobi
+e-sample: https://s3.amazonaws.com/talesofmurder.com/samples/So-Dead-the-Rose_sample.epub
 ---
 
 ### Chapter 1

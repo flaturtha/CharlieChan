@@ -21,8 +21,8 @@ tags:
  - "John Baer"
 image: /assets/img/novellas/campaign-for-vengeance.jpg
 wordcount: 15158
-buybutton: 
-downloadsamplebutton: 
+k-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Campaign-for-Vengeance_sample.mobi
+e-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Campaign-for-Vengeance_sample.epub 
 testimonials: "\"I had a lot of fun reading through THE CAMPAIGN FOR VENGEANCE.\" &mdash; Micah Zontelli"
 ---
 

@@ -17,8 +17,8 @@ fb-image: /assets/img/novels/blonde-in-black_fb.jpg
 wordcount: 51,822
 description: "Sex was Junie's trademark, the wiggle, the tight black dress, the sultry voice. But now George Pringle, president of Micro Records, is dead &hellip; did Junie hit a sour note and kill the man who made her singing career?"
 tags: novel
-buybutton: 
-downloadsamplebutton: 
+k-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Blonde_In_Black-sample.mobi
+e-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Blonde_In_Black-sample.epub
 ---
 
 Sex was Junie's trademark, the wiggle, the tight black dress, the sultry voice. George Pringle, president of Micro Records, set it up that way.

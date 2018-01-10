@@ -19,8 +19,8 @@ fb-image: /assets/img/novels/andsuddendeath_fb.jpg
 wordcount: 46403
 description: "Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him &hellip; ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings & Loan. <br><br> &mdash; First serialized as <strong>HOMICIDE HONOLULU BOUND</strong> in 1939."
 tags: novel
-buybutton: 
-downloadsamplebutton: 
+k-sample: https://s3.amazonaws.com/talesofmurder.com/samples/And_Sudden+Death-sample.mobi
+e-sample: https://s3.amazonaws.com/talesofmurder.com/samples/And_Sudden+Death-sample.epub
 ---
 
 Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him &hellip; ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings & Loan.
