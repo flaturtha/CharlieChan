@@ -1,0 +1,35 @@
+<div class="buttons-etc" style="max-width: 90%;width:600px;margin:0 auto;">
+  <div class="book__buttons">
+    <button class="snipcart-add-item add-to-cart"
+    data-item-id="{{ page.casefileNumber }}"
+    data-item-file-guid="{{ page.e-guid }}"
+    data-item-name="{{ page.title }} (ePub edition)"
+    data-item-price="{{ page.price }}"
+    data-item-url="{{ site.baseurl }}{{ page.url }}"
+    data-item-max-quantity="1">
+    BUY EPUB EDITION
+  </button>
+
+  <button class="snipcart-add-item add-to-cart"
+    data-item-id="{{ page.casefileNumber }}"
+    data-item-file-guid="{{ page.k-guid }}"
+    data-item-name="{{ page.title }} (Kindle edition)"
+    data-item-price="{{ page.price }}"
+    data-item-url="{{ site.baseurl }}{{ page.url }}"
+    data-item-max-quantity="1">
+    BUY KINDLE EDITION
+  </button>
+
+
+  </div> <!-- end .book__buttons -->
+
+  <br>
+
+  <p style="margin:0 auto;text-align:center;"><a class="underline bold" href="{{ page.downloadsamplebutton }}">Download sample</a></p>
+
+  <br>
+
+  <div style="display:flex;flex-direction:row;justify-content:space-around;">
+    {% include fb-like-share.html %}
+  </div>
+</div> <!-- end div.buttons-etc -->
