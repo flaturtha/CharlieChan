@@ -20,7 +20,8 @@ tags: novella, spies, "Robert Murray"
 image: /assets/img/novellas/decoy.jpg
 wordcount: 28754
 buybutton: 
-downloadsamplebutton: 
+k-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Decoy_sample.mobi
+e-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Decoy_sample.epub 
 ---
 
 ### Chapter 1

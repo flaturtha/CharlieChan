@@ -12,6 +12,7 @@ opubissue: DHL No. 4
 category: short-stories
 excerpt: "Up against the fearsome forces of Caribean voodoo, can Hawke and his assistant Tommy Burke defeat the forces of dark magic?"
 image: /assets/img/short-stories/voodoo-on-the-riviera.svg
+imgh: 300px
 genre: Professional Sleuth
 tags: short-story
 wordcount: 9151

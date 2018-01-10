@@ -1,7 +1,11 @@
-<form action="https://www.getdrip.com/forms/2508492/submissions" method="post" class="sns__sample" id="sns__sample" style="border:2px solid #8b0000;width:550px;max-width:95%;margin:2rem auto;padding:1rem;" data-drip-embedded-form="2508492">
- <h3 class="hidden">SNS download form</h3>
+<form action="https://www.getdrip.com/forms/192070020/submissions" method="post" data-drip-embedded-form="192070020">
+  <h3 class="hidden">samples download form</h3>
   <div>
     <div class="email-field">
+      <h1 class="books__title">{{ page.title }}</span></h1>
+      <h2 class="books__author">by {{ page.author }}</h2>
+      <br>
+      <p class="bold">Enter your name &amp; email address to receive your free sample download links by email.</p>
       <label for="fields[first_name]">First Name</label><br />
       <input type="text" name="fields[first_name]" value="" />
     </div>
@@ -21,13 +25,13 @@
 
     <input type="hidden" name="fields[casefilenumber]" value="{{ page.casefileNumber }}" />
 
-    <input type="hidden" name="fields[excerpt]" value="{{ page.excerpt }}" />
+    <input type="hidden" name="fields[excerpt]" value="{{ page.description }}" />
 
     <input type="hidden" name="fields[img]" value="{{ site.url }}{{ page.image }}" />
 
-    <input type="hidden" name="fields[downloadlink_kindle]" value="{{ page.kindle }}" />
+    <input type="hidden" name="fields[downloadlink_kindle]" value="{{ page.k-sample }}" />
 
-    <input type="hidden" name="fields[downloadlink_epub]" value="{{ page.epub }}" />
+    <input type="hidden" name="fields[downloadlink_epub]" value="{{ page.e-sample }}" />
 
     <input type="submit" name="submit" value="DOWNLOAD" data-drip-attribute="sign-up-button" />
   </div>

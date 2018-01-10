@@ -1,16 +1,9 @@
 ---
 layout: default2
 ---
-
-<header class="pagehead">
-   <section class="pagetitle">
-    <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
-  </section> <!-- end div.pagetitle --> 
   
-  {% include smallnav.html %}
+{% include smallnav.html %}
   
-</header>
-
 <article class="books">
 
   <header class="books__header">
@@ -19,7 +12,7 @@ layout: default2
     {% if page.image %}
     <figure class="image-box">
       <!-- <div class="rubber_stamp">SATURDAY NIGHT SPECIAL <br> <span style="font-size:1rem;">For Subscribers Only!</span></div> -->
-      <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="story__img" style=" {% if page.imgh %} height:{{ page.imgh }};width:auto; {% endif %}max-width:400px;" itemprop="image">
+      <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="story__img" style=" {% if page.imgh %} height:{{ page.imgh }};width:auto;{% endif %}max-width:400px;" itemprop="image">
       <figcaption>{{ page.caption }}</figcaption>
     </figure>    
   {% endif %}
