@@ -32,7 +32,8 @@ epub:
 </div>
 </section> <!-- table-of-contents -->
 
-Introduction
+### Introduction
+{: .chaptertitle}
 
 “I didn’t kill him, Mr. Hawke! I swear I didn’t kill him!”
 

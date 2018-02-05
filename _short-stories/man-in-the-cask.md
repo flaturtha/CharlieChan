@@ -396,4 +396,4 @@ Reeling with nausea, the man made no effort to catch her as she fell. After a mo
 
 A passing autoist brought his car to a sudden stop and stared wildly up the hill for an explanation to the shrieks that seemed to have burst at once from a dozen human throats. He determined to say something about it to the next policeman he met.
 
-<p id="theend">~ The End ~
+<p id="theend">~ The End ~</p>
