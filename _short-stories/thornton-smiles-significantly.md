@@ -4,21 +4,21 @@ layoutTag: premium_post
 casefileNumber: 59d2a25d9cea3baa9e60b420
 title: "Thornton Smiles Significantly"
 author: David Morrison
-date: 2017-10-02
+date: 2018-01-31
 opub: Black Mask
 opubdate: Dec. 1921
 opubissue: Vol. 4, No. 3
 category: short-stories
 excerpt: "The woman tried to put one over on Thornton and catch him in a compromising situation, but can Thornton outwit the con and turn the blackmail game back on her?"
-image:
-fb-image: /assets/img/short-stories/thornton_fb.jpg
+image: /assets/img/short-stories/thornton-smiled-significantly.png
+fb-image: /assets/img/short-stories/thornton-smiled-significantly_fb.jpg
 tease: "A battle of wits no lover of hardboiled pi fiction can afford to miss!"
 imgh: 450px
 genre: Hardboiled PI
 tag: short-story
 wordcount: 3720
-trfissue: Vol. 6 No. 21
-trfdate: Oct. 08, 2017
+trfissue: Vol. 8 No. 29
+trfdate: Jan. 28, 2018
 ---
 
 <section id="toc" class="toc">

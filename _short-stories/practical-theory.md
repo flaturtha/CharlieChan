@@ -4,22 +4,22 @@ layoutTag: premium_post
 casefileNumber: 
 title: "Practical Theory"
 author: Keene Thompson
-date: 2017-09-29
+date: 2018-01-19
 opub: Detective Story Magazine
 opubdate: Mar. 5, 1916
 opubissue: Vol. 2, No. 5
 category: short-stories
 excerpt: "Inside of twenty-four hours. I’ll not only take that amount of money away from Murchison in that short space of time; but, to show you how easy I think it is, I’ll further agree to do it by the oldest game you can think of."
-image: 
-fb-image:
+image: /assets/img/short-stories/practical-theory.png
+fb-image: /assets/img/short-stories/practical-theory_fb.jpg
 caption: 
 tease: "Chadwick Wade had made an impression on the bored aristocratic, idle rich young men and now he promised that, were he a crook, he could shake down any captain of finance at a whim."
 imgh: 450px
 genre: Con Artist
 tag: short-story
 wordcount: 5470
-trfissue: Vol. 6 No. 20
-trfdate: Aug. 13, 2017
+trfissue: Vol. 8 No. 28
+trfdate: Jan. 14, 2018
 ---
 
 <section id="toc" class="toc">

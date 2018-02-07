@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aeff0
 title: "The Man in the Cask"
 subtitle: "A Story of Strange Adventures"
 author: Vincent Starrett
-date: 2017-10-07
+date: 2018-01-17
 opub: Real Detective Tales
 opubdate: June/July 1927
 opubissue: Vol. 11, No. 2
@@ -18,8 +18,8 @@ imgh: 450px
 genre: Adventure
 tag: short-story
 wordcount: 7206
-trfissue: Vol. 6 No. 20
-trfdate: Sep. 24, 2017
+trfissue: Vol. 8 No. 28
+trfdate: Jan. 14, 2018
 ---
 
 <section id="toc" class="toc">
