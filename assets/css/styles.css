@@ -1898,8 +1898,7 @@ ol ol li:last-child {
           flex-direction: column;
   -webkit-flex-direction: column; }
   .books__header img {
-    -webkit-box-shadow: 3px 5px 10px #242424;
-            box-shadow: 3px 5px 10px #242424; }
+    /*box-shadow: 3px 5px 10px $bgcolor;*/ }
   @media screen and (min-width: 48rem) {
     .books__header {
       -webkit-box-orient: horizontal;

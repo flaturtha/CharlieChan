@@ -10,7 +10,7 @@ opubdate: Dec. 1921
 opubissue: Vol. 4, No. 3
 category: short-stories
 excerpt: "Among the many unsolved mysteries in American crime annals the strange disappearance case of millionaire William Long, of Denver and Chicago."
-image: 
+image: /assets/img/short-stories/
 fb-image: 
 tease: "A true fact detective story!"
 imgh: 450px

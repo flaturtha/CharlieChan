@@ -7,16 +7,9 @@ category: site-policies
 description: 
 ---
 
-<header class="pagehead">
-  <section class="pagetitle">
-    <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
-  </section> <!-- end div.pagetitle --> 
+{% include smallnav.html %}
 
-  {% include smallnav.html %}
-
-</header>
-
-<h1 class="bloodred uppercase center">Privacy Policies</h1>
+<h1 class="bloodred uppercase center margin1r">Privacy Policies</h1>
 <br>
 <div style="width:600px;max-width: 95%;margin:0 auto;">
   <p class="xlarge">Your privacy and safety on this site and throughout your interactions with <span class="companyname">Tales of Murder Press, LLC</span> is of utmost importance.</p>
@@ -28,10 +21,10 @@ description:
   <header>
     <h6>Table of Contents</h6>
   </header>
-  <div id="drawer" markdown="1">
-    1. Auto generated table of contents
-    {: .toc}
-  </div>
+<div id="drawer" markdown="1">
+1. Auto generated table of contents
+{:toc}
+</div>
 </section> <!-- table-of-contents -->
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
