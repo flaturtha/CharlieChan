@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 
+casefileNumber: 55ccf75fb3901011515aef1c
 title: "The Abandoned House"
 author: Buelah Poynter
 date: 2018-02-16

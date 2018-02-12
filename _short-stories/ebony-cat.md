@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 
+casefileNumber: 55ccf75fb3901011515aefb0
 title: "The Ebony Cat"
 author: Rex Whitechurch
 authorData: Author of &quot;Just Around The Coroner&quot;

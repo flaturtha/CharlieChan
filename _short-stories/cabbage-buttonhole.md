@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: post
-casefileNumber: 
+casefileNumber: 55ccf75fb3901011515aefbc
 title: "The Case of the Cabbage Buttonhole"
 series: A Dixon Hawke Mystery
 date: 2018-02-06

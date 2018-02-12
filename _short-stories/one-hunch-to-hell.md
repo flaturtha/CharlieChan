@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 
+casefileNumber: 59d2a7289cea3baa9e60b434
 title: "One Hunch to Hell"
 author: Richard A. Vigil
 date: 2018-01-03

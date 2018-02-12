@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 
+casefileNumber: 55ccf75fb3901011515aef5d
 title: "The Failure"
 author: Harold Ward
 date: 2018-01-15

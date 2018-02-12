@@ -1,10 +1,10 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 
+casefileNumber: 59d2a73e9cea3baa9e60b435
 title: "Disturb the Dead"
-author_details: "Author of _Talent for Trouble_, _Three Left Hands_, etc."
-author: 
+authorData: "Author of <em>Talent for Trouble</em>, <em>Three Left Hands</em>, etc."
+author: Sam Merwin, Jr.
 date: 2018-01-09
 opub: Thrilling Mystery
 opubdate: Mar. 1942
@@ -14,7 +14,7 @@ excerpt: "A murder and a jewel theft take Bill Post on a strange graveyard trail
 image: /assets/img/short-stories/disturb-the-dead.png
 fb-image: /assets/img/short-stories/disturb-the-dead_fb.jpg
 caption: "A terrific haymaker sent the detective crashing into the furniture."
-tease: ""
+tease: "A terrific thriller with all the elements of a great read. Fast paced, lots of action, and a satisfying ending!"
 imgh: 500px
 genre: Professional Sleuth
 tag: short-story

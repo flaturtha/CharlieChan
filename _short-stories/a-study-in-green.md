@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 
+casefileNumber: 55ccf75fb3901011515aef6a
 title: "A Study in Green"
 author: Scott Campbell
 date: 2018-02-14

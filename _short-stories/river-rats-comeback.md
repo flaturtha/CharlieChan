@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 
+casefileNumber: 59d2a37a9cea3baa9e60b422
 title: "River Rat's Comeback"
 author: S. J. Bailey
 date: 2018-02-24

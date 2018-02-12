@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 
+casefileNumber: 55ccf75fb3901011515aefc5
 title: "The Case of the Malacca Cane"
 series: A Dixon Hawke Mystery
 date: 2018-01-11

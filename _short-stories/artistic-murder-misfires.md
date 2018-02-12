@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 
+casefileNumber: 59d2a3469cea3baa9e60b421
 title: "Artistic Murder Misfires"
 author: Mat Rand
 date: 2018-02-12

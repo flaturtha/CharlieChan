@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 
+casefileNumber: 59d2a2269cea3baa9e60b41e
 title: "\"Fools Rush In\""
 author: Dahlia Graham
 authorData: "Author of _Not So Green,_ _Grease Paint and Violets,_ etc."

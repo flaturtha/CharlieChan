@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef9b
 title: "Who Killed Marion Leroy"
 series: "Bafflers: The Popular Detective Story Game"
-date: 2017-08-28
+date: 2018-08-28
 opub: The Thriller Library
 opubdate: Feb. 20, 1932
 opubissue: Vol. 6, No. 159

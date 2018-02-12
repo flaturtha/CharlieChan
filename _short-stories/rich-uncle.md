@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 
+casefileNumber: 55ccf75fb3901011515aefce
 title: "The Case of the Rich Uncle"
 slug: "The Case of the Rich Uncle"
 series: A Dixon Hawke Mystery

@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 
+casefileNumber: 59d2a23f9cea3baa9e60b41f
 title: "A Dinner Date With Murder"
 author: Harry Stein
 date: 2018-01-29

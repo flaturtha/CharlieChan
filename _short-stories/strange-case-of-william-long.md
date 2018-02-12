@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 55ccf75fb3901011515aef3d
+casefileNumber: 59d2a5b79cea3baa9e60b42b
 title: "The Strange Case of William Long"
 author: Roy Giles
 date: 2018-01-01

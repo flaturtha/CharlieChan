@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 
+casefileNumber: 55ccf75fb3901011515aef61
 title: "The Mistaken Sacrifice"
 author: Howard Rockey
 date: 2018-01-05
