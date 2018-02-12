@@ -4,19 +4,20 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef43
 title: "Hear Not, See Not, Speak Not Evil"
 author: Walter Deffenbaugh
-date: 2017-11-18
+date: 2018-03-10
 opub: Black Mask
 opubdate: Dec. 1921
 opubissue: Vol. 4, No. 3
 category: short-stories
-excerpt: ""
+excerpt: "\"A lesson for thieves, detectives, physicians and everyone else. It is a Japanese piece called the ‘Sacred Monkeys.’ There are three of them. One holds his hands over his ears, a second over his eyes and the third over his mouth. The inscription beneath reads, ‘Hear not, see not, speak not evil.’ I took the restraining hands away from the ears, eyes and mouth of these three men here. You see the result.\""
 image: /assets/img/short-stories/hear-not.svg
-imgh: 300px
+imgh: 450px
+caption: "Dummy whipped out a knife and sprang for Goggles."
 genre: Amateur Sleuth
 tags: amateur sleuth, Ten Detective Aces, Archibald, Dizzy Duo, short-story
 wordcount: 7418
-trfissue: Vol. X No. 23
-trfdate: Nov. 5, 2017
+trfissue: Vol. 9 No. 31
+trfdate: Feb. 25, 2018
 kindle: 
 epub: 
 ---

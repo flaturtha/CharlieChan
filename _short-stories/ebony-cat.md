@@ -106,6 +106,7 @@ Farris nodded; Cassidy frowned, and old Ben swore under his breath. None of them
 She had no lovers; when she was killed she was being starred in a soap opera by Farris.
 
 \*\*\*
+{: .center}
 
 Gogalvatty horned in, &quot;Where did Ruth Cardova come from?&quot;
 
@@ -128,6 +129,7 @@ Gogalvatty smiled. &quot;She had a reason for going to see this mule-faced shamu
 Farris sighed, stamped his cigar out on the stone floor. &quot;I do not know how to answer your questions,&quot; he said coldly. &quot;If I did, it would make me very happy.&quot;
 
 \*\*\*
+{: .center}
 
 On my way back to my office, I had time to do some hard thinking. Although I didn&#39;t expect to get a fee out of my work, I meant to do my utmost to solve the mystery. I knew Gogalvatty hoped to pin the crime on me. He was an ambitious donkey and didn&#39;t let a little thing like friendship stand in his way.
 
@@ -156,7 +158,7 @@ I heard a furtive sound behind me, muttered quickly, &quot;I mightn&#39;t live t
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-### Chapter 2
+### Chapter 3
 {: .chapternumber .no_toc}
 
 ### They Knew She Had The Money
@@ -203,6 +205,7 @@ Farris got up slowly and peered down at me. &quot;Beckett, it&#39;s funny where 
 &quot;You telling me?&quot; I rose and walked to the glass door. &quot;But I&#39;m quite sure the cops will make it their business to find out where she got it,&quot; I said. &quot;Well, good day, Farris.&quot;
 
 \*\*\*
+{: .center}
 
 A man came toward me through the blanket of snow as I approached my apartment which opened upon the sidewalk. I saw Dave Cassidy&#39;s blocky face and it was red; he&#39;d been drinking. I led the reporter down the steps of the sunken living room and asked him to take off his topcoat. He declined, didn&#39;t even remove his snow sprinkled hat.
 
@@ -245,7 +248,7 @@ I heard him leave the house, went to the street door and watched him enter his c
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-### Chapter 3
+### Chapter 4
 {: .chapternumber .no_toc}
 
 ### Mr. Tom
@@ -282,10 +285,10 @@ There was a strange anxiety in her voice.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-### Chapter 4
+### Chapter 5
 {: .chapternumber .no_toc}
 
-### CHAPTER NAME
+### Edyth Widdle
 {: .chaptertitle}
 
 I knew what she looked like. A rangy brunette, with long slim hips and clad always in tweeds. She had a pale, high-cheekboned face, a shapely mouth that looked hungry all the time and a deep bosom that she kept down by tight brassieres. She was stronger and bigger of physique than she looked, but she was quite appealing, despite all that. I imagined she was just past 30 years of age. But she had never been married.
@@ -324,14 +327,8 @@ Boldly now, the gun gripped in my hand I crossed the threshold. I saw nothing. T
 
 The next thing I knew I was fighting silently, and desperately, for my life!
 
-<h6 class="btt"><a href="#top">Back to Top</a></h6>
-<hr>
-
-### Chapter 5
-{: .chapternumber .no_toc}
-
-### Edyth Widdle
-{: .chaptertitle}
+\*\*\*
+{: .center}
 
 My hand, clutching the automatic, was pinned to my side before I could make use of the weapon. Somebody was fumbling with the front of my coat, and the buttons were torn away. I pushed this person back with my left hand, and strove hard to use the gun. I got away, but was followed closely by the man who&#39;d tried to disarm me. I saw him looming straight in front of me, lifted the gun quickly and squeezed the trigger. There was a blinding red flash and the explosion of the little automatic. The form that loomed in my startled eyes, stopped coming at me and began to run away on his heels. He must&#39;ve struck the desk hard, for the bouquet of flowers rolled off and crashed on the floor.
 

@@ -4,19 +4,19 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef0b
 title: "Demons of Snake Swamp"
 author: Anthony Pelcher
-date: 2017-10-21
+date: 2018-02-10
 opub: All Star Detective
 opubdate: Dec. 1930
 opubissue: 
 category: short-stories
 excerpt: "What evil power ruled over the dank depths of Snake Swamp, striking death to bird, beast and man? Whence came the beautiful spectral maiden who roamed its paths by night?"
-image: 
+image: /assets/img/short-stories/demons-of-snake-swamp.png
 imgh: 300px
 genre: Supernatural
 tag: short-story
 wordcount: 7071
-trfissue: Vol. X No. 21
-trfdate: Oct. 8, 2017
+trfissue: Vol. 8 No. 29
+trfdate: Jan. 28, 2018
 kindle: 
 epub: 
 ---

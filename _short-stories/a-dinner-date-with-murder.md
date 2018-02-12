@@ -9,13 +9,13 @@ opub: Hooded Detective
 opubdate: Jan. 1941
 opubissue: Vol. 3, No. 2
 category: short-stories
-excerpt: "How Gatti know the man with the accent was no organ grinder ready to squeal on the mob? Simple. How he \'eata da spaghetti!\'"
+excerpt: "They were supposed to meet a stoolpigeon, ready to squeal on the mob. But when lead starts flying, will Gatti and the Lieutenant get the information or a belly full of lead?"
 image: /assets/img/short-stories/a-dinner-date-with-murder.png
 fb-image: /assets/img/short-stories/a-dinner-date-with-murder_fb.jpg
 caption: ""
 tease: ""
 imgh: 450px
-genre: Courtroom
+genre: Professional Sleuth
 tag: short-story
 wordcount: 1292
 trfissue: Vol. 8 No. 29
