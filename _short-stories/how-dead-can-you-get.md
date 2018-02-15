@@ -5,12 +5,14 @@ casefileNumber: 55ccf75fb3901011515aef85
 title: "How Dead Can You Get?"
 author: Charles Beckman, Jr.
 date: 2018-02-22
-opub: Crime Fiction STories
+opub: Crime Fiction Stories
 opubdate: Dec. 1950
 opubissue: Vol. 1, No. 1
 category: short-stories
 excerpt: "All he could remember was the beautiful dead girl. But who was she—and why had he killed her?"
 image: /assets/img/short-stories/how-dead-can-you-get.svg
+fb-image: /assets/img/short-stories/how-dead-can-you-get_fb.jpg
+teaser: "A gripping noir story &mdash; a dead girl, lost memory, infidelity, murder &mdash; this one has it all!"
 imgh: 300px
 genre: Noir
 tag: short-story

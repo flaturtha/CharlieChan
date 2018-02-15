@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 # Jekyll and Plugins
-gem 'jekyll', '~> 3.6.2'
+gem 'jekyll', '~> 3.7.2'
 gem 'font-awesome-sass', '~> 4.7.0'
 gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'

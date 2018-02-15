@@ -11,7 +11,7 @@ opubissue: Vol. 4, No. 3
 category: short-stories
 excerpt: "Among the many unsolved mysteries in American crime annals the strange disappearance case of millionaire William Long, of Denver and Chicago."
 image: /assets/img/short-stories/william-long.png
-fb-image: 
+fb-image: /assets/img/short-stories/william-long_fb.jpg
 tease: "A true fact detective story!"
 imgh: 350px
 genre: True Crime

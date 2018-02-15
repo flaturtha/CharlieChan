@@ -11,7 +11,7 @@ opubissue:
 category: short-stories
 excerpt: "What evil power ruled over the dank depths of Snake Swamp, striking death to bird, beast and man? Whence came the beautiful spectral maiden who roamed its paths by night?"
 image: /assets/img/short-stories/demons-of-snake-swamp.png
-imgh: 300px
+imgh: 200px
 genre: Supernatural
 tag: short-story
 wordcount: 7071

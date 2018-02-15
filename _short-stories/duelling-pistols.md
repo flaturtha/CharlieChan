@@ -12,6 +12,8 @@ opubissue: No. 4
 category: short-stories
 excerpt: “I didn’t kill him, Mr. Hawke! I swear I didn’t kill him!” The famous criminologist had been called to the jail by the personal appeal of the prisoner, who was well known to him.
 image: /assets/img/short-stories/duelling-pistols.svg
+fb-image: /assets/img/short-stories/duelling-pistols_fb.jpg
+tease: "A second-rate crook accused of murder. Can the famous detective uncover the truth in THE CASE OF THE DUELLING PISTOLS?"
 imgh: 300px
 genre: Professional Sleuth
 tag: short-story, 

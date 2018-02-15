@@ -4,7 +4,7 @@ layoutTag: premium_post
 casefileNumber: 59d2a37a9cea3baa9e60b422
 title: "River Rat's Comeback"
 author: S. J. Bailey
-date: 2018-02-24
+date: 2018-02-14
 opub: Ten Detective Aces
 opubdate: Mar. 1938
 opubissue: Vol. 32, No. 1

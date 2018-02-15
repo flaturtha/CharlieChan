@@ -13,7 +13,7 @@ excerpt: "They were supposed to meet a stoolpigeon, ready to squeal on the mob. 
 image: /assets/img/short-stories/a-dinner-date-with-murder.png
 fb-image: /assets/img/short-stories/a-dinner-date-with-murder_fb.jpg
 caption: ""
-tease: ""
+tease: "Looking for a dinner-time read? A DINNER DATE WITH MURDER is the perfect companion!!"
 imgh: 450px
 genre: Professional Sleuth
 tag: short-story

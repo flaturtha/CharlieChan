@@ -14,9 +14,9 @@ excerpt: "When a miser loans out five grand without security, something is wrong
 image: /assets/img/short-stories/ebony-cat.png
 fb-image: /assets/img/short-stories/ebony-cat_fb.jpg
 caption: ""
-tease: ""
+tease: "An exciting read for cat lovers &amp; mystery lovers alike!"
 imgh: 450px
-genre: Courtroom
+genre: Professional Sleuth
 tag: short-story
 wordcount: 5884
 trfissue: Vol. 8 No. 29

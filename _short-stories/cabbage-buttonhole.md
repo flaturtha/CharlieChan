@@ -10,7 +10,7 @@ opubdate: Spring 1940
 opubissue: No. 4
 category: short-stories
 excerpt: "When the tramp, Mr. Wilcox, is accused of murder, can Dixon Hawke find the truth to who really killed Mr. Henderson?"
-tease: ""
+tease: "Famous detective Dixon Hawke is once more called upon to prove the innocense of a wrongfully accused man. But is the evidence too much in THE CASE OF THE CABBAGE BUTTONHOLE?"
 image: /assets/img/short-stories/cabbage-buttonhole.png
 fb-image: /assets/img/short-stories/cabbage-buttonhole_fb.jpg
 imgh: 300px

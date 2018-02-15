@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 55ccf75fb3901011515aeff0
+casefileNumber: 
 title: "The Burning Corpse"
 author: Henry Kuttner
 author_details: "Author of _Men Die Alone_, _A Skull Has No Ears_, etc."
@@ -12,7 +12,7 @@ opubissue: Vol. 18, No. 2
 category: short-stories
 excerpt: "Red murder lust runs riot when Simon Gaunt - long dead - writes the name of his murderer in flames"
 image: /assets/img/short-stories/burning-corpse.png
-fb-image: 
+fb-image: /assets/img/short-stories/burning-corpse_fb.jpg
 caption: "\"Shut up!\" I nosed the gun towards him."
 tease: "A supernatural thriller that'll keep you hot until the last chapter twist!"
 imgh: 450px

@@ -13,9 +13,9 @@ excerpt: "Who is the strange green man hiding in the shrubbery, and what &mdash;
 image: /assets/img/short-stories/a-study-in-green.png
 fb-image: /assets/img/short-stories/a-study-in-green_fb.jpg
 caption: ""
-tease: ""
+tease: "A man turned green! What &mdash; or who &mdash; is responsible? And why? Read A STUDY IN GREEN today and find out!"
 imgh: 450px
-genre: Courtroom
+genre: Scientific Detective
 tag: short-story
 wordcount: 4749
 trfissue: Vol. 8 No. 30
