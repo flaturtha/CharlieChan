@@ -12,6 +12,7 @@ category: short-stories
 excerpt: "If Danny Blure could get out fast, he'd have a small fortune in jewelry. And if Agnew's boys would take the rap for the murder Danny'd unintentionally committed &mdash; he'd covered himself that far when he planted evidence at the scene of what he'd meant to only be a robbery &hellip;"
 image: /assets/img/short-stories/double-crosser.svg
 fb-image: /assets/img/short-stories/double-crosser_fb.jpg
+tease: "Take a chance on DOUBLE-CROSSER and see if Danny Blure's risk is worth it!"
 imgh: 300px
 genre: Crook
 wordcount: 4718

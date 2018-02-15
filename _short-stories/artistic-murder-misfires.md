@@ -13,7 +13,7 @@ excerpt: "There are eighteen methods of murder that defy detection."
 image: /assets/img/short-stories/artistic-murder-misfires.png
 fb-image: /assets/img/short-stories/artistic-murder-misfires_fb.jpg
 caption: ""
-tease: ""
+tease: "A scientific look into the methods true crime &mdash; more than just another yarn."
 imgh: 450px
 genre: True Crime
 tag: short-story

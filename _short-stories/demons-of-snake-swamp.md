@@ -11,6 +11,8 @@ opubissue:
 category: short-stories
 excerpt: "What evil power ruled over the dank depths of Snake Swamp, striking death to bird, beast and man? Whence came the beautiful spectral maiden who roamed its paths by night?"
 image: /assets/img/short-stories/demons-of-snake-swamp.png
+fb-image: /assets/img/short-stories/demons-of-snake-swamp_fb.jpg
+tease: "Is it a curse or something more natural that lurds deep in the Appalacian Mountains, killing and dismembering all who enter Snake Swamp? Find out in DEMONS OF SNAKE SWAMP!!"
 imgh: 200px
 genre: Supernatural
 tag: short-story

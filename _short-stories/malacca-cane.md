@@ -13,7 +13,7 @@ excerpt: "Can Dixon Hawke prove Jim Hardy is not guilty of a brutal murder?"
 image: /assets/img/short-stories/malacca-cane.png
 fb-image: /assets/img/short-stories/malacca-cane_fb.jpg
 caption: ""
-tease: ""
+tease: "Once again, the keen detective must put his skills to work to prove the innocense of the wrongfully accused in &mdash;"
 imgh: 450px
 genre: Professional Sleuth
 tag: short-story

@@ -13,7 +13,7 @@ excerpt: "Ah Fu sought to protect his master but in the end, only made things wo
 image: /assets/img/short-stories/mistaken-sacrifice.jpg
 fb-image: /assets/img/short-stories/mistaken-sacrifice_fb.jpg
 caption: "Shanghai &mdash; from _China: Its Marvel and Mystery_ by T. Hodgson Liddell (1909)"
-tease: ""
+tease: "An exciting thriller pitting Oriental honor and Western greed against each other in THE MISTAKEN SACRIFICE."
 imgh: 450px
 genre: Murder
 tag: short-story

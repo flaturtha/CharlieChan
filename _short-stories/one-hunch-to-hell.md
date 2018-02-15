@@ -13,7 +13,7 @@ excerpt: "The newspapers called it a monkey farm. But Detective Orville Orr foun
 image: /assets/img/short-stories/one-hunch-to-hell.png
 fb-image: /assets/img/short-stories/one-hunch-to-hell_fb.jpg
 caption: ""
-tease: ""
+tease: "Science and the opportunity to cash in on a new discovery lead to murder in this exciting scientific detective story."
 imgh: 400px
 genre: Scientific Detective
 tag: short-story

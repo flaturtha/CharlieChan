@@ -13,7 +13,7 @@ excerpt: "Trying to escape the storm, Alan and his sister, Nell, seek shelter in
 image: /assets/img/short-stories/abandoned-house.svg
 fb-image: /assets/img/short-stories/abandoned-house_fb.jpg
 caption: ""
-tease: ""
+tease: "What is the truth? Do you know it when you hear it? Or is it just an excuse for murder?"
 imgh: 350px
 genre: Amateur Sleuth
 tag: short-story

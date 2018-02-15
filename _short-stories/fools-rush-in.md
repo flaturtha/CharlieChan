@@ -14,7 +14,7 @@ excerpt: "Dashing Dick thought it was an easy score, picking up the make-up box 
 image: /assets/img/short-stories/fools-rush-in.svg
 fb-image: /assets/img/short-stories/fools-rush-in_fb.jpg
 caption: ""
-tease: ""
+tease: "When innocense and greed meet, will it lead to more than just theft? Will it lead to love?"
 imgh: 450px
 genre: Professional Crook
 tag: short-story
