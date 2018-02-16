@@ -4,18 +4,18 @@ layoutTag: premium_post
 casefileNumber: 59d2a4e99cea3baa9e60b424
 title: "A Sucker A Day"
 author: Convict 12627
-date: 2018-02-26
+authorData: "Author of _By Their Own Hands_, etc."
+date: 2018-03-06
 opub: Ten Detective Aces
 opubdate: Mar. 1938
 opubissue: Vol. 32, No. 1
 category: short-stories
-excerpt: ""
-image: /assets/img/short-stories/prisoner-speaks.png
-fb-image: /assets/img/short-stories/prisoner-speaks_fb.jpg
-caption: ""
-tease: ""
+excerpt: "Slick Martin was a knife hustler by trade. And he could extract fifty bucks from a victim without letting a drop of blood."
+image: /assets/img/short-stories/a-sucker-a-day.png
+fb-image: /assets/img/short-stories/a-sucker-a-day_fb.jpg
+tease: "A great yarn for fans of the con! Read it today so you're prepared for \"the knife hustle\"."
 imgh: 450px
-genre: Courtroom
+genre: Con Artist
 tag: short-story
 wordcount: 1795
 trfissue: Vol. 9 No. 31
@@ -32,16 +32,19 @@ trfdate: Feb. 25, 2018
 </div>
 </section> <!-- table-of-contents -->
 
-Author of &quot;By Their Own Hands,&quot; etc.
+### Chapter 1
+{: .chapternumber .no_toc}
 
+### &quot;Slick&quot; Martin, Knife Hustler
+{: .chaptertitle}
 
-MAN could catch no fish without bait to hide the hook, nor could a confidence man land his sucker without bait. In some instances the confidence man proceeds upon the theory that the sucker has a little larcency in his makeup, and at other times he uses his victim&#39;s vanity as an aid in separating him from his money.
+Man could catch not fish without bait to hide the hook, nor could a confidence man land his sucker without bait. In some instances the confidence man proceeds upon the theory that the sucker has a little larcency in his makeup, and at other times he uses his victim&#39;s vanity as an aid in separating him from his money.
 
 The confidence man—the real confidence man—enjoys an enviable reputation in the underworld and is generally looked up to by men and women engaged in minor rackets requiring less mental ability and productive of smaller profits. But the &quot;short con&quot; men as an equal, for they are known chiselers and resort to any racket which might yield them any sum from five dollars upward.
 
-One popular short-con racket is known as the trick-knife game. This racket has been widely publicized, but it has so many variations that many persons who have read of others being victimized often become victims themselves. This racket is not confined to rural districts; in fact, most of the &quot;knife hustlers&quot; operate in the larger cities. Their &quot;take&quot; is not large, but they believe in a new variation of an old adage to the effect that: &quot;A sucker a day keeps the wolf away.&quot; Let us follow &quot;Slick&quot; Martin, knife hustler, as he goes about his day&#39;s work . . . . When Martin seated himself in a chair
+One popular short-con racket is known as the trick-knife game. This racket has been widely publicized, but it has so many variations that many persons who have read of others being victimized often become victims themselves. This racket is not confined to rural districts; in fact, most of the &quot;knife hustlers&quot; operate in the larger cities. Their &quot;take&quot; is not large, but they believe in a new variation of an old adage to the effect that: &quot;A sucker a day keeps the wolf away.&quot;
 
-in a hotel lobby, he had chosen his seat with care. The man occupying the chair next to him, he had learned, was a visiting contractor from a small town upstate. He had not yet ascertained the size of the other&#39;s bank roll, but he was pretty well convinced that it contained at least fifty dollars, and this was about the maximum amount this particular racket would yield.
+Let us follow &quot;Slick&quot; Martin, knife hustler, as he goes about his day&#39;s work … . When Martin seated himself in a chair in a hotel lobby, he had chosen his seat with care. The man occupying the chair next to him, he had learned, was a visiting contractor from a small town upstate. He had not yet ascertained the size of the other&#39;s bank roll, but he was pretty well convinced that it contained at least fifty dollars, and this was about the maximum amount this particular racket would yield.
 
 &quot;Nice weather we&#39;re having,&quot; Slick commented to the man in the other seat.
 
@@ -59,7 +62,17 @@ in a hotel lobby, he had chosen his seat with care. The man occupying the chair 
 
 The visiting contractor assented, and fifteen or twenty minutes later the two men were walking down a street on the edge of the business district. They paused in front of a lot where excavating had been started. But apparently no work was being done that day, as only one man was there. He was gray-mustached and wore striped overalls. He was writing on a small pad when the two men stopped.
 
-SLICK was explaining to his companion about the building to be erected there, and in gesturing, his hand struck the overalled man&#39;s elbow. The latter turned and regarded Slick over his steel- rimmed glasses.
+<h6 class="btt"><a href ="#top">Back to Top</a></h6>
+
+<hr>
+
+### Chapter 2
+{: .chapternumber .no_toc}
+
+### The Trick-Knife Game
+{: .chaptertitle}
+
+Slick was explaining to his companion about the building to be erected there, and in gesturing, his hand struck the overalled man&#39;s elbow. The latter turned and regarded Slick over his steel- rimmed glasses.
 
 &quot;Doggone it,&quot; he said reproachfully, &quot;you made me break my pencil.&quot;
 
@@ -95,9 +108,15 @@ The old man looked at Slick, then at the knife.
 
 The old man pulled and tugged at the knife blade, but it refused to budge. He placed the knife between his knees and pulled, but he had no success.
 
-&quot;Time&#39;s up,&quot; Slick called. &quot;In fact, I gave you ten seconds over two minutes.&quot; The old man relinquished the knife. &quot;First knife I ever see that I couldn&#39;t open,&quot; he said. &quot;You wait right here, and I&#39;ll go across the street and buy you a cigar—a nickel one.&quot;
+&quot;Time&#39;s up,&quot; Slick called. &quot;In fact, I gave you ten seconds over two minutes.&quot;
 
-&quot;Oh, let it go, Dad,&quot; Slick said. &quot;Nosiree,&quot; the old man&#39; returned. &quot;When I lose, I pay.&quot;
+The old man relinquished the knife.
+
+&quot;First knife I ever see that I couldn&#39;t open,&quot; he said. &quot;You wait right here, and I&#39;ll go across the street and buy you a cigar—a nickel one.&quot;
+
+&quot;Oh, let it go, Dad,&quot; Slick said.
+
+&quot;Nosiree,&quot; the old man returned. &quot;When I lose, I pay.&quot;
 
 He walked across the street and entered a cigar store. Slick turned to his companion.
 
@@ -107,23 +126,37 @@ He walked across the street and entered a cigar store. Slick turned to his compa
 
 The contractor accepted the knife and opened it without difficulty.
 
-&quot;Pretty clever,&quot; he said, returning it. &quot;When the old fellow comes back,&quot; Slick suggested, &quot;you try to get him to bet you that you can&#39;t open it. Maybe you can win one of his nickel cigars.&quot;
+&quot;Pretty clever,&quot; he said, returning it.
+
+&quot;When the old fellow comes back,&quot; Slick suggested, &quot;you try to get him to bet you that you can&#39;t open it. Maybe you can win one of his nickel cigars.&quot;
 
 The contractor chuckled. &quot;I&#39;ll try it,&quot; he promised.
 
 The old man returned and extended a cigar to Slick.
 
-&quot;There you are, mister,&quot; he said, &quot;the best five-cent cigar in town. Now, would you mind letting me see that knife again ?&quot;
+&quot;There you are, mister,&quot; he said, &quot;the best five-cent cigar in town. Now, would you mind letting me see that knife again?&quot;
 
 &quot;Not at all,&quot; Slick replied, handing him the knife.
 
-THE OLD MAN pulled gingerly at the blade, then turned the knife over and over in his hand carefully, wonderingly.
+<h6 class="btt"><a href ="#top">Back to Top</a></h6>
+
+<hr>
+
+### Chapter 3
+{: .chapternumber .no_toc}
+
+### A Sucker A Day Keeps The Wolf Away
+{: .chaptertitle}
+
+The old man pulled gingerly at the blade, then turned the knife over and over in his hand carefully, wonderingly.
 
 &quot;That sure is very peculiar,&quot; he said.
 
-&quot;You don&#39;t catch on very quick, do you. Dad?&quot; the contractor asked.
+&quot;You don&#39;t catch on very quick, do you, Dad?&quot; the contractor asked.
 
-The old man raised his head quickly. &quot;I suppose you think you can open it,&quot; he said.
+The old man raised his head quickly.
+
+&quot;I suppose you think you can open it,&quot; he said.
 
 &quot;Why, yes,&quot; the contractor returned, &quot;I believe I can.&quot;
 
@@ -145,7 +178,7 @@ The contractor hesitated, but Slick nudged him with an elbow.
 
 The old man handed the knife to Slick and pulled out a worn billfold. He extracted two twenty-dollar bills and a ten and started to give them to Slick as stakeholder, but he pulled his hand back.
 
-&quot;Say.&quot; he said, &quot;did you show this fellow how to open this knife?&quot;
+&quot;Say,&quot; he said, &quot;did you show this fellow how to open this knife?&quot;
 
 &quot;He hasn&#39;t seen any more than you have,&quot; Slick assured him. &quot;You saw me open it at the same time he did.&quot;
 

@@ -4,17 +4,16 @@ layoutTag: premium_post
 casefileNumber: 
 title: "Frozen Ground"
 author: Thomas Jeffries Betts
-date: 2018-02-16
+date: 2018-03-20
 opub: All-Story
 opubdate: Mar. 10, 1917
 category: short-stories
-excerpt: ""
+excerpt: "Kwang Li, fat and prosperous, could afford to be generous. But it was bad for business."
 image: /assets/img/short-stories/frozen-ground.png
 fb-image: /assets/img/short-stories/frozen-ground_fb.jpg
-caption: ""
-tease: ""
+tease: "A sinister story of greed in the cold winter of Manchuria."
 imgh: 450px
-genre: 
+genre: Natural Death
 tag: short-story
 wordcount: 2681
 trfissue: Vol. 9 No. 32
