@@ -52,7 +52,7 @@ Sheriff Cudworth sprang from his car and ran through the intervening woods and s
 
 &quot;There, there, calm yourselves,&quot; Cudworth kindly interrupted. He was a big, genial man around fifty and very popular in Shelby. &quot;There&#39;s nothing to be afraid of. Where did you see the man? What sort of a fellow was he?&quot;
 
-&quot;Frightful!&quot; Clara Yenner repeated. &quot;He came through the shrubbery over there and stood staring at ns. We were afraid he was going to attack us. His eyes were like balls of fire. He was as green as grass.&quot;
+&quot;Frightful!&quot; Clara Yenner repeated. &quot;He came through the shrubbery over there and stood staring at us. We were afraid he was going to attack us. His eyes were like balls of fire. He was as green as grass.&quot;
 
 &quot;Green!&quot; Cudworth echoed. &quot;Do you mean he was a rube, a countryman?&quot;
 

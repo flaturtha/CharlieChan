@@ -10,7 +10,7 @@ opub: Thrilling Mystery
 opubdate: Mar. 1947
 opubissue: Vol. 18, No. 2
 category: short-stories
-excerpt: "Red murder lust runs riot when Simon Gaunt - long dead - writes the name of his murderer in flames"
+excerpt: "Red murder lust runs riot when Simon Gaunt - long dead - writes the name of his murderer in flames."
 image: /assets/img/short-stories/burning-corpse.png
 fb-image: /assets/img/short-stories/burning-corpse_fb.jpg
 caption: "\"Shut up!\" I nosed the gun towards him."
