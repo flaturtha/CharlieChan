@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aefc2
 title: "The Case of the Duelling Pistols"
 author:
 series: A Dixon Hawke Mystery
-date: 2017-10-31
+date: 2018-02-20
 opub: Dixon Hawke Case Book
 opubdate: Spring 1940
 opubissue: No. 4
