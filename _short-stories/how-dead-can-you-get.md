@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef85
 title: "How Dead Can You Get?"
 author: Charles Beckman, Jr.
-date: 2018-02-22
+date: 2018-02-21
 opub: Crime Fiction Stories
 opubdate: Dec. 1950
 opubissue: Vol. 1, No. 1
