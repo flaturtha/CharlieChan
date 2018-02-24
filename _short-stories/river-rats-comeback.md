@@ -13,7 +13,7 @@ excerpt: "&quot;Fins&quot; Scanlon was learning fast — to do the things a kid 
 image: /assets/img/short-stories/river-rat.png
 fb-image: /assets/img/short-stories/river-rat_fb.jpg
 caption: ""
-tease: "A kid caught up in crime &mdash; will he choose to go down the wrong path, or save his friend? Learn &quot;Fins&quot; Scanlon's fate in RIVER RAT'S COMEBACK."
+tease: "A kid caught up in crime &mdash; will he choose to go down the wrong path, or save his friend? Learn &quot;Fins&quot; Scanlon's fate in RIVER RAT'S COMEBACK. (A Saturday Night Special!! Normally only available to subscribers ... read it without subscribing ... FOR A LIMITED TIME ONLY!)"
 imgh: 450px
 genre: Crook
 tag: short-story
