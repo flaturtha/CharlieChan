@@ -9,7 +9,7 @@ opub: Ten Detective Aces
 opubdate: Mar. 1938
 opubissue: Vol. 32, No. 1
 category: short-stories
-excerpt: "&quot;Fins&quot; Scanlon was learning fast — to do the things a kid shouldn&#39;t do. And the only man who could help him was a cop  in whom he had lost faith."
+excerpt: "&quot;Fins&quot; Scanlon was learning fast — to do the things a kid shouldn&#39;t do. And the only man who could help him was a cop in whom he had lost faith."
 image: /assets/img/short-stories/river-rat.png
 fb-image: /assets/img/short-stories/river-rat_fb.jpg
 caption: ""

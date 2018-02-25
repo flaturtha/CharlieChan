@@ -4,8 +4,8 @@ layoutTag: premium_post
 casefileNumber: 59d2a4e99cea3baa9e60b424
 title: "A Sucker A Day"
 author: Convict 12627
-authorData: "Author of _By Their Own Hands_, etc."
-date: 2018-03-06
+authorData: "Author of <em>By Their Own Hands</em>, etc."
+date: 2018-02-25
 opub: Ten Detective Aces
 opubdate: Mar. 1938
 opubissue: Vol. 32, No. 1
