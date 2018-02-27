@@ -1,10 +1,10 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 
+casefileNumber: 55ccf75fb3901011515aef16
 title: "The Mysterious Highwayman"
 author: Sergeant Ryan
-date: 2018-02-26
+date: 2018-03-16
 opub: Detective Story Magazine
 opubdate: Jan. 5, 1917
 category: short-stories
@@ -14,9 +14,9 @@ fb-image: /assets/img/short-stories/mysterious-highwayman_fb.jpg
 caption: ""
 tease: ""
 imgh: 450px
-genre: 
+genre: Professional Sleuth
 tag: short-story
-wordcount: 2681
+wordcount: 5441
 trfissue: Vol. 9 No. 32
 trfdate: Mar. 11, 2018
 ---

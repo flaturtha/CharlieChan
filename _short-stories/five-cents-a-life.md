@@ -2,7 +2,7 @@
 layout: short-stories
 layoutTag: premium_post
 casefileNumber: 
-title: "The Mysterious Highwayman"
+title: "Five Cents A Life"
 author: Sergeant Ryan
 date: 2018-02-26
 opub: Detective Story Magazine

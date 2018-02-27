@@ -4,7 +4,7 @@ layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aef54
 title: "The Too-Easy Alibi"
 author: George Briggs
-date: 2018-02-28
+date: 2018-02-27
 opub: Black Mask
 opubdate: Apr. 1922
 opubissue: Vol. 5, No. 1
@@ -117,6 +117,16 @@ When he reached his room, which was directly below Pug&#39;s, Joe had a horrifie
 
 He caught up a cap, pulled it down on his oblong head, and slipped quietly down the stairs of the cheap rooming house. He reached the sidewalk without seeing anyone. And he turned into a small cigar store instantly.
 
+<h6 class="btt"><a href ="#top">Back to Top</a></h6>
+
+<hr>
+
+### Chapter 3
+{: .chapternumber .no_toc}
+
+### The Shadow of the Electric Chair
+{: .chaptertitle}
+
 Tom, the man who ran the cigar store, was thin, with small, kindly, black eyes set in a wrinkled face. He had an eager, talkative way, and he was continually buying new things — a pencil, or a billfold, or one of the innumerable novelties that are sold by street-corner peddlers — and insisting that all of his customers notice and admire his new possession.
 
 Joe slipped into the cigar store, and grunted when Tom spoke to him. At intervals a chill plucked at his scalp and made the hairs rise and waver. His breath was still accelerated from his fierce struggle with Pug, and his body tensed each time he thought of the man he had killed.
@@ -176,6 +186,16 @@ Sullenly Joe said, &quot;Around here. Talking with Tom.&quot;
 &quot;Talking with Tom,&quot; Cummings repeated. &quot;Well, you come with me.&quot;
 
 Joe stepped out of the cigar store, feeling the shadow of the electric chair had touched him. He would be questioned, and —
+
+<h6 class="btt"><a href ="#top">Back to Top</a></h6>
+
+<hr>
+
+### Chapter 4
+{: .chapternumber .no_toc}
+
+### I.O.U. 5
+{: .chaptertitle}
 
 &quot;I want to know where Ernest Worth — he&#39;s called Pug — lives in this house,&quot; the detective said, leading the way toward Joe&#39;s home.
 
