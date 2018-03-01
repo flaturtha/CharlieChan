@@ -6,7 +6,7 @@ title: "Catty Cornered"
 subtitle: "A Dizzy Duo Yarn"
 author: Joe Archibald
 authorData: "Author of _Caught Shot_, _Pie a La Murder_, _The Con Is Green,_ etc."
-date: 2018-03-02
+date: 2018-03-01
 opub: Ten Detective Aces
 opubdate: Mar. 1938
 opubissue: Vol. 32, No. 1
