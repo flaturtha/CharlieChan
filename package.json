@@ -36,6 +36,7 @@
     "lazy-debug-legacy": "0.0.1",
     "mime": "^2.2.0",
     "minimatch": "^3.0.4",
+    "netlify-cli": "^1.2.2",
     "portscanner": "^2.1.1",
     "qs": "^6.5.1",
     "simple-jekyll-search": "^1.5.0",
