@@ -9,7 +9,7 @@ opub: Dixon Hawke's Casebook
 opubdate: Spring 1940
 opubissue: No. 4
 category: short-stories
-excerpt: "Once more that intrepid detective Dixon Hawke matches wits with a killer &mdash; this time on the set of Raymond Blad's latest picture!"
+excerpt: "Once more that intrepid detective Dixon Hawke matches wits with a killer &mdash; this time on the set of Raymond Blade's latest picture!"
 tease: "The perfect post-Oscars short story ... when Dixon Hawke, the famous criminologist, finds himself on the set of Raymond Blade's latest picture. But can he sort out fact from Big Screen fiction in THE CASE OF THE FALLEN STAR?"
 image: /assets/img/short-stories/fallen-star.png
 fb-image: /assets/img/short-stories/fallen-star_fb.jpg
