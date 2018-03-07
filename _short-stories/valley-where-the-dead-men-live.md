@@ -3,24 +3,24 @@ layout: short-stories
 layoutTag: premium_post
 casefileNumber: 
 title: "Valley Where the Dead Men Live"
-slug: valley-where-the-dead-men-live.md
+slug: valley-where-the-dead-men-live
 subtitle: ""
 author: "Harold Ward"
 authorData: ""
 series: ""
-date: 2018-03-08
+date: 2018-03-07
 opub: Black Mask
 opubdate: Aug. 1920
-opubissue: Vol. 1, No. 5
-exerpt: ""
-image: /assets/img/short-stories/
+opubissue: Vol. 1, No. 5i
+excerpt: "\"I have passed through The Valley Where Dead Men Live. My eyes have looked upon sights which God did not intend men to see.\" Such began the strange tale told to Professor Parmalee by the stranger. Could it be true or was it just the ramblings of a dying man?"
+image: /assets/img/short-stories/valley-where-the-dead-men-live.png
 fb-image: /assets/img/short-stories/
-caption: ""
-tease: ""
-imgh: 
-genre:
+caption: "Was I dead? I raised myself on my elbows and looked about me. For an instant, I imagined that I was back in Flanders."
+tease: "A thrilling supernatural yarn spun by the master storyteller!"
+imgh: 450px 
+genre: Supernatural
 tag: short-story
-wordcount: 
+wordcount: 4442 
 trfissue: Vol. 9, No. 31
 trfdate: Feb. 25, 2018
 ---
@@ -31,12 +31,15 @@ trfdate: Feb. 25, 2018
 	</header>
 <div id="drawer" markdown="1">
 1. Auto generated table of contents
-{"toc}
+{:toc}
 </div>
 </section> <!-- table-of-contents -->
 
-Chapter 1
-Five Days Ago
+### Chapter 1
+{: .chapternumber .no_toc}
+
+### Five Days Ago
+{: .chaptertitle}
 
 "I have passed through The Valley Where Dead Men Live. My eyes have looked upon sights which God did not intend that man should see. My life must pay the forfeit. As a man of science, you may be interested in hearing what I have to say &mdash; and I must unburden myself to someone before I pass out into the Great Unknown. But five days have passed since I said good-bye to old Sourdough Jamison. It seems as many centuries."
 
@@ -86,9 +89,14 @@ Blake smiled again.
 
 Raising the sick man's head, Professor Parmalee fed him a small quantity of the warm soup. Then he sat down again beside the cot in an attitude of attention.
 
-Chapter 2
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-The Absolute Truth
+### Chapter 2
+{: .chapternumber .no_toc}
+
+### The Absolute Truth
+{: .chaptertitle}
 
 "You are going to put me down as the greatest liar since the world began," Blake said, wearily. "Yet every word that I tell you is the absolute truth. My mind was never clearer than at the present time, so don't think that what I say to you is the raving of a disordered brain, either.
 
@@ -116,9 +124,14 @@ I ran along the edge of the precipice, looking for a pathway that would lead me 
 
 "As I ran along the narrow shelf of ice, I threw off my heavy pack and carried only my rifle. Then, I slipped and lost my footing. My gun flew from my grasp. I struggled to save myself, but without avail. Over the slippery edge I slid &mdash; down &mdash; down &mdash; down! It seemed to me that I rolled for miles. There was absolutely nothing which I could grasp to stop my wild plunge. Nothing but ice &mdash; ice &mdash; ice &mdash; cold and smooth as glass. Faster and faster I went, until my speed was that of an express train. I almost lost consciousness. I could not think. Suddenly I struck the bottom with a force that knocked me senseless.
 
-Chapter 3
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-The Most Horrible Scene of Carnage
+### Chapter 3
+{: .chapternumber .no_toc}
+
+### The Most Horrible Scene of Carnage
+{: .chaptertitle}
 
 "I was awakened from my stupor by a peculiar rat-tat-tat that sounded like the rattle of a drum. I opened my eyes. The air was filled with acrid smoke. It hung over me like a great gray blanket.. Was I dead? I raised myself on my elbows and looked about me. For an instant I imagined that I was back in Flanders. Then I remembered my fall. But where was I?
 
@@ -160,9 +173,14 @@ The Most Horrible Scene of Carnage
 
 "There were not over twenty men on either side. Grappling, they fought hand to hand, using knives, clubs, stones, their revolvers &mdash; their bare hands. They were like cave-dwellers, giving no quarter and asking none. At the end, there was no one left on either side. Only a heap of dead and dying. When it was all over the dead arose and again went through the monotonous performance.
 
-Chapter 4
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-Phantoms &mdash; Too Horribly Real
+### Chapter 4
+{: .chapternumber .no_toc}
+
+### Phantoms &mdash; Too Horribly Real
+{: .chaptertitle}
 
 "I was hypnotized, held by a spell I could not break. Try as I would, I seemed unable to drag myself away from the ghastly sights. I don't know how long I remained in the valley of horrors. You say it was four days. Look at my hair &mdash; snow white! When I left Sourdough's cabin my locks were dark. I am just past thirty years of age. Yet, from my appearance, one would swear that I had passed the three score years and ten allotted to man.
 
@@ -194,13 +212,25 @@ Then, with a muttered 'Shhh!' one of them cautiously drew aside a small block of
 
 "The ground trembled. &hellip; A concussion! I felt myself being hurled through the air &hellip; Around me rang screams and cries of mortal agony &hellip;  Then came oblivion."There is nothing more that I can tell you. How I came here, I have no recollection. Evidently, my mind a blank, I found some exit on this side of the valley. I only know that you found me here, outside. My secret is yours. As a man of science, you will probably try to find the way into the place from which I have corner Take my advice and stay away. Now I am tired, Professor. I must rest.''
 
-Chapter 5
-The Report of Profession Parmalee
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
+### Chapter 5
+{: .chapternumber .no_toc}
+
+### The Report of Professor Parmalee
+{: .chaptertitle}
 
 *(Extract from the report of Professor Phineas Parmalee, A.B., LL.D., etc.)*
 
-"Mr. Blake passed away shortly after completing his strange narrative. The members of the Parmalee Scientific Expedition spent nearly a week searching the vicinity in the hope of discovering the opening through which he came from the valley. But our efforts were fruitless. I would be tempted to put his story of 'The Valley Where Dead Men Live' down as an hallucination resulting from his terrible experiences during the war, but for one thing: I sent a courier by way of Chicahoochie Pass to interview Jamison. The letter says that the date given by Blake was correct. He crossed the mountains, as he stated, in five days. I confess myself puzzled &hellip; We buried poor Blake where we found him. Requiescat In Pace!"
+"Mr. Blake passed away shortly after completing his strange narrative. The members of the Parmalee Scientific Expedition spent nearly a week searching the vicinity in the hope of discovering the opening through which he came from the valley. 
 
-THE END
+"But our efforts were fruitless. I would be tempted to put his story of 'The Valley Where Dead Men Live' down as an hallucination resulting from his terrible experiences during the war, but for one thing: I sent a courier by way of Chicahoochie Pass to interview Jamison. 
+
+"The letter says that the date given by Blake was correct. He crossed the mountains, as he stated, in five days. I confess myself puzzled &hellip; 
+
+"We buried poor Blake where we found him. 
+
+*Requiescat In Pace!*"
 
 <p id="theend">~ The End ~</p>
