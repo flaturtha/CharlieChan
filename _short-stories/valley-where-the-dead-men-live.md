@@ -14,7 +14,7 @@ opubdate: Aug. 1920
 opubissue: Vol. 1, No. 5i
 excerpt: "\"I have passed through The Valley Where Dead Men Live. My eyes have looked upon sights which God did not intend men to see.\" Such began the strange tale told to Professor Parmalee by the stranger. Could it be true or was it just the ramblings of a dying man?"
 image: /assets/img/short-stories/valley-where-the-dead-men-live.png
-fb-image: /assets/img/short-stories/
+fb-image: /assets/img/short-stories/valley-where-the-dead-men-live_fb.jpg
 caption: "Was I dead? I raised myself on my elbows and looked about me. For an instant, I imagined that I was back in Flanders."
 tease: "A thrilling supernatural yarn spun by the master storyteller!"
 imgh: 450px 
