@@ -14,7 +14,7 @@ image: /assets/img/short-stories/hear-not.svg
 fb-image: /assets/img/short-stories/hear-not_fb.jpg
 imgh: 450px
 caption: "Dummy whipped out a knife and sprang for Goggles."
-teaser: "A great story of crime and compassion. Perfect for a long, slow Saturday night!"
+tease: "A great story of crime and compassion. Perfect for a long, slow Saturday night!"
 genre: Amateur Sleuth
 tags: amateur sleuth, Ten Detective Aces, Archibald, Dizzy Duo, short-story
 wordcount: 7418
