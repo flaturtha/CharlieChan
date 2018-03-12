@@ -11,8 +11,10 @@ opubissue: Vol. 4, No. 3
 category: short-stories
 excerpt: "\"A lesson for thieves, detectives, physicians and everyone else. It is a Japanese piece called the ‘Sacred Monkeys.’ There are three of them. One holds his hands over his ears, a second over his eyes and the third over his mouth. The inscription beneath reads, ‘Hear not, see not, speak not evil.’ I took the restraining hands away from the ears, eyes and mouth of these three men here. You see the result.\""
 image: /assets/img/short-stories/hear-not.svg
+fb-image: /assets/img/short-stories/hear-not_fb.jpg
 imgh: 450px
 caption: "Dummy whipped out a knife and sprang for Goggles."
+teaser: "A great story of crime and compassion. Perfect for a long, slow Saturday night!"
 genre: Amateur Sleuth
 tags: amateur sleuth, Ten Detective Aces, Archibald, Dizzy Duo, short-story
 wordcount: 7418

@@ -13,7 +13,7 @@ excerpt: "A perfect butter is supposed to know everything. James was a perfect b
 image: /assets/img/short-stories/puppet-boss-of-destiny.png
 fb-image: /assets/img/short-stories/puppet-boss-of-destiny_fb.jpg
 caption: ""
-tease: ""
+tease: "A short, fun read with a great twist at the end! Because society lady's aren't always what they seem ..."
 imgh: 450px
 genre: Blackmail
 tag: short-story

@@ -1390,9 +1390,8 @@ a.readmore {
     .card__small .buybutton a {
       color: #fffff0 !important; }
     .card__small .buybutton:hover {
-      background-color: #fffff0; }
-      .card__small .buybutton:hover a {
-        color: #008b00 !important; }
+      background-color: #fffff0;
+      color: #008b00; }
   .card__small .descriptive {
     font-size: 0.857rem;
     font-style: italic;

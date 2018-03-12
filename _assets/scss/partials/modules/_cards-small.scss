@@ -101,8 +101,9 @@
 		}
 		&:hover {
 			background-color: $paper;
+			color: #008b00;
 			a {
-				color: $bcolor !important;
+			//	color: $bcolor !important;
 			}
 		}
 	}
