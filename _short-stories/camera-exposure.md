@@ -4,7 +4,8 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefd1
 title: "The Case of the Camera Exposure"
 series: A Dixon Hawke Mystery
-date: 2018-03-14
+slug: "the-case-of-the-camera-exposure"
+date: 2018-03-13
 opub: Dixon Hawke's Casebook
 opubdate: Spring 1940
 opubissue: No. 4
