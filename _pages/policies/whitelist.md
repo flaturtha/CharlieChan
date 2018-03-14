@@ -8,11 +8,6 @@ description:
 ---
 
 <header class="pagehead">
-  <section class="pagetitle">
-
-    <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
-
-  </section> <!-- end div.pagetitle --> 
 
 {% include smallnav.html %}
 
@@ -34,10 +29,10 @@ Also, if you find email from atticus@talesofmurder.com in your spam or junk fold
   <header>
     <h6>Table of Contents</h6>
   </header>
-  <div id="drawer" markdown="1">
-    1. Auto generated table of contents
-    {: .toc}
-  </div>
+<div id="drawer" markdown="1">
+1. Auto generated table of contents
+{: .toc}
+</div>
 </section> <!-- table-of-contents -->
 
 ### AOL
