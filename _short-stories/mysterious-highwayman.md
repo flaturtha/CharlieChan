@@ -4,16 +4,17 @@ layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aef16
 title: "The Mysterious Highwayman"
 author: Sergeant Ryan
-date: 2018-03-16
+date: 2018-03-15
 opub: Detective Story Magazine
 opubdate: Jan. 5, 1917
 category: short-stories
-excerpt: ""
+excerpt: "&quot;Denial is useless,&#39;&#39; said Carroll at last. &quot;I was taken in the act.&quot;<br><br>His manner was indefinably strange. If one may attempt description, it was more like an invalid&#39;s than a criminal&#39;s. This man of cultured mind and delicately sensitive nature seemed to feel neither remorse nor shame. There was evidence of considerable anxiety, but this state was repeatedly interrupted by involuntary outbursts of reassurance, almost of satisfaction."
+imgh: 65"
 image: /assets/img/short-stories/mysterious-highwayman.png
 fb-image: /assets/img/short-stories/mysterious-highwayman_fb.jpg
-caption: ""
+caption: "He wore a shabby, black overcoat above what seemed to be expensive and fashionable evening dress."
 tease: ""
-imgh: 450px
+imgh: 650px
 genre: Professional Sleuth
 tag: short-story
 wordcount: 5441
