@@ -13,7 +13,7 @@ imgh: 65"
 image: /assets/img/short-stories/mysterious-highwayman.png
 fb-image: /assets/img/short-stories/mysterious-highwayman_fb.jpg
 caption: "He wore a shabby, black overcoat above what seemed to be expensive and fashionable evening dress."
-tease: ""
+tease: "A thrilling tale of a man sure of his own guilt! But is he really guilty?"
 imgh: 650px
 genre: Professional Sleuth
 tag: short-story
