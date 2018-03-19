@@ -4,7 +4,7 @@ layoutTag: premium_post
 casefileNumber: 
 title: "Frozen Ground"
 author: Thomas Jeffries Betts
-date: 2018-03-20
+date: 2018-03-19
 opub: All-Story
 opubdate: Mar. 10, 1917
 category: short-stories
