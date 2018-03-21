@@ -8,7 +8,7 @@ subtitle: ""
 author: "Maitland Scott"
 authorData: "Author of <em>Last-Mile Bargain</em>, etc."
 series: ""
-date: 2018-03-22 
+date: 2018-03-21 
 opub: Ten Detective Aces
 opubdate: Mar. 1938
 opubissue: Vol. 32, No. 1
@@ -16,7 +16,7 @@ excerpt: "A man's life is worth what he can get for it. \'Tight-Spot\' Andrews f
 image: /assets/img/short-stories/five-cents-a-life.png
 fb-image: /assets/img/short-stories/five-cents-a-life_fb.jpg
 caption: ""
-tease: ""
+tease: "Murder, betrayal, lies, & dirty tricks make for an exciting gangland tale!"
 imgh: 400px
 genre: Amateur Sleuth
 tag: short-story
@@ -55,14 +55,18 @@ Grace circulated among the tables, silken tights gleaming against Hie soft eurve
 
 Ernie Trauber rang for one of his floormen, told him to send Grace in. But Grace didn't come. Instead, the floorman returned with a note from \"Tight-spot" Andrews. Trauber cursed and dug into his desk for a special bottle when he read the newshawk's three-word note:
 
-*I wouldn\'t, Trauber. Andrews*
+*I wouldn\'t, Trauber. --- Andrews*
+{: .center .margin1r}
 
 A couple of years ago, Ernie Trauber had beaten up a check-room girl. She had been afraid to bring charges for fear Trauber would see to it that she got plenty from a hired strong-arm thug or two. Ernie Trauber did things that way.
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
 ### Chapter 2
 {: .chapternumber .no_toc}
 
-### xxxx
+### An Extensive and Detailed Study
 {: .chaptertitle}
 
 Tight-spot Andrews lolled boredly at his table, apparently too lazy to even touch his highball. Andrews was worth his weight in gold to his paper. It was good for circulation to have a star reporter who often figured more in sensational headlines than did the police themselves.
@@ -89,9 +93,14 @@ Andrews could see that Ernie Trauber was becoming perceivably nervous.
 
 In fact, Trauber wondered for a moment or two if he should not have hired a few hoods for the night, just in case. But he quickly reasoned that he could argue Mike Malone's organization out of making him hand over a cut from his profits. Sure, he could argue his way out of it again. Hell, hadn't he and Mike been old-time pals.
 
-Chapter 3
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-xxxx
+### Chapter 3
+{: .chapternumber .no_toc}
+
+### The Three Gunmen 
+{: .chaptertitle }
 
 The third malone henchman, Frank Adamo, a catlike, light-stepping gunman whose mouth twitched nervously, came in when the place was almost deserted. With scarcely a word to Trauber, he joined the first two.
 
@@ -135,9 +144,14 @@ John Andrews allowed himself to be slowly shoved down on his chair, realizing th
 
 Silent until now, but watchful, Sauchelli suddenly called out: "Come here, Trauber, we want you in on this party, too --- until the joint is cleared."
 
-Chapter 4
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-xxxx
+### Chapter 4
+{: .chapternumber .no_toc}
+
+### A Dollar Bet Against Your Life 
+{: .chaptertitle}
 
 Ernie Trauber came over to the table, his big frame, which dwarfed even De Carlo\'s size, moving stiffly. He stopped the nervous tightening of his heavy jowls with an effort. Before he could speak, Sauchelli added:
 
@@ -147,7 +161,9 @@ Trauber hesitated, then turned and beckoned his floorman over.
 
 Sauchelli moved back from the table so he could face both squarely, and his hand rested significantly inside his coat.
 
-"You can\'t buck this outfit, so be good," he said. "We\'re too strong." Andrews could see that from the floor-man, at least, there would be no trouble. A cheap little gunman in a theatrical dinner jacket, his face was paling with abject fear.
+"You can\'t buck this outfit, so be good," he said. "We\'re too strong."
+
+Andrews could see that from the floor-man, at least, there would be no trouble. A cheap little gunman in a theatrical dinner jacket, his face was paling with abject fear.
 
 "Now, we\'ll all enjoy the little trick Tony's gonna do to keep Tight-spot amused until everybody else is outta this joint."
 
@@ -195,9 +211,14 @@ Trauber glared and shouted: "Malone can't do this to me --- we're old pals!"
 
 De Carlo didn't say a word, but his scowling face and steady gun muzzle --- his very silence --- spoke more than words.
 
-Chapter 5
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-xxxx
+### Chapter 5
+{: .chapternumber .no_toc}
+
+### A Regular Gang Killing
+{: .chaptertitle}
 
 Boiling anger welled up in ernie trauber, and a slow flush of rage crept up the big man's bull-like neck. Even through a red haze of fury, he tried to reason with himself to pay the cut to the outfit against which it would be impossible for him to pit himself. But anger won out ... .
 
@@ -241,9 +262,14 @@ De Carlo said, \"Say, you tryin' to --- " and stopped quite suddenly.
 
 Frank Adamo had now come away from his post at the entrance, and he was listening intently a few paces off.
 
-Chapter 6
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-xxxx
+### Chapter 6
+{: .chapternumber .no_toc}
+
+### A Glass With A Nickel Fallen Into It
+{: .chaptertitle}
 
 Finally Sauchelli snarled: \"Why, you damn punk, you can't try to fool me. I searched every inch of that room, looking for something the fool cops mighta missed. There wasn't no glass in the room with no nickel in it."
 
@@ -297,9 +323,14 @@ Adamo started forward, viciously. But Sauchelli stopped him with a significant m
 
 "Tony," said Sauchelli with deadly chill, "you're acting too damned scared and yellow. Somebody killed Luigi for that big cut he got, and I know you were sore 'cause he got so much more'n you."
 
-Chapter 7
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-xxx
+### Chapter 7
+{: .chapternumber .no_toc}
+
+### Out of Another Impossible Jam 
+{: .chaptertitle}
 
 The muzzle of Sauchelli's gun rose a trifle, centering more perfectly on De Carlo's heart.
 
@@ -322,7 +353,5 @@ Captain James growled: "Come on, sorehead, just because I haven't had a chance t
 John Andrews smiled and explained: "When I went up to Luigi's apartment with Lieutenant Doyle, it happened that neither he nor the boys with him had a nickel to feed the pay phone in the hall to get the corpse doc and the fingerprint crew. I was fumbling with my change, and I dropped one of my nickels in a glass that happened to be on a table. He wouldn't let me fish it out for fear of disturbing any prints. I remember looking down at it and making a wisecrack about somebody getting graft. Somehow, at the Red Parrot, my memory kept asking me where I had ever before seen a glass with a nickel in the bottom of it. Foolish --- but then I have a theory that similarities --- \"
 
 The captain broke in with: "All right, all right, John --- just let it go that that great crackpot, Tight-spot Andrews, got out of another impossible jam.\"
-
-THE END
 
 <p id="theend">~ The End ~</p>
