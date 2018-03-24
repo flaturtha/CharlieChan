@@ -13,7 +13,7 @@ excerpt: "Miss Bosanquet needed help with the last chapter of her book; but it c
 image: /assets/img/short-stories/last-chapter1.png
 fb-image: /assets/img/short-stories/last-chapter_fb.jpg
 caption: ""
-tease: ""
+tease: "What begins as a delightful story of hope & love ends with loss & death."
 imgh: 300px 
 genre: Cozy
 tag: short-story
