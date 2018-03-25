@@ -8,8 +8,10 @@ opub_date:
 date: 2016-09-16
 category: murderwiki
 excerpt: G. K. Chesterton, noted English Journalist, critic, and master of the detective story, defends the popular detective story, calling the genre a reflection of society, the "poetry of modern life."
+tease: "What is the merit of DETECTIVE FICTION? Find out what the master of the genre believes."
 image: /assets/img/murderwiki/G._K._Chesterton_at_work.jpg
-caption: G.K. Chesterton at work.
+fb_image: /assets/img/murderwiki/G._K._Chesterton_at_work.jpg
+caption: "G.K. Chesterton at work."
 genre: Detective Stories
 wordcount: 1227
 tags: murderwiki
