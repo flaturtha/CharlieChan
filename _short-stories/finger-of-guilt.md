@@ -6,7 +6,7 @@ title: "The Finger of Guilt"
 slug: finger-of-guilt
 author: "J. J. Stagg"
 authorData: ""
-date: 2018-04-03
+date: 2018-04-04
 opub: Black Mask
 opubdate: April 1922
 excerpt: "There was, at the time, an epidemic of jewelry robberies. The pestilence had attacked Scofield&#39;s six times in four months; but the disease never &quot;took.&quot; The six hold-ups failed and in every instance the robbers were caught. But would Judson Farris succeed where others had failed?"
