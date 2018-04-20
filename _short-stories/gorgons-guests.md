@@ -14,7 +14,7 @@ excerpt: "Evil are the cavernous haunts wherein wandering men are transformed fr
 image: /assets/img/short-stories/gorgons-guests.png
 caption: "Pale growths of obscene toadstools sprouted from the ooze."
 fb-image: /assets/img/short-stories/gorgons-guests_fb.jpg
-tease: "A fingernail-biting courtroom drama with a twist at the end you'll never see coming!"
+tease: "A WWII era 'supernatural' espionage thriller!"
 imgh: 450px
 genre: Espionage
 tags: 
