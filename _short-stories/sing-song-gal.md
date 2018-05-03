@@ -10,7 +10,7 @@ opubdate: Mar. 1939
 opubissue: Vol. 4, No. 4
 category: short-stories
 excerpt: "&quot;This isn&#39;t a regular detective job I called you about,&quot; the night club singer told Hodgson. &quot;It&#39;s not a dead body and a lot of clues and all that stuff.&quot; That&#39;s what she thought, but it didn&#39;t take long for him to prove her wrong!"
-tease: "A hardboiled yard full of smash, crash, and bang!!"
+tease: "A hardboiled yarn full of smash, crash, and bang!!"
 image: /assets/img/short-stories/sing-song-gal-1.png
 fb-image: /assets/img/short-stories/sing-song-gal_fb.jpg
 imgh: 450px
