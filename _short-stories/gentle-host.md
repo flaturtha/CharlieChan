@@ -5,7 +5,7 @@ casefileNumber:
 title: "The Gentle Host"
 author: T. W. Ford
 authorData: "(Author of <em>Blood on My Hands</em>, <em>The Dead Man Deals in Death</em>, etc.)"
-date: 2018-05-09
+date: 2018-05-08
 opub: Crack Detective
 opubdate: Nov. 1943
 opubissue: Vol. 4, No. 6
@@ -19,7 +19,7 @@ genre: Homicidal Maniac
 tag: short-story
 wordcount: 3423
 trfissue: Vol. 9 No. 36
-trfdate: May 6, 2018
+trfdate: May 6, 2018ƒ
 ---
 
 <section id="toc" class="toc">
