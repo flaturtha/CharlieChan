@@ -7,19 +7,9 @@ category: ADB
 
 
 <div class="{{ page.title }}">
-
-  <header class="pagehead">
-     <section class="pagetitle">
-      
-      <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
-
-      <!-- <h1><span>{{ page.title }}</span></h1> -->
-      
-    </section> <!-- end div.pagetitle --> 
     
-    {% include smallnav.html %}
+  {% include smallnav.html %}
     
-  </header>
 
   <main class="trf__main">
     <h2 class="bloodred">ARMCHAIR DETECTIVES BUREAU</h2>
