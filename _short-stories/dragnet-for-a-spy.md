@@ -7,8 +7,9 @@ author: Thorne Lee
 date: 2018-05-16
 opub: "F.B.I. Detective Stories"
 opubdate: October 1950
+opubissue: Vol. 3, No. 3
 category: short-stories
-excerpt: "Enemy agents were making a shambles of Operation Topside's super secret &mdash; until a lowly lietenant proved that an ounce of brains was worth a pound of brass."
+excerpt: "Enemy agents were making a shambles of Operation Topside's super secret &mdash; until a lowly lieutenant proved that an ounce of brains was worth a pound of brass."
 image: /assets/img/short-stories/dragnet-for-a-spy.png
 fb-image: /assets/img/short-stories/dragnet-for-a-spy_fb.jpg
 tease: "A thrilling mystery set against a backdrop of cold war spies and the space race!"
