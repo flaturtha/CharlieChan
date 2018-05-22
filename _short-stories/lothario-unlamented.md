@@ -7,7 +7,7 @@ author: Joseph Franklin
 date: 2018-05-21
 opub: 15 Story Detective
 opubdate: Aug. 1950
-opubissue: Vol. 3, No. 3
+opubissue: Vol. 3, No. 2
 category: short-stories
 excerpt: "It wasn&#39;t the doctor&#39;s job to prescribe hot lead — nor the cop&#39;s to let his friend go free."
 image: /assets/img/short-stories/lothario-unlamented.png
