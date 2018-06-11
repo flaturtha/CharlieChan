@@ -14,7 +14,7 @@ excerpt: "Though women are generally considered experienced in chicanery and int
 image: /assets/img/short-stories/murder-that-boomeranged.png 
 fb-image: /assets/img/short-stories/murder-that-boomeranged_fb.jpg 
 caption: "Suddenly, without warning, he began firing."
-tease: "A true story of murder for love, not money!:q"
+tease: "A true story of murder for love, not money!"
 imgh: 450px 
 genre: Murder 
 tag: short-story 
