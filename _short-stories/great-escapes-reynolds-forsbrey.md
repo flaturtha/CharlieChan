@@ -2,7 +2,7 @@
 layout: short-stories
 layoutTag: post
 casefileNumber: 
-title: "Great Escapes &mdash; Reynolds Forsbrey"
+title: "Great Escapes: Reynolds Forsbrey"
 subtitle: ""
 author: Edgeworth Downer
 series: 
