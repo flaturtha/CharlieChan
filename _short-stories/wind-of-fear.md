@@ -6,7 +6,7 @@ title: "The Wind of Fear"
 subtitle: ""
 author: Talmage Powell
 series: 
-date: 2018-06-26
+date: 2018-06-23 01:01:01
 opub: 15 Story Detective
 opubdate: Aug. 1950
 opubissue: Vol 3. No. 2
@@ -17,7 +17,7 @@ image: /assets/img/short-stories/wind-of-fear.png
 fb-image: /assets/img/short-stories/wind-of-fear_fb.jpg
 caption: "There was not time to move, not even time to shrink … "
 imgh: 400px
-genre: Noir
+genre: Suspense 
 wordcount: 2907
 trfissue: Vol. 11 No. 39
 trfdate: June 17, 2018

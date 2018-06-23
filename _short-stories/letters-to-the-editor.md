@@ -6,7 +6,7 @@ title: "The Case of the Letters to the Editor"
 subtitle: ""
 author: 
 series: A Dixon Hawke Mystery
-date: 2018-06-28
+date: 2018-06-23 02:02:02
 opub: Dixon Hawke’s Casebook
 opubdate: Spring 1944 
 opubissue: No. 4
