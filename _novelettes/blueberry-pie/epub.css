@@ -1,0 +1,9 @@
+body { margin: 5%; text-align: justify; font-size: medium;}
+h1 { font-style: italic;}
+h2 { text-transform: uppercase;}
+h1, h2, h3, h4, h5, h6 { text-align: left;}
+h1.title { }
+h2.author { }
+h3.date { }
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }

@@ -3,10 +3,10 @@ layout: short-stories
 layoutTag: post
 casefileNumber:  
 title: "No Safety in Numbers"
-subtitle: ""
+subtitle: "(Illustrated)"
 author: Edward S. Williams
 series: 
-date: 2018-07-06
+date: 2018-07-05
 opub: Private Detective Stories
 opubdate: June 1944 
 opubissue: Vol. 15 No. 1

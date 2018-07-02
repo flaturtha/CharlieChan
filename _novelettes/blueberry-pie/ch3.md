@@ -1,0 +1,23 @@
+# Chapter 3
+## Stuart Dennison&#39;s Story
+
+No one was surprised at the jury&#39;s decision, at the judge&#39;s sentence, when the trial took place. Smug citizens shook their heads with satisfaction, young girls, about to err, shuddered and chose less easy paths. It worked out quite well, morally—there was a crime—a motive—apprehension of the criminal—punishment.
+
+What did it matter that Stuart Dennison repeated over and over again the same story. He told it to the district attorney. He told it to his own lawyers. He told it to reporters. He seemed dazed, almost, at the lack of response his story received. All he could do was to go over and over his version of the affair.
+
+Stuart Dennison&#39;s story was, to say the least, amazing. That he couldn&#39;t prove anything seemed the least amazing part of it. For Dennison maintained that he hadn&#39;t been near the apartment the day of the murder. He couldn&#39;t offer an alibi for every moment of his time. He had been in and out of his office and his club. But he was always going in and out. He had occupied his room at his club. But then, he had always kept a room there and used it more or less. Most of the club members had been away. Those who had been at the club could not testify when they had seen him.
+
+His story was simple; too simple even for those who wanted to sympathize with him. He hadn&#39;t been near the apartment, that was all. The watch? Yes, he had given it to Miss Graham on a previous Christmas. To his knowledge it had never been broken nor mended. How could he prove that? He couldn&#39;t.
+
+He maintained that he had left the apartment the evening before—that Miss Graham definitely knew that he was not going to return. He had packed his trunk before he had gone—had sent for it. It had been taken to his club as he said. Vacation trip? He knew of no vacation trip; had planned none. He couldn&#39;t understand Miss Graham saying anything about that. The second trunk—the same thing…. The little woman with the blonde bobbed hair, the one person who could have proved him wrong—or right—was buried long before the trial began.
+
+Dennison did explain about the blueberry pie in a way—a peculiarly ineffective way, everyone thought. On the way to Miss Harrington&#39;s he had passed, he said, a small pastry shop. In the window he had seen some blueberry pie. It was near dinnertime. He knew that. But he was fond of blueberry pie. He had gone into the pastry shop, eaten a small piece of pie. Later, when Miss Harrington had asked him, he had been embarrassed, had denied eating the pie. He hadn&#39;t remembered, he explained, that his teeth and lips would look blue. At the pastry shop no one remembered him nor the pie. One waitress had gone—no one knew her name—no one else knew anything about it—so many people came in to eat pie … . The pie in the apartment? He had never seen that, of course … . A burglar must have come in—
+
+The cold-blooded fact—that just before or after he had killed the woman who had been everything to him for two years—he had eaten a piece of pie that she had baked as a surprise for him, turned people against Dennison more than any other one fact of the tragedy. That much is certain.
+
+It was a clear case, as the district attorney sketched it. The two, Dennison and Miss Graham had lived together. He had fallen in love with someone else, had threatened to leave her. There had been scenes. Then, he had promised her that things would be better—had planned the vacation trip to prove it. He had packed his trunk, had gone away. Miss Graham, all eager for his return, had packed the big trunk, sent it away, had probably telephoned to him, found out the trunk was not needed, got a wagon to call for it and bring it back, then had returned and had baked the blueberry pie. Coming in about five on Thursday, Dennison had found her waiting. They had quarreled. He had murdered her, perhaps without meaning to do so.
+
+The deed done, he had tried to get out of it, had disarranged things, tumbled the dressing-table drawers on the floor and bed, opened the window, taken the simple jewelry. Sometime, during the hours he spent there, he had taken the watch out of his pocket, then had forgotten to &quot;steal&quot; it.
+
+Before or after the murder, he had eaten the pie. He had thrust the body into the closet, washed his hands, straightened his hair—had left the apartment to call on his fiancée, Miss Harrington. A terrible, brutal deed. No wonder he was electrocuted for the crime. No wonder people shuddered as they read, avidly, details of the affair. It was brutal. It was a remarkable case, too. Perhaps it was most remarkable, though, because it happened not to be true in any particular way.
+
