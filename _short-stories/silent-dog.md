@@ -144,7 +144,7 @@ Accompanied by his assistant, Tommy Burke, he walked along a path by the side of
 ### Chapter 3
 {: .chapternumber .no_toc}
 
-### An Unsuspected Passenger.
+### An Unsuspected Passenger
 {: .chaptertitle}
 
 Dixon Hawke took a magnifying glass from his pocket and began a careful examination of the wall at the spot where he believed the kidnapped boy had been passed up to accomplices. He made a great show of his work, and Tommy knelt by his side, busy with a tape measure. Although they appeared to be engrossed, they were alert for anybody who might come along.
