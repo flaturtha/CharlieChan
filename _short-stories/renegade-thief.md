@@ -2,7 +2,7 @@
 layout: short-stories
 layoutTag: post
 casefileNumber:  
-title: "The Renegate Thief"
+title: "The Renegade Thief"
 author: George W. Black 
 date: 2018-07-16
 opub: 15 Story Detective
