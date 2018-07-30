@@ -1,0 +1,31 @@
+<ul class="cards__small">
+{% for novelettes in site.novelettes %}
+
+  <li class="card__small" {% if novelettes.genre %} id="{{ novelettes.genre | downcase }}"{% endif %}>
+    
+    <a href="{{ novelettes.url }}" class="readmore">
+      <img src="{{ novelettes.image }}" alt="{{ novelettes.title }} by {{ novelettes.author }}"></a>
+    <div class="card__small__header">
+      <div>
+        <h2 class="title">{{ novelettes.title }}</h2>
+        <h3 class="author"><span>by</span> {{ novelettes.author }}</h3>
+      </div>
+      <div class="price">
+        <p>${{ novelettes.price }}</p>
+      </div>
+    </div>
+    <p class="excerpt">{{ novelettes.description }}</p>
+    {% if novelettes.prebuybutton %}
+      <p style="border:1px solid #8b0000;margin: 1rem 0;padding:0 0.5rem;color:#8b0000;line-height: 1.5;"><span style="font-weight: bold;display: block;">NOT YET RELEASED.</span> PRE-BUY TODAY &amp; GET 50% OFF! </p>
+      <button class="buybutton"><a href="{{ novelettes.url }}" style="color:#fffff0;">PRE-BUY</a></button>
+    {% else %}
+      <button class="buybutton"><a href="{{ novelettes.url }}" style="color:#fffff0;">BUY</a></button>
+    {% endif %}
+
+  </li>
+
+{% endfor %}
+
+</ul>
+
+<!-- optin4 -->

@@ -39,6 +39,10 @@ collections:
     output: true
     permalink: /short-stories/:path/
     title: Short Stories
+  novelettes:
+    output: true
+    permalink: /novelettes/:path/
+    title: Novelettes
   novellas:
     output: true
     permalink: /novellas/:path/

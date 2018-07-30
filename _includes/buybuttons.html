@@ -25,13 +25,17 @@
 
   <br>
 
-  <!-- modal trigger for sample download form -->
-  <p class="modal-trigger"><a href="#openModal">Download Sample</a></p>
-  <div id="openModal" class="modalDialog">
-    <div><a href="#close" title="Close" class="close">X</a>
-      {% include samples-form.html %}
+  {% if page.category == 'novelettes' %}
+  <p class="center bold bloodred uppercase">Read Sample Below</p>
+  {% else %}
+    <!-- modal trigger for sample download form -->
+    <p class="modal-trigger"><a href="#openModal">Download Sample</a></p>
+    <div id="openModal" class="modalDialog">
+      <div><a href="#close" title="Close" class="close">X</a>
+        {% include samples-form.html %}
+      </div>
     </div>
-  </div>
+  {% endif %}
 
   <br>
 
