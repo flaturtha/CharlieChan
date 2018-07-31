@@ -25,9 +25,7 @@
 
   <br>
 
-  {% if page.category == 'novelettes' %}
-  <p class="center bold bloodred uppercase">Read Sample Below</p>
-  {% else %}
+  {% if page.category != 'novelettes' %}
     <!-- modal trigger for sample download form -->
     <p class="modal-trigger"><a href="#openModal">Download Sample</a></p>
     <div id="openModal" class="modalDialog">

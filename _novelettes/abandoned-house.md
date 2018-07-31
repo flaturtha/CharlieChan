@@ -24,7 +24,6 @@ wordcount: 6162
 trfissue: Vol. 8 No. 30
 trfdate: Feb. 11, 2018
 ---
-<hr>
 
 <div class="toc">
 	<header>

@@ -45,19 +45,20 @@ layout: default2
           </span>
         </p>
 
-        <div class="">
+        <div class="" style="border-top:1px solid #8b0000;border-bottom:1px solid #8b0000;padding:0.5rem 0;">
+          <p class="italics">{{ page.description }}</p>
 
-          <p class="italics" style="border-top:1px solid #8b0000;border-bottom:1px solid #8b0000;padding:0.5rem 0;">{{ page.description }}</p>
-
-
+        {% if page.category == 'novelettes' %}
+          <div class="readsample">
+            <a href="#sample"><p><span class="underline">Read Sample</span> &hellip;</p></a>
+          </div>
+        {% endif %}
         </div>
 
         {% include buybuttons.html %}
-
         
-
-        <div class="luvit-guarantee hidden">
-          <p><span class="bold">LUV-IT GUARANTEE:</span>Either you'll love this book or you don't pay!<br>If you don't thoroughly love this book, just email support and I'll refund 100% of your money. Guaranteed!</p>
+        <div class="luvit-guarantee small" style="margin-top: 1rem;">
+          <p><span class="bold">LUV-IT GUARANTEE:</span> Either you'll love this book or you don't pay!<br>If you don't thoroughly love this book, just email support and I'll refund 100% of your money. Guaranteed!</p>
         </div>
 
         {% if page.testimonials %}<p class="testimonials">{{ page.testimonials }}</p>{% endif %}
@@ -68,7 +69,11 @@ layout: default2
   </header> <!-- end header.books__header -->
 
   <article class="books">
-    {{ content }}
+    <div id="sample" style="border: 1px solid #8b0000;background-color: #fffef0;box-shadow:5px 3px 2px 1px rgba(0, 0, 0, .2);padding: 0 1rem;">
+      <h3 class="center bloodred uppercase" style="margin:1rem;color:#8b0000;">~ FREE SAMPLE ~</h3>
+      {{ content }}
+    </div>
+
 
     {% include buybuttons.html %}
   </article>
