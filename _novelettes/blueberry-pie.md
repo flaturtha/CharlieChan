@@ -1,5 +1,5 @@
 ---
-layout: books 
+layout: novelettes 
 layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aef56
 title: "Blueberry Pie"

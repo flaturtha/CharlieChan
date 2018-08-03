@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: novelettes
 casefileNumber: 55ccf75fb3901011515aef1c
 e-guid:
 k-guid:

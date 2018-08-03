@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: novelettes
 casefileNumber: 
 e-guid: 
 k-guid:

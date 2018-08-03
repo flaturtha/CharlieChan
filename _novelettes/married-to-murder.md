@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: novelettes
 casefileNumber: 
 e-guid: 
 k-guid:
@@ -12,7 +12,7 @@ opubissue: Vol. 3, No. 2
 pubdate: 
 category: novelettes 
 genre: Hardboiled PI
-description: ""
+description: "Hardboiled Lee Fiske was soft as a three-minute egg over the former football hero's embraceable wife-which made Lee Fiske the sheriff's first choice to fry!"
 tags: novelette 
 image: /assets/img/novelettes/married-to-murder.jpg
 wordcount: 15069

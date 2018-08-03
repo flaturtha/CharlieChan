@@ -1,21 +1,21 @@
 ---
-layout: books
-casefileNumber: 
+layout: novelettes
+casefileNumber: 55ccf75fb3901011515aefbd
 e-guid: 
 k-guid:
 title: "Voodoo On The Riviera"
 series: A Dixon Hawke Mystery
 price: 2.99
-opub:
+opub: Dixon Hawke Library
 opubdate: 
-opubissue: 
+opubissue: DHL No. 4
 pubdate: 
 category: novelettes 
 genre: Professional Sleuth 
-description: ""
+description: "Up against the fearsome forces of Caribean voodoo, can Hawke and his assistant Tommy Burke defeat the forces of dark magic?"
 tags: novelette 
 image: /assets/img/novelettes/voodoo-on-the-riviera.jpg
-wordcount: 8774
+wordcount: 9151
 ---
 
 <div class="toc">

@@ -1,10 +1,10 @@
 ---
-layout: books
+layout: novelettes
 casefileNumber: 
 e-guid: 
 k-guid:
 title: "Bereave It, Or Not"
-author: 
+author: Thorne Lee
 price: 2.99
 opub:
 opubdate:
@@ -12,7 +12,7 @@ opubissue:
 pubdate: 
 category: novelettes 
 genre: Amateur Sleuth 
-description: "Willoughby is jealous of his wife's relationship with the new gardener. But who is the mysterious man and how does a faithful wife's relationship with him lead to murder?"
+description: "The most thankless task of Detective Daventry's career was the case of the mystified murderer. For because his victim was unknown and unmourned, the only gratitude due to Daventry would be a pat on the back from the Grim Reaper."
 tags: novelette 
 image: /assets/img/novelettes/bereave-it-or-not.jpg
 wordcount: 9216

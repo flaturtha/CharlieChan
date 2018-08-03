@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: novelettes
 casefileNumber: 
 e-guid: 
 k-guid:
@@ -12,7 +12,7 @@ opubissue:
 pubdate: 
 category: novelettes 
 genre: Espionage 
-description: ""
+description: "All Art did was try to pick up this beautiful blondie, and whiz-bang, we get more trouble than I ever seen in my whole life!"
 tags: novelette 
 image: /assets/img/novelettes/orchids-for-madame.jpg
 wordcount: 13660

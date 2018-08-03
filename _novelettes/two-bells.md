@@ -1,17 +1,18 @@
 ---
-layout: books
-casefileNumber: 
+layout: novelettes
+casefileNumber: 55ccf75fb3901011515aef3b
 e-guid: 
 k-guid:
 title: "Two Bells"
 author: Harry C. Hervey, Jr. 
 opub: The Black Mask
-opubdate: 
-opubissue:
+opubdate: Nov. 1920 
+opubissue: Vol. 11, No. 2
 pubdate: 
+price: 2.99
 category: novelettes 
 genre: Adventure 
-description: ""
+description: "It all came back to him — the lamp-lit Australian water-front, the slinking shadows along the quay, the sickening emotions following the blow and the return to consciousness in the hold of the trading brig bound for eleven degrees south of the equator."
 tags: novelette 
 image: /assets/img/novelettes/two-bells.jpg
 wordcount: 8852

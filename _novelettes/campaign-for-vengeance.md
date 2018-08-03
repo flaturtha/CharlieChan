@@ -1,11 +1,11 @@
 ---
-layout: books
+layout: novelettes
 casefileNumber: 55ccf75fb3901011515aef53
 e-guid: fdc3bcde-2b24-4e9b-87b5-a31e6d5b137a
 k-guid: 6054f084-29f9-4533-96dd-993ee0ff7664
 title: "The Campaign for Vengeance"
 author: John Baer
-price: 1.49
+price: 2.99
 opub: The Black Mask
 opubdate: Sep. 1922
 opubissue: Vol. 1, No. 6

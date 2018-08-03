@@ -143,6 +143,29 @@
 	}
 }
 
+.add-to-cart_sub {
+  border: 2px solid $theblue;
+  border-radius: 5px;
+  font-size: 1rem;
+  padding: 0.625rem 1.25rem;
+  width: 90%;
+  margin: 0 auto !important;
+  text-align: center;
+  background-color: $theblue;
+  color: $paper;
+  box-shadow: 1px 2px 10px $bgcolor;
+  a {
+    color:$paper;
+    text-decoration: none !important;
+  }
+  &:hover {
+    color: $theblue;
+    background-color: $paper;
+    a {
+      color: $theblue;
+    }
+  }
+}
 
 .zip-instructions {
 	border: 1px solid $bcolor;

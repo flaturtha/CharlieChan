@@ -1,11 +1,11 @@
 ---
-layout: books
+layout: novelettes
 casefileNumber: 55ccf75fb3901011515aef28
 e-guid: 9924b763-dd7b-47e3-a417-4ab04ba8daba
 k-guid: c468ebb7-df66-434a-a039-20594fe43117
 title: "Black Shadows"
 author: J. C. Kofoed
-price: 1.25
+price: 2.99
 opub: The Black Mask
 opubdate: Sep. 1922
 opubissue: Vol. 1, No. 6

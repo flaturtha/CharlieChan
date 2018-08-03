@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: novelettes
 casefileNumber: 55ccf75fb3901011515af01b
 e-guid: 030b7fcc-fb35-422b-b6c2-e0cb7cde2a5a
 k-guid: 9293d7cb-3914-46b6-b1b1-bdc3e3d8f1d6
@@ -17,7 +17,7 @@ genre: Professional Sleuth
 descriptive: "A Dixon Hawke Mystery"
 description: "Will Dixon Hawke's wiley wisdom be enough to allow him to penetrate Hitler's inner sanctum and destroy the secret weapon created by Nazi scientist Dr. Krantz or will he be found out as a British Spy?"
 tags: novella, world war 2, Hitler, espionage
-image: /assets/img/novellas/purple-doom-of-dr-krantz.jpg
+image: /assets/img/novelettes/purple-doom-of-dr-krantz.jpg
 wordcount: 17454
 k-sample: https://s3.amazonaws.com/talesofmurder.com/samples/The-Purple-Doom-of-Dr-Krantz_sample.mobi
 e-sample: https://s3.amazonaws.com/talesofmurder.com/samples/The-Purple-Doom-of-Dr-Krantz_sample.epub 
