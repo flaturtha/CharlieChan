@@ -3,6 +3,8 @@ layout: novelettes
 casefileNumber: 55ccf75fb3901011515aef1c
 e-guid:
 k-guid:
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/abandoned-house.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/abandoned-house.epub
 title: "The Abandoned House"
 slug: "the-abandoned-house"
 author: Buelah Poynter
