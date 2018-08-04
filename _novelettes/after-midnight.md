@@ -3,8 +3,8 @@ layout: novelettes
 casefileNumber: 
 e-guid: 
 k-guid:
-kdwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/after-midnight.mobi
-edwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/after-midnight.epub
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/after-midnight.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/after-midnight.epub
 title: "After Midnight"
 author: Marthé Neville
 price: 2.99

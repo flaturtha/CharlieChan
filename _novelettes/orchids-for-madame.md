@@ -3,8 +3,8 @@ layout: novelettes
 casefileNumber: 
 e-guid: 
 k-guid:
-kdwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/orchids-for-madame.mobi
-edwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/orchids-for-madame.epub
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/orchids-for-madame.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/orchids-for-madame.epub
 title: "Orchids for Madame"
 author: Greta Bordet
 price: 2.99

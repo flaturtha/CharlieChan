@@ -1,8 +1,8 @@
 ---
 layout: novelettes 
 casefileNumber: 55ccf75fb3901011515aef30
-kdwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/man-who-would-not-die.mobi
-edwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/man-who-would-not-die.epub
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/man-who-would-not-die.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/man-who-would-not-die.epub
 title: "The Man Who Would Not Die"
 author: Harold Ward
 date: 2017-06-16

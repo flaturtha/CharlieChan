@@ -3,8 +3,8 @@ layout: novelettes
 casefileNumber: 
 e-guid: 
 k-guid:
-kdwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/married-to-murder.mobi
-edwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/married-to-murder.epub
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/married-to-murder.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/married-to-murder.epub
 title: "Married to Murder"
 author: Robert Martin
 price: 2.99

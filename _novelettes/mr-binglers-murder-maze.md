@@ -3,8 +3,8 @@ layout: novelettes
 casefileNumber: 
 e-guid: 
 k-guid:
-kdwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/mr-binglers-murder-maze.mobi
-edwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/mr-binglers-murder-maze.epub
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/mr-binglers-murder-maze.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/mr-binglers-murder-maze.epub
 title: "Mr. Bingler's Murder Maze"
 author: Wilbur S. Peacock
 price: 2.99

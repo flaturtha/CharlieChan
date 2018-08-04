@@ -3,8 +3,8 @@ layout: novelettes
 casefileNumber: 55ccf75fb3901011515aef53
 e-guid: fdc3bcde-2b24-4e9b-87b5-a31e6d5b137a
 k-guid: 6054f084-29f9-4533-96dd-993ee0ff7664
-kdwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/campaign-for-vengeance.mobi
-edwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/campaign-for-vengeance.epub
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/campaign-for-vengeance.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/campaign-for-vengeance.epub
 title: "The Campaign for Vengeance"
 author: John Baer
 price: 2.99

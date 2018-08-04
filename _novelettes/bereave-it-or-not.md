@@ -3,8 +3,8 @@ layout: novelettes
 casefileNumber: 
 e-guid: 
 k-guid:
-kdwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/bereave-it-or-not.mobi
-edwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/bereave-it-or-not.epub
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/bereave-it-or-not.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/bereave-it-or-not.epub
 title: "Bereave It, Or Not"
 author: Thorne Lee
 price: 2.99

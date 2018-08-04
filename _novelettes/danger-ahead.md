@@ -3,8 +3,8 @@ layout: novelettes
 casefileNumber: 
 e-guid: 
 k-guid:
-kdwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/danger-ahead.mobi
-edwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/danger-ahead.epub
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/danger-ahead.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/danger-ahead.epub
 title: "Danger Ahead"
 author: Harry Millard Lynch
 illustrator: Andrew Benson

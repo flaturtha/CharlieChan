@@ -2,8 +2,8 @@
 layout: novelettes 
 layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aef56
-kdwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/blueberry-pie.mobi
-edwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/blueberry-pie.epub
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/blueberry-pie.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/blueberry-pie.epub
 title: "Blueberry Pie"
 author: Thyra Samter Winslow
 date: 2017-07-29

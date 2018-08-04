@@ -3,8 +3,8 @@ layout: novelettes
 casefileNumber: 55ccf75fb3901011515aef3b
 e-guid: 
 k-guid:
-kdwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/two-bells.mobi
-edwn: https://s3.amazonaws.com/talesofmurder.com/novelettes/two-bells.epub
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/two-bells.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/two-bells.epub
 title: "Two Bells"
 author: Harry C. Hervey, Jr. 
 opub: The Black Mask
