@@ -87,6 +87,10 @@ Marcia let herself into her husband's sumptuously appointed office, and he looke
 
 "Well --- well, Marcia! A bit off your course, aren't you?"
 
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+<hr>
+
 ### Chapter 2 
 {: .chapternumber .no_toc}
 
@@ -161,7 +165,9 @@ The expected defiance did not come.
 
 "Yes," he said, "I guess you'd better."
 
-<hr class="chapter-break" />
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+<hr>
 
 ### Chapter 3 
 {: .chapternumber .no_toc}
@@ -239,7 +245,9 @@ Paul smiled grimly.
 
 "If you fellows don't know where we are, stands to reason no one else will know, Sergeant."
 
-<hr class="chapter-break" />
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+<hr>
 
 ### Chapter 4 
 {: .chapternumber .no_toc}
@@ -295,7 +303,8 @@ She could not tell from what depth of her fear she summoned the will, the streng
 
 And death ... .
 
-* * *
+\*\*\*
+{: .center}
 
 She could tell Sergeant Fernold only that part of it which she could understand herself, when she fully realized that Fernold was real and there beside her.
 
