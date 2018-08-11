@@ -1,7 +1,8 @@
 ---
 layout: novelettes 
-layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aef56
+e-guid: cb180e59-0a08-49b2-af4b-066fb3353bb7
+k-guid: d14324c9-336a-4213-9e44-a691b156746c
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/blueberry-pie.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/blueberry-pie.epub
 title: "Blueberry Pie"
@@ -23,7 +24,6 @@ wordcount: 9130
 trfissue: Vol. 4 No. 15
 trfdate: Jul. 16, 2017
 ---
-
 
 <div class="toc">
 	<header>
