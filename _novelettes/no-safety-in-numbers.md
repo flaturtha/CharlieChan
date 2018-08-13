@@ -1,7 +1,52 @@
+---
+layout: novelettes 
+casefileNumber:  
+title: "No Safety in Numbers"
+subtitle: "(Illustrated)"
+author: Edward S. Williams
+date: 2018-07-05
+opub: Private Detective Stories
+opubdate: June 1944 
+opubissue: Vol. 15 No. 1
+pubdate:
+price: 2.99
+category: novelettes
+description: "Off in the country, cut off by the storm, Rose had heard the radio account of the hold-up and murder. And now she was sure that one of the men in her house was the killer. But which was it?"
+tease: "An isolated house. A winter storm. A murderer. A thrilling suspense murder mystery!"
+image: /assets/img/novelettes/no-safety-in-numbers.jpg
+fb-image: /assets/img/novelettes/no-safety-in-numbers_fb.jpg
+caption: "Flames streaked from the gun as he hurled the embers."
+imgh: 400px
+genre: Suspense
+wordcount: 6111
+trfissue: Vol. 11 No. 40
+trfdate: July 1, 2018
+---
 
-# [1]{.chapternumber} [The Robbery]{.chaptertitle}
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+	
+	<ol>
+		<li class="bloodred">The Robbery</li>
+		<li class="bloodred">The Man At the Window</li>
+		<li class="bloodred">Robbery and Double Murder</li>
+		<li class="bloodred">Mr. Hebner</li>
+		<li class="bloodred">Mister --- Mister ...</li>
+		<li class="bloodred">I'm Frightened, Mr. Hebner</li>
+		<li class="bloodred">The Outside Skulker</li>
+		<li class="bloodred">The Smell of Cordite</li>
+    <li class="bloodred">Back to Consciousness</li>
+    <li class="bloodred">Rose Is A Pretty Name</li>
+	</ol>
+</div> <!-- table-of-contents -->
 
-![Flames streaked from the gun as he hurled the embers.](no-safety-in-numbers-combo.png)
+### Chapter 1
+{: .chapternumber}
+
+### The Robbery
+{: .chaptertitle}
 
 A panel truck bearing the name Raytex Company turned in and parked at the Seaboard Trust's side entrance.
 
@@ -33,4 +78,4 @@ The other pulled back his overcoat, thrust his hand inside and brought out a gun
 
 The bank guard regained the street in time to see its rear bumper disappear.
 
-<hr class="chapter-break" />
+<p id="theend">~ End of Sample ~</p>

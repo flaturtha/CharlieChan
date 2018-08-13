@@ -11,6 +11,7 @@ price: 2.99
 opub: The Black Mask
 opubdate: Sep. 1922
 opubissue: Vol. 1, No. 6
+pubdate: 2018-08-11
 category: novelettes
 genre: Amateur Sleuth
 descriptive: "Murder: for Money or Revenge"

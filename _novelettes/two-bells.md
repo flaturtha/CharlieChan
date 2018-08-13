@@ -10,7 +10,7 @@ author: Harry C. Hervey, Jr.
 opub: The Black Mask
 opubdate: Nov. 1920 
 opubissue: Vol. 11, No. 2
-pubdate: 
+pubdate: 2018-08-11 
 price: 2.99
 category: novelettes 
 genre: Adventure 

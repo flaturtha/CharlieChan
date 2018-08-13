@@ -1,5 +1,47 @@
+---
+layout: novelettes 
+casefileNumber: 
+title: "Cookin' With Poison"
+author: D. Wescott Gouldner
+date: 2018-05-10
+opub: FBI Detective Stories
+opubdate: Oct. 1950
+opubissue: Vol. 3, No. 3
+category: novelettes
+price: 2.99
+description: "It had to be one of Paul&#39;s two lovely sisters-in-law who&#39;d known the old man was coming … and baked a cake."
+tease: "It was a birthday cake to end all birthday cakes – and Ernie&#39;s birthdays."
+image: /assets/img/novelettes/cookin-with-poison.jpg
+fb-image: /assets/img/novelettes/cookin-with-poison_fb.jpg
+imgh: 400px
+genre: Noir
+tag: short-story
+wordcount: 6072
+trfissue: Vol. 10 No. 36
+trfdate: May 6, 2018
+---
 
-# [1]{.chapternumber} [The Day After the Funeral]{.chaptertitle}
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+	
+	<ol>
+		<li class="bloodred">The Day After the Funeral</li>
+		<li class="bloodred">Body of a Little Old Man</li>
+		<li class="bloodred">The Overcoat</li>
+		<li class="bloodred">Ever Heard of Bert Larkin</li>
+		<li class="bloodred">One of Those Guys</li>
+		<li class="bloodred">The Sour Note</li>
+		<li class="bloodred">A Woman Entering His Room</li>
+	</ol>
+</div> <!-- table-of-contents -->
+
+### Chapter 1
+{: .chapternumber}
+
+### The Day After the Funeral
+{: .chaptertitle}
 
 When Paul went down to breakfast, the day after the funeral, he was relieved to notice that some of the tense unreality of the atmosphere was gone. He could hear Marilyn and Jennifer at breakfast, while the cook was making noises in the kitchen.
 
@@ -63,4 +105,4 @@ Paul sat down weakly in a chair. It was fantastic! He had worn that coat at Erni
 
 He led him into the back room where a body was stretched out on a table. He lifted a comer of the sheet that covered it and Paul looked.
 
-<hr class="chapter-break" />
+<p id="theend">~ End of Sample ~</p>

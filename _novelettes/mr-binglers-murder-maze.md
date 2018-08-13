@@ -11,7 +11,7 @@ price: 2.99
 opub: Crack Detective
 opubdate: Mar. 1943
 opubissue: Vol. 3, No. 2
-pubdate: 
+pubdate: 2018-08-11 
 category: novelettes 
 genre: Amateur Sleuth
 description: "Mr. Bingler was on the spot, for here was a case not covered by the situations described in his handy little instruction booklet for Home Detectives. But the little man's courage held out, even when he found himself lying next to a murdered man, with his own sword-umbrella sticking out of the corpse as sure-fire evidence!"

@@ -11,6 +11,7 @@ date: 2017-07-29
 opub: Black Mask
 opubdate: Aug. 1922
 opubissue: Vol. 5, No. 5
+pubdate: 2018-08-11
 price: 2.99
 category: novelettes 
 description: "The story about the execution of Stuart Dennison shook Irma as she recalled her old life back in New York. Before she was Irma Martin. When she was Mrs. Stuart Dennison."

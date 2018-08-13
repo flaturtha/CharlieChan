@@ -11,7 +11,7 @@ price: 2.99
 opub: 15 Story Detective
 opubdate: Aug. 1950
 opubissue: Vol. 3, No. 2
-pubdate: 
+pubdate: 2018-08-11 
 category: novelettes 
 genre: Hardboiled PI
 description: "Hardboiled Lee Fiske was soft as a three-minute egg over the former football hero's embraceable wife-which made Lee Fiske the sheriff's first choice to fry!"

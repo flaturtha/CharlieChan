@@ -9,7 +9,8 @@ price: 2.99
 opub: Smashing Detective
 opubdate: Sep. 1951
 opubissue: Vol. 1, No. 3
-pubdate: 2016-11-15
+pubdate: 
+my-original-pub-date: 2016-11-15
 category: novelettes 
 genre: hardboiled PI
 descriptive: 
