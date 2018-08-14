@@ -7,6 +7,7 @@ date: 2018-05-10
 opub: FBI Detective Stories
 opubdate: Oct. 1950
 opubissue: Vol. 3, No. 3
+pubdate: 2018-08-13
 category: novelettes
 price: 2.99
 description: "It had to be one of Paul&#39;s two lovely sisters-in-law who&#39;d known the old man was coming … and baked a cake."

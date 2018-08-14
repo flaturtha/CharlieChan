@@ -11,7 +11,7 @@ discount: 33%
 opub: Dixon Hawke Library
 opubdate: December 14, 1940
 opubissue: No. 549
-pubdate: 
+pubdate: 2018-08-14 
 my-original-pub-date: 2016-11-15
 category: novelettes
 genre: Professional Sleuth

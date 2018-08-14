@@ -11,7 +11,7 @@ price: 2.99
 opub: Black Mask
 opubdate: Aug. 1920
 opubissue: Vol. 1, No. 5
-pubdate: 
+pubdate: 2018-08-13 
 category: novelettes 
 genre: Amateur Sleuth 
 description: "Willoughby is jealous of his wife's relationship with the new gardener. But who is the mysterious man and how does a faithful wife's relationship with him lead to murder?"

@@ -12,7 +12,7 @@ price: 2.99
 opub: Real Detective Tales 
 opubdate: June/July 1927
 opubissue: Vol. II, No. 2
-pubdate: 
+pubdate: 2018-08-13 
 category: novelettes 
 genre: Kidnapping 
 description: "A Story of Crafty Rogues, a Keen-witted Girl, a Wily Millionaire --- and Red Gold and Ransom: When kidnappers abduct a noted millionaire, shrewder than all of them, and try to bleed him for $300,000, what happens? This story answers the question --- and the answer fairly takes your breath away!"

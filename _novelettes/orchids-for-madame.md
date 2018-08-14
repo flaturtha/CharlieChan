@@ -10,8 +10,8 @@ author: Greta Bordet
 price: 2.99
 opub: Crack Detective 
 opubdate: Mar. 1943
-opubissue:
-pubdate: 
+opubissue: Vol. 4, No. 2
+pubdate: 2018-08-14
 category: novelettes 
 genre: Espionage 
 description: "All Art did was try to pick up this beautiful blondie, and whiz-bang, we get more trouble than I ever seen in my whole life!"

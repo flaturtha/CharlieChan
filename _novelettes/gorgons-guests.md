@@ -1,5 +1,50 @@
+---
+layout: novelettes
+casefileNumber: 
+title: "The Gorgon's Guests"
+author: John H. Knox
+author_data: "Author of &quot;Death Walks Softly&quot; &quot;The Devil&#39;s Lottery,&quot; etc."
+pubdate:
+opub: Thrilling Mystery
+opubdate: Mar. 1942
+opubissue: Vol. 18 No. 2
+price: 2.99
+category: novelettes
+description: "Evil are the cavernous haunts wherein wandering men are transformed from mortal flesh into lifeless stone!"
+image: /assets/img/novelettes/gorgons-guests.jpg
+caption: "Pale growths of obscene toadstools sprouted from the ooze."
+fb-image: /assets/img/novelettes/gorgons-guests_fb.jpg
+tease: "A WWII era 'supernatural' espionage thriller!"
+imgh: 450px
+genre: Espionage
+tags: 
+wordcount: 6317
+trfissue: Vol. 9 No. 34
+trfdate: Apr. 18, 2018
+---
 
-# [1]{.chapternumber} [The Husband of a Lady Newshawk]{.chaptertitle}
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+	
+	<ol>
+		<li class="bloodred">The Husband of a Lady Newshawk</li>
+		<li class="bloodred">Country of the Gorgons</li>
+		<li class="bloodred">Crazy Theories</li>
+		<li class="bloodred">The Cold Rigidity of Her Limbs</li>
+		<li class="bloodred">Based On Something Real</li>
+		<li class="bloodred">The Cave</li>
+		<li class="bloodred">The Hissing and the Geranium Smell</li>
+		<li class="bloodred">A Bead On Him</li>
+	</ol>
+</div> <!-- table-of-contents -->
+
+### Chapter 1
+{: .chapternumber .no_toc}
+
+### The Husband of a Lady Newshawk
+{: .chaptertitle}
 
 When you&#39;re the husband of a lady newshawk, you&#39;ve got to take things as they come.
 
@@ -35,4 +80,4 @@ My comment was that there had been nothing there in the first place. Verda seeme
 
 We had been climbing steadily, our footfalls muffled by the leaf mould, and had come into a region where tortured junipers and aspens broke the uniformity of pines. Beyond this a bald meadow was visible, and above it in the rocky hillside, the mouth of a cave, half hidden by thickets.
 
-<hr class="chapter-break" />
+<p id="theend">~ End of Sample ~</p>

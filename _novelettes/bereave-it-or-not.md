@@ -8,10 +8,10 @@ edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/bereave-it-or-not.epu
 title: "Bereave It, Or Not"
 author: Thorne Lee
 price: 2.99
-opub:
-opubdate:
-opubissue: 
-pubdate: 
+opub: Ten Detective Aces
+opubdate: Nov. 1945
+opubissue: Vol. 11, No. 4
+pubdate: 2018-08-13 
 category: novelettes 
 genre: Amateur Sleuth 
 description: "The most thankless task of Detective Daventry's career was the case of the mystified murderer. For because his victim was unknown and unmourned, the only gratitude due to Daventry would be a pat on the back from the Grim Reaper."
@@ -26,14 +26,11 @@ wordcount: 9216
 	</header>
 	
 	<ol>
-		<li class="bloodred">The Gardner</li>
-		<li class="bloodred">The Body of A Man, Unquestionably Dead</li>
-		<li class="bloodred">It Is Murder</li>
-		<li class="bloodred">No Indication of Foul Play</li>
-		<li class="bloodred">Mr. Allering</li>
-		<li class="bloodred">The Dead Man Took A Drink</li>
-		<li class="bloodred">No. 9672</li>
-		<li class="bloodred">The Fine Art of Poisoning</li>
+		<li class="bloodred">He Says He Killed A Man</li>
+		<li class="bloodred">A Subhuman Frenzy</li>
+		<li class="bloodred">He Was Following Me</li>
+		<li class="bloodred">Bloom Detective Agency</li>
+		<li class="bloodred">The Suicide of Dr. Runecker</li>
 	</ol>
 </div> <!-- table-of-contents -->
 

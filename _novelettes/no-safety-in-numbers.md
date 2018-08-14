@@ -8,7 +8,7 @@ date: 2018-07-05
 opub: Private Detective Stories
 opubdate: June 1944 
 opubissue: Vol. 15 No. 1
-pubdate:
+pubdate: 2018-08-14
 price: 2.99
 category: novelettes
 description: "Off in the country, cut off by the storm, Rose had heard the radio account of the hold-up and murder. And now she was sure that one of the men in her house was the killer. But which was it?"

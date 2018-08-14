@@ -9,6 +9,7 @@ date: 2017-06-16
 opub: Black Mask
 opubdate: Sept. 1920
 opubissue: Vol. 1, No. 6
+pubdate: 2018-08-13
 price: 2.99
 category: novelettes 
 description: "What is death, my dear inspectors? Who knows? No one but me. What is the human body? Only a prison in which the soul is confined &mdash; a piece of clay to be discarded at will. God kills when he wishes. Why not I? It suited my purpose to use the mortal form of Mrs. Winters, and I took it."

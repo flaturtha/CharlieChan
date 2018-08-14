@@ -13,6 +13,7 @@ date: 2018-02-16
 opub: Black Mask
 opubdate: Aug. 1920
 opubissue: Vol. 1, No. 5
+pubdate: 2018-08-13
 category: novelettes
 description: "Trying to escape the storm, Alan and his sister, Nell, seek shelter in the old abandoned house. But when they discover Judge MacPherson recently murdered, will they find the killer or death?"
 image: /assets/img/novelettes/abandoned-house.jpg

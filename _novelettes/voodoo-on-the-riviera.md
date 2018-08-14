@@ -7,9 +7,9 @@ title: "Voodoo On The Riviera"
 series: A Dixon Hawke Mystery
 price: 2.99
 opub: Dixon Hawke Library
-opubdate: 
-opubissue: DHL No. 4
-pubdate: 
+opubdate: May 31, 1941
+opubissue: No. 561 
+pubdate: 2018-08-14
 category: novelettes 
 genre: Professional Sleuth 
 description: "Up against the fearsome forces of Caribean voodoo, can Hawke and his assistant Tommy Burke defeat the forces of dark magic?"
