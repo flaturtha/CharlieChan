@@ -37,9 +37,6 @@ trfdate: August 12, 2018
 ### Spoken Like A True Bigot
 {: .chaptertitle}
 
-
-If you're gonna be a heel, Wilson figured, you might as well be well-heeled.
-
 Wilson had no idea of using force on Jordan. He was certain his gift of gab would do the trick. He climbed the porch and rang the bell, smiling faintly.
 
 Leslie Jordan opened the door, gazed at him in surprise for a moment, then invited him in. Wilson found himself in a clean, well-kept living room. The room was warm and Wilson felt the sweat break out on his forehead. He loosened his collar with a huge forefinger.
