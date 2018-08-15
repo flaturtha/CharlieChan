@@ -4468,3 +4468,9 @@ a {
   @media screen and (min-width: 48rem) {
     .showOnDesk {
       display: block; } }
+
+.fivestar {
+  word-spacing: 5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  color: #666; }
