@@ -5,7 +5,7 @@
     data-item-file-guid="{{ page.e-guid }}"
     data-item-name="{{ page.title }} (ePub edition)"
     data-item-price="{{ page.price }}"
-    data-item-url="{{ site.baseurl }}{{ page.url }}"
+    data-item-url="{{ site.url }}{{ page.url }}"
     data-item-max-quantity="1">
     BUY EPUB EDITION
   </button>
@@ -15,25 +15,13 @@
     data-item-file-guid="{{ page.k-guid }}"
     data-item-name="{{ page.title }} (Kindle edition)"
     data-item-price="{{ page.price }}"
-    data-item-url="{{ site.baseurl }}{{ page.url }}"
+    data-item-url="{{ site.url }}{{ page.url }}"
     data-item-max-quantity="1">
     BUY KINDLE EDITION
   </button>
 
 
   </div> <!-- end .book__buttons -->
-
-  <br>
-
-  {% if page.category != 'novelettes' %}
-    <!-- modal trigger for sample download form -->
-    <p class="modal-trigger"><a href="#openModal">Download Sample</a></p>
-    <div id="openModal" class="modalDialog">
-      <div><a href="#close" title="Close" class="close">X</a>
-        {% include samples-form.html %}
-      </div>
-    </div>
-  {% endif %}
 
   <br>
 

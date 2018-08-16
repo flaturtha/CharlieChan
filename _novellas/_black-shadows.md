@@ -5,11 +5,12 @@ e-guid: 9924b763-dd7b-47e3-a417-4ab04ba8daba
 k-guid: c468ebb7-df66-434a-a039-20594fe43117
 title: "Black Shadows"
 author: J. C. Kofoed
-price: 1.25
+price: 3.99 
 opub: The Black Mask
 opubdate: Sep. 1922
 opubissue: Vol. 1, No. 6
-pubdate: 2016-11-15
+original-pubdate: 2016-11-15
+pubdate: 
 category: novella
 genre: Professional Sleuth
 descriptive: "Murder: for Money or Revenge"

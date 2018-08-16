@@ -9,7 +9,7 @@ price: 3.99
 opub: Hooded Detective
 opubdate: January 1942
 opubissue: Vol. III, No. 2
-date: 2018-08-15
+pubdate: 2018-08-15
 category: novellas
 genre: Masked Hero 
 description: "Hunted by the police ... framed for robbery and murder by the Eye, master fiend and vicious ruler of the underworld ... loathed by Barbara Sutton the girl who loves him ... the BLACK HOOD had to face the blazing purgatory of this murder master's guns to win back Barbara's love and clear himself of the framed charges." 

@@ -54,14 +54,16 @@ layout: default2
         <div class="" style="border-top:1px solid #8b0000;border-bottom:1px solid #8b0000;padding:0.5rem 0;">
           <p class="italics">{{ page.description }}</p>
 
-        {% if page.category == 'novelettes' %}
           <div class="readsample">
             <a href="#sample"><p><span class="underline">Read Sample</span> &hellip;</p></a>
           </div>
-        {% endif %}
         </div>
 
-        {% include buybuttons.html %}
+        {% if page.pubdate %}
+          {% include buybuttons.html %}
+        {% else %}
+          <p style="border:1px solid #8b0000;margin: 1rem 0;padding:0 0.5rem;color:#8b0000;line-height: 1.5;"><span style="font-weight: bold;display: block;font-size:3rem;margin:0 auto;text-align:center;">COMING SOON</span></p>
+        {% endif %}
         
         <div class="luvit-guarantee small" style="margin-top: 1rem;">
           <p><span class="bold">LUV-IT GUARANTEE:</span> Either you'll love this book or you don't pay!<br>If you don't thoroughly love this book, just email support and I'll refund 100% of your money. Guaranteed!</p>
