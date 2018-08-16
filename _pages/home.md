@@ -18,6 +18,9 @@ category: home
 
    <!-- include optin6.html %} -->
 
+  <!-- NOVELETTES -->
+  {% include novelettes_detail.html %}
+
   <!-- SHORT STORIES -->
   {% include short-stories_detail.html %}
 
