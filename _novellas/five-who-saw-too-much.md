@@ -15,6 +15,7 @@ genre: Professional Sleuth
 description: "Five victims. Seemingly unconnected. Can Dixon Hawke uncover the truth behind the <em>\"Night of Terror\"</em>?" 
 tags: novella
 image: /assets/img/novellas/five-who-saw-too-much.png
+fb-image: /assets/img/novellas/five-who-saw-too-much_fb.jpg
 wordcount: 19055
 ---
 
