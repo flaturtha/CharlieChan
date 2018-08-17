@@ -4,7 +4,7 @@ casefileNumber:
 title: "The Gorgon's Guests"
 author: John H. Knox
 author_data: "Author of &quot;Death Walks Softly&quot; &quot;The Devil&#39;s Lottery,&quot; etc."
-pubdate:
+pubdate: 2018-08-09
 opub: Thrilling Mystery
 opubdate: Mar. 1942
 opubissue: Vol. 18 No. 2

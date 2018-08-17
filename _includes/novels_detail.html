@@ -6,7 +6,8 @@
     </header>
   
     <ul class="cards__small">
-    {% for novels in site.novels | limit:2 %}
+    {% assign datesort = site.novels | sort: 'pubdate' | reverse %}
+    {% for novels in datesort | limit:2 %}
 
       <li class="hp__card__small" {% if novels.genre %} id="{{ novels.genre | downcase }}"{% endif %}>
         

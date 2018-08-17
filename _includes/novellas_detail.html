@@ -5,7 +5,8 @@
     </header>
  
     <ul class="cards__small">
-    {% for novellas in site.novellas | limit: 3 %}
+    {% assign datesort = site.novellas | sort: 'pubdate' | reverse %}
+      {% for novellas in datesort | limit: 3 %}
 
       <li class="card__small" {% if novellas.genre %} id="{{ novellas.genre | downcase }}"{% endif %}>
         

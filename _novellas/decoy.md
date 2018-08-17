@@ -13,8 +13,7 @@ pubdate: 2016-11-15
 category: novellas
 genre: Espionage
 descriptive: "Murder: for Money or Revenge"
-description: "The door was flung open and the tall crook stormed into the room in which the gang
-were grouped. His finger shot out towards Rackway. “That man,” he snarled.” That man
+description: "The door was flung open and the tall crook stormed into the room in which the gang were grouped. His finger shot out towards Rackway. “That man,” he snarled.” That man
 is an impostor — a spy!”"
 tags: novella, spies, "Robert Murray"
 image: /assets/img/novellas/decoy.jpg

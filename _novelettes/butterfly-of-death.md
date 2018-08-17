@@ -1,3 +1,42 @@
+---
+layout: novelettes
+casefileNumber: 55ccf75fb3901011515aeeff 
+title: "Butterfly of Death"
+author: John H. Knox
+pubdate: 
+opub: Smashing Detective 
+opubdate: Sept. 1951
+opubissue: Vol. 1, No. 3
+price: 2.99
+category: novelettes
+description: "A queer kind of a chuckle hit my eardrum. “You’re Joe Delaney,” repeated the voice, and then it added, “So you think you can take my little Butterfly away from me and nothing will happen to you?”"
+image: /assets/img/novelettes/butterfly-of-death.jpg
+fb-image: /assets/img/novelettes/butterfly-of-death_fb.jpg
+tease: ""
+imgh: 450px
+genre: noir
+tags: 
+wordcount: 6045
+---
+
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+	
+	<ol>
+		<li class="bloodred">The Phone Call</li>
+		<li class="bloodred">A Beautiful Creature</li>
+		<li class="bloodred">The Proper Procedure</li>
+		<li class="bloodred">The Same Voice</li>
+		<li class="bloodred">Drop Dead</li>
+		<li class="bloodred">The Mitone Recorder</li>
+		<li class="bloodred">Nursemaid</li>
+		<li class="bloodred">Butterfly</li>
+    <li class="bloodred">The Rat</li>
+    <li class="bloodred">Loyalty of a Good Man</li>
+	</ol>
+</div> <!-- table-of-contents -->
 
 ### Chapter 1
 {: .chapternumber .no_toc}
@@ -104,3 +143,4 @@ That was all. I knew the phone call couldn't be traced; the devil take
 the new dial phone. And the caller was probably using different pay
 stations.
 
+<p id="theend">~ End of Sample ~</p>
