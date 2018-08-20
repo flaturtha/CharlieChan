@@ -135,7 +135,7 @@ Hawke nodded. "That's right, my lad. Go along there now and see that none of the
 ### Chapter 3 
 {: .chapternumber .no_toc}
 
-### TThe Colonel's Shotgun
+### The Colonel's Shotgun
 {: .chaptertitle}
 
 Tommy went back down the passage, and while the Colonel was telephoning, he examined the cloakroom. It was a small room about ten feet square, with coat-hooks round three walls and a handbasin in the fourth. It had no window.
