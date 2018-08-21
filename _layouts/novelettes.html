@@ -30,7 +30,7 @@ layout: default2
         <p class="authorData">{{ page.authorData }}</p>
       {% endif %}
 
-      <h3 class="book__price">${{ page.price }}</h3>
+      <h3 class="book__price"><span class="strikethru">${{ page.price }}</span> &hellip; <span style="background-color:yellow;color:#8b0000;margin:0.5rem;padding:0.5rem;">FREE</span></h3>
       <br>
       <p class="metadata">
         <!-- <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span> -->
