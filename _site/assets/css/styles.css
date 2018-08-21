@@ -2021,6 +2021,14 @@ ol ol li:last-child {
     .add-to-cart_sub:hover a {
       color: #0054a6; }
 
+.greyed-out {
+  border: 1px solid #666670;
+  text-align: center;
+  background-color: #666;
+  color: #888;
+  -webkit-box-shadow: none;
+          box-shadow: none; }
+
 .zip-instructions {
   border: 1px solid #008b00;
   font-size: 0.8125rem;

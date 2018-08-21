@@ -69,7 +69,9 @@ collections:
   email-archives:
     output: true
     permalink: /email-archives/:path/
-
+  serials:
+    output: true
+    permalink: /:path/:path/
 
 
 # paginate: 12
