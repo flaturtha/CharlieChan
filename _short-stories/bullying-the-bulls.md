@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 
 title: "Bulling the Bulls"
 author: Walter Scott Story 
-date: 2018-08-23
+date: 2018-08-22
 opub: The Black Mask 
 opubdate: Sept. 1920 
 opubissue: Vol. 1, No. 6
