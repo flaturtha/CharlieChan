@@ -7,18 +7,9 @@ category: site-policies
 description:
 ---
 
-<div class="{{ page.title }}">
-
-  <header class="pagehead">
-     <section class="pagetitle">
-      
-      <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
-
-    </section> <!-- end div.pagetitle --> 
-    
-    {% include smallnav.html %}
-    
-  </header>
+<div class="{{ page.title }}" style="min-height:100vh;">
+  
+  {% include smallnav.html %} 
 
   <div class="cf"></div>
 

@@ -141,7 +141,7 @@
     <!-- END OG -->
   <!-- end JSON-LD/SEO stuff -->
 
-  <link rel="sitemap" type="application/xml" href="https://www.talesofmurder.com/sitemap.xml">
+  <!--  <link rel="sitemap" type="application/xml" href="https://www.talesofmurder.com/sitemap.xml"> -->
 
   <!-- site icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -179,9 +179,19 @@
     <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=EOOGo1IWhe10em" style="display:none" height="1" width="1" alt="" /></noscript>
     <!-- End Alexa Certify Javascript --> 
 
-    <!-- MockingFish -->
-    <script src="//control.mockingfish.com/js/013545.js"></script>
-    <!-- End MockingFish -->
+    <!-- SNIPCART updated to LIVE server on 12.27.17 @ 10:30 a.m. -->
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+     <!--<script type="text/javascript" src="https://cdn.snipcart.com/scripts/snipcart.js" id="snipcart"
+      data-api-key="MzBjYTY2ZDgtZGZmZC00MWE0LWFjZmYtMmMwN2JiZTQ4Zjkz"></script>
+
+    <link type="text/css" href="https://cdn.snipcart.com/themes/base/snipcart.min.css" rel="stylesheet" />
+    End SNIPCART -->
+
+    <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="MzBjYTY2ZDgtZGZmZC00MWE0LWFjZmYtMmMwN2JiZTQ4Zjkz" id="snipcart"></script>
+
+    <link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
+    
 
 </head>
 
@@ -250,15 +260,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <nav class="nav" role="navigation">
 
-  <div class="social-nav hidden">
+  <div class="social-nav hidden" style="display:flex;flex-direction:column;justify-content:space-around;">
     <h2 class="hidden">Social Media Submenu</h2>
-    <ul>
-      <!-- <li class="submenu__search"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li> -->
+
+    <a href="#" class="snipcart-user-profile" style="background-color:#8b0000;color:#fffff0;padding:4px 6px;margin-bottom:12px;"><span class="snipcart-user-email"><i class="fa fa-user"></i> Login/Register</span></a>
+    <div style="align-self:center">
+      <a href="#" class="snipcart-edit-profile small" style="color:#fffff0;">Edit Profile&nbsp;|</a>
+      <a href="#" class="snipcart-user-logout small" style="color:#fffff0;">&nbsp;Logout</a>
+    </div>
+    <br>
+
+    <!-- <ul>
+      <li class="submenu__search"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li> 
       <li class="submenu__facebook"><a href=""><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
       <li class="submenu__twitter"><a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
       <li class="submenu__rss"><a href="http://feeds.feedburner.com/TalesOfMurder" rel="alternate" type="application/rss+xml"><i class="fa fa-rss-square" aria-hidden="true"></i></a></li>
       <li class="submenu__slack"><a href=""><i class="fa fa-slack" aria-hidden="true"></i></a></li>
-    </ul>
+    </ul>-->
   </div>
 
   <div class="main-nav">
@@ -272,6 +290,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <li><a  href="/start-here"/><span class="bg-start-here">Start Here</span></a></li>
       <li><a  class="active"  href="/murderwiki/"><span>MurderWiki</span></a></li>
       <li><a  href="/short-stories/"><span>Short Stories</span></a></li>
+      <li><a  href="/novelettes/"><span>Novelettes</span></a></li> 
       <li><a  href="/novellas/"><span>Novellas</span></a></li>
       <li><a  href="/novels/"><span>Novels</span></a></li>
       <!-- <li><a  href="/armchair-detectives-bureau/"><span>A.D.B.</span></a></li> -->
@@ -284,15 +303,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </nav> <!-- end nav.nav -->
 
-	
-  
+  <!-- nav2 floats above since its stick so everything below it in the html starts at the top of the screen! -->
 
-  <!-- include dateline.html -->
+  <div class="siteintro hideonmobile">
+	<div class="siteintro_top">
+		<img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
+	</div>
+	<!-- <div class="siteintro_bottom">
+			<p><span class="whitebar"><a href="/novels/">NOVELS</a> &middot; <a href="/novellas/">NOVELLAS</a> &middot; <a href="/short-stories/">SHORT&nbsp;STORIES&nbsp;</a>&middot; <a href="/murderwiki/">MURDERWIKI</a>&nbsp;&middot;<a href="/armchair-detectives-bureau/">&nbsp;ARMCHAIR&nbsp;DETECTIVES&nbsp;BUREAU</a></span></p>
+	</div> -->
+
+</div>
 
 </header>
 
   <main class="main wrap">
-    <section class="smallnav">
+    <section class="smallnav marginonmobile">
   
     <section class="breadcrumbs">
 
@@ -332,15 +358,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- SEARCH -->
   <!-- <div style="margin-top:1rem;font-size:0.75rem;color:#8b0000;font-weight:bold;border-bottom:1px solid #8b0000;">SEARCH <i class="fa fa-search"></i></div> -->
 
+	<!-- include sc-login.html %} -->
+
+
+
   <div class="showcart" id="showcart">
-    <script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
-    <a href="https://transactions.sendowl.com/cart?merchant_id=32054" rel="nofollow"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
-    <script>sendOwl.cartWidget({merchantID: 32054,
-                                cartPhrase: "Cart: ",
-                                parent: document.getElementById("showcart"),
-                                useCartImage: false,
-                                customStyle: true
-    });</script>
+	<a href="#" class="snipcart-checkout"><i class="fa fa-shopping-cart" aria-hidden="true"></i><span style="font-size:12px;font-weight:bold;text-transform:uppercase;">Cart</span></a>
+	<div class="snipcart-summary"  style="font-size:12px;font-weight:bold;text-transform:uppercase;margin-top:4px;"> (<span class="snipcart-total-items bloodred"></span>)&nbsp;<span class="snipcart-total-price bloodred"></span></div>
 </div>
 
 </section>
@@ -585,9 +609,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <footer class="site__footer" id="site__footer">
   <div class="container">
-    <small><span class="rwd-line">Copyright 2014 &mdash; 2017 <a href="/about/" style="color:#fffff0;text-decoration:underline;">Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC.</a> </span>All&nbsp;Rights&nbsp;Reserved.</small>
+    <small><span class="rwd-line">Copyright 2014 &mdash; 2018 <a href="/about/" style="color:#fffff0;text-decoration:underline;">Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC.</a> </span>All&nbsp;Rights&nbsp;Reserved.</small>
     <!-- <br> -->
-    <small class="site-policies__link"><a href="/privacy/">Privacy Policy</a></small>
+    <small class="site-policies__link"><a href="/policies/privacy/">Privacy Policy</a></small>
   </div>
 </footer>
 
@@ -597,7 +621,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!--load jQuery, required-->
 <!-- <script src="/assets/vendor/js/jquery-3.1.1.slim.min.js"></script> -->
 
-<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script>
+<!-- <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script> -->
 
 <!-- TYPEKIT -->
 <script src="//use.typekit.net/gwl0zuj.js"></script>
@@ -712,54 +736,7 @@ function myFunction() {
 
 
 
-<!-- sets story data (title, author, etc.) to localStorage/sessionStorage for use on download page -->
-<!-- <script>
 
-$(document).ready(function() {
-
-  $("#button__postdownload").click(function() {
-    console.log("button__postdownload clicked");
-    var url; // should be available throughout click function
-
-    init()
-    function init() {
-      if (!store.enabled) {
-        var url = "/downloads/your-free-download/"; //GENERIC DOWNLOAD PAGE
-        alert('Local storage is not supported by your browswer. Please disable "Private Mode", or upgrade your browser.')
-      return
-      } // end of if !store.enabled
-
-      var url = "/downloads/your-free-download/";
-      var metaArray = ["Final Advices", "Carolyn Wells", "The Techniques of the Mystery", "/assets/img/murderwiki/Edgar_Allan_Poe_-_Stella_Daguerreotype%2C_1849.jpg", ""It is certain that no transports of literary creation will pay the coal bill or settle an account at the grocer's. Necessity knows no law, and a man may be forced to drudgery with the pen as with the pickaxe. To him, however, who is willing and able to sacrifice material to intellectual ends, what I have said is of actual and practical application."", "", "", ""];
-
-      // ARRAY KEY
-      // [0] = title
-      // [1] = author
-      // [2] = genre
-      // [3] = image
-      // [4] = excerpt
-      // [5] = kindle url
-      // [6] = epub url
-      // [7] = pdf url
-
-      store.set('storyMeta', JSON.stringify(metaArray));
-
-      console.log(metaArray);
-    } // end of function init()
-
-    if (store.get('registered')) {
-      console.log("registered user!");
-      console.log(url);
-
-      var emailaddress = store.get('emailaddress');
-      console.log(emailaddress);
-      $('#mce-EMAIL').val(emailaddress);
-      // $(location).attr('href', url);  sends past modal to download page .. not currently working due to val = url issue!
-    } // end if
-
-  }); // end of click function
-});
-</script> -->
 
 <!-- Due to a screw up on my part when I mistyped "corpse" as "corse" in the URL of Start With A Corpse when redirecting from FB, I had to set up a redirect that would automatically take anyone who clicked the post in FB to the correct page. I had to hide the start-with-a-corse story from the short stories TOC. Hence this (probably BAD) code. -->
 <script>

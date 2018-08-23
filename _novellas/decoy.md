@@ -1,6 +1,8 @@
 ---
 layout: books
 casefileNumber: 55ccf75fb3901011515af012
+e-guid: 38243105-71da-4e32-b21f-7bd1a20b0380
+k-guid: 45794153-91fe-4437-a842-3f26c680d1f0
 title: "The Decoy"
 author: Robert Murray
 price: 2.99
@@ -11,14 +13,14 @@ pubdate: 2016-11-15
 category: novellas
 genre: Espionage
 descriptive: "Murder: for Money or Revenge"
-description: "The door was flung open and the tall crook stormed into the room in which the gang
-were grouped. His finger shot out towards Rackway. “That man,” he snarled.” That man
+description: "The door was flung open and the tall crook stormed into the room in which the gang were grouped. His finger shot out towards Rackway. “That man,” he snarled.” That man
 is an impostor — a spy!”"
 tags: novella, spies, "Robert Murray"
 image: /assets/img/novellas/decoy.jpg
 wordcount: 28754
 buybutton: 
-downloadsamplebutton: 
+k-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Decoy_sample.mobi
+e-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Decoy_sample.epub 
 ---
 
 ### Chapter 1

@@ -141,7 +141,7 @@
     <!-- END OG -->
   <!-- end JSON-LD/SEO stuff -->
 
-  <link rel="sitemap" type="application/xml" href="https://www.talesofmurder.com/sitemap.xml">
+  <!--  <link rel="sitemap" type="application/xml" href="https://www.talesofmurder.com/sitemap.xml"> -->
 
   <!-- site icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -179,9 +179,19 @@
     <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=EOOGo1IWhe10em" style="display:none" height="1" width="1" alt="" /></noscript>
     <!-- End Alexa Certify Javascript --> 
 
-    <!-- MockingFish -->
-    <script src="//control.mockingfish.com/js/013545.js"></script>
-    <!-- End MockingFish -->
+    <!-- SNIPCART updated to LIVE server on 12.27.17 @ 10:30 a.m. -->
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+     <!--<script type="text/javascript" src="https://cdn.snipcart.com/scripts/snipcart.js" id="snipcart"
+      data-api-key="MzBjYTY2ZDgtZGZmZC00MWE0LWFjZmYtMmMwN2JiZTQ4Zjkz"></script>
+
+    <link type="text/css" href="https://cdn.snipcart.com/themes/base/snipcart.min.css" rel="stylesheet" />
+    End SNIPCART -->
+
+    <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="MzBjYTY2ZDgtZGZmZC00MWE0LWFjZmYtMmMwN2JiZTQ4Zjkz" id="snipcart"></script>
+
+    <link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
+    
 
 </head>
 
@@ -250,15 +260,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <nav class="nav" role="navigation">
 
-  <div class="social-nav hidden">
+  <div class="social-nav hidden" style="display:flex;flex-direction:column;justify-content:space-around;">
     <h2 class="hidden">Social Media Submenu</h2>
-    <ul>
-      <!-- <li class="submenu__search"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li> -->
+
+    <a href="#" class="snipcart-user-profile" style="background-color:#8b0000;color:#fffff0;padding:4px 6px;margin-bottom:12px;"><span class="snipcart-user-email"><i class="fa fa-user"></i> Login/Register</span></a>
+    <div style="align-self:center">
+      <a href="#" class="snipcart-edit-profile small" style="color:#fffff0;">Edit Profile&nbsp;|</a>
+      <a href="#" class="snipcart-user-logout small" style="color:#fffff0;">&nbsp;Logout</a>
+    </div>
+    <br>
+
+    <!-- <ul>
+      <li class="submenu__search"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li> 
       <li class="submenu__facebook"><a href=""><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
       <li class="submenu__twitter"><a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
       <li class="submenu__rss"><a href="http://feeds.feedburner.com/TalesOfMurder" rel="alternate" type="application/rss+xml"><i class="fa fa-rss-square" aria-hidden="true"></i></a></li>
       <li class="submenu__slack"><a href=""><i class="fa fa-slack" aria-hidden="true"></i></a></li>
-    </ul>
+    </ul>-->
   </div>
 
   <div class="main-nav">
@@ -272,6 +290,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <li><a  href="/start-here"/><span class="bg-start-here">Start Here</span></a></li>
       <li><a  href="/murderwiki/"><span>MurderWiki</span></a></li>
       <li><a  href="/short-stories/"><span>Short Stories</span></a></li>
+      <li><a  href="/novelettes/"><span>Novelettes</span></a></li> 
       <li><a  href="/novellas/"><span>Novellas</span></a></li>
       <li><a  class="active"  href="/novels/"><span>Novels</span></a></li>
       <!-- <li><a  href="/armchair-detectives-bureau/"><span>A.D.B.</span></a></li> -->
@@ -284,28 +303,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </nav> <!-- end nav.nav -->
 
-	
-  
+  <!-- nav2 floats above since its stick so everything below it in the html starts at the top of the screen! -->
 
-  <!-- include dateline.html -->
+  <div class="siteintro hideonmobile">
+	<div class="siteintro_top">
+		<img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
+	</div>
+	<!-- <div class="siteintro_bottom">
+			<p><span class="whitebar"><a href="/novels/">NOVELS</a> &middot; <a href="/novellas/">NOVELLAS</a> &middot; <a href="/short-stories/">SHORT&nbsp;STORIES&nbsp;</a>&middot; <a href="/murderwiki/">MURDERWIKI</a>&nbsp;&middot;<a href="/armchair-detectives-bureau/">&nbsp;ARMCHAIR&nbsp;DETECTIVES&nbsp;BUREAU</a></span></p>
+	</div> -->
+
+</div>
 
 </header>
 
   <main class="main wrap">
     <div class="Novels">
-
-  <header class="pagehead">
-     <section class="pagetitle">
-      
-      <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!" />
-
-      <h1><span>Novels</span></h1>
-      <h2 style="font-size:0.875rem;background-color:#fffff0;padding:0.25rem;width:600px;max-width:90%;margin:0 auto 1rem;border-radius: 4px;text-align:center;color:#8b0000;">Perfect for that trip to the beach or curling up on the couch: murder mystery and crime novels. Buy one now and read wherever you are!</h2>
-      <!-- <p><span >For a long weekend or day at the beach!</span></p> -->
-      <!-- <p style="text-align: center;font-size: 1rem;">For a long weekend or day at the beach!</p> -->
-    </section> <!-- end div.pagetitle --> 
     
-    <section class="smallnav">
+  <section class="smallnav marginonmobile">
   
     <section class="breadcrumbs">
 
@@ -337,44 +352,106 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- SEARCH -->
   <!-- <div style="margin-top:1rem;font-size:0.75rem;color:#8b0000;font-weight:bold;border-bottom:1px solid #8b0000;">SEARCH <i class="fa fa-search"></i></div> -->
 
+	<!-- include sc-login.html %} -->
+
+
+
   <div class="showcart" id="showcart">
-    <script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js"></script>
-    <a href="https://transactions.sendowl.com/cart?merchant_id=32054" rel="nofollow"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
-    <script>sendOwl.cartWidget({merchantID: 32054,
-                                cartPhrase: "Cart: ",
-                                parent: document.getElementById("showcart"),
-                                useCartImage: false,
-                                customStyle: true
-    });</script>
+	<a href="#" class="snipcart-checkout"><i class="fa fa-shopping-cart" aria-hidden="true"></i><span style="font-size:12px;font-weight:bold;text-transform:uppercase;">Cart</span></a>
+	<div class="snipcart-summary" style="font-size:12px;font-weight:bold;text-transform:uppercase;margin-top:4px;"> (<span class="snipcart-total-items bloodred"></span>)&nbsp;<span class="snipcart-total-price bloodred"></span></div>
 </div>
 
 </section>
-    
-  </header>
-
-  <div class="cf"></div>
 
   <section class="card__container wrap">
 
     <ul class="cards__small">
 
 
-  <li class="card__small" id="hardboiled pi">
+  
+
+  <li class="card__small" id="professional sleuth">
     
-    <a href="/novels/and-sudden-death/" class="readmore">
-      <img src="/assets/img/novels/andsuddendeath.jpg" alt="And Sudden Death by Cleve F. Adams" /></a>
+    <a href="/novels/spruce-street-tragedy/" class="readmore">
+      <img src="/assets/img/novels/spruce-street-tragedy.jpg" alt="The Spruce Street Tragedy by the author of OLD SPICER" /></a>
     <div class="card__small__header">
       <div>
-        <h2 class="title">And Sudden Death</h2>
-        <h3 class="author"><span>by</span> Cleve F. Adams</h3>
+        <h2 class="title">The Spruce Street Tragedy</h2>
+        <h3 class="author"><span>by</span> the author of OLD SPICER</h3>
       </div>
       <div class="price">
         <p>$4.99</p>
       </div>
     </div>
-    <p class="excerpt">Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him &hellip; ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings &amp; Loan. <br /><br /> &mdash; First serialized as <strong>HOMICIDE HONOLULU BOUND</strong> in 1939.</p>
+    <p class="excerpt">In which Old Spicer is pitted against the underbelly of New England crime.</p>
     
-      <button class="buybutton"><a href="/novels/and-sudden-death/" style="color:#fffff0;">BUY</a></button>
+      <button class="buybutton"><a href="/novels/spruce-street-tragedy/" style="color:#fffff0;">More Info ...</a></button>
+    
+
+  </li>
+
+
+
+  <li class="card__small" id="professional sleuth">
+    
+    <a href="/novels/into-the-heart-of-australia/" class="readmore">
+      <img src="/assets/img/novels/into-the-heart-of-australia.jpg" alt="Into the Heart of Australia by the author of OLD BROADBRIM" /></a>
+    <div class="card__small__header">
+      <div>
+        <h2 class="title">Into the Heart of Australia</h2>
+        <h3 class="author"><span>by</span> the author of OLD BROADBRIM</h3>
+      </div>
+      <div class="price">
+        <p>$4.99</p>
+      </div>
+    </div>
+    <p class="excerpt">Old Broadbrim goes to the outback of Australia to keep his promise and track a killer.</p>
+    
+      <button class="buybutton"><a href="/novels/into-the-heart-of-australia/" style="color:#fffff0;">More Info ...</a></button>
+    
+
+  </li>
+
+
+
+  <li class="card__small" id="paranormal">
+    
+    <a href="/novels/back-from-the-dead/" class="readmore">
+      <img src="/assets/img/novels/back-from-the-dead.jpg" alt="Back from the Dead by Old Ironnerve, Jr." /></a>
+    <div class="card__small__header">
+      <div>
+        <h2 class="title">Back from the Dead</h2>
+        <h3 class="author"><span>by</span> Old Ironnerve, Jr.</h3>
+      </div>
+      <div class="price">
+        <p>$4.99</p>
+      </div>
+    </div>
+    <p class="excerpt">When master detective, Foster King, is called in to investigate peculiar events at the Central-Midland Bank, he finds more than simple embezzlement, he finds a mind capable of controlling others and forcing them to do his bidding. Can Old Ironnerve outwit this mysterious hypnotist and bring a murderer to justice?</p>
+    
+      <button class="buybutton"><a href="/novels/back-from-the-dead/" style="color:#fffff0;">More Info ...</a></button>
+    
+
+  </li>
+
+
+
+  <li class="card__small" id="legal">
+    
+    <a href="/novels/spider-lily/" class="readmore">
+      <img src="/assets/img/novels/spider-lily.jpg" alt="The Spider Lily by Bruno Fischer" /></a>
+    <div class="card__small__header">
+      <div>
+        <h2 class="title">The Spider Lily</h2>
+        <h3 class="author"><span>by</span> Bruno Fischer</h3>
+      </div>
+      <div class="price">
+        <p>$7.99</p>
+      </div>
+    </div>
+    <p class="excerpt">A World War II era murder mystery: Alec Linn steps off the train at home after two years in the Air Force, fighting the Japs in India, expecting to find his wife, Lily, waiting for him on the platform. But she wasn't there, and his family is unwilling to tell him where she is. Then Lily turns up dead and Alec is accused of her murder.</p>
+    
+      <button class="buybutton"><a href="/novels/spider-lily/" style="color:#fffff0;">More Info ...</a></button>
     
 
   </li>
@@ -396,29 +473,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
     <p class="excerpt">Sex was Junie's trademark, the wiggle, the tight black dress, the sultry voice. But now George Pringle, president of Micro Records, is dead &hellip; did Junie hit a sour note and kill the man who made her singing career?</p>
     
-      <button class="buybutton"><a href="/novels/blonde-in-black/" style="color:#fffff0;">BUY</a></button>
+      <button class="buybutton"><a href="/novels/blonde-in-black/" style="color:#fffff0;">More Info ...</a></button>
     
 
   </li>
 
 
 
-  <li class="card__small" id="legal">
+  <li class="card__small" id="hardboiled pi">
     
-    <a href="/novels/spider-lily/" class="readmore">
-      <img src="/assets/img/novels/spider-lily.jpg" alt="Spider Lily by Bruno Fischer" /></a>
+    <a href="/novels/and-sudden-death/" class="readmore">
+      <img src="/assets/img/novels/andsuddendeath.jpg" alt="And Sudden Death by Cleve F. Adams" /></a>
     <div class="card__small__header">
       <div>
-        <h2 class="title">Spider Lily</h2>
-        <h3 class="author"><span>by</span> Bruno Fischer</h3>
+        <h2 class="title">And Sudden Death</h2>
+        <h3 class="author"><span>by</span> Cleve F. Adams</h3>
       </div>
       <div class="price">
-        <p>$7.99</p>
+        <p>$4.99</p>
       </div>
     </div>
-    <p class="excerpt">A World War II era murder mystery: Alec Linn steps off the train at home after two years in the Air Force, fighting the Japs in India, expecting to find his wife, Lily, waiting for him on the platform. But she wasn't there, and his family is unwilling to tell him where she is. Then Lily turns up dead and Alec is accused of her murder.</p>
+    <p class="excerpt">Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him &hellip; ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings &amp; Loan. <br /><br /> &mdash; First serialized as <strong>HOMICIDE HONOLULU BOUND</strong> in 1939.</p>
     
-      <button class="buybutton"><a href="/novels/spider-lily/" style="color:#fffff0;">BUY</a></button>
+      <button class="buybutton"><a href="/novels/and-sudden-death/" style="color:#fffff0;">More Info ...</a></button>
     
 
   </li>
@@ -438,9 +515,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <footer class="site__footer" id="site__footer">
   <div class="container">
-    <small><span class="rwd-line">Copyright 2014 &mdash; 2017 <a href="/about/" style="color:#fffff0;text-decoration:underline;">Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC.</a> </span>All&nbsp;Rights&nbsp;Reserved.</small>
+    <small><span class="rwd-line">Copyright 2014 &mdash; 2018 <a href="/about/" style="color:#fffff0;text-decoration:underline;">Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC.</a> </span>All&nbsp;Rights&nbsp;Reserved.</small>
     <!-- <br> -->
-    <small class="site-policies__link"><a href="/privacy/">Privacy Policy</a></small>
+    <small class="site-policies__link"><a href="/policies/privacy/">Privacy Policy</a></small>
   </div>
 </footer>
 
@@ -450,7 +527,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!--load jQuery, required-->
 <!-- <script src="/assets/vendor/js/jquery-3.1.1.slim.min.js"></script> -->
 
-<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script>
+<!-- <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script> -->
 
 <!-- TYPEKIT -->
 <script src="//use.typekit.net/gwl0zuj.js"></script>
@@ -565,54 +642,7 @@ function myFunction() {
 
 
 
-<!-- sets story data (title, author, etc.) to localStorage/sessionStorage for use on download page -->
-<!-- <script>
 
-$(document).ready(function() {
-
-  $("#button__postdownload").click(function() {
-    console.log("button__postdownload clicked");
-    var url; // should be available throughout click function
-
-    init()
-    function init() {
-      if (!store.enabled) {
-        var url = "/downloads/your-free-download/"; //GENERIC DOWNLOAD PAGE
-        alert('Local storage is not supported by your browswer. Please disable "Private Mode", or upgrade your browser.')
-      return
-      } // end of if !store.enabled
-
-      var url = "/downloads/your-free-download/";
-      var metaArray = ["Novels", "", "", "", "", "", "", ""];
-
-      // ARRAY KEY
-      // [0] = title
-      // [1] = author
-      // [2] = genre
-      // [3] = image
-      // [4] = excerpt
-      // [5] = kindle url
-      // [6] = epub url
-      // [7] = pdf url
-
-      store.set('storyMeta', JSON.stringify(metaArray));
-
-      console.log(metaArray);
-    } // end of function init()
-
-    if (store.get('registered')) {
-      console.log("registered user!");
-      console.log(url);
-
-      var emailaddress = store.get('emailaddress');
-      console.log(emailaddress);
-      $('#mce-EMAIL').val(emailaddress);
-      // $(location).attr('href', url);  sends past modal to download page .. not currently working due to val = url issue!
-    } // end if
-
-  }); // end of click function
-});
-</script> -->
 
 <!-- Due to a screw up on my part when I mistyped "corpse" as "corse" in the URL of Start With A Corpse when redirecting from FB, I had to set up a redirect that would automatically take anyone who clicked the post in FB to the correct page. I had to hide the start-with-a-corse story from the short stories TOC. Hence this (probably BAD) code. -->
 <script>

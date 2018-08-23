@@ -1,14 +1,22 @@
 <nav class="nav" role="navigation">
 
-  <div class="social-nav hidden">
+  <div class="social-nav hidden" style="display:flex;flex-direction:column;justify-content:space-around;">
     <h2 class="hidden">Social Media Submenu</h2>
-    <ul>
-      <!-- <li class="submenu__search"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li> -->
+
+    <a href="#" class="snipcart-user-profile" style="background-color:#8b0000;color:#fffff0;padding:4px 6px;margin-bottom:12px;"><span class="snipcart-user-email"><i class="fa fa-user"></i> Login/Register</span></a>
+    <div style="align-self:center">
+      <a href="#" class="snipcart-edit-profile small" style="color:#fffff0;">Edit Profile&nbsp;|</a>
+      <a href="#" class="snipcart-user-logout small" style="color:#fffff0;">&nbsp;Logout</a>
+    </div>
+    <br>
+
+    <!-- <ul>
+      <li class="submenu__search"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li> 
       <li class="submenu__facebook"><a href=""><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
       <li class="submenu__twitter"><a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
       <li class="submenu__rss"><a href="http://feeds.feedburner.com/TalesOfMurder" rel="alternate" type="application/rss+xml"><i class="fa fa-rss-square" aria-hidden="true"></i></a></li>
       <li class="submenu__slack"><a href=""><i class="fa fa-slack" aria-hidden="true"></i></a></li>
-    </ul>
+    </ul>-->
   </div>
 
   <div class="main-nav">
@@ -22,6 +30,7 @@
       <li><a {% if page.category == 'start-here' %} class="active" {% endif %} href="/start-here"/><span class="bg-start-here">Start Here</span></a></li>
       <li><a {% if page.category == 'murderwiki' %} class="active" {% endif %} href="/murderwiki/"><span>MurderWiki</span></a></li>
       <li><a {% if page.category == 'short-stories' %} class="active" {% endif %} href="/short-stories/"><span>Short Stories</span></a></li>
+      <li><a {% if page.category == 'novelettes' %} class="active" {% endif %} href="/novelettes/"><span>Novelettes</span></a></li> 
       <li><a {% if page.category == 'novellas' %} class="active" {% endif %} href="/novellas/"><span>Novellas</span></a></li>
       <li><a {% if page.category == 'novels' %} class="active" {% endif %} href="/novels/"><span>Novels</span></a></li>
       <!-- <li><a {% if page.category == 'adb' %} class="active" {% endif %} href="/armchair-detectives-bureau/"><span>A.D.B.</span></a></li> -->

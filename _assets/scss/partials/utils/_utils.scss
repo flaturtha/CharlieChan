@@ -43,6 +43,10 @@ a {
   margin: 0 auto;
 }
 
+.onerem {
+  font-size: 1rem !important;
+}
+
 .small {
   font-size: 0.875rem !important;
 }
@@ -232,9 +236,23 @@ a {
   background-color: darken($paper, 5%);
 }
 
+.showOnMob {
+  @media screen and (min-width:48rem){
+    display: none;
+  }
+}
 
+.showOnDesk {
+  display: none;
+  @media screen and (min-width:48rem){
+    display: block;
+  }
+}
 
-
-
-
+.fivestar {
+  word-spacing: 5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  color: #666;
+}
 

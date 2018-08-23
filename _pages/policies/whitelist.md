@@ -7,38 +7,34 @@ category: site-policies
 description: 
 ---
 
-<header class="pagehead">
-  <section class="pagetitle">
-
-    <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
-
-  </section> <!-- end div.pagetitle --> 
-
 {% include smallnav.html %}
 
-</header>
-
-<section class="story">
-  <h1 class="bloodred uppercase center">Whitelisting Instructions</h1>
+<h1 class="bloodred uppercase center margin1r">Whitelisting Instructions</h1>
 <br>
-<h3 class="center">For AOL, Yahoo, Gmail, Hotmail, Outlook, Thunderbird, Apple Mail, Postini & More</h3>
+<h3 class="center">For AOL, Yahoo, Gmail, Hotmail, Outlook, Thunderbird,&nbsp;Apple&nbsp;Mail, Postini & More</h3>
 <br>
+<div style="width:600px;max-width: 95%;margin:0 auto;">
+	<p class="xlarge">To ensure that the email we send you ends up in your inbox, and isn't mistakenly sent to the junk folder, please whitelist my email address: atticus@talesofmurder.com.</p>
 
-To ensure that the email we send you ends up in your inbox, and isn't mistakenly sent to the junk folder, please whitelist my email address: atticus@talesofmurder.com.
+	<p>Below is information on how to whitelist me with AOL, Yahoo, Gmail, Hotmail, Outlook, Apple Mail, ThunderBird and Postini. Even if your ISP or email program is not listed, with these instructions you should be able to figure out how to whitelist our email address at any ISP or with any email program.</p>
 
-Below is information on how to whitelist me with AOL, Yahoo, Gmail, Hotmail, Outlook, Apple Mail, ThunderBird and Postini. Even if your ISP or email program is not listed, with these instructions you should be able to figure out how to whitelist our email address at any ISP or with any email program.
+	<p>Also, if you find email from atticus@talesofmurder.com in your spam or junk folder, please take that opportunity to tell your mail program that it is not spam by hitting the "not spam", "not junk" or similar button, as that will train your program to whitelist it.</p>
+</div>
 
-Also, if you find email from atticus@talesofmurder.com in your spam or junk folder, please take that opportunity to tell your mail program that it is not spam by hitting the "not spam", "not junk" or similar button, as that will train your program to whitelist it.
-
-<section id="toc" class="toc">
+<!-- <section id="toc" class="toc">
   <header>
     <h6>Table of Contents</h6>
   </header>
-  <div id="drawer" markdown="1">
-    1. Auto generated table of contents
-    {: .toc}
-  </div>
-</section> <!-- table-of-contents -->
+<div id="drawer" markdown="1">
+1. Auto generated table of contents
+{: .toc}
+</div>
+</section> --> <!-- table-of-contents -->
+
+<hr>
+
+### Section 1
+{: .chapternumber .no_toc}
 
 ### AOL
 {: .chaptertitle}
@@ -52,6 +48,9 @@ To add atticus@talesofmurder.com to your AOL address book:
 5. Paste atticus@talesofmurder.com into the ‘Other E-Mail’ field
 6. Make our "From" address, atticus@talesofmurder.com, the Primary E-Mail address by checking the appropriate box 
 7. Click "Save"
+
+### Section 2
+{: .chapternumber .no_toc}
 
 ### Yahoo!
 {: .chaptertitle}
@@ -70,6 +69,9 @@ Now to create the filter:
 7. Click the "Choose Folder" pull down menu and select 'Inbox'
 8. Pick the Add Filter button
 
+### Section 3
+{: .chapternumber .no_toc}
+
 ### Hotmail
 {: .chaptertitle}
 
@@ -83,6 +85,9 @@ To whitelist our address with Hotmail you will need to add atticus@talesofmurder
 6. Copy and paste atticus@talesofmurder.com where it says "Type an address or domain"
 7. Click the "Add" button
 
+### Section 4
+{: .chapternumber .no_toc}
+
 ### Gmail
 {: .chaptertitle}
 
@@ -90,13 +95,21 @@ To whitelist our address with Hotmail you will need to add atticus@talesofmurder
 2. Next, open an email that you have received from us
 3. Click on the little down-pointing-triangle-arrow next to "Reply":
 4. Click "Add Tales of Murder to Contacts list"
-Microsoft Outlook
+
+### Section 5
+{: .chapternumber .no_toc}
+
+### Microsoft Outlook
+{: .chaptertitle}
 
 1. On the Tools menu, click Options
 2. On the Preferences tab, click Junk E-mail
 3. On the Safe Senders tab, click Add
 4. Add atticus@talesofmurder.com where it says "Add address"
 5. Click OK
+
+### Section 6
+{: .chapternumber .no_toc}
 
 ### Thunderbird
 {: .chaptertitle}
@@ -113,6 +126,9 @@ To whitelist in Thunderbird, you will need to add atticus@talesofmurder.com to y
 8. Update the "White Lists" module under the "Settings" tab by selecting "Personal Address Book" from the drop down menu, and then check the box next to "Do not mark messages as junk mail"
 9. Click "Ok"
 
+### Section 7
+{: .chapternumber .no_toc}
+
 ### Apple Mail for OS X
 {: .chaptertitle}
 
@@ -126,6 +142,9 @@ Then:
 7. From the actions, select 'Move message' to mailbox 'Inbox'. 
 8. Click "OK"
 
+### Section 8
+{: .chapternumber .no_toc}
+
 ### Postini
 {: .chaptertitle}
 
@@ -136,4 +155,4 @@ You do not need to whitelist email from Tales of Murder in Postini unless you fi
 3. If you find email from atticus@talesofmurder.com in the Junk area, check the check box next to the email from atticus@talesofmurder.com
 4. Click the "Deliver Selected" link at the very top of the Junk screen 
 5. On the next screen, click the "Approve Sender" check box next to the email from atticus@talesofmurder.com
-6. Click the "Approve Selected Senders" button
+6. Click the "Approve Selected Senders" button.

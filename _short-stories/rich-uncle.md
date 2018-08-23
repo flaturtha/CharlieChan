@@ -1,12 +1,11 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 
+casefileNumber: 55ccf75fb3901011515aefce
 title: "The Case of the Rich Uncle"
 slug: "The Case of the Rich Uncle"
-author: 
 series: A Dixon Hawke Mystery
-date: 2018-09-27
+date: 2018-01-17
 opub: Dixon Hawke's Casebook
 opubdate: Spring 1940
 opubissue: No. 4
@@ -20,8 +19,8 @@ imgh: 237px
 genre: Professional Sleuth
 tag: short-story
 wordcount: 3273
-trfissue: Vol. 6 No. 20
-trfdate: Sep. 24, 2017
+trfissue: Vol. 8 No. 28
+trfdate: Jan. 14, 2018
 ---
 
 <section id="toc" class="toc">

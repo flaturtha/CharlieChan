@@ -1,10 +1,10 @@
 ---
 layout: short-stories
 layoutTag: premium_post
-casefileNumber: 
+casefileNumber: 55ccf75fb3901011515aef5d
 title: "The Failure"
 author: Harold Ward
-date: 2018-09-25
+date: 2018-01-15
 opub: Black Mask
 opubdate: Aug. 1922
 opubissue: Vol. 5, No. 5
@@ -18,8 +18,8 @@ imgh: 450px
 genre: Robbery
 tag: short-story
 wordcount: 1825
-trfissue: Vol. 6 No. 20
-trfdate: Sep. 24, 2017
+trfissue: Vol. 8 No. 28
+trfdate: Jan. 14, 2018
 ---
 
 <section id="toc" class="toc">

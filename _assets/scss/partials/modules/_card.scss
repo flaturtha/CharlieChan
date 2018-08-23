@@ -7,6 +7,12 @@ $border-radius: 5px;
 $ribbon-background: yellow;
 $ribbon-size: 85px;
 
+.card__container {
+	@media screen and (min-width:48rem){
+		margin-top: 2rem;
+	}
+}
+
 .cards {
 	// border: 3px solid green;
 	list-style: none;

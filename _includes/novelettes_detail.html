@@ -1,0 +1,38 @@
+  <section class="hp__novellas wrap">
+    <header>
+      <h2>NOVELETTES</h2>
+      <a class="hp__link" href="/novelettes">Browse <span class="bold">{{ site.novelettes | size }}</span> Novellas &raquo;</a>
+    </header>
+ 
+    <ul class="cards__small">
+    {% for novelettes in site.novelettes | limit: 6 %}
+
+      <li class="card__small" {% if novelettes.genre %} id="{{ novelettes.genre | downcase }}"{% endif %}>
+        
+        <a href="{{ novelettes.url }}" class="readmore">
+          <figure>
+            <img src="{{ novelettes.image }}" alt="{{ novelettes.title }} by {{ novelettes.author }}">
+          </figure>
+          <figcaption>
+            
+          </figcaption>
+        </a>
+        <div class="card__small__header">
+          <div>
+            <h2 class="title">{{ novelettes.title }}</h2>
+            <h3 class="author"><span>by</span> {{ novelettes.author }}</h3>
+          </div>
+          <div class="price">
+            <p class="strikethru">${{ novelettes.price }}</p>
+          </div>
+        </div>
+          <p class="excerpt">{{ novelettes.description }}</p>
+          <button class="buybutton"><a href="{{ novelettes.url }}" style="color:#fffff0;">FREE Download ...</a></button>
+
+      </li>
+
+    {% endfor %}
+
+    </ul>
+
+  </section>

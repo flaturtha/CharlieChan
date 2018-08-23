@@ -1,6 +1,8 @@
 ---
 layout: books
 casefileNumber: 55ccf75fb3901011515af01b
+e-guid: df820af4-aef1-42c4-b4bc-1dcc98655dea
+k-guid: f4b7f6d6-e3bb-4bbb-94fe-81529f335dab
 title: "Killers' Castle"
 author: George Dilnot
 price: 2.99
@@ -15,8 +17,8 @@ description: "Magda Stewart had asked for his help and now she was missing. Coul
 tags: novella, England, kidnapping
 image: /assets/img/novellas/killers-castle.jpg
 wordcount: 28377
-buybutton: 
-downloadsamplebutton: 
+k-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Killers-Castle_sample.mobi
+e-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Killers-Castle_sample.epub 
 ---
 ### Chapter 1
 {: .chapternumber }

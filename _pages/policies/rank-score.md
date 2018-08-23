@@ -7,16 +7,7 @@ category: site-policies
 description: 
 ---
 
-<header class="pagehead">
-  <section class="pagetitle">
-
-    <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
-
-  </section> <!-- end div.pagetitle --> 
-
 {% include smallnav.html %}
-
-</header>
 
 <section class="story">
   <h1 class="bloodred uppercase center">Rank Score</h1>

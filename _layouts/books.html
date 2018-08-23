@@ -2,18 +2,9 @@
 layout: default2
 ---
 
-<header class="pagehead">
-   <section class="pagetitle">
-    <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
-  </section> <!-- end div.pagetitle --> 
-  
-  {% include smallnav.html %}
-  
-</header>
-
 <article class="books">
 
-
+  {% include smallnav.html %}
 
   <header class="books__header">
     <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="book__img">
@@ -34,8 +25,16 @@ layout: default2
       <h1 class="books__title" style="margin-top:6rem;">{{ page.title }}</h1>
       {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
 
-      <h2 class="books__author">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
+      <!-- <h2 class="books__author">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2> -->
 
+
+      <h2 class="books__author" itemprop="name">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
+      {% if page.authorData %}
+        <p class="authorData">{{ page.authorData }}</p>
+      {% endif %}
+
+      <h3 class="book__price">${{ page.price }}</h3>
+      <br>
       <p class="metadata">
         <!-- <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span> -->
         <span class="etr">read time:
@@ -52,43 +51,52 @@ layout: default2
           </span>
         </p>
 
+        <div class="" style="border-top:1px solid #8b0000;border-bottom:1px solid #8b0000;padding:0.5rem 0;">
+          <p class="italics">{{ page.description }}</p>
 
+<<<<<<< HEAD
        <div class="">
 
           <p class="italics" style="border-top:1px solid #8b0000;border-bottom:1px solid #8b0000;padding:0.5rem 0;">{{ page.description }}</p>
+=======
+          <div class="readsample">
+            <a href="#sample"><p><span class="underline">Read Sample</span> &hellip;</p></a>
+          </div>
+        </div>
+>>>>>>> snipcart
 
-          {% if page.testimonials %}<p class="testimonials">{{ page.testimonials }}</p>{% endif %}
+        {% if page.pubdate %}
+          {% include buybuttons.html %}
+        {% else %}
+          <p style="border:1px solid #8b0000;margin: 1rem 0;padding:0 0.5rem;color:#8b0000;line-height: 1.5;"><span style="font-weight: bold;display: block;font-size:3rem;margin:0 auto;text-align:center;">COMING SOON</span></p>
+        {% endif %}
         
+<<<<<<< HEAD
           <div style="display:flex;flex-direction:row;justify-content:space-around;">
             <p class="book__price">${{ page.price }}</p>
             {% include fb-like-share.html %}
           </div>
+=======
+        <div class="luvit-guarantee small" style="margin-top: 1rem;">
+          <p><span class="bold">LUV-IT GUARANTEE:</span> Either you'll love this book or you don't pay!<br>If you don't thoroughly love this book, just email support and I'll refund 100% of your money. Guaranteed!</p>
+>>>>>>> snipcart
         </div>
 
-        <div class="book__buttons">
-          {% if page.buybutton %}
-            <a href="{{ page.buybutton }}" rel="nofollow" class="add-to-cart" id="add-to-cart">Add to Cart</a>
-            
-            <a href="{{ page.downloadsamplebutton }}" rel="nofollow" class="add-to-cart" id="get-sample">Get Sample</a>
-          {% else %}
-            <div style="border:1px solid #8b0000;margin-top:2rem;">
-              <p style="color:#8b0000;padding:1rem 1rem 0 1rem;">CURRENTLY UNAVAILABLE</p>
-            </div>
-          {% endif %}
-          
-        </div> <!-- end .book__buttons -->
-        <br>
-        {% if page.buybutton %}
-          <p class="smallnote">NOTE: Samples are added to your shopping cart with a $0.00 charge. If you only have samples are in your cart, you will <strong>NOT</strong> be required to provide a credit card; only an email address for delivery.</p>
-        {% endif %}
+        {% if page.testimonials %}<p class="testimonials">{{ page.testimonials }}</p>{% endif %}
 
-    </div>
+    </div> <!-- end div.book_details -->
 
 
   </header> <!-- end header.books__header -->
 
   <article class="books">
-    {{ content }}
+    <div id="sample" style="border: 1px solid #8b0000;background-color: #fffef0;box-shadow:5px 3px 2px 1px rgba(0, 0, 0, .2);padding: 0 1rem;">
+      <h3 class="center bloodred uppercase" style="margin:1rem;color:#8b0000;">~ FREE SAMPLE ~</h3>
+      {{ content }}
+    </div>
+
+
+    {% include buybuttons.html %}
   </article>
 
   <div class="book__meta" style="margin: 1rem;">

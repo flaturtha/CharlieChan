@@ -1,7 +1,9 @@
 ---
 layout: books
 casefileNumber: 5875381bfda8f27d5695e8eb
-title: "Spider Lily"
+e-guid: 1ce8f85c-069e-424d-a28e-d2dd9e7cefbc
+k-guid: f1cb2b41-3942-4470-8bed-e8034f3784b2
+title: "The Spider Lily"
 author: Bruno Fischer
 date: 2017-01-05
 price: 7.99
@@ -17,8 +19,8 @@ wordcount: 75013
 description: "A World War II era murder mystery: Alec Linn steps off the train at home after two years in the Air Force, fighting the Japs in India, expecting to find his wife, Lily, waiting for him on the platform. But she wasn't there, and his family is unwilling to tell him where she is. Then Lily turns up dead and Alec is accused of her murder."
 tease: "A troubled WWII vet returns home after fighting the Japanese in India to find himself accused of murdering his wife in a jealous rage. Buy this World War II eara murder mystery thriller today and follow Alec Linn as he struggles to defeat his demons, prove his innocence, and find who really killed his Lily."
 tags: novel
-buybutton: 
-downloadsamplebutton: 
+k-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Spider_Lily-sample.mobi
+e-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Spider_Lily-sample.epub
 ---
 
 ### Chapter 1

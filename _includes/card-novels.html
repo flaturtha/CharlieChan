@@ -1,5 +1,7 @@
 <ul class="cards__small">
-{% for novels in site.novels %}
+
+{% assign datesort = site.novels | sort: 'date' | reverse %}
+  {% for novels in datesort %}
 
   <li class="card__small" {% if novels.genre %} id="{{ novels.genre | downcase }}"{% endif %}>
     
@@ -19,7 +21,7 @@
       <p style="border:1px solid #8b0000;margin: 1rem 0;padding:0 0.5rem;color:#8b0000;line-height: 1.5;"><span style="font-weight: bold;display: block;">NOT YET RELEASED.</span> PRE-BUY TODAY &amp; GET 50% OFF! </p>
       <button class="buybutton"><a href="{{ novels.url }}" style="color:#fffff0;">PRE-BUY</a></button>
     {% else %}
-      <button class="buybutton"><a href="{{ novels.url }}" style="color:#fffff0;">BUY</a></button>
+      <button class="buybutton"><a href="{{ novels.url }}" style="color:#fffff0;">More Info ...</a></button>
     {% endif %}
 
   </li>

@@ -4,19 +4,21 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef91
 title: "Satan Hogs the Camera"
 author: Emil Petaja
-date: 2017-10-19
-opub: 
-opubdate: 
-opubissue: 
+date: 2018-02-08
+opub: Ten Detective Aces
+opubdate: Nov. 1945
+opubissue: Vol. 11, No. 4
 category: short-stories
 excerpt: "Jack Kelley doubled for the hero in Hollywood film fights. But when he undertook to stand in for the star in a real life-and- death scene, Kelley needed more than acting talent. For instead of cold celluloid, that outside drama was being shot in hot lead!"
-image: /assets/img/short-stories/satan-hogs-the-camera.svg
+image: /assets/img/short-stories/shtc.svg
+fb-image: /assets/img/short-stories/shtc_fb.jpg
+tease: "High drama on the set of a classic Hollywood movie &mdash; the perfect setting for murder! Read it today!"
 imgh: 300px
 genre: Amateur Sleuth
 tag: short-story
 wordcount: 4722
-trfissue: Vol. X No. 21
-trfdate: Oct. 08, 2017
+trfissue: Vol. 8 No. 29
+trfdate: Jan. 28, 2018
 kindle: 
 epub:
 ---

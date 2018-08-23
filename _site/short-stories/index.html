@@ -139,7 +139,7 @@
     <!-- END OG -->
   <!-- end JSON-LD/SEO stuff -->
 
-  <link rel="sitemap" type="application/xml" href="https://www.talesofmurder.com/sitemap.xml">
+  <!--  <link rel="sitemap" type="application/xml" href="https://www.talesofmurder.com/sitemap.xml"> -->
 
   <!-- site icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -177,9 +177,19 @@
     <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=EOOGo1IWhe10em" style="display:none" height="1" width="1" alt="" /></noscript>
     <!-- End Alexa Certify Javascript --> 
 
-    <!-- MockingFish -->
-    <script src="//control.mockingfish.com/js/013545.js"></script>
-    <!-- End MockingFish -->
+    <!-- SNIPCART updated to LIVE server on 12.27.17 @ 10:30 a.m. -->
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+     <!--<script type="text/javascript" src="https://cdn.snipcart.com/scripts/snipcart.js" id="snipcart"
+      data-api-key="MzBjYTY2ZDgtZGZmZC00MWE0LWFjZmYtMmMwN2JiZTQ4Zjkz"></script>
+
+    <link type="text/css" href="https://cdn.snipcart.com/themes/base/snipcart.min.css" rel="stylesheet" />
+    End SNIPCART -->
+
+    <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="MzBjYTY2ZDgtZGZmZC00MWE0LWFjZmYtMmMwN2JiZTQ4Zjkz" id="snipcart"></script>
+
+    <link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
+    
 
 </head>
 
@@ -248,15 +258,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <nav class="nav" role="navigation">
 
-  <div class="social-nav hidden">
+  <div class="social-nav hidden" style="display:flex;flex-direction:column;justify-content:space-around;">
     <h2 class="hidden">Social Media Submenu</h2>
-    <ul>
-      <!-- <li class="submenu__search"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li> -->
+
+    <a href="#" class="snipcart-user-profile" style="background-color:#8b0000;color:#fffff0;padding:4px 6px;margin-bottom:12px;"><span class="snipcart-user-email"><i class="fa fa-user"></i> Login/Register</span></a>
+    <div style="align-self:center">
+      <a href="#" class="snipcart-edit-profile small" style="color:#fffff0;">Edit Profile&nbsp;|</a>
+      <a href="#" class="snipcart-user-logout small" style="color:#fffff0;">&nbsp;Logout</a>
+    </div>
+    <br>
+
+    <!-- <ul>
+      <li class="submenu__search"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li> 
       <li class="submenu__facebook"><a href=""><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
       <li class="submenu__twitter"><a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
       <li class="submenu__rss"><a href="http://feeds.feedburner.com/TalesOfMurder" rel="alternate" type="application/rss+xml"><i class="fa fa-rss-square" aria-hidden="true"></i></a></li>
       <li class="submenu__slack"><a href=""><i class="fa fa-slack" aria-hidden="true"></i></a></li>
-    </ul>
+    </ul>-->
   </div>
 
   <div class="main-nav">
@@ -270,6 +288,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <li><a  href="/start-here"/><span class="bg-start-here">Start Here</span></a></li>
       <li><a  href="/murderwiki/"><span>MurderWiki</span></a></li>
       <li><a  class="active"  href="/short-stories/"><span>Short Stories</span></a></li>
+      <li><a  href="/novelettes/"><span>Novelettes</span></a></li> 
       <li><a  href="/novellas/"><span>Novellas</span></a></li>
       <li><a  href="/novels/"><span>Novels</span></a></li>
       <!-- <li><a  href="/armchair-detectives-bureau/"><span>A.D.B.</span></a></li> -->
@@ -282,33 +301,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </nav> <!-- end nav.nav -->
 
-	
-  
+  <!-- nav2 floats above since its stick so everything below it in the html starts at the top of the screen! -->
 
-  <!-- include dateline.html -->
+  <div class="siteintro hideonmobile">
+	<div class="siteintro_top">
+		<img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
+	</div>
+	<!-- <div class="siteintro_bottom">
+			<p><span class="whitebar"><a href="/novels/">NOVELS</a> &middot; <a href="/novellas/">NOVELLAS</a> &middot; <a href="/short-stories/">SHORT&nbsp;STORIES&nbsp;</a>&middot; <a href="/murderwiki/">MURDERWIKI</a>&nbsp;&middot;<a href="/armchair-detectives-bureau/">&nbsp;ARMCHAIR&nbsp;DETECTIVES&nbsp;BUREAU</a></span></p>
+	</div> -->
+
+</div>
 
 </header>
 
   <main class="main wrap">
     <div class="Short&nbsp;Stories">
-
-  <header class="pagehead">
-     <section class="pagetitle">
-      
-      <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!" />
-
-      <h1><span>Short&nbsp;Stories</span></h1>
-      <h2 style="font-size:0.875rem;background-color:#fffff0;padding:0.25rem;width:600px;max-width:90%;margin:0 auto 1rem;border-radius: 4px;text-align:center;color:#8b0000;">When you've got a few minutes to an hour to kill and&nbsp;need&nbsp;something&nbsp;to&nbsp;read:<br />SHORT&nbsp;STORIES that'll thrill! Read&nbsp;online&nbsp;or&nbsp;download&nbsp;FREE!</h2>
-      <!-- <div style="background-color:#fffff0;padding:0.25rem;width:300px;margin:0 auto 1rem;">
-        <p style="color:#8b0000;">All stories free.<br>Email sign up required to download &amp; read PREMIUM stories.</p>
-      </div> -->
-
-
-      <!-- <p><span >Find something good to read &hellip;</span></p> -->
-      <!-- <p style="text-align: center;font-size: 1rem;">For a long weekend or day at the beach!</p> -->
-    </section> <!-- end div.pagetitle --> 
-    
-    <section class="smallnav">
+  
+  <section class="smallnav marginonmobile">
   
     <section class="breadcrumbs">
 
@@ -340,22 +350,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- SEARCH -->
   <!-- <div style="margin-top:1rem;font-size:0.75rem;color:#8b0000;font-weight:bold;border-bottom:1px solid #8b0000;">SEARCH <i class="fa fa-search"></i></div> -->
 
+	<!-- include sc-login.html %} -->
+
+
+
   <div class="showcart" id="showcart">
-    <script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js"></script>
-    <a href="https://transactions.sendowl.com/cart?merchant_id=32054" rel="nofollow"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
-    <script>sendOwl.cartWidget({merchantID: 32054,
-                                cartPhrase: "Cart: ",
-                                parent: document.getElementById("showcart"),
-                                useCartImage: false,
-                                customStyle: true
-    });</script>
+	<a href="#" class="snipcart-checkout"><i class="fa fa-shopping-cart" aria-hidden="true"></i><span style="font-size:12px;font-weight:bold;text-transform:uppercase;">Cart</span></a>
+	<div class="snipcart-summary" style="font-size:12px;font-weight:bold;text-transform:uppercase;margin-top:4px;"> (<span class="snipcart-total-items bloodred"></span>)&nbsp;<span class="snipcart-total-price bloodred"></span></div>
 </div>
 
 </section>
-    
-  </header>
-
-  <div class="cf"></div>
 
   <section class="card__container">
 
@@ -365,6 +369,2873 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  for short-stories in sort1 %} -->
 
  <!-- sorts in blog-post-like reverse chron order -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="crook">
+<a href="/short-stories/bullying-the-bulls/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/bullying-the-bulls.png') ">
+
+      <p class="card__genre">Crook</p>
+
+      
+
+      <h2 class="card__meta">Bulling the Bulls 
+        <span>
+          
+            Walter Scott Story
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">He needed a favor, to help him avoid the bulls. But would his companion bully him instead?<br /><a href="/short-stories/bullying-the-bulls/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/bullying-the-bulls/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">3293 words | 
+        
+          <span class="time">18</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="historical">
+<a href="/short-stories/he-risked-all-for-a-thrill/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/he-risked-all-for-a-thrill.png') ">
+
+      <p class="card__genre">Historical</p>
+
+      
+
+      <h2 class="card__meta">He Risked All For the Thrill! 
+        <span>
+          
+            Charles Somerville
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Is the Great Reporter Detective Only a Memory? Where Are the Stars Today?<br /><a href="/short-stories/he-risked-all-for-a-thrill/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/he-risked-all-for-a-thrill/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">1349 words | 
+        
+          <span class="time">7</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/left-handed-footman/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/left-handed-footman.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">The Case of the Left-Handed Footman 
+        <span>
+          
+            A Dixon Hawke Mystery
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">When a parlour game of "Murder" produces a real-life dead body, can Dixon Hawke sift through the clues and reveal the real-life murderer?<br /><a href="/short-stories/left-handed-footman/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/left-handed-footman/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">4242 words | 
+        
+          <span class="time">23</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="noir">
+<a href="/short-stories/thisll-kill-you/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/thisll-kill-you.png') ">
+
+      <p class="card__genre">Noir</p>
+
+      
+
+      <h2 class="card__meta">This'll Kill You 
+        <span>
+          
+            James Mort
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">If you're gonna be a heel, Wilson figured, you might as well be well-heeled.<br /><a href="/short-stories/thisll-kill-you/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/thisll-kill-you/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">2185 words | 
+        
+          <span class="time">12</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="true crime oddities">
+<a href="/short-stories/crime-digest/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/crime-digest.png') ">
+
+      <p class="card__genre">True Crime Oddities</p>
+
+      
+
+      <h2 class="card__meta">Crime Digest 
+        <span>
+          
+            Zeta Rothschild
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">A short collection of crime oddities ...<br /><a href="/short-stories/crime-digest/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/crime-digest/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">717 words | 
+        
+          <span class="time">3</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="serial killer">
+<a href="/short-stories/laughing-death/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/laughing-death.png') ">
+
+      <p class="card__genre">Serial Killer</p>
+
+      
+
+      <h2 class="card__meta">Laughing Death 
+        <span>
+          
+            Charles Conger Stewart
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">She warned him about the fat man, but Jim wouldn't listen. He was determined to know who the fat man was, and why Hester refused to tell him more!<br /><a href="/short-stories/laughing-death/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/laughing-death/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">5763 words | 
+        
+          <span class="time">32</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="murderer">
+<a href="/short-stories/beau-brummel-murder/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/beau-brummel-murder.png') ">
+
+      <p class="card__genre">Murderer</p>
+
+      
+
+      <h2 class="card__meta">Beau Brummel Murder 
+        <span>
+          
+            Ray Cummings
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">George Bryan didn't mind being called "Fashion Plate" by the villagers. That was fine. It would fit right in with his plans, for who would suspect the dandified fog he appeared to be of cold blooded murder?<br /><a href="/short-stories/beau-brummel-murder/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/beau-brummel-murder/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">3369 words | 
+        
+          <span class="time">18</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="female in jeopardy">
+<a href="/short-stories/gunsmoke-in-her-eyes/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/gunsmoke-in-her-eyes.png') ">
+
+      <p class="card__genre">Female In Jeopardy</p>
+
+      
+
+      <h2 class="card__meta">Gunsmoke In Her Eyes 
+        <span>
+          
+            John Bender
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Marcia thought it was nice to have her louse around the house, she overlooked annoying trifles like ...<br /><a href="/short-stories/gunsmoke-in-her-eyes/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/gunsmoke-in-her-eyes/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">2872 words | 
+        
+          <span class="time">15</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="noir">
+<a href="/short-stories/in-the-light-of-the-red-lamp/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/in-the-light-of-the-red-lamp.png') ">
+
+      <p class="card__genre">Noir</p>
+
+      
+
+      <h2 class="card__meta">In the Light of the Red Lamp 
+        <span>
+          
+            Maurice Level
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">He thought the last image of his dead wife, taken the day she died, would bring him comfort. Instead, it brought new horror!<br /><a href="/short-stories/in-the-light-of-the-red-lamp/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/in-the-light-of-the-red-lamp/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">1738 words | 
+        
+          <span class="time">9</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="psychopathic killer">
+<a href="/short-stories/candidate-for-a-coffin/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/candidate-for-a-coffin.png') ">
+
+      <p class="card__genre">Psychopathic Killer</p>
+
+      
+
+      <h2 class="card__meta">Candidate for a Coffin 
+        <span>
+          
+            T. W. Ford
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Wilson Lamb cuddled his automatic to play "Mr. Death" and fingered little Louis Engle for a coffin cargo. But when he pulled the trigger, Whisper, the gun-cobra from Chi, spilled out Doom's deck ...<br /><a href="/short-stories/candidate-for-a-coffin/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/candidate-for-a-coffin/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">7235 words | 
+        
+          <span class="time">40</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="mystery">
+<a href="/short-stories/murder-at-lost-creek/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/murder-at-lost-creek.png') ">
+
+      <p class="card__genre">Mystery</p>
+
+      
+
+      <h2 class="card__meta">The Murder at Lost Creek 
+        <span>
+          
+            Robert E. Hewes
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Lost in a sudden winter storm, he found a trapper's cabin ... and a strange story of love and danger!<br /><a href="/short-stories/murder-at-lost-creek/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/murder-at-lost-creek/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">4238 words | 
+        
+          <span class="time">23</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="legal">
+<a href="/short-stories/according-to-the-book/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/according-to-the-book.png') ">
+
+      <p class="card__genre">Legal</p>
+
+      
+
+      <h2 class="card__meta">According to the Book 
+        <span>
+          
+            Georgie
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Georgie thought his playground contract was a valid, legal document; but it may not stand up in the playground court!<br /><a href="/short-stories/according-to-the-book/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/according-to-the-book/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">2452 words | 
+        
+          <span class="time">13</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="confidence man">
+<a href="/short-stories/mr-clackworthy-goes-to-jail/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/mr-clackworthy-goes-to-jail.png') ">
+
+      <p class="card__genre">Confidence Man</p>
+
+      
+
+      <h2 class="card__meta">Mr. Clackworthy Goes to Jail 
+        <span>
+          
+            Christopher B. Booth
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">The master confidence man had been patient. But now it was time to find Chicago Charlie and get his money back!<br /><a href="/short-stories/mr-clackworthy-goes-to-jail/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/mr-clackworthy-goes-to-jail/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">5758 words | 
+        
+          <span class="time">31</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/silent-dog/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/silent-dog.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">The Case of the Silent Dog 
+        <span>
+          
+            A Dixon Hawke Mystery
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Dixon Hawke is called in when a child is kidnapped and held for ransom ... but this time, it's up to his assistant, Tommy Burkey, to nab the kidnappers before they become murderers!<br /><a href="/short-stories/silent-dog/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/silent-dog/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">2724 words | 
+        
+          <span class="time">15</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="true crime">
+<a href="/short-stories/renegade-thief/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/renegade-thief.png') ">
+
+      <p class="card__genre">True Crime</p>
+
+      
+
+      <h2 class="card__meta">The Renegade Thief 
+        <span>
+          
+            George W. Black
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">The fabulous true story of the repentant French jailbird who became the world's first detective.<br /><a href="/short-stories/renegade-thief/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/renegade-thief/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">1755 words | 
+        
+          <span class="time">9</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="noir">
+<a href="/short-stories/hold-that-tigres/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/hold-that-tigres1.png') ">
+
+      <p class="card__genre">Noir</p>
+
+      
+
+      <h2 class="card__meta">Hold That Tigres 
+        <span>
+          
+            Albert Simmons
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">When the smoke cleared away from the shoot-and-run murder, there I was --- with a hot painting on my hands ... and a homicidal honey on my back.<br /><a href="/short-stories/hold-that-tigres/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/hold-that-tigres/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">9402 words | 
+        
+          <span class="time">52</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="noir">
+<a href="/short-stories/scoop-in-blood/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/scoop-in-blood.png') ">
+
+      <p class="card__genre">Noir</p>
+
+      
+
+      <h2 class="card__meta">Scoop in Blood 
+        <span>
+          
+            T. W. Ford
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">If you look long enough and hard enough for murder, sometimes you can find it!<br /><a href="/short-stories/scoop-in-blood/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/scoop-in-blood/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">4333 words | 
+        
+          <span class="time">24</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/ice-hockey-player/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/ice-hockey-player.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">The Case of the Ice-Hockey Player 
+        <span>
+          
+            A Dixon Hawke Mystery
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">When Big Bill Jensen collapses on the ice, Dixon Hawke realizes the man isn't just injured ... he's been murdered!<br /><a href="/short-stories/ice-hockey-player/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/ice-hockey-player/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">2724 words | 
+        
+          <span class="time">15</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="suspense">
+<a href="/short-stories/no-safety-in-numbers/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/no-safety-in-numbers-1.png') ">
+
+      <p class="card__genre">Suspense</p>
+
+      
+
+      <h2 class="card__meta">No Safety in Numbers 
+        <span>
+          
+            Edward S. Williams
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Off in the country, cut off by the storm, Rose had heard the radio account of the hold-up and murder. And now she was sure that one of the men in her house was the killer. But which was it?<br /><a href="/short-stories/no-safety-in-numbers/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/no-safety-in-numbers/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">6111 words | 
+        
+          <span class="time">33</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="amateur sleuth">
+<a href="/short-stories/mystery-of-the-one-legged-man/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/mystery-of-the-one-legged-man.png') ">
+
+      <p class="card__genre">Amateur Sleuth</p>
+
+      
+
+      <h2 class="card__meta">The Mystery of the One-Legged Man 
+        <span>
+          
+            J. B. Hawley
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Newspaper readers will recall the series of brutal and seemingly senseless murders that occurred in England and were attributed to a criminal whom some clever writer dubbed Peg-Leg ... a mysterious one-legged man or a clever killer?<br /><a href="/short-stories/mystery-of-the-one-legged-man/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/mystery-of-the-one-legged-man/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">3457 words | 
+        
+          <span class="time">19</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="drug crazed murder">
+<a href="/short-stories/lost-keys/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/lost-keys.png') ">
+
+      <p class="card__genre">Drug Crazed Murder</p>
+
+      
+
+      <h2 class="card__meta">Lost Keys 
+        <span>
+          
+            Jane Livingston
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">A opium fiend’s rambling story of murder.<br /><a href="/short-stories/lost-keys/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/lost-keys/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">1613 words | 
+        
+          <span class="time">8</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="hardboiled pi">
+<a href="/short-stories/kidnapped-evidence/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/kidnapped-evidence.png') ">
+
+      <p class="card__genre">Hardboiled PI</p>
+
+      
+
+      <h2 class="card__meta">Kidnapped Evidence 
+        <span>
+          
+            Joseph J. Millard
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Private detective Sam McGee was on the run, again. This time with the dead body of Jonathan Mainwaring. Can he outwit the cops and unmask the real killers before he’s sent to the hot seat for murder?<br /><a href="/short-stories/kidnapped-evidence/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/kidnapped-evidence/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">6920 words | 
+        
+          <span class="time">38</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/letters-to-the-editor/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/letters-to-the-editor.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">The Case of the Letters to the Editor 
+        <span>
+          
+            A Dixon Hawke Mystery
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">When Dixon Hawke and his assistant Tommy find themselves spending the night at a small inn, can they decipher the clues and find who killed the jealous General?<br /><a href="/short-stories/letters-to-the-editor/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/letters-to-the-editor/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">4150 words | 
+        
+          <span class="time">23</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="suspense">
+<a href="/short-stories/wind-of-fear/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/wind-of-fear.png') ">
+
+      <p class="card__genre">Suspense</p>
+
+      
+
+      <h2 class="card__meta">The Wind of Fear 
+        <span>
+          
+            Talmage Powell
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Dorothy Janeway fought her way home through the driving winds of a hurricane — only to find that her husband was off … courting.<br /><a href="/short-stories/wind-of-fear/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/wind-of-fear/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">2907 words | 
+        
+          <span class="time">16</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="true crime">
+<a href="/short-stories/great-escapes-reynolds-forsbrey/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/reynolds-forsbrey.png') ">
+
+      <p class="card__genre">True Crime</p>
+
+      
+
+      <h2 class="card__meta">Great Escapes: Reynolds Forsbrey 
+        <span>
+          
+            Edgeworth Downer
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Robert Forsbrey was one of the great prison escape artists. But authorities knew it was more than freedom he sought.<br /><a href="/short-stories/great-escapes-reynolds-forsbrey/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/great-escapes-reynolds-forsbrey/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">5272 words | 
+        
+          <span class="time">29</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="accidental death">
+<a href="/short-stories/where-the-span-splits/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/where-the-span-splits.png') ">
+
+      <p class="card__genre">Accidental Death</p>
+
+      
+
+      <h2 class="card__meta">Where The Span Splits 
+        <span>
+          
+            Sam Heilman
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">He planned to kill himself to avoid Fate, but would Fate win in the end despite his carefully planning?<br /><a href="/short-stories/where-the-span-splits/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/where-the-span-splits/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">3497 words | 
+        
+          <span class="time">19</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="true crime">
+<a href="/short-stories/kidnapper-convicted-by-a-knife-blade/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/kidnapper-convicted-by-a-knife-blade.png') ">
+
+      <p class="card__genre">True Crime</p>
+
+      
+
+      <h2 class="card__meta">Kidnapper Convicted by a Knife-Blade 
+        <span>
+          
+            
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">One of the most incredible convictions ever obtained in the United States by means of microphotography &hellip;<br /><a href="/short-stories/kidnapper-convicted-by-a-knife-blade/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/kidnapper-convicted-by-a-knife-blade/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">657 words | 
+        
+          <span class="time">3</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/new-deaths-for-old/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/new-deaths-for-old.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">New Deaths for Old 
+        <span>
+          
+            Norman A. Daniels
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Old murder breeds new murder when a blackmailee gets tired of paying off and decides that if at first you don't succeed in framing, try, try again!<br /><a href="/short-stories/new-deaths-for-old/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/new-deaths-for-old/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">6920 words | 
+        
+          <span class="time">38</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="runaway">
+<a href="/short-stories/was-it-worth-it/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/was-it-worth-it.png') ">
+
+      <p class="card__genre">Runaway</p>
+
+      
+
+      <h2 class="card__meta">Was It Worth It? 
+        <span>
+          
+            Frederick Ames Coates
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Squalling children, poverty, discomfort; the everlasting excessive demands on her time, her patience, and her endurance — this was life! And the life she sought to escape, but would troubles in the big city convince her otherwise?<br /><a href="/short-stories/was-it-worth-it/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/was-it-worth-it/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">4201 words | 
+        
+          <span class="time">23</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="murder">
+<a href="/short-stories/murder-that-boomeranged/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/murder-that-boomeranged.png') ">
+
+      <p class="card__genre">Murder</p>
+
+      
+
+      <h2 class="card__meta">Murder That Boomeranged 
+        <span>
+          
+            Zeta Rothschild
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Though women are generally considered experienced in chicanery and intrigue, they are really not good at constructive plotting. Certainly not where murder is involved. Perhaps it is because they have had too much authority in the home. What they say is accepted by children and husband without argument so they become convinced that the outside world will accept any story they tell in the same fashion. And there is their first big mistake.<br /><a href="/short-stories/murder-that-boomeranged/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/murder-that-boomeranged/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">2111 words | 
+        
+          <span class="time">11</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="jewel theft">
+<a href="/short-stories/necklace-of-the-pharaohs/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/necklace-of-the-pharaohs.png') ">
+
+      <p class="card__genre">Jewel Theft</p>
+
+      
+
+      <h2 class="card__meta">The Necklace of the Pharaohs 
+        <span>
+          
+            Clinton Harcourt
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Captain Valentine recognized Armel Touchet, French crook and French Condemned Corps deserter immediately. But what was he doing here in Alexandria; what ill-omened quest was responsible for his presence &mdash; what crime did he contemplate?<br /><a href="/short-stories/necklace-of-the-pharaohs/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/necklace-of-the-pharaohs/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">5274 words | 
+        
+          <span class="time">29</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="murderer">
+<a href="/short-stories/killers-final-curtain/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/killers-final-curtain.png') ">
+
+      <p class="card__genre">Murderer</p>
+
+      
+
+      <h2 class="card__meta">Killer's Final Curtain 
+        <span>
+          
+            Wilber S. Peacock
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Curtis Drexler's elegant murder plans didn't take an over-efficient stage hand into consideration.<br /><a href="/short-stories/killers-final-curtain/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/killers-final-curtain/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">1706 words | 
+        
+          <span class="time">9</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/weighted-life-buoys/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/weighted-life-buoys.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">The Case of the Weighted Life Buoys 
+        <span>
+          
+            A Dixon Hawke Mystery
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">One learns to expect the unexpected, because human nature is so perverse, and mankind is so endowed with cussedness. Nevertheless, I confess that I have never before given a thought to the possibility of life-saving apparatus being used for the purpose of committing suicide ... or murder!<br /><a href="/short-stories/weighted-life-buoys/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/weighted-life-buoys/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">2704 words | 
+        
+          <span class="time">15</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="scientific detective">
+<a href="/short-stories/one-hundred-bucks-per-stiff/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/one-hundred-bucks-per-stiff.png') ">
+
+      <p class="card__genre">Scientific Detective</p>
+
+      
+
+      <h2 class="card__meta">One Hundred Bucks Per Stiff 
+        <span>
+          
+            J. Lloyd Conrich
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Mr. Peck was dead &hellip; the papers said so. Yet Mr. Peck performed his own autopsy and saved eight men from death!<br /><a href="/short-stories/one-hundred-bucks-per-stiff/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/one-hundred-bucks-per-stiff/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">5357 words | 
+        
+          <span class="time">29</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="paranormal">
+<a href="/short-stories/fingers-from-the-grave/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/fingers-from-the-grave.png') ">
+
+      <p class="card__genre">Paranormal</p>
+
+      
+
+      <h2 class="card__meta">Fingers from the Grave 
+        <span>
+          
+            Edwin Garty Ranck
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Tom Grimstead was not looking for a story when he decided to spend a night in the haunted Carey house &hellip; but the accounts of those who had spent, or rather tried to spend, a night in the Carey house seemed so authentic and honest &hellip;<br /><a href="/short-stories/fingers-from-the-grave/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/fingers-from-the-grave/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">3441 words | 
+        
+          <span class="time">19</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/lothario-unlamented/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/lothario-unlamented.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">Lothario Unlamented 
+        <span>
+          
+            Joseph Franklin
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">It wasn&#39;t the doctor&#39;s job to prescribe hot lead — nor the cop&#39;s to let his friend go free.<br /><a href="/short-stories/lothario-unlamented/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/lothario-unlamented/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">1387 words | 
+        
+          <span class="time">7</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="world war ii">
+<a href="/short-stories/open-season/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/open-season-4.png') ">
+
+      <p class="card__genre">World War II</p>
+
+      
+
+      <h2 class="card__meta">Open Season 
+        <span>
+          
+            Edward Anhalt
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Shots in the night, vegetables in the coal bin, dynamite in the potatoes, women in uniform! That's West Point; that's war; that's what it means when saboteurs go all out &hellip;<br /><a href="/short-stories/open-season/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/open-season/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">9008 words | 
+        
+          <span class="time">50</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="espionage">
+<a href="/short-stories/dragnet-for-a-spy/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/dragnet-for-a-spy.png') ">
+
+      <p class="card__genre">Espionage</p>
+
+      
+
+      <h2 class="card__meta">Dragnet for a Spy 
+        <span>
+          
+            Thorne Lee
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Enemy agents were making a shambles of Operation Topside's super secret &mdash; until a lowly lieutenant proved that an ounce of brains was worth a pound of brass.<br /><a href="/short-stories/dragnet-for-a-spy/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/dragnet-for-a-spy/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">4554 words | 
+        
+          <span class="time">25</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/special-edition/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/special-edition.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">The Case of the Special Edition 
+        <span>
+          
+            A Dixon Hawke Mystery
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">John Meadowes, who had been ignominiously fired from his job, let his already bullied, over-worked, and nerve-ridden mind plot revenge on the man who ruined his life. Now, can Dixon Hawke find the evidence that puts Meadowes at the scene of the murder? Or will Meadowes escape to join the army and die gloriously in the coming war?<br /><a href="/short-stories/special-edition/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/special-edition/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">2651 words | 
+        
+          <span class="time">14</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="noir">
+<a href="/short-stories/cookin-with-poison/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/cookin-with-poison.png') ">
+
+      <p class="card__genre">Noir</p>
+
+      
+
+      <h2 class="card__meta">Cookin' With Poison 
+        <span>
+          
+            D. Wescott Gouldner
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">It had to be one of Paul&#39;s two lovely sisters-in-law who&#39;d known the old man was coming … and baked a cake.<br /><a href="/short-stories/cookin-with-poison/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/cookin-with-poison/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">6072 words | 
+        
+          <span class="time">33</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="homicidal maniac">
+<a href="/short-stories/gentle-host/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/gentle-host.png') ">
+
+      <p class="card__genre">Homicidal Maniac</p>
+
+      
+
+      <h2 class="card__meta">The Gentle Host 
+        <span>
+          
+            T. W. Ford
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Anyone in this strange house might be the escaped homicidal maniac, Death Mantas!<br /><a href="/short-stories/gentle-host/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/gentle-host/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">3423 words | 
+        
+          <span class="time">19</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/study-in-suicide/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/study-in-suicide.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">Study in Suicide 
+        <span>
+          
+            Richard Demming
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">I didn't understand why the police were so interested in my wife's disappearance. I just wanted to pack my books and get away for the summer break ... and see Miss Crane!<br /><a href="/short-stories/study-in-suicide/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/study-in-suicide/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">1228 words | 
+        
+          <span class="time">6</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="legal">
+<a href="/short-stories/lady-from-spain/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/lady-from-spain.png') ">
+
+      <p class="card__genre">Legal</p>
+
+      
+
+      <h2 class="card__meta">Lady From Spain 
+        <span>
+          
+            Alan Ritner Anderson
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Only J. Fenimore Yost could have put such diverse elements as a dead kitten, a trunkful of lottery tickets, and a long-lost daughter together and make them spell murder!<br /><a href="/short-stories/lady-from-spain/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/lady-from-spain/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">7555 words | 
+        
+          <span class="time">41</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="hardboiled pi">
+<a href="/short-stories/sing-song-gal/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/sing-song-gal-1.png') ">
+
+      <p class="card__genre">Hardboiled PI</p>
+
+      
+
+      <h2 class="card__meta">Sing-Song Gal 
+        <span>
+          
+            Henri St. Maur
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">&quot;This isn&#39;t a regular detective job I called you about,&quot; the night club singer told Hodgson. &quot;It&#39;s not a dead body and a lot of clues and all that stuff.&quot; That&#39;s what she thought, but it didn&#39;t take long for him to prove her wrong!<br /><a href="/short-stories/sing-song-gal/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/sing-song-gal/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">4171 words | 
+        
+          <span class="time">23</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="drama">
+<a href="/short-stories/light-that-lies/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/light-that-lies.png') ">
+
+      <p class="card__genre">Drama</p>
+
+      
+
+      <h2 class="card__meta">The Light That Lies 
+        <span>
+          
+            Petersen Marzoni
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Robert Emmet Long was in a hurry. He didn&#39;t like driving at night, particularly through the Bayfield cutoff. About half a mile from the main highway his lights blinked twice, then went out. That was the signal that Convict 1836 was waiting for ... or so he thought!<br /><a href="/short-stories/light-that-lies/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/light-that-lies/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">2835 words | 
+        
+          <span class="time">15</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="private detective">
+<a href="/short-stories/rustic-rival/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/rustic-rival.png') ">
+
+      <p class="card__genre">Private Detective</p>
+
+      
+
+      <h2 class="card__meta">A Rustic Rival 
+        <span>
+          
+            Sergeant Ryan
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Nick Carter was enjoying a much-deserved vacation when a rustic schoolteacher asked for his help in solving the murder of Sam Bennet.<br /><a href="/short-stories/rustic-rival/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/rustic-rival/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">5649 words | 
+        
+          <span class="time">31</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/indiarubber-man/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/indiarubber-man.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">The Case of the Indiarubber Man 
+        <span>
+          
+            A Dixon Hawke Mystery
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">As a team, Miss Reesdale and Ginger Pryde were a success, which meant very big money. As separate personalities, neither was much of a box-office attraction, and Pryde fixed his spite on Miss Reesdale as a result of his sudden loss of fortune.<br /><a href="/short-stories/indiarubber-man/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/indiarubber-man/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">3264 words | 
+        
+          <span class="time">18</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="courtroom">
+<a href="/short-stories/weight-of-a-feather/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/weight-of-a-feather.svg') ">
+
+      <p class="card__genre">Courtroom</p>
+
+      
+
+      <h2 class="card__meta">Weight of a Feather 
+        <span>
+          
+            Carl Clausen
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">It was an open and shut case, or so the Prosecuting Attorney believed ... until the Attorney for the Defence began his questioning.<br /><a href="/short-stories/weight-of-a-feather/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/weight-of-a-feather/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">4614 words | 
+        
+          <span class="time">25</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/swedish-deckhand/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/swedish-deckhand.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">The Case of the Swedish Deckhand 
+        <span>
+          
+            A Dixon Hawke Mystery
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Detective-Inspector Gray of Scotland Yard demands that Dixon Hawke reveal the location of accused murderer Jevons, but Hawke in convinced of the man's innocence. Can he prove it before the Yard finds its man?<br /><a href="/short-stories/swedish-deckhand/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/swedish-deckhand/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">2791 words | 
+        
+          <span class="time">15</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/a-chance-clew/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/a-chance-clew.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">A Chance Clew 
+        <span>
+          
+            Scott Campbell
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">When the girl told him that she'd seen the man who'd robbed her, Glidden is certain it is Lord Arkright is The Red Raven. But can he outwit his nemesis this time, or will The Red Raven get the best of the detective?<br /><a href="/short-stories/a-chance-clew/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/a-chance-clew/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">5512 words | 
+        
+          <span class="time">30</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="crook">
+<a href="/short-stories/death-is-deaf/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/death-is-deaf.png') ">
+
+      <p class="card__genre">Crook</p>
+
+      
+
+      <h2 class="card__meta">Death Is Deaf 
+        <span>
+          
+            Cliff Campbell
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Big Sid couldn&#39;t understand it, and he was a smart monkey. He had cased this job himself, personal. Had cooked up the scheme for pulling it off and spent a good two weeks laying the ground-work. Yet, here he was locked up in the county jail with the hot squat waiting to claim him.<br /><a href="/short-stories/death-is-deaf/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/death-is-deaf/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">3279 words | 
+        
+          <span class="time">18</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="theft">
+<a href="/short-stories/finger-of-guilt/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/finger-of-guilt.png') ">
+
+      <p class="card__genre">Theft</p>
+
+      
+
+      <h2 class="card__meta">The Finger of Guilt 
+        <span>
+          
+            J. J. Stagg
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">There was, at the time, an epidemic of jewelry robberies. The pestilence had attacked Scofield&#39;s six times in four months; but the disease never &quot;took.&quot; The six hold-ups failed and in every instance the robbers were caught. But would Judson Farris succeed where others had failed?<br /><a href="/short-stories/finger-of-guilt/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/finger-of-guilt/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">4167 words | 
+        
+          <span class="time">23</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/diamond-scarfpin/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/diamond-scarfpin.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">Adventures of the Diamond Scarfpin 
+        <span>
+          
+            Jack Stradling
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">This is a plain, unvarnished tale of Detective Tom Silver, grafting plain-clothes man. Here we see the other side of the picture — and behold another reason why &quot;Crime Doesn&#39;t Pay.&quot;  … Tho wise Silver always gets his man — and something else besides. His policy is to play both ends against the middle, thus fattening his bankroll and flattening the crook&#39;s. ... In the present story he neatly traps a smooth dip, of international notoriety, and what he does to him is sufficient. — E. B.<br /><a href="/short-stories/diamond-scarfpin/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/diamond-scarfpin/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">2743 words | 
+        
+          <span class="time">15</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="murderer">
+<a href="/short-stories/his-thirteenth-wife/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/his-thirteenth-wife.png') ">
+
+      <p class="card__genre">Murderer</p>
+
+      
+
+      <h2 class="card__meta">His Thirteenth Wife 
+        <span>
+          
+            Herbert Raymond Carter
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">His plan was simple: find a homely, rich young woman, woo and marry her. Then murder her and steal her fortune. But would wife number 13 be lucky or unlucky for Jonas Bruckner?<br /><a href="/short-stories/his-thirteenth-wife/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/his-thirteenth-wife/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">5488 words | 
+        
+          <span class="time">30</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="burglar">
+<a href="/short-stories/without-influence/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/without-influence.png') ">
+
+      <p class="card__genre">Burglar</p>
+
+      
+
+      <h2 class="card__meta">Without Influence 
+        <span>
+          
+            Harry M. Dean
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Herbert Stanlaw was waiting for the burglar, with a plan to outsmart him and keep his precious ruby. But would his tale of the ruby's curse keep the thief from stealing his valuables? Or would the thief outwit him in the end?<br /><a href="/short-stories/without-influence/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/without-influence/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">3813 words | 
+        
+          <span class="time">21</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="cozy">
+<a href="/short-stories/last-chapter/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/last-chapter1.png') ">
+
+      <p class="card__genre">Cozy</p>
+
+      
+
+      <h2 class="card__meta">The Last Chapter 
+        <span>
+          
+            C. C. Andrews
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Miss Bosanquet needed help with the last chapter of her book; but it came from an most unexpected source.<br /><br />And when an old love appeared, his presence threatened more than her peaceful writing time!<br /><a href="/short-stories/last-chapter/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/last-chapter/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">7857 words | 
+        
+          <span class="time">43</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="amateur sleuth">
+<a href="/short-stories/five-cents-a-life/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/five-cents-a-life.png') ">
+
+      <p class="card__genre">Amateur Sleuth</p>
+
+      
+
+      <h2 class="card__meta">Five Cents A Life 
+        <span>
+          
+            Maitland Scott
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">A man's life is worth what he can get for it. 'Tight-Spot' Andrews figured his was worth at least a nickel.<br /><a href="/short-stories/five-cents-a-life/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/five-cents-a-life/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">4504 words | 
+        
+          <span class="time">25</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="natural death">
+<a href="/short-stories/frozen-ground/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/frozen-ground.png') ">
+
+      <p class="card__genre">Natural Death</p>
+
+      
+
+      <h2 class="card__meta">Frozen Ground 
+        <span>
+          
+            Thomas Jeffries Betts
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Kwang Li, fat and prosperous, could afford to be generous. But it was bad for business.<br /><a href="/short-stories/frozen-ground/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/frozen-ground/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">2681 words | 
+        
+          <span class="time">14</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/mysterious-highwayman/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/mysterious-highwayman.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">The Mysterious Highwayman 
+        <span>
+          
+            Sergeant Ryan
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">&quot;Denial is useless,&#39;&#39; said Carroll at last. &quot;I was taken in the act.&quot;<br /><br />His manner was indefinably strange. If one may attempt description, it was more like an invalid&#39;s than a criminal&#39;s. This man of cultured mind and delicately sensitive nature seemed to feel neither remorse nor shame. There was evidence of considerable anxiety, but this state was repeatedly interrupted by involuntary outbursts of reassurance, almost of satisfaction.<br /><a href="/short-stories/mysterious-highwayman/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/mysterious-highwayman/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">5441 words | 
+        
+          <span class="time">30</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/camera-exposure/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/camera-exposure.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">The Case of the Camera Exposure 
+        <span>
+          
+            A Dixon Hawke Mystery
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">&quot;Talking of tall stories,&quot; he said presently, &quot;would you like to hear a perfectly true one for a change? It has a bearing on that antagonism—which we&#39;ve just seen instanced—that exists between the artistic and the business mind.&quot;<br /><a href="/short-stories/camera-exposure/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/camera-exposure/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">3369 words | 
+        
+          <span class="time">18</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="blackmail">
+<a href="/short-stories/puppet-boss-of-destiny/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/puppet-boss-of-destiny.png') ">
+
+      <p class="card__genre">Blackmail</p>
+
+      
+
+      <h2 class="card__meta">Puppet Boss of Destiny 
+        <span>
+          
+            Ernest Bean
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">A perfect butter is supposed to know everything. James was a perfect butler. But he knew too much.<br /><a href="/short-stories/puppet-boss-of-destiny/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/puppet-boss-of-destiny/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">1851 words | 
+        
+          <span class="time">10</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
 
 
 
@@ -392,7 +3263,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       </header> <!-- end header.card__header -->
 
-      <p class="TOCexcerpt"><br /><a href="/short-stories/hear-not-see-not-speak-not-evil/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+      <p class="TOCexcerpt">"A lesson for thieves, detectives, physicians and everyone else. It is a Japanese piece called the ‘Sacred Monkeys.’ There are three of them. One holds his hands over his ears, a second over his eyes and the third over his mouth. The inscription beneath reads, ‘Hear not, see not, speak not evil.’ I took the restraining hands away from the ears, eyes and mouth of these three men here. You see the result."<br /><a href="/short-stories/hear-not-see-not-speak-not-evil/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
           
             Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
           
@@ -403,6 +3274,288 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
         <p class="meta">7418 words | 
+        
+          <span class="time">41</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="supernatural">
+<a href="/short-stories/valley-where-the-dead-men-live/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/valley-where-the-dead-men-live.png') ">
+
+      <p class="card__genre">Supernatural</p>
+
+      
+
+      <h2 class="card__meta">Valley Where the Dead Men Live 
+        <span>
+          
+            Harold Ward
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">"I have passed through The Valley Where Dead Men Live. My eyes have looked upon sights which God did not intend men to see." Such began the strange tale told to Professor Parmalee by the stranger. Could it be true or was it just the ramblings of a dying man?<br /><a href="/short-stories/valley-where-the-dead-men-live/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/valley-where-the-dead-men-live/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">4442 words | 
+        
+          <span class="time">24</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/fallen-star/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/fallen-star.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">The Case of the Fallen Star 
+        <span>
+          
+            A Dixon Hawke Mystery
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Once more that intrepid detective Dixon Hawke matches wits with a killer &mdash; this time on the set of Raymond Blade's latest picture!<br /><a href="/short-stories/fallen-star/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/fallen-star/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">2740 words | 
+        
+          <span class="time">15</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="amateur sleuth">
+<a href="/short-stories/catty-cornered/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/catty-cornered1.png') ">
+
+      <p class="card__genre">Amateur Sleuth</p>
+
+      
+
+      <h2 class="card__meta">Catty Cornered 
+        <span>
+          
+            Joe Archibald
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Scoop Binney thought it was the cats when Abigail&#39;s pet tabby was kidnaped and her woman cook faced the hot squat for the gardener&#39;s murder. But Scoop changed his mind when Snooty Piper got them both shanghaied, trying to prove the cook innocent because he said that  —  &quot;volts&quot; were not for women.<br /><a href="/short-stories/catty-cornered/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/catty-cornered/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">5770 words | 
+        
+          <span class="time">32</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="murder">
+<a href="/short-stories/too-easy-alibi/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/too-easy-alibi.png') ">
+
+      <p class="card__genre">Murder</p>
+
+      
+
+      <h2 class="card__meta">The Too-Easy Alibi 
+        <span>
+          
+            George Briggs
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Joe only wanted to borrow $5 to stake a sure thing at the track. But his I.O.U to Pug ending up costing him everything!<br /><a href="/short-stories/too-easy-alibi/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/too-easy-alibi/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">3796 words | 
+        
+          <span class="time">21</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="con artist">
+<a href="/short-stories/a-sucker-a-day/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/a-sucker-a-day.png') ">
+
+      <p class="card__genre">Con Artist</p>
+
+      
+
+      <h2 class="card__meta">A Sucker A Day 
+        <span>
+          
+            Convict 12627
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Slick Martin was a knife hustler by trade. And he could extract fifty bucks from a victim without letting a drop of blood.<br /><a href="/short-stories/a-sucker-a-day/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/a-sucker-a-day/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">1795 words | 
+        
+          <span class="time">9</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="crook">
+<a href="/short-stories/river-rats-comeback/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/river-rat.png') ">
+
+      <p class="card__genre">Crook</p>
+
+      
+
+      <h2 class="card__meta">River Rat's Comeback 
+        <span>
+          
+            S. J. Bailey
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">&quot;Fins&quot; Scanlon was learning fast — to do the things a kid shouldn&#39;t do. And the only man who could help him was a cop in whom he had lost faith.<br /><a href="/short-stories/river-rats-comeback/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/river-rats-comeback/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">7403 words | 
         
           <span class="time">41</span> min 
         
@@ -514,10 +3667,151 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- README IF STATEMENT -->
 
 
-    <li class="card " id="supernatural">
-<a href="/short-stories/demons-of-swamp-lake/" style="color:#242424;">
+    <li class="card " id="amateur sleuth">
+<a href="/short-stories/abandoned_house/" style="color:#242424;">
 
-      <header class="card__header" style=" background-image:url('/assets/img/site/atticus_b_small.png');background-size: 50px 75px;">
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/abandoned-house.svg') ">
+
+      <p class="card__genre">Amateur Sleuth</p>
+
+      
+
+      <h2 class="card__meta">The Abandoned House 
+        <span>
+          
+            Buelah Poynter
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Trying to escape the storm, Alan and his sister, Nell, seek shelter in the old abandoned house. But when they discover Judge MacPherson recently murdered, will they find the killer or death?<br /><a href="/short-stories/abandoned_house/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/abandoned_house/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">6162 words | 
+        
+          <span class="time">34</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="scientific detective">
+<a href="/short-stories/a-study-in-green/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/a-study-in-green.png') ">
+
+      <p class="card__genre">Scientific Detective</p>
+
+      
+
+      <h2 class="card__meta">A Study in Green 
+        <span>
+          
+            Scott Campbell
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Who is the strange green man hiding in the shrubbery, and what &mdash; or who &mdash; turned him green?<br /><a href="/short-stories/a-study-in-green/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/a-study-in-green/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">4749 words | 
+        
+          <span class="time">26</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="true crime">
+<a href="/short-stories/artistic-murder-misfires/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/artistic-murder-misfires.png') ">
+
+      <p class="card__genre">True Crime</p>
+
+      
+
+      <h2 class="card__meta">Artistic Murder Misfires 
+        <span>
+          
+            Mat Rand
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">There are eighteen methods of murder that defy detection.<br /><a href="/short-stories/artistic-murder-misfires/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/artistic-murder-misfires/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">1740 words | 
+        
+          <span class="time">9</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="supernatural">
+<a href="/short-stories/demons-of-snake-swamp/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/demons-of-snake-swamp.png') ">
 
       <p class="card__genre">Supernatural</p>
 
@@ -533,12 +3827,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       </header> <!-- end header.card__header -->
 
-      <p class="TOCexcerpt">What evil power ruled over the dank depths of Snake Swamp, striking death to bird, beast and man? Whence came the beautiful spectral maiden who roamed its paths by night?<br /><a href="/short-stories/demons-of-swamp-lake/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+      <p class="TOCexcerpt">What evil power ruled over the dank depths of Snake Swamp, striking death to bird, beast and man? Whence came the beautiful spectral maiden who roamed its paths by night?<br /><a href="/short-stories/demons-of-snake-swamp/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
           
             Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
           
           <div class="social-buttons">
-            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/demons-of-swamp-lake/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/demons-of-snake-swamp/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
           </div>
           
 
@@ -564,7 +3858,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <li class="card " id="amateur sleuth">
 <a href="/short-stories/satan-hogs-the-camera/" style="color:#242424;">
 
-      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/satan-hogs-the-camera.svg') ">
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/shtc.svg') ">
 
       <p class="card__genre">Amateur Sleuth</p>
 
@@ -593,6 +3887,194 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p class="meta">4722 words | 
         
           <span class="time">26</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/cabbage-buttonhole/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/cabbage-buttonhole.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">The Case of the Cabbage Buttonhole 
+        <span>
+          
+            A Dixon Hawke Mystery
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">When the tramp, Mr. Wilcox, is accused of murder, can Dixon Hawke find the truth to who really killed Mr. Henderson?<br /><a href="/short-stories/cabbage-buttonhole/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/cabbage-buttonhole/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">2728 words | 
+        
+          <span class="time">15</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/ebony-cat/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/ebony-cat.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">The Ebony Cat 
+        <span>
+          
+            Rex Whitechurch
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">When a miser loans out five grand without security, something is wrong  —  particularly when the borrower is bumped off within the hour afterwards!<br /><a href="/short-stories/ebony-cat/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/ebony-cat/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">5884 words | 
+        
+          <span class="time">32</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="hardboiled pi">
+<a href="/short-stories/thornton-smiles-significantly/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/thornton-smiled-significantly.png') ">
+
+      <p class="card__genre">Hardboiled PI</p>
+
+      
+
+      <h2 class="card__meta">Thornton Smiles Significantly 
+        <span>
+          
+            David Morrison
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">The woman tried to put one over on Thornton and catch him in a compromising situation, but can Thornton outwit the con and turn the blackmail game back on her?<br /><a href="/short-stories/thornton-smiles-significantly/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/thornton-smiles-significantly/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">3720 words | 
+        
+          <span class="time">20</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/a-dinner-date-with-murder/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/a-dinner-date-with-murder.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">A Dinner Date With Murder 
+        <span>
+          
+            Harry Stein
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">They were supposed to meet a stoolpigeon, ready to squeal on the mob. But when lead starts flying, will Gatti and the Lieutenant get the information or a belly full of lead?<br /><a href="/short-stories/a-dinner-date-with-murder/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/a-dinner-date-with-murder/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">1292 words | 
+        
+          <span class="time">7</span> min 
         
         </p>
 </a>
@@ -655,12 +4137,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- README IF STATEMENT -->
 
 
-    <li class="card " id="crook, short-story">
+    <li class="card " id="crook">
 <a href="/short-stories/double-crosser/" style="color:#242424;">
 
       <header class="card__header" style=" background-image:url(' /assets/img/short-stories/double-crosser.svg') ">
 
-      <p class="card__genre">Crook, short-story</p>
+      <p class="card__genre">Crook</p>
 
       
 
@@ -702,85 +4184,38 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- README IF STATEMENT -->
 
 
-    <li class="card " id="hardboiled pi">
-<a href="/short-stories/thornton-smiles-significantly/" style="color:#242424;">
+    <li class="card " id="professional crook">
+<a href="/short-stories/fools-rush-in/" style="color:#242424;">
 
-      <header class="card__header" style=" background-image:url('/assets/img/site/atticus_b_small.png');background-size: 50px 75px;">
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/fools-rush-in.svg') ">
 
-      <p class="card__genre">Hardboiled PI</p>
+      <p class="card__genre">Professional Crook</p>
 
       
 
-      <h2 class="card__meta">Thornton Smiles Significantly 
+      <h2 class="card__meta">"Fools Rush In" 
         <span>
           
-            David Morrison
+            Dahlia Graham
           
         </span>
       </h2>
 
       </header> <!-- end header.card__header -->
 
-      <p class="TOCexcerpt">The woman tried to put one over on Thornton and catch him in a compromising situation, but can Thornton outwit the con and turn the blackmail game back on her?<br /><a href="/short-stories/thornton-smiles-significantly/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+      <p class="TOCexcerpt">Dashing Dick thought it was an easy score, picking up the make-up box Mavis Pickering left at the diner. But an easy score nearly became the final curtain call for the sneak thief.<br /><a href="/short-stories/fools-rush-in/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
           
             Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
           
           <div class="social-buttons">
-            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/thornton-smiles-significantly/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/fools-rush-in/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
           </div>
           
 
 
-        <p class="meta">3720 words | 
+        <p class="meta">2863 words | 
         
-          <span class="time">20</span> min 
-        
-        </p>
-</a>
-    </li>
-
-
-<!-- endif %} -->
-
-
-
- <!-- if short-stories.wordcount < 3001 %} -->
-
-<!-- README IF STATEMENT -->
-
-
-    <li class="card " id="mafia">
-<a href="/short-stories/dinner-date-with-murder/" style="color:#242424;">
-
-      <header class="card__header" style=" background-image:url('/assets/img/site/atticus_b_small.png');background-size: 50px 75px;">
-
-      <p class="card__genre">Mafia</p>
-
-      
-
-      <h2 class="card__meta">A Dinner Date With Murder 
-        <span>
-          
-            Harry Stein
-          
-        </span>
-      </h2>
-
-      </header> <!-- end header.card__header -->
-
-      <p class="TOCexcerpt">They were supposed to meet a stoolpigeon, ready to squeal on the mob. But when lead starts flying, will Gatti and the Lieutenant get the information or a belly full of lead?<br /><a href="/short-stories/dinner-date-with-murder/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
-          
-            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
-          
-          <div class="social-buttons">
-            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/dinner-date-with-murder/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
-          </div>
-          
-
-
-        <p class="meta">1292 words | 
-        
-          <span class="time">7</span> min 
+          <span class="time">15</span> min 
         
         </p>
 </a>
@@ -799,7 +4234,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <li class="card " id="con artist">
 <a href="/short-stories/practical-theory/" style="color:#242424;">
 
-      <header class="card__header" style=" background-image:url('/assets/img/site/atticus_b_small.png');background-size: 50px 75px;">
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/practical-theory.png') ">
 
       <p class="card__genre">Con Artist</p>
 
@@ -828,6 +4263,382 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p class="meta">5470 words | 
         
           <span class="time">30</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/rich-uncle/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/rich-uncle.svg') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">The Case of the Rich Uncle 
+        <span>
+          
+            A Dixon Hawke Mystery
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Who was the mysterious figure stumbling through the snow? Was it one of the criminals Hawke and his assistant Tommy were searching for? Or something more ominous?<br /><a href="/short-stories/rich-uncle/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/rich-uncle/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">3273 words | 
+        
+          <span class="time">18</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="robbery">
+<a href="/short-stories/failure/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/failure.png') ">
+
+      <p class="card__genre">Robbery</p>
+
+      
+
+      <h2 class="card__meta">The Failure 
+        <span>
+          
+            Harold Ward
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">A downtrodden cog in an office machine, henpecked at home and abroad, Amos Duncan longed to appear as a hero in the eyes of his wife. It had taken him two years to screw up his courage to the point of robbing Carney &amp; Kirk.<br /><a href="/short-stories/failure/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/failure/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">1825 words | 
+        
+          <span class="time">10</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="supernatural">
+<a href="/short-stories/burning-corpse/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/burning-corpse.png') ">
+
+      <p class="card__genre">Supernatural</p>
+
+      
+
+      <h2 class="card__meta">The Burning Corpse 
+        <span>
+          
+            Henry Kuttner
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Red murder lust runs riot when Simon Gaunt - long dead - writes the name of his murderer in flames.<br /><a href="/short-stories/burning-corpse/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/burning-corpse/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">6976 words | 
+        
+          <span class="time">38</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/malacca-cane/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/malacca-cane.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">The Case of the Malacca Cane 
+        <span>
+          
+            A Dixon Hawke Mystery
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Can Dixon Hawke prove Jim Hardy is not guilty of a brutal murder?<br /><a href="/short-stories/malacca-cane/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/malacca-cane/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">4188 words | 
+        
+          <span class="time">23</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="professional sleuth">
+<a href="/short-stories/disturb-the-dead/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/disturb-the-dead.png') ">
+
+      <p class="card__genre">Professional Sleuth</p>
+
+      
+
+      <h2 class="card__meta">Disturb the Dead 
+        <span>
+          
+            Sam Merwin, Jr.
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">A murder and a jewel theft take Bill Post on a strange graveyard trail.<br /><a href="/short-stories/disturb-the-dead/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/disturb-the-dead/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">2671 words | 
+        
+          <span class="time">14</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="murder">
+<a href="/short-stories/mistaken-sacrifice/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/mistaken-sacrifice.jpg') ">
+
+      <p class="card__genre">Murder</p>
+
+      
+
+      <h2 class="card__meta">The Mistaken Sacrifice 
+        <span>
+          
+            Howard Rockey
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Ah Fu sought to protect his master but in the end, only made things worse.<br /><a href="/short-stories/mistaken-sacrifice/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/mistaken-sacrifice/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">5227 words | 
+        
+          <span class="time">29</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="scientific detective">
+<a href="/short-stories/one-hunch-to-hell/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/one-hunch-to-hell.png') ">
+
+      <p class="card__genre">Scientific Detective</p>
+
+      
+
+      <h2 class="card__meta">One Hunch to Hell 
+        <span>
+          
+            Richard A. Vigil
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">The newspapers called it a monkey farm. But Detective Orville Orr found it to be an Alibi for the Grim Reaper — with himself a target for the Devil&#39;s marksman.<br /><a href="/short-stories/one-hunch-to-hell/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/one-hunch-to-hell/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">3216 words | 
+        
+          <span class="time">17</span> min 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card " id="true crime">
+<a href="/short-stories/strange-case-of-william-long/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/william-long.png') ">
+
+      <p class="card__genre">True Crime</p>
+
+      
+
+      <h2 class="card__meta">The Strange Case of William Long 
+        <span>
+          
+            Roy Giles
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt">Among the many unsolved mysteries in American crime annals the strange disappearance case of millionaire William Long, of Denver and Chicago.<br /><a href="/short-stories/strange-case-of-william-long/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/strange-case-of-william-long/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta">1898 words | 
+        
+          <span class="time">10</span> min 
         
         </p>
 </a>
@@ -969,53 +4780,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p class="meta">3843 words | 
         
           <span class="time">21</span> min 
-        
-        </p>
-</a>
-    </li>
-
-
-<!-- endif %} -->
-
-
-
- <!-- if short-stories.wordcount < 3001 %} -->
-
-<!-- README IF STATEMENT -->
-
-
-    <li class="card " id="can you solve it?">
-<a href="/short-stories/who-killed-marion-leroy/" style="color:#242424;">
-
-      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/marion-leroy.png') ">
-
-      <p class="card__genre">Can You Solve It?</p>
-
-      
-
-      <h2 class="card__meta">Who Killed Marion Leroy 
-        <span>
-          
-            Bafflers: The Popular Detective Story Game
-          
-        </span>
-      </h2>
-
-      </header> <!-- end header.card__header -->
-
-      <p class="TOCexcerpt">Can you decifer the clues and discover who killed Marion Leroy before checking for the answer?<br /><a href="/short-stories/who-killed-marion-leroy/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
-          
-            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
-          
-          <div class="social-buttons">
-            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/who-killed-marion-leroy/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
-          </div>
-          
-
-
-        <p class="meta">2189 words | 
-        
-          <span class="time">12</span> min 
         
         </p>
 </a>
@@ -1392,53 +5156,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p class="meta">5592 words | 
         
           <span class="time">31</span> min 
-        
-        </p>
-</a>
-    </li>
-
-
-<!-- endif %} -->
-
-
-
- <!-- if short-stories.wordcount < 3001 %} -->
-
-<!-- README IF STATEMENT -->
-
-
-    <li class="card " id="crime">
-<a href="/short-stories/blueberry-pie/" style="color:#242424;">
-
-      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/blueberry-pie.png') ">
-
-      <p class="card__genre">Crime</p>
-
-      
-
-      <h2 class="card__meta">Blueberry Pie 
-        <span>
-          
-            Thyra Samter Winslow
-          
-        </span>
-      </h2>
-
-      </header> <!-- end header.card__header -->
-
-      <p class="TOCexcerpt">The story about the execution of Stuart Dennison shook Irma as she recalled her old life back in New York. Before she was Irma Martin. When she was Mrs. Stuart Dennison.<br /><a href="/short-stories/blueberry-pie/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
-          
-            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
-          
-          <div class="social-buttons">
-            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/blueberry-pie/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
-          </div>
-          
-
-
-        <p class="meta">9130 words | 
-        
-          <span class="time">50</span> min 
         
         </p>
 </a>
@@ -2293,57 +6010,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p class="meta">1411 words | 
         
           <span class="time">7</span> min 
-        
-        </p>
-</a>
-    </li>
-
-
-<!-- endif %} -->
-
-
-
- <!-- if short-stories.wordcount < 3001 %} -->
-
-<!-- README IF STATEMENT -->
-
-
-    <li class="card " id="supernatural mystery">
-<a href="/short-stories/man-who-would-not-die/" style="color:#242424;">
-
-      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/man-who-would-not-die-1.svg') ">
-
-      <p class="card__genre">Supernatural Mystery</p>
-
-      
-          <div class="card__ribbonwrapper">
-            <div class="card__ribbon">PREMIUM</div> <!-- end of div card__ribbon -->
-          </div> <!-- end of div card__ribbonwrapper -->
-        
-
-      <h2 class="card__meta">The Man Who Would Not Die 
-        <span>
-          
-            Harold Ward
-          
-        </span>
-      </h2>
-
-      </header> <!-- end header.card__header -->
-
-      <p class="TOCexcerpt">What is death, my dear inspectors? Who knows? No one but me. What is the human body? Only a prison in which the soul is confined &mdash; a piece of clay to be discarded at will. God kills when he wishes. Why not I? It suited my purpose to use the mortal form of Mrs. Winters, and I took it.<br /><a href="/short-stories/man-who-would-not-die/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
-          
-            Read&nbsp;Sample&nbsp;or&nbsp;Download&nbsp;&rsaquo;&rsaquo;</a></p>
-          
-          <div class="social-buttons">
-            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/man-who-would-not-die/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
-          </div>
-          
-
-
-        <p class="meta">9444 words | 
-        
-          <span class="time">52</span> min 
         
         </p>
 </a>
@@ -5028,57 +8694,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- README IF STATEMENT -->
 
 
-    <li class="card " id="adventure">
-<a href="/short-stories/two-bells/" style="color:#242424;">
-
-      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/two-bells.svg') ">
-
-      <p class="card__genre">Adventure</p>
-
-      
-          <div class="card__ribbonwrapper">
-            <div class="card__ribbon">PREMIUM</div> <!-- end of div card__ribbon -->
-          </div> <!-- end of div card__ribbonwrapper -->
-        
-
-      <h2 class="card__meta">Two Bells 
-        <span>
-          
-            Harry C. Hervey, Jr.
-          
-        </span>
-      </h2>
-
-      </header> <!-- end header.card__header -->
-
-      <p class="TOCexcerpt">It all came back to him — the lamp-lit Australian water-front, the slinking shadows along the quay, the sickening emotions following the blow and the return to consciousness in the hold of the trading brig bound for eleven degrees south of the equator.<br /><a href="/short-stories/two-bells/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
-          
-            Read&nbsp;Sample&nbsp;or&nbsp;Download&nbsp;&rsaquo;&rsaquo;</a></p>
-          
-          <div class="social-buttons">
-            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/two-bells/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
-          </div>
-          
-
-
-        <p class="meta">8881 words | 
-        
-          <span class="time">49</span> min 
-        
-        </p>
-</a>
-    </li>
-
-
-<!-- endif %} -->
-
-
-
- <!-- if short-stories.wordcount < 3001 %} -->
-
-<!-- README IF STATEMENT -->
-
-
     <li class="card " id="noir">
 <a href="/short-stories/homicide-at-the-5-10/" style="color:#242424;">
 
@@ -5602,7 +9217,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- optin4 -->
 
 
-  </section> <!-- end section .container .card__container -->
+  </section>
 
 
 </div>
@@ -5611,9 +9226,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <footer class="site__footer" id="site__footer">
   <div class="container">
-    <small><span class="rwd-line">Copyright 2014 &mdash; 2017 <a href="/about/" style="color:#fffff0;text-decoration:underline;">Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC.</a> </span>All&nbsp;Rights&nbsp;Reserved.</small>
+    <small><span class="rwd-line">Copyright 2014 &mdash; 2018 <a href="/about/" style="color:#fffff0;text-decoration:underline;">Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC.</a> </span>All&nbsp;Rights&nbsp;Reserved.</small>
     <!-- <br> -->
-    <small class="site-policies__link"><a href="/privacy/">Privacy Policy</a></small>
+    <small class="site-policies__link"><a href="/policies/privacy/">Privacy Policy</a></small>
   </div>
 </footer>
 
@@ -5623,7 +9238,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!--load jQuery, required-->
 <!-- <script src="/assets/vendor/js/jquery-3.1.1.slim.min.js"></script> -->
 
-<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script>
+<!-- <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script> -->
 
 <!-- TYPEKIT -->
 <script src="//use.typekit.net/gwl0zuj.js"></script>
@@ -5738,54 +9353,7 @@ function myFunction() {
 
 
 
-<!-- sets story data (title, author, etc.) to localStorage/sessionStorage for use on download page -->
-<!-- <script>
 
-$(document).ready(function() {
-
-  $("#button__postdownload").click(function() {
-    console.log("button__postdownload clicked");
-    var url; // should be available throughout click function
-
-    init()
-    function init() {
-      if (!store.enabled) {
-        var url = "/downloads/your-free-download/"; //GENERIC DOWNLOAD PAGE
-        alert('Local storage is not supported by your browswer. Please disable "Private Mode", or upgrade your browser.')
-      return
-      } // end of if !store.enabled
-
-      var url = "/downloads/your-free-download/";
-      var metaArray = ["Short&nbsp;Stories", "", "", "", "", "", "", ""];
-
-      // ARRAY KEY
-      // [0] = title
-      // [1] = author
-      // [2] = genre
-      // [3] = image
-      // [4] = excerpt
-      // [5] = kindle url
-      // [6] = epub url
-      // [7] = pdf url
-
-      store.set('storyMeta', JSON.stringify(metaArray));
-
-      console.log(metaArray);
-    } // end of function init()
-
-    if (store.get('registered')) {
-      console.log("registered user!");
-      console.log(url);
-
-      var emailaddress = store.get('emailaddress');
-      console.log(emailaddress);
-      $('#mce-EMAIL').val(emailaddress);
-      // $(location).attr('href', url);  sends past modal to download page .. not currently working due to val = url issue!
-    } // end if
-
-  }); // end of click function
-});
-</script> -->
 
 <!-- Due to a screw up on my part when I mistyped "corpse" as "corse" in the URL of Start With A Corpse when redirecting from FB, I had to set up a redirect that would automatically take anyone who clicked the post in FB to the correct page. I had to hide the start-with-a-corse story from the short stories TOC. Hence this (probably BAD) code. -->
 <script>

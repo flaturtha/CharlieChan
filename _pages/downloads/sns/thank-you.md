@@ -7,13 +7,6 @@ category: download
 
 <div class="{{ page.title }}">
 
-  <header class="pagehead">
-     <section class="pagetitle">
-      <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
-      <!-- <h1><span>{{ page.title }}</span></h1> -->
-    </section> <!-- end div.pagetitle --> 
-    
-  </header>
 
   <!-- include smallnav.html %}  NOTE: change this breadcrumb to point back to referring URL -->
 

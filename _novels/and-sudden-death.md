@@ -1,6 +1,8 @@
 ---
 layout: books
 casefileNumber: 587537d0fda8f27d5695e8e9
+e-guid: 56e7c9a8-9906-492d-a8c4-8cced5d07c5e
+k-guid: a6bc0202-0273-4532-873d-94cb777bc7f8
 title: "And Sudden Death"
 author: Cleve F. Adams
 date: 2017-01-05
@@ -17,8 +19,8 @@ fb-image: /assets/img/novels/andsuddendeath_fb.jpg
 wordcount: 46403
 description: "Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him &hellip; ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings & Loan. <br><br> &mdash; First serialized as <strong>HOMICIDE HONOLULU BOUND</strong> in 1939."
 tags: novel
-buybutton: 
-downloadsamplebutton: 
+k-sample: https://s3.amazonaws.com/talesofmurder.com/samples/And_Sudden+Death-sample.mobi
+e-sample: https://s3.amazonaws.com/talesofmurder.com/samples/And_Sudden+Death-sample.epub
 ---
 
 Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him &hellip; ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings & Loan.

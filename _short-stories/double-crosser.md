@@ -4,20 +4,20 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef06
 title: "Double-Crosser"
 author: Johnston McCultey
-date: 2017-10-05
-opub: 
-opubdate: 
-opubissue: 
+date: 2018-01-25
+opub: Smashing Detective Magazine
+opubdate: Sep. 1951
+opubissue: Vol. 1, No. 3
 category: short-stories
 excerpt: "If Danny Blure could get out fast, he'd have a small fortune in jewelry. And if Agnew's boys would take the rap for the murder Danny'd unintentionally committed &mdash; he'd covered himself that far when he planted evidence at the scene of what he'd meant to only be a robbery &hellip;"
 image: /assets/img/short-stories/double-crosser.svg
+fb-image: /assets/img/short-stories/double-crosser_fb.jpg
+tease: "Take a chance on DOUBLE-CROSSER and see if Danny Blure's risk is worth it!"
 imgh: 300px
-genre: Crook, short-story
+genre: Crook
 wordcount: 4718
-trfissue: Vol. X No. 20
-trfdate: Sep. 24, 2017
-kindle: 
-epub: 
+trfissue: Vol. 8 No. 28
+trfdate: Jan. 14, 2018
 ---
 
 <section id="toc" class="toc">

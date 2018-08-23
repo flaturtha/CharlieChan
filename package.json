@@ -9,16 +9,16 @@
   "author": "rcook",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.14.3",
+    "browser-sync": "^2.23.6",
     "font-awesome": "^4.7.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "3.1.1",
     "gulp-clean-css": "^2.3.2",
     "gulp-concat": "^2.6.1",
-    "gulp-imagemin": "^3.1.1",
+    "gulp-imagemin": "^3.4.0",
     "gulp-postcss": "^6.3.0",
     "gulp-sass": "^2.3.2",
-    "gulp-sourcemaps": "^1.11.1",
+    "gulp-sourcemaps": "^1.12.1",
     "gulp-uglify": "^2.0.0",
     "gulp-uncss": "^1.0.6",
     "node-sass": "^3.11.2"
@@ -29,6 +29,17 @@
   },
   "homepage": "https://github.com/flaturtha/charliechan",
   "dependencies": {
-    "simple-jekyll-search": "^1.1.5"
+    "async": "^2.6.0",
+    "bundler": "^0.8.0",
+    "dev-ip": "^1.0.1",
+    "gulp-cli": "^2.0.1",
+    "lazy-debug-legacy": "0.0.1",
+    "mime": "^2.2.0",
+    "minimatch": "^3.0.4",
+    "netlify-cli": "^1.2.2",
+    "portscanner": "^2.1.1",
+    "qs": "^6.5.1",
+    "simple-jekyll-search": "^1.5.0",
+    "ua-parser-js": "^0.7.17"
   }
 }

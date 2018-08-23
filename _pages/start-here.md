@@ -8,16 +8,7 @@ category: start-here
 
 <div class="{{ page.title }}">
 
-  <header class="pagehead">
-     <section class="pagetitle">
-      
-      <img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
-
-    </section> <!-- end div.pagetitle --> 
-    
-     <!-- include smallnav.html %} -->
-    
-  </header>
+	{% include smallnav.html %}
 
 	<main>
 		<section class="welcome">

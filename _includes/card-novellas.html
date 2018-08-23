@@ -1,5 +1,6 @@
 <ul class="cards">
-{% for novellas in site.novellas %}
+{% assign datesort = site.novellas | sort: 'date' | reverse %}
+  {% for novellas in datesort %}
 
 <!-- README IF STATEMENT -->
 {% if site.readtime %}

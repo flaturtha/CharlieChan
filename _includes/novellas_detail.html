@@ -5,7 +5,8 @@
     </header>
  
     <ul class="cards__small">
-    {% for novellas in site.novellas | limit: 3 %}
+    {% assign datesort = site.novellas | sort: 'pubdate' | reverse %}
+      {% for novellas in datesort | limit: 3 %}
 
       <li class="card__small" {% if novellas.genre %} id="{{ novellas.genre | downcase }}"{% endif %}>
         
@@ -27,13 +28,7 @@
           </div>
         </div>
           <p class="excerpt">{{ novellas.description }}</p>
-
-        {% if page.buybutton %}
-          <button class="buybutton"><a href="{{ novels.url }}" style="color:#fffff0;">BUY</a></button>
-        {% else %}
-          <p class="small" style="margin:1rem 0;padding:0.5rem;color:#8b0000;text-transform:uppdercase;font-weight:bold;">Currently Unavailable</p>
-          <button class="buybutton"><a href="{{ novels.url }}" style="color:#fffff0;">MORE INFO</a></button>
-        {% endif %}
+          <button class="buybutton"><a href="{{ novellas.url }}" style="color:#fffff0;">BUY</a></button>
 
       </li>
 

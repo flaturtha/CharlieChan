@@ -86,7 +86,10 @@
 .welcome {
 	width: 700px;
 	max-width: 90%;
-	margin: 0 auto; /* should be 0 auto; -5rem is temporary fix */
+	margin: 0 auto;
+	@media screen and (min-width:48rem){
+		margin-top: 2rem;
+	}
 	p {
 		font-size: 1.125rem;
 		font-weight: bold;

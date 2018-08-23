@@ -134,7 +134,7 @@
     <!-- END OG -->
   <!-- end JSON-LD/SEO stuff -->
 
-  <link rel="sitemap" type="application/xml" href="https://www.talesofmurder.com/sitemap.xml">
+  <!--  <link rel="sitemap" type="application/xml" href="https://www.talesofmurder.com/sitemap.xml"> -->
 
   <!-- site icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -172,9 +172,19 @@
     <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=EOOGo1IWhe10em" style="display:none" height="1" width="1" alt="" /></noscript>
     <!-- End Alexa Certify Javascript --> 
 
-    <!-- MockingFish -->
-    <script src="//control.mockingfish.com/js/013545.js"></script>
-    <!-- End MockingFish -->
+    <!-- SNIPCART updated to LIVE server on 12.27.17 @ 10:30 a.m. -->
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+     <!--<script type="text/javascript" src="https://cdn.snipcart.com/scripts/snipcart.js" id="snipcart"
+      data-api-key="MzBjYTY2ZDgtZGZmZC00MWE0LWFjZmYtMmMwN2JiZTQ4Zjkz"></script>
+
+    <link type="text/css" href="https://cdn.snipcart.com/themes/base/snipcart.min.css" rel="stylesheet" />
+    End SNIPCART -->
+
+    <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="MzBjYTY2ZDgtZGZmZC00MWE0LWFjZmYtMmMwN2JiZTQ4Zjkz" id="snipcart"></script>
+
+    <link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
+    
 
 </head>
 
@@ -205,15 +215,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <nav class="nav" role="navigation">
 
-  <div class="social-nav hidden">
+  <div class="social-nav hidden" style="display:flex;flex-direction:column;justify-content:space-around;">
     <h2 class="hidden">Social Media Submenu</h2>
-    <ul>
-      <!-- <li class="submenu__search"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li> -->
+
+    <a href="#" class="snipcart-user-profile" style="background-color:#8b0000;color:#fffff0;padding:4px 6px;margin-bottom:12px;"><span class="snipcart-user-email"><i class="fa fa-user"></i> Login/Register</span></a>
+    <div style="align-self:center">
+      <a href="#" class="snipcart-edit-profile small" style="color:#fffff0;">Edit Profile&nbsp;|</a>
+      <a href="#" class="snipcart-user-logout small" style="color:#fffff0;">&nbsp;Logout</a>
+    </div>
+    <br>
+
+    <!-- <ul>
+      <li class="submenu__search"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li> 
       <li class="submenu__facebook"><a href=""><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
       <li class="submenu__twitter"><a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
       <li class="submenu__rss"><a href="http://feeds.feedburner.com/TalesOfMurder" rel="alternate" type="application/rss+xml"><i class="fa fa-rss-square" aria-hidden="true"></i></a></li>
       <li class="submenu__slack"><a href=""><i class="fa fa-slack" aria-hidden="true"></i></a></li>
-    </ul>
+    </ul>-->
   </div>
 
   <div class="main-nav">
@@ -227,6 +245,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <li><a  href="/start-here"/><span class="bg-start-here">Start Here</span></a></li>
       <li><a  href="/murderwiki/"><span>MurderWiki</span></a></li>
       <li><a  href="/short-stories/"><span>Short Stories</span></a></li>
+      <li><a  href="/novelettes/"><span>Novelettes</span></a></li> 
       <li><a  href="/novellas/"><span>Novellas</span></a></li>
       <li><a  href="/novels/"><span>Novels</span></a></li>
       <!-- <li><a  href="/armchair-detectives-bureau/"><span>A.D.B.</span></a></li> -->
@@ -238,21 +257,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 
 </nav> <!-- end nav.nav -->
+
   <!-- nav2 floats above since its stick so everything below it in the html starts at the top of the screen! -->
 
-  <div class="siteintro">
+  <div class="siteintro hideonmobile">
 	<div class="siteintro_top">
 		<img class="hideonmobile" src="/assets/img/site/tmp12.svg" alt="Tales of Murder, for readers with time to kill!">
 	</div>
-	<div class="siteintro_bottom">
+	<!-- <div class="siteintro_bottom">
 			<p><span class="whitebar"><a href="/novels/">NOVELS</a> &middot; <a href="/novellas/">NOVELLAS</a> &middot; <a href="/short-stories/">SHORT&nbsp;STORIES&nbsp;</a>&middot; <a href="/murderwiki/">MURDERWIKI</a>&nbsp;&middot;<a href="/armchair-detectives-bureau/">&nbsp;ARMCHAIR&nbsp;DETECTIVES&nbsp;BUREAU</a></span></p>
-	</div>
+	</div> -->
 
 </div>
-
-<!--   <div class="fake">
-  	<h4>just a fake div for testing</h4>
-  </div> -->
 
 </header>
 
@@ -275,37 +291,48 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="Home homepage">
 
+  <div style="text-align:center;color:#fffff0;background-color:#242424;margin:-2rem 0 2rem 0;padding:2rem;" class="hidden">
+    <h1>READ <em>ANYTHING</em></h1>
+    <h2>IN AS LITTLE AS 5 MINUTES PER DAY</h2>
+    <h4>Your time is limited &hellip; especially for special activities you love, like reading a great story. Not any more!</h4>
+    <p>Find a story you want to read, and get it in <em>serial</em> format &hellip; with new installments delivered every day.</p>
+    <ul>
+      <li>NOVELETTES &mdash; 5-min per day installments</li>
+      <li>NOVELLAS &mdash; 10-min per day installments</li>
+      <li>NOVELS &mdash; up to 30-min per day installments</li>
+    </ul>
+  </div>
+
+
   <!-- NOVELS -->
     <section class="hp__novels wrap">
 
     <header>
       <h2>NOVELS</h2>
-      <a class="hp__link" href="/novels">Browse <span class="bold">3</span> Novels &raquo;</a>
+      <a class="hp__link" href="/novels">Browse <span class="bold">6</span> Novels &raquo;</a>
     </header>
   
     <ul class="cards__small">
     
+    
 
-      <li class="hp__card__small" id="hardboiled pi">
+      <li class="hp__card__small" id="paranormal">
         
-        <a href="/novels/and-sudden-death/" class="readmore">
-        <img src="/assets/img/novels/andsuddendeath.jpg" alt="And Sudden Death by Cleve F. Adams" /></a>
+        <a href="/novels/back-from-the-dead/" class="readmore">
+        <img src="/assets/img/novels/back-from-the-dead.jpg" alt="Back from the Dead by Old Ironnerve, Jr." /></a>
         <div style="display: flex;justify-content: space-between;">
           <div>
-            <h2 class="title">And Sudden Death</h2>
-            <h3 class="author"><span>by</span> Cleve F. Adams</h3>
+            <h2 class="title">Back from the Dead</h2>
+            <h3 class="author"><span>by</span> Old Ironnerve, Jr.</h3>
           </div>
           <div class="price">
             <p>$4.99</p>
           </div>
         </div>
-        <p class="excerpt">Rex McBride, LA private detective and self-proclaimed heel, needs to forget. He needs to forget his last case. And he needs the money that Mr. Vickers offers him &hellip; ten percent of the dough that disappeared with Nordstrom after he looted the Southern Counties Buildings &amp; Loan. <br /><br /> &mdash; First serialized as <strong>HOMICIDE HONOLULU BOUND</strong> in 1939.</p>
+        <p class="excerpt">When master detective, Foster King, is called in to investigate peculiar events at the Central-Midland Bank, he finds more than simple embezzlement, he finds a mind capable of controlling others and forcing them to do his bidding. Can Old Ironnerve outwit this mysterious hypnotist and bring a murderer to justice?</p>
         <!-- <p class="excerpt"></p> -->
         
-        
-          <p class="small" style="margin:1rem 0;padding:0.5rem;color:#8b0000;text-transform:uppdercase;font-weight:bold;">Currently Unavailable</p>
-          <button class="buybutton"><a href="/novels/and-sudden-death/" style="color:#fffff0;">MORE INFO</a></button>
-        
+        <button class="buybutton"><a href="/novels/back-from-the-dead/" style="color:#fffff0;">BUY</a></button>
 
       </li>
 
@@ -313,24 +340,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <li class="hp__card__small" id="professional sleuth">
         
-        <a href="/novels/blonde-in-black/" class="readmore">
-        <img src="/assets/img/novels/blonde-in-black.jpg" alt="The Blonde in Black by Ben Benson" /></a>
+        <a href="/novels/into-the-heart-of-australia/" class="readmore">
+        <img src="/assets/img/novels/into-the-heart-of-australia.jpg" alt="Into the Heart of Australia by the author of OLD BROADBRIM" /></a>
         <div style="display: flex;justify-content: space-between;">
           <div>
-            <h2 class="title">The Blonde in Black</h2>
-            <h3 class="author"><span>by</span> Ben Benson</h3>
+            <h2 class="title">Into the Heart of Australia</h2>
+            <h3 class="author"><span>by</span> the author of OLD BROADBRIM</h3>
           </div>
           <div class="price">
-            <p>$5.99</p>
+            <p>$4.99</p>
           </div>
         </div>
-        <p class="excerpt">Sex was Junie's trademark, the wiggle, the tight black dress, the sultry voice. But now George Pringle, president of Micro Records, is dead &hellip; did Junie hit a sour note and kill the man who made her singing career?</p>
+        <p class="excerpt">Old Broadbrim goes to the outback of Australia to keep his promise and track a killer.</p>
         <!-- <p class="excerpt"></p> -->
         
-        
-          <p class="small" style="margin:1rem 0;padding:0.5rem;color:#8b0000;text-transform:uppdercase;font-weight:bold;">Currently Unavailable</p>
-          <button class="buybutton"><a href="/novels/blonde-in-black/" style="color:#fffff0;">MORE INFO</a></button>
-        
+        <button class="buybutton"><a href="/novels/into-the-heart-of-australia/" style="color:#fffff0;">BUY</a></button>
 
       </li>
 
@@ -339,22 +363,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </ul>
     
   </section>
+
     
   <!-- NOVELLAS -->
     <section class="hp__novellas wrap">
     <header>
       <h2>NOVELLAS</h2>
-      <a class="hp__link" href="/novellas">Browse <span class="bold">6</span> Novellas &raquo;</a>
+      <a class="hp__link" href="/novellas">Browse <span class="bold">5</span> Novellas &raquo;</a>
     </header>
  
     <ul class="cards__small">
     
+      
 
       <li class="card__small" id="professional sleuth">
         
-        <a href="/novellas/black-shadows/" class="readmore">
+        <a href="/novellas/five-who-saw-too-much/" class="readmore">
           <figure>
-            <img src="/assets/img/novellas/black-shadows.jpg" alt="Black Shadows by J. C. Kofoed" />
+            <img src="/assets/img/novellas/five-who-saw-too-much.png" alt="The Five Who Saw Too Much by A Dixon Hawke Mystery" />
           </figure>
           <figcaption>
             
@@ -362,19 +388,110 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </a>
         <div class="card__small__header">
           <div>
-            <h2 class="title">Black Shadows</h2>
-            <h3 class="author"><span>by</span> J. C. Kofoed</h3>
+            <h2 class="title">The Five Who Saw Too Much</h2>
+            <h3 class="author"><span>by</span> A Dixon Hawke Mystery</h3>
           </div>
           <div class="price">
-            <p>$1.25</p>
+            <p>$3.99</p>
           </div>
         </div>
-          <p class="excerpt">When old man Guerney is found murdered in his locked study, then the prime suspect and a mysterious tattooed man are also found murdered, newspaperman Johnny Suggs is determined to prove Mildred Guerney's innocense and prove himself to his father.</p>
+          <p class="excerpt">Five victims. Seemingly unconnected. Can Dixon Hawke uncover the truth behind the <em>"Night of Terror"</em>?</p>
+          <button class="buybutton"><a href="/novellas/five-who-saw-too-much/" style="color:#fffff0;">BUY</a></button>
 
+      </li>
+
+    
+
+      <li class="card__small" id="masked hero">
         
-          <p class="small" style="margin:1rem 0;padding:0.5rem;color:#8b0000;text-transform:uppdercase;font-weight:bold;">Currently Unavailable</p>
-          <button class="buybutton"><a href="" style="color:#fffff0;">MORE INFO</a></button>
+        <a href="/novellas/whispering-eye/" class="readmore">
+          <figure>
+            <img src="/assets/img/novellas/whispering-eye.jpg" alt="The Whispering Eye by G. T. Fleming-Roberts" />
+          </figure>
+          <figcaption>
+            
+          </figcaption>
+        </a>
+        <div class="card__small__header">
+          <div>
+            <h2 class="title">The Whispering Eye</h2>
+            <h3 class="author"><span>by</span> G. T. Fleming-Roberts</h3>
+          </div>
+          <div class="price">
+            <p>$3.99</p>
+          </div>
+        </div>
+          <p class="excerpt">Hunted by the police ... framed for robbery and murder by the Eye, master fiend and vicious ruler of the underworld ... loathed by Barbara Sutton the girl who loves him ... the BLACK HOOD had to face the blazing purgatory of this murder master's guns to win back Barbara's love and clear himself of the framed charges.</p>
+          <button class="buybutton"><a href="/novellas/whispering-eye/" style="color:#fffff0;">BUY</a></button>
+
+      </li>
+
+    
+
+      <li class="card__small" id="professional sleuth">
         
+        <a href="/novellas/killers-castle/" class="readmore">
+          <figure>
+            <img src="/assets/img/novellas/killers-castle.jpg" alt="Killers' Castle by George Dilnot" />
+          </figure>
+          <figcaption>
+            
+          </figcaption>
+        </a>
+        <div class="card__small__header">
+          <div>
+            <h2 class="title">Killers' Castle</h2>
+            <h3 class="author"><span>by</span> George Dilnot</h3>
+          </div>
+          <div class="price">
+            <p>$2.99</p>
+          </div>
+        </div>
+          <p class="excerpt">Magda Stewart had asked for his help and now she was missing. Could Elver find the girl before it was too late?</p>
+          <button class="buybutton"><a href="/novellas/killers-castle/" style="color:#fffff0;">BUY</a></button>
+
+      </li>
+
+    
+
+    </ul>
+
+  </section>
+
+
+   <!-- include optin6.html %} -->
+
+  <!-- NOVELETTES -->
+    <section class="hp__novellas wrap">
+    <header>
+      <h2>NOVELETTES</h2>
+      <a class="hp__link" href="/novelettes">Browse <span class="bold">17</span> Novellas &raquo;</a>
+    </header>
+ 
+    <ul class="cards__small">
+    
+
+      <li class="card__small" id="amateur sleuth">
+        
+        <a href="/novelettes/after-midnight/" class="readmore">
+          <figure>
+            <img src="/assets/img/novelettes/after-midnight.jpg" alt="After Midnight by Marthé Neville" />
+          </figure>
+          <figcaption>
+            
+          </figcaption>
+        </a>
+        <div class="card__small__header">
+          <div>
+            <h2 class="title">After Midnight</h2>
+            <h3 class="author"><span>by</span> Marthé Neville</h3>
+          </div>
+          <div class="price">
+            <p class="strikethru">$2.99</p>
+          </div>
+        </div>
+          <p class="excerpt">Willoughby is jealous of his wife's relationship with the new gardener. But who is the mysterious man and how does a faithful wife's relationship with him lead to murder?</p>
+          <button class="buybutton"><a href="/novelettes/after-midnight/" style="color:#fffff0;">FREE Download ...</a></button>
 
       </li>
 
@@ -382,7 +499,111 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <li class="card__small" id="amateur sleuth">
         
-        <a href="/novellas/campaign-for-vengeance/" class="readmore">
+        <a href="/novelettes/bereave-it-or-not/" class="readmore">
+          <figure>
+            <img src="/assets/img/novelettes/bereave-it-or-not.jpg" alt="Bereave It, Or Not by Thorne Lee" />
+          </figure>
+          <figcaption>
+            
+          </figcaption>
+        </a>
+        <div class="card__small__header">
+          <div>
+            <h2 class="title">Bereave It, Or Not</h2>
+            <h3 class="author"><span>by</span> Thorne Lee</h3>
+          </div>
+          <div class="price">
+            <p class="strikethru">$2.99</p>
+          </div>
+        </div>
+          <p class="excerpt">The most thankless task of Detective Daventry's career was the case of the mystified murderer. For because his victim was unknown and unmourned, the only gratitude due to Daventry would be a pat on the back from the Grim Reaper.</p>
+          <button class="buybutton"><a href="/novelettes/bereave-it-or-not/" style="color:#fffff0;">FREE Download ...</a></button>
+
+      </li>
+
+    
+
+      <li class="card__small" id="crime">
+        
+        <a href="/novelettes/blueberry-pie/" class="readmore">
+          <figure>
+            <img src="/assets/img/novelettes/blueberry-pie.jpg" alt="Blueberry Pie by Thyra Samter Winslow" />
+          </figure>
+          <figcaption>
+            
+          </figcaption>
+        </a>
+        <div class="card__small__header">
+          <div>
+            <h2 class="title">Blueberry Pie</h2>
+            <h3 class="author"><span>by</span> Thyra Samter Winslow</h3>
+          </div>
+          <div class="price">
+            <p class="strikethru">$2.99</p>
+          </div>
+        </div>
+          <p class="excerpt">The story about the execution of Stuart Dennison shook Irma as she recalled her old life back in New York. Before she was Irma Martin. When she was Mrs. Stuart Dennison.</p>
+          <button class="buybutton"><a href="/novelettes/blueberry-pie/" style="color:#fffff0;">FREE Download ...</a></button>
+
+      </li>
+
+    
+
+      <li class="card__small" id="amateur sleuth">
+        
+        <a href="/novelettes/abandoned-house/" class="readmore">
+          <figure>
+            <img src="/assets/img/novelettes/abandoned-house.jpg" alt="The Abandoned House by Buelah Poynter" />
+          </figure>
+          <figcaption>
+            
+          </figcaption>
+        </a>
+        <div class="card__small__header">
+          <div>
+            <h2 class="title">The Abandoned House</h2>
+            <h3 class="author"><span>by</span> Buelah Poynter</h3>
+          </div>
+          <div class="price">
+            <p class="strikethru">$2.99</p>
+          </div>
+        </div>
+          <p class="excerpt">Trying to escape the storm, Alan and his sister, Nell, seek shelter in the old abandoned house. But when they discover Judge MacPherson recently murdered, will they find the killer or death?</p>
+          <button class="buybutton"><a href="/novelettes/abandoned-house/" style="color:#fffff0;">FREE Download ...</a></button>
+
+      </li>
+
+    
+
+      <li class="card__small" id="noir">
+        
+        <a href="/novelettes/butterfly-of-death/" class="readmore">
+          <figure>
+            <img src="/assets/img/novelettes/butterfly-of-death.jpg" alt="Butterfly of Death by John H. Knox" />
+          </figure>
+          <figcaption>
+            
+          </figcaption>
+        </a>
+        <div class="card__small__header">
+          <div>
+            <h2 class="title">Butterfly of Death</h2>
+            <h3 class="author"><span>by</span> John H. Knox</h3>
+          </div>
+          <div class="price">
+            <p class="strikethru">$2.99</p>
+          </div>
+        </div>
+          <p class="excerpt">A queer kind of a chuckle hit my eardrum. “You’re Joe Delaney,” repeated the voice, and then it added, “So you think you can take my little Butterfly away from me and nothing will happen to you?”</p>
+          <button class="buybutton"><a href="/novelettes/butterfly-of-death/" style="color:#fffff0;">FREE Download ...</a></button>
+
+      </li>
+
+    
+
+      <li class="card__small" id="amateur sleuth">
+        
+        <a href="/novelettes/campaign-for-vengeance/" class="readmore">
           <figure>
             <img src="/assets/img/novellas/campaign-for-vengeance.jpg" alt="The Campaign for Vengeance by John Baer" />
           </figure>
@@ -396,45 +617,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h3 class="author"><span>by</span> John Baer</h3>
           </div>
           <div class="price">
-            <p>$1.49</p>
+            <p class="strikethru">$2.99</p>
           </div>
         </div>
           <p class="excerpt">After her beloved brother, Captain Jimmy Cornell, was found dead, with a small, white card on his chest bearing the words, The Mogal, Marguerite swore she’d bring the killers to justice.</p>
-
-        
-          <p class="small" style="margin:1rem 0;padding:0.5rem;color:#8b0000;text-transform:uppdercase;font-weight:bold;">Currently Unavailable</p>
-          <button class="buybutton"><a href="" style="color:#fffff0;">MORE INFO</a></button>
-        
-
-      </li>
-
-    
-
-      <li class="card__small" id="espionage">
-        
-        <a href="/novellas/decoy/" class="readmore">
-          <figure>
-            <img src="/assets/img/novellas/decoy.jpg" alt="The Decoy by Robert Murray" />
-          </figure>
-          <figcaption>
-            
-          </figcaption>
-        </a>
-        <div class="card__small__header">
-          <div>
-            <h2 class="title">The Decoy</h2>
-            <h3 class="author"><span>by</span> Robert Murray</h3>
-          </div>
-          <div class="price">
-            <p>$2.99</p>
-          </div>
-        </div>
-          <p class="excerpt">The door was flung open and the tall crook stormed into the room in which the gang were grouped. His finger shot out towards Rackway. “That man,” he snarled.” That man is an impostor — a spy!”</p>
-
-        
-          <p class="small" style="margin:1rem 0;padding:0.5rem;color:#8b0000;text-transform:uppdercase;font-weight:bold;">Currently Unavailable</p>
-          <button class="buybutton"><a href="" style="color:#fffff0;">MORE INFO</a></button>
-        
+          <button class="buybutton"><a href="/novelettes/campaign-for-vengeance/" style="color:#fffff0;">FREE Download ...</a></button>
 
       </li>
 
@@ -444,71 +631,70 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   </section>
 
-   <!-- include optin6.html %} -->
 
   <!-- SHORT STORIES -->
     <section class="hp__short-stories wrap">
     <header>
       <h2>SHORT STORIES</h2>
-      <a class="hp__link" href="/short-stories">Browse <span class="bold">110</span> Short Stories &raquo;</a>
+      <a class="hp__link" href="/short-stories">Browse <span class="bold">187</span> Short Stories &raquo;</a>
     </header>
 
     <ul class="cards__small">
     
     
 
-      <li class="card__small" id="amateur sleuth">
+      <li class="card__small" id="crook">
         
-        <!-- <h4 class="xsmall"><span style="float:right;background-color:#8b0000;color:#fffff0;padding:3px;margin:3px;">Sat, Nov 18, 2017</span></h4> -->
+        <!-- <h4 class="xsmall"><span style="float:right;background-color:#8b0000;color:#fffff0;padding:3px;margin:3px;">Wed, Aug 22, 2018</span></h4> -->
 
         
-        <a href="/short-stories/hear-not-see-not-speak-not-evil/" class="readmore">
+        <a href="/short-stories/bullying-the-bulls/" class="readmore">
         
           
-            <div style="background-image:url(' /assets/img/short-stories/hear-not.svg ');background-repeat:no-repeat;background-position:center;background-size:contain;height:375px"></div>
+            <div style="background-image:url(' /assets/img/short-stories/bullying-the-bulls.png ');background-repeat:no-repeat;background-position:center;background-size:contain;height:375px"></div>
           
         </a>
 
-        <h2 class="title">Hear Not, See Not, Speak Not Evil</h2>
+        <h2 class="title">Bulling the Bulls</h2>
         <h3 class="author">
           
-            <span>by</span> Walter Deffenbaugh
+            <span>by</span> Walter Scott Story
           
         </h3>
-        <p class="excerpt"></p>
+        <p class="excerpt">He needed a favor, to help him avoid the bulls. But would his companion bully him instead?</p>
         <!-- <div class="price">
           <p>$</p>
         </div> -->
-        <button class="buybutton"><a href="/short-stories/hear-not-see-not-speak-not-evil/" style="color:#fffff0;">READ</a></button>
+        <a href="/short-stories/bullying-the-bulls/" style="color:#fffff0;"><button class="buybutton">READ</button></a>
         <!-- <p class="buybutton">Buy</p> -->
 
       </li>
 
     
 
-      <li class="card__small" id="noir">
+      <li class="card__small" id="historical">
         
-        <!-- <h4 class="xsmall"><span style="float:right;background-color:#8b0000;color:#fffff0;padding:3px;margin:3px;">Thu, Nov 16, 2017</span></h4> -->
+        <!-- <h4 class="xsmall"><span style="float:right;background-color:#8b0000;color:#fffff0;padding:3px;margin:3px;">Mon, Aug 20, 2018</span></h4> -->
 
         
-        <a href="/short-stories/how-dead-can-you-get/" class="readmore">
+        <a href="/short-stories/he-risked-all-for-a-thrill/" class="readmore">
         
           
-            <div style="background-image:url(' /assets/img/short-stories/how-dead-can-you-get.svg ');background-repeat:no-repeat;background-position:center;background-size:contain;height:375px"></div>
+            <div style="background-image:url(' /assets/img/short-stories/he-risked-all-for-a-thrill.png ');background-repeat:no-repeat;background-position:center;background-size:contain;height:375px"></div>
           
         </a>
 
-        <h2 class="title">How Dead Can You Get?</h2>
+        <h2 class="title">He Risked All For the Thrill!</h2>
         <h3 class="author">
           
-            <span>by</span> Charles Beckman, Jr.
+            <span>by</span> Charles Somerville
           
         </h3>
-        <p class="excerpt">All he could remember was the beautiful dead girl. But who was she—and why had he killed her?</p>
+        <p class="excerpt">Is the Great Reporter Detective Only a Memory? Where Are the Stars Today?</p>
         <!-- <div class="price">
           <p>$</p>
         </div> -->
-        <button class="buybutton"><a href="/short-stories/how-dead-can-you-get/" style="color:#fffff0;">READ</a></button>
+        <a href="/short-stories/he-risked-all-for-a-thrill/" style="color:#fffff0;"><button class="buybutton">READ</button></a>
         <!-- <p class="buybutton">Buy</p> -->
 
       </li>
@@ -517,114 +703,114 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <li class="card__small" id="professional sleuth">
         
-        <!-- <h4 class="xsmall"><span style="float:right;background-color:#8b0000;color:#fffff0;padding:3px;margin:3px;">Tue, Oct 31, 2017</span></h4> -->
+        <!-- <h4 class="xsmall"><span style="float:right;background-color:#8b0000;color:#fffff0;padding:3px;margin:3px;">Thu, Aug 16, 2018</span></h4> -->
 
         
-        <a href="/short-stories/duelling-pistols/" class="readmore">
+        <a href="/short-stories/left-handed-footman/" class="readmore">
         
           
-            <div style="background-image:url(' /assets/img/short-stories/duelling-pistols.svg ');background-repeat:no-repeat;background-position:center;background-size:contain;height:375px"></div>
+            <div style="background-image:url(' /assets/img/short-stories/left-handed-footman.png ');background-repeat:no-repeat;background-position:center;background-size:contain;height:375px"></div>
           
         </a>
 
-        <h2 class="title">The Case of the Duelling Pistols</h2>
+        <h2 class="title">The Case of the Left-Handed Footman</h2>
         <h3 class="author">
           
             A Dixon Hawke Mystery
           
         </h3>
-        <p class="excerpt">“I didn’t kill him, Mr. Hawke! I swear I didn’t kill him!” The famous criminologist had been call...</p>
+        <p class="excerpt">When a parlour game of "Murder" produces a real-life dead body, can Dixon Hawke sift through the ...</p>
         <!-- <div class="price">
           <p>$</p>
         </div> -->
-        <button class="buybutton"><a href="/short-stories/duelling-pistols/" style="color:#fffff0;">READ</a></button>
+        <a href="/short-stories/left-handed-footman/" style="color:#fffff0;"><button class="buybutton">READ</button></a>
         <!-- <p class="buybutton">Buy</p> -->
 
       </li>
 
     
 
-      <li class="card__small" id="supernatural">
+      <li class="card__small" id="noir">
         
-        <!-- <h4 class="xsmall"><span style="float:right;background-color:#8b0000;color:#fffff0;padding:3px;margin:3px;">Sat, Oct 21, 2017</span></h4> -->
+        <!-- <h4 class="xsmall"><span style="float:right;background-color:#8b0000;color:#fffff0;padding:3px;margin:3px;">Wed, Aug 15, 2018</span></h4> -->
 
         
-        <a href="/short-stories/demons-of-swamp-lake/" class="readmore">
+        <a href="/short-stories/thisll-kill-you/" class="readmore">
         
           
-            <div class="placeholder"></div>
+            <div style="background-image:url(' /assets/img/short-stories/thisll-kill-you.png ');background-repeat:no-repeat;background-position:center;background-size:contain;height:375px"></div>
           
         </a>
 
-        <h2 class="title">Demons of Snake Swamp</h2>
+        <h2 class="title">This'll Kill You</h2>
         <h3 class="author">
           
-            <span>by</span> Anthony Pelcher
+            <span>by</span> James Mort
           
         </h3>
-        <p class="excerpt">What evil power ruled over the dank depths of Snake Swamp, striking death to bird, beast and man?...</p>
+        <p class="excerpt">If you're gonna be a heel, Wilson figured, you might as well be well-heeled.</p>
         <!-- <div class="price">
           <p>$</p>
         </div> -->
-        <button class="buybutton"><a href="/short-stories/demons-of-swamp-lake/" style="color:#fffff0;">READ</a></button>
+        <a href="/short-stories/thisll-kill-you/" style="color:#fffff0;"><button class="buybutton">READ</button></a>
         <!-- <p class="buybutton">Buy</p> -->
 
       </li>
 
     
 
-      <li class="card__small" id="amateur sleuth">
+      <li class="card__small" id="true crime oddities">
         
-        <!-- <h4 class="xsmall"><span style="float:right;background-color:#8b0000;color:#fffff0;padding:3px;margin:3px;">Thu, Oct 19, 2017</span></h4> -->
+        <!-- <h4 class="xsmall"><span style="float:right;background-color:#8b0000;color:#fffff0;padding:3px;margin:3px;">Mon, Aug 13, 2018</span></h4> -->
 
         
-        <a href="/short-stories/satan-hogs-the-camera/" class="readmore">
+        <a href="/short-stories/crime-digest/" class="readmore">
         
           
-            <div style="background-image:url(' /assets/img/short-stories/satan-hogs-the-camera.svg ');background-repeat:no-repeat;background-position:center;background-size:contain;height:375px"></div>
+            <div style="background-image:url(' /assets/img/short-stories/crime-digest.png ');background-repeat:no-repeat;background-position:center;background-size:contain;height:375px"></div>
           
         </a>
 
-        <h2 class="title">Satan Hogs the Camera</h2>
+        <h2 class="title">Crime Digest</h2>
         <h3 class="author">
           
-            <span>by</span> Emil Petaja
+            <span>by</span> Zeta Rothschild
           
         </h3>
-        <p class="excerpt">Jack Kelley doubled for the hero in Hollywood film fights. But when he undertook to stand in for ...</p>
+        <p class="excerpt">A short collection of crime oddities ...</p>
         <!-- <div class="price">
           <p>$</p>
         </div> -->
-        <button class="buybutton"><a href="/short-stories/satan-hogs-the-camera/" style="color:#fffff0;">READ</a></button>
+        <a href="/short-stories/crime-digest/" style="color:#fffff0;"><button class="buybutton">READ</button></a>
         <!-- <p class="buybutton">Buy</p> -->
 
       </li>
 
     
 
-      <li class="card__small" id="adventure">
+      <li class="card__small" id="serial killer">
         
-        <!-- <h4 class="xsmall"><span style="float:right;background-color:#8b0000;color:#fffff0;padding:3px;margin:3px;">Sat, Oct 07, 2017</span></h4> -->
+        <!-- <h4 class="xsmall"><span style="float:right;background-color:#8b0000;color:#fffff0;padding:3px;margin:3px;">Sat, Aug 11, 2018</span></h4> -->
 
         
-        <a href="/short-stories/man-in-the-cask/" class="readmore">
+        <a href="/short-stories/laughing-death/" class="readmore">
         
           
-            <div style="background-image:url(' /assets/img/short-stories/cask.png ');background-repeat:no-repeat;background-position:center;background-size:contain;height:375px"></div>
+            <div style="background-image:url(' /assets/img/short-stories/laughing-death.png ');background-repeat:no-repeat;background-position:center;background-size:contain;height:375px"></div>
           
         </a>
 
-        <h2 class="title">The Man in the Cask</h2>
+        <h2 class="title">Laughing Death</h2>
         <h3 class="author">
           
-            <span>by</span> Vincent Starrett
+            <span>by</span> Charles Conger Stewart
           
         </h3>
-        <p class="excerpt">He wanted to die in Oak Grove, Illinois. A hell of a place to die, but that’s what he wanted. The...</p>
+        <p class="excerpt">She warned him about the fat man, but Jim wouldn't listen. He was determined to know who the fat ...</p>
         <!-- <div class="price">
           <p>$</p>
         </div> -->
-        <button class="buybutton"><a href="/short-stories/man-in-the-cask/" style="color:#fffff0;">READ</a></button>
+        <a href="/short-stories/laughing-death/" style="color:#fffff0;"><button class="buybutton">READ</button></a>
         <!-- <p class="buybutton">Buy</p> -->
 
       </li>
@@ -636,6 +822,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="cf"></div>
 
   </section>
+
 
   <!-- MURDERWIKI -->
     <section class="hp__mw wrap">
@@ -746,9 +933,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <footer class="site__footer" id="site__footer">
   <div class="container">
-    <small><span class="rwd-line">Copyright 2014 &mdash; 2017 <a href="/about/" style="color:#fffff0;text-decoration:underline;">Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC.</a> </span>All&nbsp;Rights&nbsp;Reserved.</small>
+    <small><span class="rwd-line">Copyright 2014 &mdash; 2018 <a href="/about/" style="color:#fffff0;text-decoration:underline;">Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC.</a> </span>All&nbsp;Rights&nbsp;Reserved.</small>
     <!-- <br> -->
-    <small class="site-policies__link"><a href="/privacy/">Privacy Policy</a></small>
+    <small class="site-policies__link"><a href="/policies/privacy/">Privacy Policy</a></small>
   </div>
 </footer>
 
@@ -758,7 +945,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!--load jQuery, required-->
 <!-- <script src="/assets/vendor/js/jquery-3.1.1.slim.min.js"></script> -->
 
-<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script>
+<!-- <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script> -->
 
 <!-- TYPEKIT -->
 <script src="//use.typekit.net/gwl0zuj.js"></script>
@@ -873,54 +1060,7 @@ function myFunction() {
 
 
 
-<!-- sets story data (title, author, etc.) to localStorage/sessionStorage for use on download page -->
-<!-- <script>
 
-$(document).ready(function() {
-
-  $("#button__postdownload").click(function() {
-    console.log("button__postdownload clicked");
-    var url; // should be available throughout click function
-
-    init()
-    function init() {
-      if (!store.enabled) {
-        var url = "/downloads/your-free-download/"; //GENERIC DOWNLOAD PAGE
-        alert('Local storage is not supported by your browswer. Please disable "Private Mode", or upgrade your browser.')
-      return
-      } // end of if !store.enabled
-
-      var url = "/downloads/your-free-download/";
-      var metaArray = ["Home", "", "", "", "", "", "", ""];
-
-      // ARRAY KEY
-      // [0] = title
-      // [1] = author
-      // [2] = genre
-      // [3] = image
-      // [4] = excerpt
-      // [5] = kindle url
-      // [6] = epub url
-      // [7] = pdf url
-
-      store.set('storyMeta', JSON.stringify(metaArray));
-
-      console.log(metaArray);
-    } // end of function init()
-
-    if (store.get('registered')) {
-      console.log("registered user!");
-      console.log(url);
-
-      var emailaddress = store.get('emailaddress');
-      console.log(emailaddress);
-      $('#mce-EMAIL').val(emailaddress);
-      // $(location).attr('href', url);  sends past modal to download page .. not currently working due to val = url issue!
-    } // end if
-
-  }); // end of click function
-});
-</script> -->
 
 <!-- Due to a screw up on my part when I mistyped "corpse" as "corse" in the URL of Start With A Corpse when redirecting from FB, I had to set up a redirect that would automatically take anyone who clicked the post in FB to the correct page. I had to hide the start-with-a-corse story from the short stories TOC. Hence this (probably BAD) code. -->
 <script>
