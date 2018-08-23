@@ -1,9 +1,11 @@
 ---
 layout: novelettes
-casefileNumber: 55ccf75fb3901011515aeeff 
+casefileNumber: 55ccf75fb3901011515aeeff
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/butterfly-of-death.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/butterfly-of-death.epub
 title: "Butterfly of Death"
 author: John H. Knox
-pubdate: 
+pubdate: 2018-08-16 
 opub: Smashing Detective 
 opubdate: Sept. 1951
 opubissue: Vol. 1, No. 3

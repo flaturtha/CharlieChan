@@ -1,8 +1,8 @@
 ---
 layout: books
 casefileNumber: 1234 
-e-guid: 
-k-guid:
+e-guid: 5852ac56-f93a-4228-be4e-d3820323385f 
+k-guid: b4f038e0-a706-48f3-9e38-acbd4d8b0ca1
 title: "Rough House"
 author: 
 price: 3.99
