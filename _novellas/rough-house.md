@@ -9,7 +9,7 @@ price: 3.99
 opub: The Thriller Library 
 opubdate: May 31, 1941
 opubissue: No. 561
-pubdate:
+pubdate: 2018-08-22
 category: novellas
 genre: Amateur Sleuth 
 description: "He was warned ... by Conquest. He took no notice until Rubber Face came. --- Then, it was TOO LATE!" 

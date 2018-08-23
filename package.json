@@ -9,7 +9,7 @@
   "author": "rcook",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.23.6",
+    "browser-sync": "^2.24.6",
     "font-awesome": "^4.7.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "3.1.1",
@@ -36,7 +36,7 @@
     "lazy-debug-legacy": "0.0.1",
     "mime": "^2.2.0",
     "minimatch": "^3.0.4",
-    "netlify-cli": "^1.2.2",
+    "netlify-cli": "^1.2.3",
     "portscanner": "^2.1.1",
     "qs": "^6.5.1",
     "simple-jekyll-search": "^1.5.0",

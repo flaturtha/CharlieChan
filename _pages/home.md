@@ -10,7 +10,7 @@ category: home
 
 <div class="{{ page.title }} homepage">
 
-  <div style="text-align:center;color:#fffff0;background-color:#242424;margin:-2rem 0 2rem 0;padding:2rem;" class="">
+  <div style="text-align:center;color:#fffff0;background-color:#242424;margin:-2rem 0 2rem 0;padding:2rem;" class="hidden">
     <h1>READ <em>ANYTHING</em></h1>
     <h2>IN AS LITTLE AS 5 MINUTES PER DAY</h2>
     <h4>Your time is limited &hellip; especially for special activities you love, like reading a great story. Not any more!</h4>
