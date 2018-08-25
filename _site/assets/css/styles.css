@@ -3126,6 +3126,58 @@ ol ol li:last-child {
     text-decoration: underline;
     font-weight: bold; }
 
+/*=============================================
+=    CATEGORY PAGE HEADER ICONOGRAPHY         =
+=============================================*/
+.catpg-header {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 1rem 0; }
+  .catpg-header h2 {
+    background-color: #8B0000;
+    color: #fffff0;
+    text-align: center; }
+  .catpg-header .iconography {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row; }
+  .catpg-header .icons {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-align-self: center;
+        -ms-flex-item-align: center;
+                -ms-grid-row-align: center;
+            align-self: center;
+    margin: 1rem auto; }
+    .catpg-header .icons #cat-icon {
+      -webkit-align-self: center;
+          -ms-flex-item-align: center;
+                  -ms-grid-row-align: center;
+              align-self: center;
+      margin: 1rem auto; }
+
 /*==========  LAYOUT  ==========*/
 /*=============================================
 =            BRANDING                         =

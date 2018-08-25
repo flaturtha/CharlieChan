@@ -1,0 +1,29 @@
+/*=============================================
+=    CATEGORY PAGE HEADER ICONOGRAPHY         =
+=============================================*/
+
+.catpg-header {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 1rem 0;
+  h2 {
+    background-color: $acolor;
+    color: $paper;
+    text-align: center;
+  }
+  .iconography {
+    display: flex;
+    flex-direction: row;
+  }
+  .icons {
+    justify-content: center;
+    align-self: center;
+    margin: 1rem auto;
+    #cat-icon {
+      align-self: center;
+      margin: 1rem auto;
+    }
+  }
+}

@@ -10,6 +10,8 @@ description: "When you've got a few minutes to an hour to kill and&nbsp;need&nbs
 <div class="{{ page.title }}">
   
   {% include smallnav.html %}
+  
+  {% include category-header.html %}
 
   <section class="card__container">
 
