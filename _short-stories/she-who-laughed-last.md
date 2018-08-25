@@ -6,9 +6,9 @@ title: "She Who Laughed Last"
 author: Richard Huzarski
 authorData: "Author of \"The Day of Reckoning,\" \"Ten Steps to Death,\" etc."
 date: 2018-08-25
-opub: 
-opubdate: Spring 1940
-opubissue: No. 4
+opub: Thrilling Mystery 
+opubdate: Mar. 1947
+opubissue: Vol. 18, No. 2
 category: short-stories
 excerpt: "A cruel Circe searches the world to find one man who would refuse to look into her eyes --- and become an animal!"
 tease: "A modern tale of Homer's Circes and their cruel spells."
@@ -388,4 +388,5 @@ Then, early in the morning, a scream woke me out of a doze. Of course, I couldn'
 
 I intended to tell him he was wrong, that normal owls see in daytime almost as well as at night, in spite of popular belief. But what was the use of arguing with someone who had been a cook on a Greek sponger?
 
-THE END
+<p id="theend">THE END</p>
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
