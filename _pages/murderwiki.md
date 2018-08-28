@@ -10,7 +10,9 @@ description: "Resources, definitions & articles about the murder mystery and cri
 <div class="{{ page.title }}">
 
   {% include smallnav.html %}
-    
+  
+  {% include category-header_mw.html %}
+
   <section class="container card__container">
 
     {% include card-mw.html %}

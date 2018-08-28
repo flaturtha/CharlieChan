@@ -3146,11 +3146,25 @@ ol ol li:last-child {
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
-  margin: 1rem 0; }
-  .catpg-header h2 {
+  margin: 1rem 0;
+  border-bottom: 2px solid #8B0000; }
+  .catpg-header header {
     background-color: #8B0000;
     color: #fffff0;
-    text-align: center; }
+    text-align: center;
+    padding: 1rem; }
+    .catpg-header header h3 {
+      padding-bottom: 1rem;
+      border-bottom: 1px solid #fffff0; }
+    .catpg-header header p {
+      max-width: 60%;
+      margin: 1rem auto;
+      line-height: 1.75;
+      font-size: 1.125rem; }
+      .catpg-header header p span {
+        color: #8B0000;
+        background-color: #fffff0;
+        padding: 0 0.5rem; }
   .catpg-header .iconography {
     display: -webkit-box;
     display: -webkit-flex;
@@ -3162,13 +3176,16 @@ ol ol li:last-child {
         -ms-flex-direction: row;
             flex-direction: row; }
   .catpg-header .icons {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
         -ms-flex-pack: center;
             justify-content: center;
     -webkit-align-self: center;
         -ms-flex-item-align: center;
-                -ms-grid-row-align: center;
             align-self: center;
     margin: 1rem auto; }
     .catpg-header .icons #cat-icon {
@@ -3177,6 +3194,12 @@ ol ol li:last-child {
                   -ms-grid-row-align: center;
               align-self: center;
       margin: 1rem auto; }
+    .catpg-header .icons p {
+      -webkit-align-self: center;
+          -ms-flex-item-align: center;
+                  -ms-grid-row-align: center;
+              align-self: center;
+      margin: 0.5rem; }
 
 /*==========  LAYOUT  ==========*/
 /*=============================================
@@ -3245,7 +3268,8 @@ ul {
   background-position: center center;
   padding-bottom: 1rem;
   -webkit-box-shadow: 0px 5px 10px #242424;
-          box-shadow: 0px 5px 10px #242424; }
+          box-shadow: 0px 5px 10px #242424;
+  height: 80px; }
   .siteintro h1, .siteintro .contact h2, .contact .siteintro h2 {
     text-align: center;
     background-color: #fffff0;

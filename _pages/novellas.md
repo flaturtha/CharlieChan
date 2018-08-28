@@ -11,6 +11,8 @@ description: "Longer than a short story; shorter than a novel: novellas ... for 
 
   {% include smallnav.html %}
 
+  {% include category-header_n2.html %}
+
   <section class="card__container">
 
     {% include card-novellas2.html %}

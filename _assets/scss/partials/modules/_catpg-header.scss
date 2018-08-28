@@ -8,22 +8,44 @@
   flex-wrap: wrap;
   justify-content: center;
   margin: 1rem 0;
-  h2 {
+  border-bottom: 2px solid $acolor;
+  header {
     background-color: $acolor;
     color: $paper;
     text-align: center;
+    padding: 1rem;
+    h3 {
+      padding-bottom: 1rem;
+      border-bottom: 1px solid $paper;
+    }
+    p {
+      max-width: 60%;
+      margin: 1rem auto;
+      line-height: 1.75;
+      font-size: 1.125rem;
+      span {
+        color: $acolor;
+        background-color: $paper;
+        padding: 0 0.5rem;
+      }
+    }
   }
   .iconography {
     display: flex;
     flex-direction: row;
   }
   .icons {
+    display: flex;
     justify-content: center;
     align-self: center;
     margin: 1rem auto;
     #cat-icon {
       align-self: center;
       margin: 1rem auto;
+    }
+    p {
+      align-self: center;
+      margin: 0.5rem;
     }
   }
 }

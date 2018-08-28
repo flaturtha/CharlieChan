@@ -11,7 +11,7 @@ description: "When you've got a few minutes to an hour to kill and&nbsp;need&nbs
   
   {% include smallnav.html %}
   
-  {% include category-header.html %}
+  {% include category-header_shorts.html %}
 
   <section class="card__container">
 
