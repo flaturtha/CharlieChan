@@ -1,6 +1,8 @@
 ---
 layout: novelettes
 casefileNumber: 
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/gorgons-guests.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/gorgons-guests.epub
 title: "The Gorgon's Guests"
 author: John H. Knox
 author_data: "Author of &quot;Death Walks Softly&quot; &quot;The Devil&#39;s Lottery,&quot; etc."

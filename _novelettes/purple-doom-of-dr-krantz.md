@@ -1,6 +1,8 @@
 ---
 layout: novelettes
 casefileNumber: 55ccf75fb3901011515af01b
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/purple-doom-of-dr-krantz.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/purple-doom-of-dr-krantz.epub
 e-guid: 030b7fcc-fb35-422b-b6c2-e0cb7cde2a5a
 k-guid: 9293d7cb-3914-46b6-b1b1-bdc3e3d8f1d6
 title: "The Purple Doom of Dr. Krantz"

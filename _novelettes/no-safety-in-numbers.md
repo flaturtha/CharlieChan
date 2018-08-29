@@ -1,6 +1,8 @@
 ---
 layout: novelettes 
 casefileNumber:  
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/no-safety-in-numbers.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/no-safety-in-numbers.epub
 title: "No Safety in Numbers"
 subtitle: "(Illustrated)"
 author: Edward S. Williams

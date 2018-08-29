@@ -1,8 +1,8 @@
 ---
 layout: novelettes
 casefileNumber: 55ccf75fb3901011515aefbd
-e-guid: 
-k-guid:
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/voodoo-on-the-riviera.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/voodoo-on-the-riviera.epub
 title: "Voodoo On The Riviera"
 series: A Dixon Hawke Mystery
 price: 2.99

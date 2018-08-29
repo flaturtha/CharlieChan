@@ -3,6 +3,8 @@ layout: novelettes
 casefileNumber: 
 title: "Cookin' With Poison"
 author: D. Wescott Gouldner
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/cookin-with-poison.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/cookin-with-poison.epub
 date: 2018-05-10
 opub: FBI Detective Stories
 opubdate: Oct. 1950
