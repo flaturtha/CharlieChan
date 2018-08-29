@@ -7,13 +7,24 @@ category: download
 
 <div class="{{ page.title }}">
 
+  <section class="dwn-ty-bar">
+  
+    <p>THANKS &raquo; &raquo;<span> Your download links will be delivered to your inbox within about 15 minutes.</span></p>
+  
+  </section>
 
-  <!-- include smallnav.html %}  NOTE: change this breadcrumb to point back to referring URL -->
-
+    
   <section class="page-intro">
     <div class="trf__main">
-      <h3 class="intro">Thanks for requesting {{ novelettes.title }}.</h3>
-      <p>My special courier has your <span class="bold">Download Packet</span> in hand and is on his way to deliver it to your inbox as we speak. Follow the instructions, below, to locate, download and read your newest mystery selection.</p>
+      <h3 class="intro">Download instructions are below, but while you wait &hellip;<h3>
+
+      <p>Did you know that <span class="company">Tales of Murder</span>:
+
+
+
+
+
+
 
       <div class="download-instructions">
         <dl class="trf__dl">

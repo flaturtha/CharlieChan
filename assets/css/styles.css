@@ -2405,17 +2405,29 @@ ol ol li:last-child {
 /*=============================================
 =    DOWNLOADS PAGE            								=
 =============================================*/
-.page-intro h2 {
+.dwn-ty-bar {
+  background-color: #8B0000;
+  color: #fffff0;
+  padding: 0.75rem 0 0.05rem 0;
   text-align: center;
-  color: #8B0000;
-  border: 2px solid #8B0000;
-  -webkit-border-radius: 8px;
-          border-radius: 8px;
-  margin-bottom: 2rem; }
+  font-size: 1.25rem;
+  font-weight: bold; }
+  .dwn-ty-bar span {
+    font-size: 1rem;
+    font-weight: normal; }
 
-.page-intro h3 {
-  text-align: center;
-  margin-bottom: 1.5rem; }
+.page-intro {
+  min-height: 100vh; }
+  .page-intro h2 {
+    text-align: center;
+    color: #8B0000;
+    border: 2px solid #8B0000;
+    -webkit-border-radius: 8px;
+            border-radius: 8px;
+    margin-bottom: 2rem; }
+  .page-intro h3 {
+    text-align: center;
+    margin-bottom: 1.5rem; }
 
 .download-instructions {
   border-top: 1px solid #242424;
