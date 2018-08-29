@@ -16,16 +16,6 @@ category: download
     
   <section class="page-intro">
     <div class="trf__main">
-      <h3 class="intro">Download instructions are below, but while you wait &hellip;<h3>
-
-      <p>Did you know that <span class="company">Tales of Murder</span>:
-
-
-
-
-
-
-
       <div class="download-instructions">
         <dl class="trf__dl">
           <dt>Step 1&#058;</dt>

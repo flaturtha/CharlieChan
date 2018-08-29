@@ -1,6 +1,6 @@
 ---
 layout: default2
-permalink: /subscriptions/thanks/
+permalink: /armchair-detectives-bureau/thanks/
 title: Thanks!
 category: ADB
 ---
