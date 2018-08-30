@@ -12,17 +12,18 @@
   header {
     background-color: $acolor;
     color: $paper;
-    text-align: center;
     padding: 1rem;
     h3 {
       padding-bottom: 1rem;
       border-bottom: 1px solid $paper;
+      text-align: center;
     }
     p {
-      max-width: 60%;
+      max-width: 75%;
       margin: 1rem auto;
       line-height: 1.75;
       font-size: 1.125rem;
+      text-align:left;
       span {
         color: $acolor;
         background-color: $paper;
@@ -49,3 +50,100 @@
     }
   }
 }
+
+
+
+.hp-header {
+  @extend .catpg-header;
+  min-height: 100vh;
+  padding: 3rem 0;
+  background: $acolor;
+  header {
+    background-color: $acolor;
+    margin: 0 auto 4rem;
+    padding: 2rem;
+    width: 800px;
+    max-width: 100%;
+  }
+  h1 {
+    background-color: $paper;
+    color: $acolor;
+  }
+  h2 {
+    border-bottom: 2px solid $paper;
+    border-top: 2px solid $paper;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    padding: 0 0.5rem;
+    margin: 2rem auto 3.5rem;
+    width: 500px;
+    max-width: 90%;
+  }
+  h3 {
+    border: none !important;
+    span {
+    padding: 0 0.5rem;
+    }
+  }
+  h4 {
+    margin: 0 auto;
+    text-align: center;
+  }
+  main {
+  }
+  p {
+    width: 600px;
+    max-width: 98%;
+    margin: 0 auto;
+    color: $paper;
+    font-weight: bold;
+    text-align: center !important;
+    a {
+      color: $paper;
+      text-decoration: underline;
+    }
+  }
+  .bars {
+    border-bottom: 1px solid $paper;
+    border-top: 1px solid $paper;
+  }
+  ul {
+    background-color: $paper;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    li {
+    display: inline;
+    padding: 1rem;
+    }
+  }
+  img {
+    display: inline;
+    max-width: 100px;
+    box-shadow: 3px 4px 2px $pcolor;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

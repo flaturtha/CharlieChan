@@ -3141,7 +3141,7 @@ ol ol li:last-child {
 /*=============================================
 =    CATEGORY PAGE HEADER ICONOGRAPHY         =
 =============================================*/
-.catpg-header {
+.catpg-header, .hp-header {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -3160,24 +3160,25 @@ ol ol li:last-child {
           justify-content: center;
   margin: 1rem 0;
   border-bottom: 2px solid #8B0000; }
-  .catpg-header header {
+  .catpg-header header, .hp-header header {
     background-color: #8B0000;
     color: #fffff0;
-    text-align: center;
     padding: 1rem; }
-    .catpg-header header h3 {
+    .catpg-header header h3, .hp-header header h3 {
       padding-bottom: 1rem;
-      border-bottom: 1px solid #fffff0; }
-    .catpg-header header p {
-      max-width: 60%;
+      border-bottom: 1px solid #fffff0;
+      text-align: center; }
+    .catpg-header header p, .hp-header header p {
+      max-width: 75%;
       margin: 1rem auto;
       line-height: 1.75;
-      font-size: 1.125rem; }
-      .catpg-header header p span {
+      font-size: 1.125rem;
+      text-align: left; }
+      .catpg-header header p span, .hp-header header p span {
         color: #8B0000;
         background-color: #fffff0;
         padding: 0 0.5rem; }
-  .catpg-header .iconography {
+  .catpg-header .iconography, .hp-header .iconography {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -3187,7 +3188,7 @@ ol ol li:last-child {
     -webkit-flex-direction: row;
         -ms-flex-direction: row;
             flex-direction: row; }
-  .catpg-header .icons {
+  .catpg-header .icons, .hp-header .icons {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -3200,18 +3201,74 @@ ol ol li:last-child {
         -ms-flex-item-align: center;
             align-self: center;
     margin: 1rem auto; }
-    .catpg-header .icons #cat-icon {
+    .catpg-header .icons #cat-icon, .hp-header .icons #cat-icon {
       -webkit-align-self: center;
           -ms-flex-item-align: center;
                   -ms-grid-row-align: center;
               align-self: center;
       margin: 1rem auto; }
-    .catpg-header .icons p {
+    .catpg-header .icons p, .hp-header .icons p {
       -webkit-align-self: center;
           -ms-flex-item-align: center;
                   -ms-grid-row-align: center;
               align-self: center;
       margin: 0.5rem; }
+
+.hp-header {
+  min-height: 100vh;
+  padding: 3rem 0;
+  background: #8B0000; }
+  .hp-header header {
+    background-color: #8B0000;
+    margin: 0 auto 4rem;
+    padding: 2rem;
+    width: 800px;
+    max-width: 100%; }
+  .hp-header h1, .hp-header .contact h2, .contact .hp-header h2 {
+    background-color: #fffff0;
+    color: #8B0000; }
+  .hp-header h2 {
+    border-bottom: 2px solid #fffff0;
+    border-top: 2px solid #fffff0;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    padding: 0 0.5rem;
+    margin: 2rem auto 3.5rem;
+    width: 500px;
+    max-width: 90%; }
+  .hp-header h3 {
+    border: none !important; }
+    .hp-header h3 span {
+      padding: 0 0.5rem; }
+  .hp-header h4 {
+    margin: 0 auto;
+    text-align: center; }
+  .hp-header p {
+    width: 600px;
+    max-width: 98%;
+    margin: 0 auto;
+    color: #fffff0;
+    font-weight: bold;
+    text-align: center !important; }
+    .hp-header p a {
+      color: #fffff0;
+      text-decoration: underline; }
+  .hp-header .bars {
+    border-bottom: 1px solid #fffff0;
+    border-top: 1px solid #fffff0; }
+  .hp-header ul {
+    background-color: #fffff0;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center; }
+    .hp-header ul li {
+      display: inline;
+      padding: 1rem; }
+  .hp-header img {
+    display: inline;
+    max-width: 100px;
+    -webkit-box-shadow: 3px 4px 2px #474F55;
+            box-shadow: 3px 4px 2px #474F55; }
 
 /*==========  LAYOUT  ==========*/
 /*=============================================
