@@ -9,7 +9,7 @@ opub: Manhunt
 opubdate: Dec. 1954
 opubissue: Vol. 2 No. 10
 category: short-stories
-excerpt: "The doctor felt very happy and the fact that he'd cured Mrs. Clinton didn't account for ll of his happiness ..."
+excerpt: "The doctor felt very happy and the fact that he'd cured Mrs. Clinton didn't account for all of his happiness ..."
 tease: "The doctor had cured her, but had he cured himself?"
 image: /assets/img/short-stories/no-half-cure.png
 fb-image: /assets/img/short-stories/no-half-cure_fb.jpg
