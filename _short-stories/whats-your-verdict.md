@@ -3,6 +3,7 @@ layout: short-stories
 layoutTag: post
 casefileNumber: 
 title: "What\'s Your Verdict? No. 5 --- The Angry Man"
+<<<<<<< HEAD
 author: Sam Ross 
 date: 2018-08-26
 opub: Manhunt
@@ -26,6 +27,41 @@ trfdate: Aug. 26, 2018
 Harry and Alice, everybody agreed, were about the poorest excuse for a happily married couple that the town had ever seen. Almost every night, the neighbors could hear the roaring voice of big Harry arguing with slim, blonde Alice, shouting at her, insulting her.
 
 After a while, there might be silence. You could only hear the sound of Harry's fists if you listened very closely. The neighbors prided themselves on not being eavesdroppers, and besides, they didn't want to get involved. They didn't listen to the blows that followed many of the arguments.
+=======
+author: 
+date: 2018-08-26
+opub: 
+opubdate: Spring 1940
+opubissue: No. 4
+category: short-stories
+excerpt: ""
+tease: ""
+image: /assets/img/short-stories/she-who-laughed-last.png
+fb-image: /assets/img/short-stories/she-who-laughed-last_fb.jpg
+caption: "A head, with short, curved horns was floating over a bush."
+imgh: 400px
+genre: Paranormal
+tags: short-story
+wordcount: 5099 
+trfissue: Vol. 11 No. 43
+trfdate: Aug. 12, 2018
+---
+
+<section id="toc" class="toc">
+  <header>
+    <h6>Table of Contents</h6>
+  </header>
+<div id="drawer" markdown="1">
+1. Auto generated table of contents
+{:toc}
+</div>
+</section> <!-- table-of-contents -->
+What's Your Verdict? 
+
+By Sam Ross
+
+Harry and Alice, everybody agreed, were about the poorest excuse for a happily married couple that the town had ever seen. Almost every night, the neighbors could hear the roaring voice of big Harry arguing with slim, blonde Alice, shouting at her, insulting her. After a while, there might be silence. You could only hear the sound of Harry's fists if you listened very closely. The neighbors prided themselves on not being eavesdroppers, and besides, they didn't want to get involved. They didn't listen to the blows that followed many of the arguments.
+>>>>>>> cleanup
 
 Things might have gone on that way for some time, if Tim Ellis hadn't heard about it.
 
@@ -66,9 +102,16 @@ When Tim found out what Alice was up to, he protested violently.
 Who is right? What's *your* verdict?
 
 ANSWER:
+<<<<<<< HEAD
 {: .bold .bloodred}
 
 It was Tim who had the bad luck. The law rules that, if there is a assault with intent to kill, and the assault puts the victim in a situation where death is the result, then --- even though the man committing the assault didn't intend his victim to meet death in that form --- the man who committed the assault is liable to conviction for homicide. In this case, Alice was left all alone, since Time, after a brief trial, was packed off to prison.
 
 <p id="theend">THE END</p>
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+=======
+
+It was Tim who had the bad luck. The law rules that, if there is a assault with intent to kill, and the assault puts the victim in a situation where death is the result, then --- even though the man committing the assault didn't intend his victim to meet death in that form --- the man who committed the assault is liable to conviction for homicide. In this case, Alice was left all alone, since Time, after a brief trial, was packed off to prison.
+
+THE END
+>>>>>>> cleanup

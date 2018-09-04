@@ -12,7 +12,7 @@ category: ADB
     
 
   <main class="trf__main">
-    <h2 class="bloodred">ARMCHAIR DETECTIVES BUREAU</h2>
+    <h2 class="bloodred" style="margin-top:1rem;">ARMCHAIR DETECTIVES BUREAU</h2>
     <dl class="adb">
       <dt>Armchair Detective<span> &mdash; /ˈärmˌCHer dəˈtektiv/ (<em>noun</em>)</span></dt>
       <dd>A fan of murder mystery, crime &amp; detective fiction who enjoys reading and solving literary crimes.</dd>
@@ -34,7 +34,7 @@ category: ADB
 
     <!-- [INSERT ROW OF IMAGES ... COVERS OR WHATEVER] -->
 
-    <p>Submit your application to join the ARMCHAIR DETECTIVES BUREAU today and, if accepted, you'll get:</p>
+    <p>Join the ARMCHAIR DETECTIVES BUREAU today and you'll get:</p>
 
     <dl class="trf__dl">
       <dt>NEW SHORT STORIES</dt>
@@ -47,29 +47,17 @@ category: ADB
       <dd>Buy them pre-launch for discounted prices, as much as 50% off!</dd>
       <dt>WEEKLY DISCOUNT CODE</dt>
       <dd>Subscriber-only discount codes for up to 15% off everything in my store.</dd>
-      <dt>HELP PRESERVE CLASSIC &amp; OUT-OF-PRINT STORIES</dt>
-      <dd>Your membership ensures the survival of these great stories. Don't let them get disappear into obscurity, lost to time!</dd>
+      <dt class="hidden">HELP PRESERVE CLASSIC &amp; OUT-OF-PRINT STORIES</dt>
+      <dd class="hidden">Your membership ensures the survival of these great stories. Don't let them get disappear into obscurity, lost to time!</dd>
     </dl>
     <hr style="margin: 2rem 0;">
 
-    <p>Apply to join the <span class="bloodred">ARMCHAIR DETECTIVES BUREAU</span> today &amp; I'll send you the murder mystery brain teaser test so you can prove your detective skills in uncovering clues and prove a murderer guilty:</p>
+    <p style="color:#8b0000;font-size:1.125rem;margin:2rem 2rem 0 2rem;"><span class="bold">Don't hesitate</span> &mdash; Enter your best email address below, get comfortable in your favorite chair, and enjoy a good mystery!</p>
 
-    <div style="width: 600px;max-width:80%;margin:0 auto;">
-      <img src="/assets/img/short-stories/radiator.svg" alt="" style="width: 150px;height:auto;float:left;margin:0 1rem 1rem 0;">
-      <h3 style="color:#8b0000;margin-top:2rem;">DEATH BY GAS</h3>
-      <h4>by J. J. Matthews</h4>
-      <p>Capt. Pearsons' finely honed detective's mind spotted the lone clue that proved Herman Matthews killed his young wife. Can you?</p>
-    </div>
-    <div class="cf"></div>
-
-    <p>Then, if you pass the test and are selected to join this exclusive club, you'll get all of the membership benefits listed above<!--  and an immediate discount code for 25% off your first purchase -->.</p>
-
-    <hr>
-
-    <p style="color:#8b0000;font-size:1.125rem;margin:2rem;"><span class="bold">Don't hesitate</span> &mdash; Enter your best email address below, get comfortable in your favorite chair, and enjoy a good mystery!</p>
+    <p style="color:#8b0000;font-size:1rem;margin:1rem 2rem 2rem 2rem;">In fact, when you join today, I'll send you a special <strong>NEW MEMBER coupon</strong> by email so you can choose a FREE novella or novel to get you started.</p>
     
     <div class="mcform">
-       {% include D_form2.html %}
+       {% include adb-form.html %}
     </div>
   </main>
 

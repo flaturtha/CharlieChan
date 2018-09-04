@@ -900,6 +900,20 @@ input[type=value] {
   font-size: 0.75rem;
   color: lightblue; }
 
+.adb_pg-form {
+  border: 3px dashed #8B0000;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 1rem; }
+  .adb_pg-form h4 {
+    background-color: #8B0000;
+    color: #fffff0;
+    text-align: center;
+    margin-bottom: 0.75rem;
+    padding: 0.5rem; }
+  .adb_pg-form input[type=submit] {
+    background-color: #008b00; }
+
 .smallnav {
   border-top: 1px solid #5e6971;
   border-bottom: 1px solid #5e6971;
@@ -2405,17 +2419,29 @@ ol ol li:last-child {
 /*=============================================
 =    DOWNLOADS PAGE            								=
 =============================================*/
-.page-intro h2 {
+.dwn-ty-bar {
+  background-color: #8B0000;
+  color: #fffff0;
+  padding: 0.75rem 0 0.05rem 0;
   text-align: center;
-  color: #8B0000;
-  border: 2px solid #8B0000;
-  -webkit-border-radius: 8px;
-          border-radius: 8px;
-  margin-bottom: 2rem; }
+  font-size: 1.25rem;
+  font-weight: bold; }
+  .dwn-ty-bar span {
+    font-size: 1rem;
+    font-weight: normal; }
 
-.page-intro h3 {
-  text-align: center;
-  margin-bottom: 1.5rem; }
+.page-intro {
+  min-height: 100vh; }
+  .page-intro h2 {
+    text-align: center;
+    color: #8B0000;
+    border: 2px solid #8B0000;
+    -webkit-border-radius: 8px;
+            border-radius: 8px;
+    margin-bottom: 2rem; }
+  .page-intro h3 {
+    text-align: center;
+    margin-bottom: 1.5rem; }
 
 .download-instructions {
   border-top: 1px solid #242424;
@@ -3126,6 +3152,138 @@ ol ol li:last-child {
     text-decoration: underline;
     font-weight: bold; }
 
+/*=============================================
+=    CATEGORY PAGE HEADER ICONOGRAPHY         =
+=============================================*/
+.catpg-header, .hp-header {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 1rem 0;
+  border-bottom: 2px solid #8B0000; }
+  .catpg-header header, .hp-header header {
+    background-color: #8B0000;
+    color: #fffff0;
+    padding: 1rem; }
+    .catpg-header header h3, .hp-header header h3 {
+      padding-bottom: 1rem;
+      border-bottom: 1px solid #fffff0;
+      text-align: center; }
+    .catpg-header header p, .hp-header header p {
+      max-width: 75%;
+      margin: 1rem auto;
+      line-height: 1.75;
+      font-size: 1.125rem;
+      text-align: left; }
+      .catpg-header header p span, .hp-header header p span {
+        color: #8B0000;
+        background-color: #fffff0;
+        padding: 0 0.5rem; }
+  .catpg-header .iconography, .hp-header .iconography {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row; }
+  .catpg-header .icons, .hp-header .icons {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-align-self: center;
+        -ms-flex-item-align: center;
+            align-self: center;
+    margin: 1rem auto; }
+    .catpg-header .icons #cat-icon, .hp-header .icons #cat-icon {
+      -webkit-align-self: center;
+          -ms-flex-item-align: center;
+                  -ms-grid-row-align: center;
+              align-self: center;
+      margin: 1rem auto; }
+    .catpg-header .icons p, .hp-header .icons p {
+      -webkit-align-self: center;
+          -ms-flex-item-align: center;
+                  -ms-grid-row-align: center;
+              align-self: center;
+      margin: 0.5rem; }
+
+.hp-header {
+  min-height: 100vh;
+  padding: 3rem 0;
+  background: #8B0000; }
+  .hp-header header {
+    background-color: #8B0000;
+    margin: 0 auto 4rem;
+    padding: 2rem;
+    width: 800px;
+    max-width: 100%; }
+  .hp-header h1, .hp-header .contact h2, .contact .hp-header h2 {
+    background-color: #fffff0;
+    color: #8B0000; }
+  .hp-header h2 {
+    border-bottom: 2px solid #fffff0;
+    border-top: 2px solid #fffff0;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    padding: 0 0.5rem;
+    margin: 2rem auto 3.5rem;
+    width: 500px;
+    max-width: 90%; }
+  .hp-header h3 {
+    border: none !important; }
+    .hp-header h3 span {
+      padding: 0 0.5rem; }
+  .hp-header h4 {
+    margin: 0 auto;
+    text-align: center; }
+  .hp-header p {
+    width: 600px;
+    max-width: 98%;
+    margin: 0 auto;
+    color: #fffff0;
+    font-weight: bold;
+    text-align: center !important; }
+    .hp-header p a {
+      color: #fffff0;
+      text-decoration: underline; }
+  .hp-header .bars {
+    border-bottom: 1px solid #fffff0;
+    border-top: 1px solid #fffff0; }
+  .hp-header ul {
+    background-color: #fffff0;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center; }
+    .hp-header ul li {
+      display: inline;
+      padding: 1rem; }
+  .hp-header img {
+    display: inline;
+    max-width: 100px;
+    -webkit-box-shadow: 3px 4px 2px #474F55;
+            box-shadow: 3px 4px 2px #474F55; }
+
 /*==========  LAYOUT  ==========*/
 /*=============================================
 =            BRANDING                         =
@@ -3193,7 +3351,8 @@ ul {
   background-position: center center;
   padding-bottom: 1rem;
   -webkit-box-shadow: 0px 5px 10px #242424;
-          box-shadow: 0px 5px 10px #242424; }
+          box-shadow: 0px 5px 10px #242424;
+  height: 80px; }
   .siteintro h1, .siteintro .contact h2, .contact .siteintro h2 {
     text-align: center;
     background-color: #fffff0;

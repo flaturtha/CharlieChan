@@ -78,7 +78,22 @@ input[type=value] {
   color: lightblue;
 }
 
-
+.adb_pg-form {
+  border: 3px dashed $acolor;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 1rem;
+  h4 {
+    background-color: $acolor;
+    color: $paper;
+    text-align: center;
+    margin-bottom: 0.75rem;
+    padding: 0.5rem;
+  }
+  input[type=submit] {
+    background-color: #008b00;
+  }
+}
 
 
 

@@ -8,6 +8,7 @@
 		
 		
 			<item>
+<<<<<<< HEAD
 				<title>No Half Cure</title>
 				
 					<author>atticus@talesofmurder.com (Robert E. Murray)</author>
@@ -19,6 +20,19 @@
 				<pubDate>Mon, 03 Sep 2018 00:00:00 -0500</pubDate>
 				<link>https://www.talesofmurder.com/short-stories/no-half-cure/</link>
 				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/no-half-cure/</guid>
+=======
+				<title>What's Your Verdict? No. 5 --- The Angry Man</title>
+				
+					<author></author>
+				       
+				
+					<description></description>
+				
+				<media:content url="https://www.talesofmurder.com/assets/img/short-stories/she-who-laughed-last.png" />
+				<pubDate>Sun, 26 Aug 2018 00:00:00 -0500</pubDate>
+				<link>https://www.talesofmurder.com/short-stories/whats-your-verdict/</link>
+				<guid isPermaLink="true">https://www.talesofmurder.com/short-stories/whats-your-verdict/</guid>
+>>>>>>> cleanup
 			</item>
 		
 	</channel>
