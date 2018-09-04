@@ -47,12 +47,14 @@ category: ADB
       <dd>Buy them pre-launch for discounted prices, as much as 50% off!</dd>
       <dt>WEEKLY DISCOUNT CODE</dt>
       <dd>Subscriber-only discount codes for up to 15% off everything in my store.</dd>
-      <dt>HELP PRESERVE CLASSIC &amp; OUT-OF-PRINT STORIES</dt>
-      <dd>Your membership ensures the survival of these great stories. Don't let them get disappear into obscurity, lost to time!</dd>
+      <dt class="hidden">HELP PRESERVE CLASSIC &amp; OUT-OF-PRINT STORIES</dt>
+      <dd class="hidden">Your membership ensures the survival of these great stories. Don't let them get disappear into obscurity, lost to time!</dd>
     </dl>
     <hr style="margin: 2rem 0;">
 
-    <p style="color:#8b0000;font-size:1.125rem;margin:2rem;"><span class="bold">Don't hesitate</span> &mdash; Enter your best email address below, get comfortable in your favorite chair, and enjoy a good mystery!</p>
+    <p style="color:#8b0000;font-size:1.125rem;margin:2rem 2rem 0 2rem;"><span class="bold">Don't hesitate</span> &mdash; Enter your best email address below, get comfortable in your favorite chair, and enjoy a good mystery!</p>
+
+    <p style="color:#8b0000;font-size:1rem;margin:1rem 2rem 2rem 2rem;">In fact, when you join today, I'll send you a special <strong>NEW MEMBER coupon</strong> by email so you can choose a FREE novella or novel to get you started.</p>
     
     <div class="mcform">
        {% include adb-form.html %}

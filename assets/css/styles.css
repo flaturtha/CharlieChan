@@ -900,6 +900,20 @@ input[type=value] {
   font-size: 0.75rem;
   color: lightblue; }
 
+.adb_pg-form {
+  border: 3px dashed #8B0000;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 1rem; }
+  .adb_pg-form h4 {
+    background-color: #8B0000;
+    color: #fffff0;
+    text-align: center;
+    margin-bottom: 0.75rem;
+    padding: 0.5rem; }
+  .adb_pg-form input[type=submit] {
+    background-color: #008b00; }
+
 .smallnav {
   border-top: 1px solid #5e6971;
   border-bottom: 1px solid #5e6971;

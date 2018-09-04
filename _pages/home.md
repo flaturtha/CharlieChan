@@ -1,5 +1,5 @@
 ---
-layout: home2
+layout: home
 permalink: /
 title: Home
 category: home
