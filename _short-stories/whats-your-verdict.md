@@ -3,7 +3,6 @@ layout: short-stories
 layoutTag: post
 casefileNumber: 
 title: "What\'s Your Verdict? No. 5 --- The Angry Man"
-<<<<<<< HEAD
 author: Sam Ross 
 date: 2018-08-26
 opub: Manhunt
@@ -27,41 +26,6 @@ trfdate: Aug. 26, 2018
 Harry and Alice, everybody agreed, were about the poorest excuse for a happily married couple that the town had ever seen. Almost every night, the neighbors could hear the roaring voice of big Harry arguing with slim, blonde Alice, shouting at her, insulting her.
 
 After a while, there might be silence. You could only hear the sound of Harry's fists if you listened very closely. The neighbors prided themselves on not being eavesdroppers, and besides, they didn't want to get involved. They didn't listen to the blows that followed many of the arguments.
-=======
-author: 
-date: 2018-08-26
-opub: 
-opubdate: Spring 1940
-opubissue: No. 4
-category: short-stories
-excerpt: ""
-tease: ""
-image: /assets/img/short-stories/she-who-laughed-last.png
-fb-image: /assets/img/short-stories/she-who-laughed-last_fb.jpg
-caption: "A head, with short, curved horns was floating over a bush."
-imgh: 400px
-genre: Paranormal
-tags: short-story
-wordcount: 5099 
-trfissue: Vol. 11 No. 43
-trfdate: Aug. 12, 2018
----
-
-<section id="toc" class="toc">
-  <header>
-    <h6>Table of Contents</h6>
-  </header>
-<div id="drawer" markdown="1">
-1. Auto generated table of contents
-{:toc}
-</div>
-</section> <!-- table-of-contents -->
-What's Your Verdict? 
-
-By Sam Ross
-
-Harry and Alice, everybody agreed, were about the poorest excuse for a happily married couple that the town had ever seen. Almost every night, the neighbors could hear the roaring voice of big Harry arguing with slim, blonde Alice, shouting at her, insulting her. After a while, there might be silence. You could only hear the sound of Harry's fists if you listened very closely. The neighbors prided themselves on not being eavesdroppers, and besides, they didn't want to get involved. They didn't listen to the blows that followed many of the arguments.
->>>>>>> cleanup
 
 Things might have gone on that way for some time, if Tim Ellis hadn't heard about it.
 

@@ -47,9 +47,11 @@ Beverley's face fell. "I've been asked to write a series of articles about uncan
 
 "Detectives deal in hard, everyday facts," stated Tommy. "They're about the last people to apply to for uncanny experiences."
 
-"I know. But I was hoping--"
+"I know. But I was hoping --- "
 
-Tommy suddenly rose from his chair. "Listen," he said eagerly. . "I think you've come to the right shop. What about the death of Walter Webster?"
+Tommy suddenly rose from his chair.
+
+"Listen," he said eagerly. "I think you've come to the right shop. What about the death of Walter Webster?"
 
 "You mean the writer of those books on the supernatural?"
 
@@ -142,13 +144,13 @@ Brown strolled back and stood leaning against a petrol-pump, and after a minute 
 
 "Well," asked Brown, as the old woman climbed back up beside the driver, and Webster moved away from the caravan, "what's your fortune, sir?"
 
-"I asked her whether it was good or bad," answered Webster, smiling faintly, "and she said I might be inclined to think it bad. So I said --- ' I'm off on an important mission which won't fail ---  which mustn't fail --- so I don't propose troubling my head with thoughts of bad fortune. Write it down, and stick it in this envelope. I'll read it later. He was about to put the letter in his pocket when his eye alighted on the posting-box, and he was struck with a sudden whim.
+"I asked her whether it was good or bad," answered Webster, smiling faintly, "and she said I might be inclined to think it bad. So I said --- 'I'm off on an important mission which won't fail ---  which mustn't fail --- so I don't propose troubling my head with thoughts of bad fortune. Write it down, and stick it in this envelope. I'll read it later. He was about to put the letter in his pocket when his eye alighted on the posting-box, and he was struck with a sudden whim.
 
 "I'll address it to myself," he said, "and post it."
 
 He took out a fountain pen and wrote the address of a Morecambe hotel, which Brown was afterwards able to recall. Then he took a stamp out of his wallet, and dropped the letter into the box.
 
-"I had a very curious experience in that caravan," he said, after a thoughtful pause. "I don't know. I suppose it was just my fancy, but somehow I felt that the interior was all familiar. And that old woman--"
+"I had a very curious experience in that caravan," he said, after a thoughtful pause. "I don't know. I suppose it was just my fancy, but somehow I felt that the interior was all familiar. And that old woman --- "
 
 "She's a rum 'un," agreed Brown.
 
@@ -292,9 +294,7 @@ The woman shrieked.
 
 "Frankly, I think Webster was murdered. I have made a test of the dregs of tomato juice, and I shall request the police surgeon to be on the lookout for evidence of strychnine poisoning when he makes the autopsy. Goodnight."
 
-I turned and nipped back down the path and got in the car, feverishly figuring it all out.
-
-if you try to do the same, Beverley, you'll see it was a dashed ingenious idea. Strychnine poisoning causes convulsions, and is easy to detect, provided you happen to be looking for it.
+I turned and nipped back down the path and got in the car, feverishly figuring it all out. if you try to do the same, Beverley, you'll see it was a dashed ingenious idea. Strychnine poisoning causes convulsions, and is easy to detect, provided you happen to be looking for it.
 
 But are you likely to look for it when making a post-mortem examination of a mangled corpse --- the obvious victim of a car crash?
 
@@ -374,11 +374,11 @@ The exasperated reporter, conscious that Tommy was deliberately holding somethin
 
 "What was in the confounded letter?"
 
-"Ah! I've often wondered if the materialistic part of the story would have been any different if Webster had read it at the petrol-station. Whether that devastating secret of his would have been revealed to the world--"
+"Ah! I've often wondered if the materialistic part of the story would have been any different if Webster had read it at the petrol-station. Whether that devastating secret of his would have been revealed to the world --- "
 
 "What was in the letter?"
 
-"We never traced the gipsy, of course, and--"
+"We never traced the gipsy, of course, and --- "
 
 "I'll give you one more chance," said Beverley, beginning to pull off his coat, "before we make a rough-house of it. What was in the letter?"
 
