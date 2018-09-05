@@ -3197,11 +3197,18 @@ ol ol li:last-child {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-orient: horizontal;
+    -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-    -webkit-flex-direction: row;
-        -ms-flex-direction: row;
-            flex-direction: row; }
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column; }
+    @media screen and (min-width: 48rem) {
+      .catpg-header .iconography, .hp-header .iconography {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: row;
+            -ms-flex-direction: row;
+                flex-direction: row; } }
   .catpg-header .icons, .hp-header .icons {
     display: -webkit-box;
     display: -webkit-flex;

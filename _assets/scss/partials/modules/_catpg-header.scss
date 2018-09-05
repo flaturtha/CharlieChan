@@ -33,7 +33,10 @@
   }
   .iconography {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    @media screen and (min-width:48rem){
+      flex-direction: row;
+    }  
   }
   .icons {
     display: flex;
