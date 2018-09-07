@@ -1,24 +1,47 @@
 <section class="ad-internal">
 	<header class="black_header">
-		<h4><em>Enjoying</em> <span class="uppercase">{{ page.title }}</span><em>?</em></h4>
-		<p class="small">Click to get another mind-bending SUPERNATURAL thriller &hellip;</p>
+		<h4>If you enjoy reading <span class="uppercase italics">{{ page.title }}</span></h4>
+    <p class="small">then you'll love <span class="uppercase" style="color:#242424;background-color:#fffff0;padding:0 0.25rem;margin:0 0.25rem">{% if page.primary-genre %}{{ page.primary-genre }}{% else %}{{ page.genre }}{% endif %}</span> story that you can download and read anywhere, anytime!</p> <!-- make page.genre into page.primary-genre -->
 	</header>
 
-	<div class="div">
-		<img src="/assets/img/short-stories/man-who-would-not-die-1a.png" alt="">
+	<main class="ad-body">
+
+    <div>
+      {% if page.primary-genre or page.genre == "Professional Sleuth" %}
+        {% include ad-professional-sleuth.html %}
+      {% elsif page.primary-genre or page.genre == "Amateur Sleuth" %}
+        <h6>SHOW AMATEUR SLEUTH NOVELETTE AD COPY</h6>
+      {% elsif page.primary-genre or page.genre == "Criminal Element" %}
+        <h6>SHOW CRIMINAL ELEMENT NOVELETTE AD COPY</h6>
+      {% elsif page.primary-genre or page.genre == "True Crime" %}
+        <h6>SHOW TRUE CRIME NOVELETTE AD COPY</h6>
+      {% endif %}
+    </div>
+
+
+
+
+
+
+
+    <div class="hidden">
+		  <img src="/assets/img/short-stories/man-who-would-not-die-1a.png" alt="">
 	
-		<div>
-			<p><span class="bold uppercase xlarge">THE MAN WHO WOULD NOT DIE</span><br>by Harold Ward<span class="xsmall"><br>(52 min read)</span><br><span class="black"><em>Black Mask</em> | Sept. 1920 | Vol. 1, No. 6</span></p>
+		  <div>
+			  <p><span class="bold uppercase xlarge">THE MAN WHO WOULD NOT DIE</span><br>by Harold Ward<span class="xsmall"><br>(52 min read)</span><br><span class="black"><em>Black Mask</em> | Sept. 1920 | Vol. 1, No. 6</span></p>
 	
-			<p class="tease"><span>"What is death, my dear inspectors? Who knows? No&nbsp;one&nbsp;but&nbsp;me."</span></p>
-		</div>
+			  <p class="tease"><span>"What is death, my dear inspectors? Who knows? No&nbsp;one&nbsp;but&nbsp;me."</span></p>
+		  </div>
+    </div>
+
 	</div>
 	
 	<footer>
-		<button id="ad1" onclick="window.open('/lp/man-who-would-not-die/')">DOWNLOAD &amp; READ NOW (or&nbsp;save&nbsp;for&nbsp;later!)&nbsp;&#10144;</button>
-
-		<!-- <a href="/lp/man-who-would-not-die/" class="button">DOWNLOAD &amp; READ NOW<span> (or&nbsp;save&nbsp;for&nbsp;later!)</span>&nbsp;&#10144;</a> -->
-	
-		<p class="xsmall">(opens a new tab so you won't lose your place in MARTIN COLBY)</p>
+    <p class="xlarge">Get VOODOO ON THE RIVIERA <em>free</em> (normally $2.99);<br>available as ePub &amp Kindle downloads.</p>
+    <p><span class="xlarge">&#11117;</span> DETAILS BELOW THE STORY <span class="xlarge">&#11117;</span></p>
 	</footer>
 </section>
+
+
+
+<!-- <button class="hidden" id="ad1" onclick="window.open('/lp/man-who-would-not-die/')">DOWNLOAD &amp; READ NOW (or&nbsp;save&nbsp;for&nbsp;later!)&nbsp;&#10144;</button> -->

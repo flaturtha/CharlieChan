@@ -16,6 +16,7 @@ fb-image: /assets/img/short-stories/born-to-the-badge_fb.jpg
 caption: "Brad dropped to one knee and fire &hellip;"
 imgh: 350px
 genre: F.B.I.
+primary-genre: Professional Sleuth
 tags: short-story
 wordcount: 5211
 trfissue: Vol. 12 No. 44

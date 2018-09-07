@@ -161,7 +161,7 @@ out of the darkness of the night.
 
 “Edith Morley stood before me!
 
-{% include ad1.html %}
+{% include ad1-mwwnd.html %}
 
 “Have you ever seen a poor, hunted creature at bay? She was panting
 desperately. Her arms were outstretched towards me, her fingers working

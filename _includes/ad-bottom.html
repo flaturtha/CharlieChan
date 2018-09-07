@@ -1,0 +1,13 @@
+<section class="ad-internal">
+
+  {% if page.primary-genre or page.genre == "Professional Sleuth" %}
+    {% include ad-professional-sleuth.html %}
+  {% elsif page.primary-genre or page.genre == "Amateur Sleuth" %}
+    <h6>SHOW AMATEUR SLEUTH NOVELETTE AD COPY</h6>
+  {% elsif page.primary-genre or page.genre == "Criminal Element" %}
+    <h6>SHOW CRIMINAL ELEMENT NOVELETTE AD COPY</h6>
+  {% elsif page.primary-genre or page.genre == "True Crime" %}
+    <h6>SHOW TRUE CRIME NOVELETTE AD COPY</h6>
+  {% endif %}
+
+</section> <!-- end section.ad-internal -->
