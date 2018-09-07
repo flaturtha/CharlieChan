@@ -9,7 +9,7 @@ opub: The Black Mask
 opubdate: Nov. 1920
 opubissue: Vol. 2, No. 2
 category: short-stories
-excerpt: "Old Man Johnson had finally succeeded in inventing something of value. And Blumfeld wanted the $10,0000 the old man had been paid. But would the old inventor's brain child really identify a killer?"
+excerpt: "Old Man Johnson had finally succeeded in inventing something of value. And Blumfeld wanted the $10,000 the old man had been paid. But would the old inventor's brain child really identify a killer?"
 tease: "A dark case of greed and downfall!"
 image: /assets/img/short-stories/told-in-glass.png
 fb-image: /assets/img/short-stories/told-in-glass_fb.jpg
@@ -70,7 +70,7 @@ Blumfeld nodded moodily.
 
 Westley flicked the ash from the end of his cigar and chuckled again.
 
-"Ten thousand dollars," he observed reflectively, "is a lot of dough. I'll have to wander up to Moy Ling's after awhile and smoke a couple of pipes of scatnish. Poppy makes me dream clever schemes. I was full of hop the time I took that Florida lawyer for his currency kick. Old Man Johnson isn't used to sudden wealth. I'll dream out a way to separate him from his cush. When I get it I'll buy you the best dinner in town, Lefty."
+"Ten thousand dollars," he observed reflectively, "is a lot of dough. I'll have to wander up to Moy Ling's after awhile and smoke a couple of pipes of scatnish. Poppy makes me dream clever schemes. I was full of hop the time I took that Florida lawyer for his currency kick. Old Man Johnson isn't used to sudden wealth. I'll dream out a way to separate him from his cash. When I get it I'll buy you the best dinner in town, Lefty."
 
 "Like hell!" Blumfeld grunted.
 
@@ -247,6 +247,6 @@ Blumfeld licked his lips.
 
 His first captor exchanged a look with his companion.
 
-"Something that's going to stand this country on its ear when it hears about it," he answered. "The old man invented a mirror. He had one in the bureau in his bedioom. It's a mirror that retains the reflection of the last person who passes before it." ...
+"Something that's going to stand this country on its ear when it hears about it," he answered. "The old man invented a mirror. He had one in the bureau in his bedroom. It's a mirror that retains the reflection of the last person who passes before it." ...
 
 <p id="theend">THE END</p>
