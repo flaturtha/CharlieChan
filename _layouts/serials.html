@@ -1,0 +1,55 @@
+---
+layout: default2
+---
+
+<article class="books">
+
+  {% include smallnav.html %}
+
+  <header class="books__header">
+    
+    <div class="book_details" style="margin:3rem 0 1rem;padding:1rem 0 0;border-top:2px solid #8b0000;border-bottom:2px solid #8b0000;">
+
+      <h1 class="books__title" style="color:#242424;">{{ page.title }}</h1>
+      {% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
+
+      
+      <h2 class="books__author" style="color:#242424;" itemprop="name">{% if page.author %}by <span>{{ page.author }}</span>{% else %}<span>{{ page.series }}</span>{% endif %}</h2>
+      {% if page.authorData %}
+      <p class="authorData">{{ page.authorData }}</p>
+      {% endif %}
+      
+      {% if page.prev_part %}
+        <h5 class="uppercase italics">{{ page.prev_part }} Summary:</h5>
+        <p>{{ page.prev_summary }}</p>
+      {% endif %}
+
+      <h5 class="uppercase bloodred">{{ page.slug }}:</h5>
+      <p>{{ page.description }}</p>
+
+    </div> <!-- end div.book_details -->
+
+
+  </header> <!-- end header.books__header -->
+
+  <article class="books">
+    <div>
+      {{ content }}
+    </div>
+
+  </article>
+
+  {% if page.nextpart %}
+    <div>
+        <h4>Watch your Inbox tomorrow for the next installment of <em>{{ page.title }}</em> &hellip;<br><br>{{ page.nextpart }}</h4>
+        <hr class="margin2r">
+        <p class="xlarge bold">Don't want to wait to continue reading?</p>
+        <p>Click <a href="{{ page.nextpart_url }}">HERE</a> to read the next part now.</p>
+    </div>
+  {% else%}
+    <div>
+        <h3 class="center" style="border:1px solid #242424;background-color:#fffff9;padding:1rem;margin:1rem;">BUY A NOVEL NOW!!</h3>
+    </div>
+  {% endif %}
+ 
+</article>

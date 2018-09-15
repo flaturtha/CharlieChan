@@ -4659,7 +4659,11 @@ a {
       display: block; } }
 
 .fivestar {
-  word-spacing: 5em;
+  word-spacing: 3em;
   padding-top: 1em;
   padding-bottom: 1em;
-  color: #666; }
+  color: #666;
+  font-weight: bold; }
+  @media screen and (min-width: 48rem) {
+    .fivestar {
+      word-spacing: 5em; } }
