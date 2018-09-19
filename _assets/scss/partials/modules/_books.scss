@@ -7,6 +7,24 @@
 	// flex-direction: column;
 }
 
+.serial-story-segment {
+  p:first-of-type::first-line {
+    font-weight: bold;
+    color: $acolor;
+  }
+}
+
+.firstcharacter {
+  color: $acolor;
+  float: left;
+  font-family: Georgia;
+  font-size: 50px;
+  line-height: 30px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
 .books__header {
 	// background-color: green;
 	// border-bottom: 1px solid darken($paper, 75%);

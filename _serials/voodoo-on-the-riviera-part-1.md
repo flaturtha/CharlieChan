@@ -1,23 +1,25 @@
 ---
-layout: novelettes
-casefileNumber: b683565e-5048-4621-9224-4afd2c4569c2
-kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/mr-binglers-murder-maze.mobi
-edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/mr-binglers-murder-maze.epub
-title: "Mr. Bingler's Murder Maze"
-author: Wilbur S. Peacock
+layout: serials
+casefileNumber: 55ccf75fb3901011515aefbd
+title: "Voodoo On The Riviera"
+slug: part 1
+author: 
 price: 2.99
-opub: Crack Detective
-opubdate: Mar. 1943
+opub: 
+opubdate: 
 opubissue: Vol. 3, No. 2
 pubdate: 2018-08-11 
 category: novelettes 
-genre: Amateur Sleuth
-description: "Mr. Bingler was on the spot, for here was a case not covered by the situations described in his handy little instruction booklet for Home Detectives.<br><br>But the little man's courage held out, even when he found himself lying next to a murdered man, with his own sword-umbrella sticking out of the corpse as sure-fire evidence!"
-firstchapter: Dreams of Empire
-tags: novelette
-testimonials: "This FAKE testimonial about how great this story is! -- Some Person" 
-image: /assets/img/novelettes/mr-binglers-murder-maze.jpg
-wordcount: 10083
+genre: Professinal Sleuth
+description: ""
+tags: novelette 
+image: /assets/img/novelettes/voodoo-on-the-riviera.jpg
+wordcount: 
+permalink: /novelettes/mr-binglers-murder-maze/aefbd/
+nextpart: ""
+nextpart_url: /novelettes/mr-binglers-murder-maze/b683565e-5048-4621-9224-4afd2c4569c2-1218/
+prev_part:
+prev_summary:
 ---
 
 ### Chapter 1
@@ -55,7 +57,7 @@ He spooned more ice cream, ate it untastingly, his small body quaveringly tense 
 He huddled there in the dimness of the booth, a small man with white hair a tousle, his rabbity nose twitching with perturbation, his mind a chaos of conflicting thoughts.
 
 \*   \*   \*   \*   \*
-{: .fivestar .center}
+{: .fivestar .center .bold}
 
 He knew that he should go to the cops with his information; but he knew, too, that the fragment of conversation he had heard was not enough for the police to act upon. In fact, now that he gave the matter deliberate consideration, he could see that he could do little more than accuse two men of plotting a murder.
 
@@ -93,24 +95,16 @@ Then he set off down the street, his rubbers patting a steady rhythm on the side
 
 Poor Mr. J. C. Bingler and his dreams of Empire.
 
-<p id="theend">&middot; END OF CHAPTER 1 &middot;</p>
+\*   \*   \*   \*   \*
+{: .fivestar .center}
 
-<hr>
-<br>
-<div class="toc">
-	<header>
-		<h6>Table of Contents</h6>
-	</header>
-	
-	<ol>
-		<li class="bloodred">Dreams of Empire</li>
-		<li class="bloodred">The Home Detective Course</li>
-		<li class="bloodred">Death Mask</li>
-		<li class="bloodred">Wax Museum</li>
-		<li class="bloodred">Pink Hitler</li>
-		<li class="bloodred">House Breaker</li>
-		<li class="bloodred">Nicely Framed</li>
-		<li class="bloodred">Harry Wilson</li>
-		<li class="bloodred">The Plan</li>
-	</ol>
-</div> <!-- table-of-contents -->
+### Chapter 2 
+{: .chapternumber .no_toc}
+
+### The Home Detective Course
+{: .chaptertitle}
+
+Mr. Bingler entered the apartment that had been his home for years, racked his umbrella, hung his hat and boxed his derby, then set his gleaming rubbers beside the hall tree. Catching up the hat-box with its new derby, he went toward the bedroom, switching on the lights as he went. He scowled pleasantly as he went, his troubled mind wrestling with his problem. Placing the hatbox on the neat counterpane of his bed, he removed his clothes, hung them carefully in the single closet.
+
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;END OF PART 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;
+{: .center .bold .margin2r}

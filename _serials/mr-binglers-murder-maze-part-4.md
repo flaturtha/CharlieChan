@@ -1,6 +1,6 @@
 ---
 layout: serials
-casefileNumber: alis381
+casefileNumber: b683565e-5048-4621-9224-4afd2c4569c2
 title: "Mr. Bingler's Murder Maze"
 slug: part 4
 author: Wilbur S. Peacock
@@ -11,15 +11,17 @@ opubissue: Vol. 3, No. 2
 pubdate: 2018-08-11 
 category: novelettes 
 genre: Amateur Sleuth
-description: "part 4 teaser"
+description: "Mr. Bingler wakes and finds his assailant laid a wet towel over his head, but disturbed nothing. Or did he?"
 tags: novelette 
 image: /assets/img/novelettes/mr-binglers-murder-maze.jpg
 wordcount: 1119
-permalink: /novelettes/mr-binglers-murder-maze/alis381-part4/
-nextpart: "part 5 teaser"
-nextpart_url: /novelettes/mr-binglers-murder-maze/alis381-part5/
+permalink: /novelettes/mr-binglers-murder-maze/part-4/
+nextpart: part 5
+nextpart_tease: "When Mr. Bingler girds up his mental loins and pinch hits for the police to stop a murder."
+nextpart_url: /novelettes/mr-binglers-murder-maze/part-5/
 prev_part: part 3
-prev_summary: "some long summary"
+prev_part_url: /novelettes/mr-binglers-murder-maze/part-3/
+prev_summary: "After consulting his Home Detective's Course manual, Mr. Bingler was unsure why the master criminal had create the wax death mask. But the puzzle did nothing to crush his enthusiasm for the case. Instead, it was his small and inadequately haired head that was crushed by an indistinct figure at his door."
 ---
 
 ### Chapter 4
@@ -28,7 +30,7 @@ prev_summary: "some long summary"
 ### Wax Museum
 {: .chaptertitle}
 
-Mr. Bingler tried to run from the six-headed monster that was snuffling ferociously at his heels, but strain as he might, he could not lift his rooted feet out of their tracks. He tried to yell, and his voice came out in a tenuous whisper that hung in the air before his face. He groaned in terror, and the sound brought him back to consciousness.
+<span class="firstcharacter">M</span>r. Bingler tried to run from the six-headed monster that was snuffling ferociously at his heels, but strain as he might, he could not lift his rooted feet out of their tracks. He tried to yell, and his voice came out in a tenuous whisper that hung in the air before his face. He groaned in terror, and the sound brought him back to consciousness.
 
 He was lying on the divan, a wet towel tucked carefully around his aching head. He groaned again, lifted himself to a sitting position, wincing at the stab of pain that skidded around the inside of his skull.
 
@@ -54,9 +56,8 @@ This entire affair had become rather personal to Mr. Bingler.
 
 "Taxi, Mister?" a prowling cabby called to the small man in the raincoat.
 
-:::{.fivestar .center}
 \*   \*   \*   \*   \*
-:::
+{: .fivestar .center}
 
 Mr. Bingler nodded absently, climbed into the rear of the taxi. He seated himself exactly in the center of the cushions, braced his feet on the foot rail.
 
@@ -85,7 +86,7 @@ Mr. Bingler nodded wordlessly, too paralyzed to speak. He watched the world whiz
 Mr. Bingler grimaced, peered regretfully after the taxi. This mystery was proving expensive, both in mental shock and cash.
 
 \*   \*   \*   \*   \*
-{.fivestar .center}
+{: .fivestar .center}
 
 He looked up at the tarnished sign "Wax Museum," then trudged casually down the street toward the darkness of an alleyway. Certain that he was unseen, he ducked into its depths, edged along the building wall, until he came to the sliver of light that edged from beneath a pulled shade. Pulling a box from a rubbish pile, he climbed atop its frail structure, applied one eye to the silt of light.
 

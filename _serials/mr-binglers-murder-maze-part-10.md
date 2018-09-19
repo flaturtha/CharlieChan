@@ -1,6 +1,6 @@
 ---
 layout: serials
-casefileNumber: alis381
+casefileNumber: b683565e-5048-4621-9224-4afd2c4569c2
 title: "Mr. Bingler's Murder Maze"
 slug: part 10
 author: Wilbur S. Peacock
@@ -15,10 +15,11 @@ description: "part 10 teaser"
 tags: novelette 
 image: /assets/img/novelettes/mr-binglers-murder-maze.jpg
 wordcount: 1119
-permalink: /novelettes/mr-binglers-murder-maze/alis381-part10/
+permalink: /novelettes/mr-binglers-murder-maze/part-10/
 nextpart:
 nextpart_url:
 prev_part: part 9
+prev_part_url: /novelettes/mr-binglers-murder-maze/part-9/
 prev_summary: "some long summary"
 ---
 
@@ -28,7 +29,7 @@ prev_summary: "some long summary"
 ### Master Detective
 {: .chaptertitle}
 
-Mr. Bingler stood paralyzed with horror as the gun roared in the killer's hand. He couldn't move, and his hand was tight on the tear-gas gun in his coat pocket. For a moment the tableau held, and then Reeves was only a writhing mass of flesh on the floor, crimson staining his shirtfront.
+<span class="firstcharacter">M</span>r. Bingler stood paralyzed with horror as the gun roared in the killer's hand. He couldn't move, and his hand was tight on the tear-gas gun in his coat pocket. For a moment the tableau held, and then Reeves was only a writhing mass of flesh on the floor, crimson staining his shirtfront.
 
 The killer, his face satanic, whirled to Mr. Bingler, lifted the gun. There was hate and fear and utter savagery in his thin face as he took a slow step forward.
 

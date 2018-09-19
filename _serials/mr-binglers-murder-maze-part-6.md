@@ -1,6 +1,6 @@
 ---
 layout: serials
-casefileNumber: alis381
+casefileNumber: b683565e-5048-4621-9224-4afd2c4569c2
 title: "Mr. Bingler's Murder Maze"
 slug: part 6
 author: Wilbur S. Peacock
@@ -11,15 +11,17 @@ opubissue: Vol. 3, No. 2
 pubdate: 2018-08-11 
 category: novelettes 
 genre: Amateur Sleuth
-description: "part 6 teaser"
+description: "Mr. Bingler becomes a criminal."
 tags: novelette 
 image: /assets/img/novelettes/mr-binglers-murder-maze.jpg
 wordcount: 1119
-permalink: /novelettes/mr-binglers-murder-maze/alis381-part6/
-nextpart: "part 7 teaser"
-nextpart_url: /novelettes/mr-binglers-murder-maze/alis381-part7/
+permalink: /novelettes/mr-binglers-murder-maze/part-6/
+nextpart: part 7
+nextpart_tease: "where Mr. Bingler realizes that he had shoved his twitching nose into something too big for him to handle."
+nextpart_url: /novelettes/mr-binglers-murder-maze/part-7/
 prev_part: part 5
-prev_summary: "some long summary"
+prev_part_url: /novelettes/mr-binglers-murder-maze/part-5/
+prev_summary: "Mr. Bingler took his evidence to Captain Donovan, only to be brushed off when a man named Miller is murdered uptown. But then the amateur detective found new courage and new evidence in his quest to stop the master-villain."
 ---
 
 ### Chapter 6
@@ -28,7 +30,7 @@ prev_summary: "some long summary"
 ### House Breaker
 {: .chaptertitle}
 
-Mr. Bingler hesitated on the street, the blood of some Scottish ancestor rebelling against wasting more money on a taxi ride. He clambered aboard a passing bus, seated himself on a rear seat of the upper deck.
+<span class="firstcharacter">M</span>r. Bingler hesitated on the street, the blood of some Scottish ancestor rebelling against wasting more money on a taxi ride. He clambered aboard a passing bus, seated himself on a rear seat of the upper deck.
 
 He knew now what he had to do; he must go to Harvey Wilson and warn him that his partner was preparing to murder him before the night was gone.
 
@@ -119,7 +121,7 @@ Mr. Bingler went down slowly, folding tiredly over the divan arm, then slipping 
 ### Nicely Framed
 {: .chaptertitle}
 
-Mr. J. C. Bingler's head was a great bronze bell, against whose sides a large iron clapper bonged and boomed with a sickening regularity. He retched a bit at the constant noise, rolled weakly to his side, his hands pressing feebly at the cold floor.
+<span class="firstcharacter">M</span>r. J. C. Bingler's head was a great bronze bell, against whose sides a large iron clapper bonged and boomed with a sickening regularity. He retched a bit at the constant noise, rolled weakly to his side, his hands pressing feebly at the cold floor.
 
 Then consciousness came back with a rush, and he winced fearfully lest he be struck again with that terrible fist. Nothing happened, and there was no sound, so Mr. Bingler opened his eyes.
 

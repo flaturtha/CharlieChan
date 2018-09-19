@@ -1,6 +1,6 @@
 ---
 layout: serials
-casefileNumber: alis381
+casefileNumber: b683565e-5048-4621-9224-4afd2c4569c2
 title: "Mr. Bingler's Murder Maze"
 slug: part 8
 author: Wilbur S. Peacock
@@ -11,15 +11,17 @@ opubissue: Vol. 3, No. 2
 pubdate: 2018-08-11 
 category: novelettes 
 genre: Amateur Sleuth
-description: "part 8 teaser"
+description: "where Mr. Bingler meets the real Harry Wilson."
 tags: novelette 
 image: /assets/img/novelettes/mr-binglers-murder-maze.jpg
 wordcount: 1119
-permalink: /novelettes/mr-binglers-murder-maze/alis381-part8/
-nextpart: "part 9 teaser"
-nextpart_url: /novelettes/mr-binglers-murder-maze/alis381-part9/
+permalink: /novelettes/mr-binglers-murder-maze/part-8/
+nextpart: part 9
+nextpart_tease: "in which Mr. Bingler learns the truth."
+nextpart_url: /novelettes/mr-binglers-murder-maze/part-9/
 prev_part: part 7
-prev_summary: "some long summary"
+prev_part_url: /novelettes/mr-binglers-murder-maze/part-7/
+prev_summary: "Mr. Bingler discovered that not only was Harry Wilson dead, but that he'd been murdered with Mr. Bingler's own sword-umbrella. And, discovered by a nurse, fled the scene, coherent only of the fact that he'd been nicely framed for murder."
 ---
 
 ### Chapter 8
@@ -28,7 +30,7 @@ prev_summary: "some long summary"
 ### Harry Wilson
 {: .chaptertitle}
 
-A cicada burred into life at Mr. Bingler's elbow, and he relit started in sudden reflex, then crouched back in the shadow of the hedge. He shivered at the faint wail of a far-off siren, remembering his terrified flight from the hospital. He had abandoned the milk wagon after a ride of ten blocks, had boarded a passing bus, changed buses twice, and then walked almost a mile. And new he was crouched in the shadow of the hedge that paralleled Harvey Wilson's lawn.
+<span class="firstcharacter">A</span> cicada burred into life at Mr. Bingler's elbow, and he relit started in sudden reflex, then crouched back in the shadow of the hedge. He shivered at the faint wail of a far-off siren, remembering his terrified flight from the hospital. He had abandoned the milk wagon after a ride of ten blocks, had boarded a passing bus, changed buses twice, and then walked almost a mile. And new he was crouched in the shadow of the hedge that paralleled Harvey Wilson's lawn.
 
 Why he was there, he could not have explained logically. He knew only that it was from this house that he had been taken for a ride that had ended with murder. He shuddered violently, recalling the fingerprints he had left on the traitorous sword.
 
@@ -113,7 +115,7 @@ Never, in even his most fantastic dreams of crime fighting, had Mr. Bingler visu
 
 "I figured it like this," Mr. Bingler said hurriedly, "Reeves was planning to kill you for --- I mean Harvey Wilson was to be murdered --- That is --- !"
 
-"Go on, please," Wilson said softly. "I was to die for a half million dollars of insurance.
+"Go on, please," Wilson said softly. "I was to die for a half million dollars of insurance."
 
 &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;END OF PART 8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;
 {: .center .bold .margin2r}

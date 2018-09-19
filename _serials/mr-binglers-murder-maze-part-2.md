@@ -1,6 +1,6 @@
 ---
 layout: serials
-casefileNumber: alis381
+casefileNumber: b683565e-5048-4621-9224-4afd2c4569c2
 title: "Mr. Bingler's Murder Maze"
 slug: part 2
 author: Wilbur S. Peacock
@@ -15,11 +15,13 @@ description: "In which Mr. Bingler finds a head in his hatbox &hellip;"
 tags: novelette 
 image: /assets/img/novelettes/mr-binglers-murder-maze.jpg
 wordcount: 1119
-permalink: /novelettes/mr-binglers-murder-maze/alis381-1218/
-nextpart: "where Mr. Bingler tries on the death mask."
-nextpart_url: /novelettes/mr-binglers-murder-maze/alis381-part3/
+permalink: /novelettes/mr-binglers-murder-maze/part-2/
+nextpart: part 3
+nextpart_tease: "where Mr. Bingler tries on the death mask."
+nextpart_url: /novelettes/mr-binglers-murder-maze/part-3/
 prev_part: part 1
-prev_summary: "Mr. Bingler overheard a conversation while dining at his favoriate restaurant &hellip; two men planning a murder. As a graduate of the Home Detective Course, Mr. Bingler knew he had to investigate!"
+prev_part_url: /novelettes/mr-binglers-murder-maze/part-1/
+prev_summary: "Mr. Bingler overheard a conversation while dining at his favorate restaurant &hellip; two men planning a murder. As a graduate of the Home Detective Course, Mr. Bingler knew he had to investigate!"
 ---
 
 ### Chapter 2
@@ -28,7 +30,7 @@ prev_summary: "Mr. Bingler overheard a conversation while dining at his favoriat
 ### The Home Detective Course
 {: .chaptertitle}
 
-Mr. Bingler entered the apartment that had been his home for years, racked his umbrella, hung his hat and boxed his derby, then set his gleaming rubbers beside the hall tree. Catching up the hat-box with its new derby, he went toward the bedroom, switching on the lights as he went. He scowled pleasantly as he went, his troubled mind wrestling with his problem. Placing the hatbox on the neat counterpane of his bed, he removed his clothes, hung them carefully in the single closet.
+<span class="firstcharacter">M</span>r. Bingler entered the apartment that had been his home for years, racked his umbrella, hung his hat and boxed his derby, then set his gleaming rubbers beside the hall tree. Catching up the hat-box with its new derby, he went toward the bedroom, switching on the lights as he went. He scowled pleasantly as he went, his troubled mind wrestling with his problem. Placing the hatbox on the neat counterpane of his bed, he removed his clothes, hung them carefully in the single closet.
 
 \*   \*   \*   \*   \*
 {: .fivestar .center}

@@ -1,6 +1,6 @@
 ---
 layout: serials
-casefileNumber: alis381
+casefileNumber: b683565e-5048-4621-9224-4afd2c4569c2
 title: "Mr. Bingler's Murder Maze"
 slug: part 3
 author: Wilbur S. Peacock
@@ -11,15 +11,17 @@ opubissue: Vol. 3, No. 2
 pubdate: 2018-08-11 
 category: novelettes 
 genre: Amateur Sleuth
-description: "part 3 teaser"
+description: "Where Mr. Bingler consults his Home Detective Course booklet for the purpose of masks used in crime."
 tags: novelette 
 image: /assets/img/novelettes/mr-binglers-murder-maze.jpg
 wordcount: 1119
-permalink: /novelettes/mr-binglers-murder-maze/alis381-part3/
-nextpart: "part 4 teaser"
-nextpart_url: /novelettes/mr-binglers-murder-maze/alis381-part4/
+permalink: /novelettes/mr-binglers-murder-maze/part-3/
+nextpart: part 4
+nextpart_tease: "when Mr. Bingler wakes and finds his assailant lay a wet towel over his head, but disturbed nothing. Or did he?"
+nextpart_url: /novelettes/mr-binglers-murder-maze/part-4/
 prev_part: part 2
-prev_summary: "some long summary"
+prev_part_url: /novelettes/mr-binglers-murder-maze/part-2/
+prev_summary: "After talking to Captain of Detectives Donovan, Mr. Bingler was confident that his mail order rank of First Class Investigator would enable him to solve his case. Until he finds an unexpected head in his hatbox, that thankfully turned out to be a wax death mask."
 ---
 
 ### Chapter 3
@@ -28,7 +30,7 @@ prev_summary: "some long summary"
 ### Death Mask
 {: .chaptertitle}
 
-Mr. J. C. Bingler picked up the death mask, his flesh creeping a bit at the coolness of the wax. He coughed sheepishly, glanced guiltily toward the bathroom.
+<span class="firstcharacter">M</span>r. J. C. Bingler picked up the death mask, his flesh creeping a bit at the coolness of the wax. He coughed sheepishly, glanced guiltily toward the bathroom.
 
 He examined the mask, his roily mind trying to make sense out of the things that had happened to him in the past hour. He was not in the best of condition for coherent thinking, but gradually his blood pressure eased, and his bookkeeper's mind began grasping the fringes of the mystery.
 

@@ -20,6 +20,7 @@ image: /assets/img/novelettes/blueberry-pie.jpg
 fb-image: /assets/img/short-stories/blueberry-pie_fb.jpg
 imgh: 450px
 genre: Crime
+firstchapter: Love At First Sight
 tags: short-story
 wordcount: 9130
 trfissue: Vol. 4 No. 15
@@ -32,7 +33,7 @@ trfdate: Jul. 16, 2017
 	</header>
 	
 	<ol>
-		<li class="bloodred">Love At First Site</li>
+		<li class="bloodred">Love At First Sight</li>
 		<li class="bloodred">Mr. And Mrs. Dennison</li>
 		<li class="bloodred">Stuart Dennison's Story</li>
 		<li class="bloodred">Irene Graham &mdash; His Girl</li>

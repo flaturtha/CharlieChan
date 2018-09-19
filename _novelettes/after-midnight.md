@@ -1,6 +1,6 @@
 ---
 layout: novelettes 
-casefileNumber: 
+casefileNumber: 55ccf75fb3901011515aef24
 e-guid: 
 k-guid:
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/after-midnight.mobi
@@ -15,7 +15,8 @@ pubdate: 2018-08-13
 category: novelettes 
 genre: Amateur Sleuth 
 description: "Willoughby is jealous of his wife's relationship with the new gardener. But who is the mysterious man and how does a faithful wife's relationship with him lead to murder?"
-tags: novelette 
+tags: novelette
+firstchapter: The Gardner
 image: /assets/img/novelettes/after-midnight.jpg
 wordcount: 9216
 ---

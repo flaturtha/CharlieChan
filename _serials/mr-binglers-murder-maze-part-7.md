@@ -1,6 +1,6 @@
 ---
 layout: serials
-casefileNumber: alis381
+casefileNumber: b683565e-5048-4621-9224-4afd2c4569c2
 title: "Mr. Bingler's Murder Maze"
 slug: part 7
 author: Wilbur S. Peacock
@@ -11,15 +11,17 @@ opubissue: Vol. 3, No. 2
 pubdate: 2018-08-11 
 category: novelettes 
 genre: Amateur Sleuth
-description: "part 7 teaser"
+description: "Where Mr. Bingler realizes that he had shoved his twitching nose into something too big for him to handle."
 tags: novelette 
 image: /assets/img/novelettes/mr-binglers-murder-maze.jpg
 wordcount: 1119
-permalink: /novelettes/mr-binglers-murder-maze/alis381-part7/
-nextpart: "part 8 teaser"
-nextpart_url: /novelettes/mr-binglers-murder-maze/alis381-part8/
+permalink: /novelettes/mr-binglers-murder-maze/part-7/
+nextpart: part 9
+nextpart_tease: "where Mr. Bingler meets the real Harry Wilson."
+nextpart_url: /novelettes/mr-binglers-murder-maze/part-8/
 prev_part: part 6
-prev_summary: "some long summary"
+prev_part_url: /novelettes/mr-binglers-murder-maze/part-6/
+prev_summary: "Mr. Bingler decided that he needed to break the law to prevent a crime and breaks into the Wax Museum. But he found he efforts to stop a murder were too late when he discovered the dead body of Harvey Wilson."
 ---
 
 ### Chapter 7
@@ -28,7 +30,7 @@ prev_summary: "some long summary"
 ### Nicely Framed
 {: .chaptertitle}
 
-Mr. J. C. Bingler's head was a great bronze bell, against whose sides a large iron clapper bonged and boomed with a sickening regularity. He retched a bit at the constant noise, rolled weakly to his side, his hands pressing feebly at the cold floor.
+<span class="firstcharacter">M</span>r. J. C. Bingler's head was a great bronze bell, against whose sides a large iron clapper bonged and boomed with a sickening regularity. He retched a bit at the constant noise, rolled weakly to his side, his hands pressing feebly at the cold floor.
 
 Then consciousness came back with a rush, and he winced fearfully lest he be struck again with that terrible fist. Nothing happened, and there was no sound, so Mr. Bingler opened his eyes.
 
@@ -77,7 +79,9 @@ But Mr. Bingler was not concerned with anyone but himself at the moment. Blind i
 
 He almost fell on the short flight of steps, spun right like a racing hare, went down the street with a speed that was incredible for a little man with legs as short as his.
 
-He ducked into an alleyway, his breath sobbing in his throat, a pain blossoming in his side. "Oh, dear!" he whimpered again and again as he pounded along the paving.
+He ducked into an alleyway, his breath sobbing in his throat, a pain blossoming in his side.
+
+"Oh, dear!" he whimpered again and again as he pounded along the paving.
 
 He whirled around a corner, crushed into a stooping man, caromed into a wall, ended up in a gasping heap against a garbage can. Glass crashed and milk flew, and there was a dull "thwunk" as the head of the milkman made contact with the brick wall.
 

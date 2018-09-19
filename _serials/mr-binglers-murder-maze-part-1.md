@@ -1,6 +1,6 @@
 ---
 layout: serials
-casefileNumber: alis381
+casefileNumber: b683565e-5048-4621-9224-4afd2c4569c2
 title: "Mr. Bingler's Murder Maze"
 slug: part 1
 author: Wilbur S. Peacock
@@ -15,9 +15,10 @@ description: "In which Mr. Bingler discovers <em>murder</em> &hellip;"
 tags: novelette 
 image: /assets/img/novelettes/mr-binglers-murder-maze.jpg
 wordcount: 1119
-permalink: /novelettes/mr-binglers-murder-maze/alis3801-1119/
-nextpart: "In which Mr. Bingler finds a head in his hat box!"
-nextpart_url: /novelettes/mr-binglers-murder-maze/alis381-1218/
+permalink: /novelettes/mr-binglers-murder-maze/part-1/
+nextpart: part 2
+nextpart_tease: "in which Mr. Bingler finds a head in his hat box!"
+nextpart_url: /novelettes/mr-binglers-murder-maze/part-2/
 prev_part:
 prev_summary:
 ---
@@ -28,7 +29,7 @@ prev_summary:
 ### Dreams of Empire
 {: .chaptertitle}
 
-Mr. J. C. Bingler mopped leisurely at the last trace of gravy with a piece of toast, his rabbity face calm with the pleasure that an animal feels with a comfortably filled stomach. He burped casually, stretched in indolent ease, sipped at the last of his weak tea.
+<span class="firstcharacter">M</span>r. J. C. Bingler mopped leisurely at the last trace of gravy with a piece of toast, his rabbity face calm with the pleasure that an animal feels with a comfortably filled stomach. He burped casually, stretched in indolent ease, sipped at the last of his weak tea.
 
 He peered myopically from the dim interior of the booth, happy that he had eaten before the evening rush of diners arrived. He could hear the clatter of dishes from the kitchen, and the muted buzz of voices from the few diners. He shifted a bit, felt the weight of the hat-box against his rubber-shod feet, from underneath the seat where he had shoved it when first entering.
 

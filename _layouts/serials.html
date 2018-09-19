@@ -20,7 +20,7 @@ layout: default2
       {% endif %}
       
       {% if page.prev_part %}
-        <h5 class="uppercase italics">{{ page.prev_part }} Summary:</h5>
+        <h5 class="uppercase"><a href="{{ page.prev_part_url }}" class="underline"><i class="fa fa-arrow-left"></i> {{ page.prev_part }} Summary:</a></h5>
         <p>{{ page.prev_summary }}</p>
       {% endif %}
 
@@ -33,18 +33,22 @@ layout: default2
   </header> <!-- end header.books__header -->
 
   <article class="books">
-    <div>
+    <div class="serial-story-segment">
       {{ content }}
     </div>
 
   </article>
 
   {% if page.nextpart %}
-    <div>
-        <h4>Watch your Inbox tomorrow for the next installment of <em>{{ page.title }}</em> &hellip;<br><br>{{ page.nextpart }}</h4>
+    <div style="background-color:#242424;color:#fffff0;padding:2rem;">
+        <h4 style="text-align:center;">Watch your Inbox tomorrow for the next installment of</h4>
+        <h3 class="center uppercase margin1r">{{ page.title }}</h3>
+        <p class="center italics margin1r">{{ page.nextpart_tease }}</p>
         <hr class="margin2r">
-        <p class="xlarge bold">Don't want to wait to continue reading?</p>
-        <p>Click <a href="{{ page.nextpart_url }}">HERE</a> to read the next part now.</p>
+        <div class="center" style="padding:1rem 1rem 0.5rem;background-color:#fffff0;color:#242424;">
+          <p class="xlarge bold">Don't want to wait 24 hours to continue reading?</p>
+          <p>Read <a href="{{ page.nextpart_url }}" class="bold underline"><span class="uppercase">{{ page.nextpart }}</span></a> now.</p>
+        </div>
     </div>
   {% else%}
     <div>

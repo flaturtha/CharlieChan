@@ -1,6 +1,6 @@
 ---
 layout: serials
-casefileNumber: alis381
+casefileNumber: b683565e-5048-4621-9224-4afd2c4569c2
 title: "Mr. Bingler's Murder Maze"
 slug: part 9
 author: Wilbur S. Peacock
@@ -15,10 +15,11 @@ description: "part 9 teaser"
 tags: novelette 
 image: /assets/img/novelettes/mr-binglers-murder-maze.jpg
 wordcount: 1119
-permalink: /novelettes/mr-binglers-murder-maze/alis381-part9/
+permalink: /novelettes/mr-binglers-murder-maze/part-9/
 nextpart: "part 10 teaser"
-nextpart_url: /novelettes/mr-binglers-murder-maze/alis381-part10/
+nextpart_url: /novelettes/mr-binglers-murder-maze/part-10/
 prev_part: part 8
+prev_part_url: /novelettes/mr-binglers-murder-maze/part-8/
 prev_summary: "some long summary"
 ---
 
@@ -28,7 +29,7 @@ prev_summary: "some long summary"
 ### The Plan
 {: .chaptertitle}
 
-Never, in even his most fantastic dreams of crime fighting, had Mr. Bingler visualized such a scene as this. Always he had had the whip hand, and the villains had been cringing against the cold menace of his logical condemnations. But now he knew them for the dreams they were, and realized that life is at times more astounding than fiction.
+<span class="firstcharacter">N</span>ever, in even his most fantastic dreams of crime fighting, had Mr. Bingler visualized such a scene as this. Always he had had the whip hand, and the villains had been cringing against the cold menace of his logical condemnations. But now he knew them for the dreams they were, and realized that life is at times more astounding than fiction.
 
 "Talk," Harvey Wilson said, "and I mean everything you know!"
 
