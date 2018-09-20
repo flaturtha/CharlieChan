@@ -15,7 +15,7 @@ image: /assets/img/short-stories/thisll-kill-you.png
 fb-image: /assets/img/short-stories/thisll-kill-you_fb.jpg
 caption: "Suddenly his fingers were around Jordan's throat."
 imgh: 400px
-genre: Hippopotimus 
+genre: Noir 
 wordcount: 2185
 trfissue: Vol. 11 No. 43
 trfdate: August 12, 2018
