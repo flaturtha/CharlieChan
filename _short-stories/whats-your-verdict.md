@@ -20,8 +20,6 @@ wordcount: 553
 trfissue: Vol. 12 No. 44
 trfdate: Aug. 26, 2018
 ---
-<hr style="border:1px solid #8b0000;">
-<br>
 
 Harry and Alice, everybody agreed, were about the poorest excuse for a happily married couple that the town had ever seen. Almost every night, the neighbors could hear the roaring voice of big Harry arguing with slim, blonde Alice, shouting at her, insulting her.
 
@@ -66,16 +64,9 @@ When Tim found out what Alice was up to, he protested violently.
 Who is right? What's *your* verdict?
 
 ANSWER:
-<<<<<<< HEAD
 {: .bold .bloodred}
 
 It was Tim who had the bad luck. The law rules that, if there is a assault with intent to kill, and the assault puts the victim in a situation where death is the result, then --- even though the man committing the assault didn't intend his victim to meet death in that form --- the man who committed the assault is liable to conviction for homicide. In this case, Alice was left all alone, since Time, after a brief trial, was packed off to prison.
 
 <p id="theend">THE END</p>
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
-=======
-
-It was Tim who had the bad luck. The law rules that, if there is a assault with intent to kill, and the assault puts the victim in a situation where death is the result, then --- even though the man committing the assault didn't intend his victim to meet death in that form --- the man who committed the assault is liable to conviction for homicide. In this case, Alice was left all alone, since Time, after a brief trial, was packed off to prison.
-
-THE END
->>>>>>> cleanup
