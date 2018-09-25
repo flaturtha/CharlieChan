@@ -119,7 +119,7 @@ She blinked and dragged half-heartedly at the cigarette and then she turned and 
 
 "You told him --- ?"
 
-"I didn't tell him anything. I came out of the bedroom and told him that Mr. Dug- gin was still sleeping. Then I asked him for your address. Maybe he still thinks that Harry is asleep. Or maybe he's found out already and the police are in on the case." 
+"I didn't tell him anything. I came out of the bedroom and told him that Mr. Duggin was still sleeping. Then I asked him for your address. Maybe he still thinks that Harry is asleep. Or maybe he's found out already and the police are in on the case." 
 
 She looked at the ceiling and then she looked at the floor and then she looked at Frey and said, "Now let me understand this. You say that I murdered Harry. You want me to sign a confession."
 
@@ -209,9 +209,9 @@ He said, "You got a nice business, Mr. Lasseroe. You are an expert appraiser of 
 
 "Quiet," Mogin toned.
 
-"Everybody was happy," Frey said, "be cause nobody really lost out. The artists made dough and the dealers made dough and the customers thought they were getting high class stuff. One of these customers was Harry Duggin, the successful corporation lawyer."
+"Everybody was happy," Frey said, "because nobody really lost out. The artists made dough and the dealers made dough and the customers thought they were getting high class stuff. One of these customers was Harry Duggin, the successful corporation lawyer."
 
-Lasseroe opened his mouth to say something. Then he closed it ard looked at Frey and looked at Mogin and looked at Frey again.
+Lasseroe opened his mouth to say something. Then he closed it and looked at Frey and looked at Mogin and looked at Frey again.
 
 "You sold Duggin a few pieces of sculpture done by a girl named Tess Rillette," Frey said. "Duggin liked the sculpture and he wanted to meet the girl. You introduced him to Tess and he went crazy. He worshipped her. He asked her to marry him. She thought it was funny and she told you about it. You didn't think it was funny. You saw a new dodge --- "
 
@@ -261,7 +261,7 @@ Frey parted his lips and the cigarette fell from his mouth. He stepped on the st
 
 "No double feature?" Mogin said.
 
-"No double feature. We'll visit th third party and if we strike out we'd better leave town for a few days to avoid a lot of aggravation. See what I mean?"
+"No double feature. We'll visit the third party and if we strike out we'd better leave town for a few days to avoid a lot of aggravation. See what I mean?"
 
 "I see what you mean," Mogin said. "Who do we see now?"
 
@@ -423,7 +423,7 @@ The Jap started to yell.
 
 "I'll drive around the block a few times," Mogin said.
 
-Frey went up tire steps again and took his time going through the pale orange room, the burnt orange room. Then he was moving slowly and very quietly as he heard voices coming from the other pale orange room. The orange door was closed but Frey managed to get in a look through the side windows of the studio. The windows were slits of glass running from the floor to the ceiling, and through them Frey saw Tess Rillette and Lasseroe and Daisy Hennifer.
+Frey went up the steps again and took his time going through the pale orange room, the burnt orange room. Then he was moving slowly and very quietly as he heard voices coming from the other pale orange room. The orange door was closed but Frey managed to get in a look through the side windows of the studio. The windows were slits of glass running from the floor to the ceiling, and through them Frey saw Tess Rillette and Lasseroe and Daisy Hennifer.
 
 They were all talking at once and at first their voices were low but then they started to argue and Frey got in on it.
 
@@ -475,9 +475,9 @@ Lasseroe went to sleep.
 
 "That's a very good idea," Mogin said. "I have a hunch that this will put us on the map."
 
-Frey nodded. He prodded Lasseroe with the revolver and said, "You and Miss Riilette will sit in the opera seats with me. Miss Hennifer will ride in front." He touched the shivering Jap on the elbow and said, "The studio is in quite a bad state. Better go in there and rearrange things. If you have any questions to ask Miss Riilette, maybe you better call the police station. That'll be her temporary address before she goes away on a long trip."
+Frey nodded. He prodded Lasseroe with the revolver and said, "You and Miss Rillette will sit in the opera seats with me. Miss Hennifer will ride in front." He touched the shivering Jap on the elbow and said, "The studio is in quite a bad state. Better go in there and rearrange things. If you have any questions to ask Miss Rillette, maybe you better call the police station. That'll be her temporary address before she goes away on a long trip."
 
-He stepped into the coupe and closed the door. Lasseroe was manacled to him and Miss Riilette was manacled to Lasseroe. Daisy was still groaning as Mogin put the car in first and sent it whizzing down the street.
+He stepped into the coupe and closed the door. Lasseroe was manacled to him and Miss Rillette was manacled to Lasseroe. Daisy was still groaning as Mogin put the car in first and sent it whizzing down the street.
 
 "You're making a big mistake," Lasseroe said.
 
