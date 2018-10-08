@@ -23,7 +23,7 @@ layout: default2
       {% if site.wpm %}
         {% assign readtime = page.wordcount | divided_by:site.wpm %}
       {% else %}
-        {% assign readtime = page.wordcount | divided_by:180 %}
+        {% assign readtime = page.wordcount | divided_by:200 %}
       {% endif %}
     {% endif %}
 
@@ -52,6 +52,9 @@ layout: default2
 
       <p class="metadata">
         <span class="etr">read time:
+          {% if page.etr %}
+            {{ page.etr }}
+          {% endif %}
           {% if site.readtime %}
           {% if readtime > 60 %}
           {% assign readtime_hours = readtime | divided_by: 60 %}

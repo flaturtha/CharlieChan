@@ -10,13 +10,14 @@ opubdate:
 opubissue:
 category: short-stories
 excerpt: "Humans aren't the only primates involved in crime!"
-tease: "Ripped from the headline &hellip;"
+tease: "Ripped from the headlines &hellip;"
 image: /assets/img/short-stories/dope-smugglers.png
 fb-image: /assets/img/short-stories/dope-smugglers_fb.jpg
 imgh: 400px
 genre: True Crime
 tags: short-story
-wordcount: 214
+wordcount: 210
+etr: less than 1 min
 trfissue: Vol. 13 No. 47
 trfdate: Oct. 7, 2018
 ---
