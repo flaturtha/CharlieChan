@@ -5,9 +5,9 @@ casefileNumber:
 title: "Dope Smugglers Use Apes As Decoys"
 author: 
 date: 2018-10-08
-opub: 
-opubdate: 
-opubissue:
+opub: Detective Story Magazine
+opubdate: June 17, 1922
+opubissue: Vol. XLIX, No. 6
 category: short-stories
 excerpt: "Humans aren't the only primates involved in crime!"
 tease: "Ripped from the headlines &hellip;"
