@@ -9,7 +9,7 @@ opub: The Illustrated Detective Magazine
 opubdate: Sept. 1931
 opubissue: Vol. IV, No. 3
 category: short-stories
-excerpt: "She Loved Pretty Clothes, Diamonds, Lobsters and Champagne, and, Like Dot King and Louise Lawson, She Learned How to Get What She Wanted. But Then, Like Those Later Gay Moths of Broadway, Dolly Reynolds Paid with Her Life, and the Mystery of Her Death Was Never Solved.<br><br>Three Juries Voted and the Public Said, \"Let It Drop!\"<br><br>Now That More Than Thirty Years Have Passed, Can You Explain the Murder of the Belle of Mount Vernon? Why Was She Killed? Why Was Such a Weapon Used? Who Killed Her?"
+excerpt: "She loved pretty clothes, diamonds, lobsters and champagne, and, like Dot King and Louise Lawson, she learned how to get what she wanted.<br><br>But then, like those later gay moths of Broadway, Dolly Reynolds paid with her life, and the mystery of her death was never solved."
 image: /assets/img/short-stories/who-killed-dolly-reynolds_1.png
 fb-image: /assets/img/short-stories/who-killed-dolly-reynolds_fb.jpg
 caption: "A piece of lead stilled forever her dancing feet."
@@ -21,6 +21,13 @@ wordcount: 2151
 trfissue: Vol. 13 No. 47
 trfdate: Oct. 7, 2018
 ---
+
+<em>Three juries voted and the public said, "Let it drop!"</em>
+
+<em>Now that more than thirty years have passed, can you explain the murder of the Belle of Mount Vernon? Why was she killed? Why was such a weapon used? Who killed her?</em>
+
+\*   \*   \*   \*   \*
+{: .fivestar .center}
 
 Broadway is no older than its butterflies; no longer than the list of these beautiful young girls, whose dancing feet have at last become entangled in the dark ways of crime. Like Dot King and Louise Lawson, her latter-day counterparts, Dolly Reynolds fluttered awhile in the bright lights before she met a violent death.
 
