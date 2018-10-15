@@ -42,17 +42,17 @@ $header-grid: (
 @include border-box-sizing;
 @include layout($small);
 
-.wrap {
-  @include container;
-  // @include cf;
-  padding: 0 1rem;
-  @include susy-breakpoint($bp-med, $med) {
-    // padding: 0;
-    max-width: 100%;
-    @include show-grid;
-  }
-  @include susy-breakpoint($bp-large, $large) {
-    max-width: 960px;
-    @include show-grid;
-  }
-}
+// .wrap {
+//   @include container;
+//   // @include cf;
+//   padding: 0 1rem;
+//   @include susy-breakpoint($bp-med, $med) {
+//     // padding: 0;
+//     max-width: 100%;
+//     @include show-grid;
+//   }
+//   @include susy-breakpoint($bp-large, $large) {
+//     max-width: 960px;
+//     @include show-grid;
+//   }
+// }

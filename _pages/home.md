@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /
+permalink: /old-home/
 title: Home
 category: home
 ---

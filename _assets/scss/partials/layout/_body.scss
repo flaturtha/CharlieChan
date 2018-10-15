@@ -30,3 +30,9 @@ p {
     color: $pcolor;
   }
 }
+
+.wrap {
+  width: 100%;
+  max-width: 60px !important;
+  background-color: blue;
+}

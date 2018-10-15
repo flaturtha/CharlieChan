@@ -385,22 +385,6 @@ textarea {
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
-.wrap {
-  max-width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0 1rem; }
-  .wrap:after {
-    content: " ";
-    display: block;
-    clear: both; }
-  @media (min-width: 530px) {
-    .wrap {
-      max-width: 100%; } }
-  @media (min-width: 775px) {
-    .wrap {
-      max-width: 960px; } }
-
 /* ==========================================================================
    VARIABLES
    ========================================================================== */
@@ -4200,13 +4184,61 @@ p {
     text-decoration: underline;
     color: #474F55; }
 
+.wrap {
+  width: 100%;
+  max-width: 60px !important;
+  background-color: blue; }
+
+/*====================================================
+=            DM HIGH CONVERTING HP SCSS              =
+====================================================*/
+.dmhp header {
+  text-align: center;
+  margin: 0;
+  padding: 1rem;
+  background-color: #cccccc; }
+  .dmhp header div {
+    width: 1000px;
+    max-width: 100%;
+    margin: 0 auto; }
+
+.dmhp h1, .dmhp .contact h2, .contact .dmhp h2 {
+  margin: 5rem 0 1rem;
+  font-size: 5rem; }
+
+.dmhp h2 {
+  text-align: center; }
+
+.dmhp h3 {
+  width: 300px;
+  max-width: 75%;
+  margin: 0 auto 2rem;
+  padding-bottom: 1rem;
+  text-align: center;
+  font-size: 1.25rem;
+  border-bottom: 1px solid #242424; }
+
+.dmhp p {
+  width: 600px;
+  max-width: 90%;
+  margin: 2rem auto; }
+
+.dmhp dl {
+  margin: 1rem auto;
+  width: 500px;
+  max-width: 95%; }
+  .dmhp dl dd {
+    font-weight: bold; }
+  .dmhp dl dt {
+    margin: 1rem 0 1rem 1rem;
+    font-size: 0.875rem; }
+
 /*====================================================
 =            ALL HEADER/NAV/BRANDING SCSS            =
 ====================================================*/
 /* HEADER */
 .header {
-  background-color: #242424;
-  margin-bottom: 2rem; }
+  background-color: #242424; }
 
 /* NAV */
 .fixedtop {
@@ -4219,12 +4251,8 @@ p {
   color: #00be00; }
 
 .nav {
-  z-index: 2;
   border-bottom: 4px solid #8B0000;
   font-family: 'Oswald',sans-serif;
-  position: fixed;
-  top: 0;
-  /* 105px 62px */
   width: 100%;
   background: #242424 url("/assets/img/site/pulpicons2.svg");
   /* main-nav */ }
@@ -4467,7 +4495,6 @@ p {
   position: relative;
   top: 1px; }
 
-/* OPTIN BAR */
 /* all scss for revised header/nav::split into proper files later */
 /*==========  UTILITIES  ==========*/
 /* ==========================================================================
