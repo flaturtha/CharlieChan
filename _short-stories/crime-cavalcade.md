@@ -134,7 +134,7 @@ And in Inverness, Calif., Vadim Turkan fastened the doors of his grocery with he
 Monkey Business
 {: .uppercase .bloodred .bold}
 
-Officers Johnny Coles and Jim Harp of Tulsa, Okla., arrested M. L. Sharp for illegal possession of whiskey, then couldn't find the liquor in the house. Hut a search of the back yard revealed a pet monkey in an old chicken coop, playing with a full half pint. Near him were 16 more pints.
+Officers Johnny Coles and Jim Harp of Tulsa, Okla., arrested M. L. Sharp for illegal possession of whiskey, then couldn't find the liquor in the house. But a search of the back yard revealed a pet monkey in an old chicken coop, playing with a full half pint. Near him were 16 more pints.
 
 "That damned monkey," Sharp groaned, "Last week he broke 12 bottles."
 
@@ -144,7 +144,7 @@ Officers Johnny Coles and Jim Harp of Tulsa, Okla., arrested M. L. Sharp for ill
 Female of the Species
 {: .uppercase .bloodred .bold}
 
-An odd "crime" occurred in Liege, Belgium, one afternoon in January, 1911, when Auguste Clemond, wealthy widower, summoned police after the death of his only daughter, Marie. She had been engaged to a law clerk, Raymond Ha- melle, but was fiercely jealous of his affection for her more attractive cousin, Jeanne.
+An odd "crime" occurred in Liege, Belgium, one afternoon in January, 1911, when Auguste Clemond, wealthy widower, summoned police after the death of his only daughter, Marie. She had been engaged to a law clerk, Raymond Hamelle, but was fiercely jealous of his affection for her more attractive cousin, Jeanne.
 
 Several nights before her death, Hamelle had promised to come to discuss wedding details, but when he failed to arrive by 9 p.m., Marie dashed furiously out into the storm. Two hours later she returned soaked and shivering. Pneumonia set in, and as the end drew near, her father sent for Hamelle. Until three in the morning the young man watched beside her bed, then told M. Clemond that Marie had sent him away, asking her father to come instead. Alone with her parent, Marie, barely able to whisper, told him just before she died that Hamelle had opened her jewel case and stolen a diamond.
 
