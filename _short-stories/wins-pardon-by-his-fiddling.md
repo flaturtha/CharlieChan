@@ -2,7 +2,7 @@
 layout: short-stories
 layoutTag: post
 casefileNumber: 
-title: ""
+title: "Wins Pardon By His Fiddling"
 author: 
 date: 2018-10-22
 opub: Detective Story Magazine 
