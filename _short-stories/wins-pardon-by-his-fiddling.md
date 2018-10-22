@@ -17,6 +17,7 @@ imgh: 400px
 genre: History
 tags: short-story
 wordcount: 220 
+etr: less than 1 min
 trfissue: Vol. 13 No. 48
 trfdate: Oct. 21, 2018
 ---
