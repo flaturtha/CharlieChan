@@ -8,7 +8,7 @@ date: 2018-10-25
 opub: Black Mask
 opubdate: Aug. 1922
 opubissue: Vol. 5, No. 5
-excerpt: "Tompkins confessed to planning to rob old Levi Jones, the money lender, and the janitor confessed. But something was rotten in the state of Denmark. And I knew it!"
+excerpt: "Tompkins confessed to planning to rob old Levi Jones, the money lender, and the janitor confessed to murder. But something was rotten in the state of Denmark. And I knew it!"
 image: /assets/img/short-stories/police-sometimes-guess-wrong.png
 fb-image: /assets/img/short-stories/police-sometimes-guess-wrong_fb.jpg
 tease: "The third degree gets a confession every time. But is it the right confession?"
