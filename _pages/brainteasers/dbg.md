@@ -4,18 +4,12 @@ permalink: /brain-teasers/death-by-gas/
 title: "Death by Gas"
 author: J. J. Matthews
 date: 2018-01-01
-opub: 
-opubdate: 
-opubissue: 
-category: short-stories
-excerpt: "Captain Pearsons is \'Thorough\', with a capital \'T\', and he found the single clue that proves Herman Matthews killed his young wife. Can you find it?<br><br><span class=\"bold\">Read the story, then when you think you've solved it, click to see the solution!</span>"
+category: brain-teasers
+excerpt: "Captain Pearsons found the single clue at the crime scene that proves Herman Matthews killed his young wife. Can you find it?"
 image: /assets/img/short-stories/radiator.svg
 imgh: 300px
-genre: Brain Teaser
-tags: short-story, brain-teaser
+genre: Brain teasers
 wordcount: 581
-trfissue: 
-trfdate: 
 ---
 
 <div class="toc">
@@ -79,12 +73,4 @@ Think carefully and re-read the story if you need to. Then get &hellip;
 ### The Solution
 {: .chaptertitle}
 
-Review the evidence carefully, and when you think you know what Captain Pearsons saw, enter your email address and get the solution to <strong>DEATH&nbsp;BY&nbsp;GAS&nbsp;</strong>!
-
-<div class="bt_form">
-	{% include dbg_solution_optin.html %}
-</div>
-
-
-
-
+Review the evidence carefully, and when you think you know what Captain Pearsons saw, click to reveal <a href ="/brain-teasers/death-by-gas/solution/" class="underline bold">THE SOLUTION</a> to DEATH BY GAS.
