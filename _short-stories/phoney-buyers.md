@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 
 title: "Phoney Buyers"
 author: 
-date: 2018-11-5
+date: 2018-11-05
 opub: Red Mask Detective Stories
 opubdate: Mar. 1941
 opubissue: Vol. 1, No. 1
