@@ -1,5 +1,50 @@
+---
+layout: novelettes
+casefileNumber: 55ccf75fb3901011515aef41
+e-guid:
+k-guid:
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/trap-thief.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/trap-thief.epub
+title: "The Trap Thief"
+author: Hy S. Watson & Asa Steele 
+price: 2.99
+date: 2018-02-16
+opub: Black Mask
+opubdate: Dec. 1921
+opubissue: Vol. 4, No. 3
+pubdate: 2018-09-06
+category: novelettes
+description: "“The low-down sneaking thief!” Jack Ramsey’s wrath hissed on his lips as he flung the steel traps to the ground. Of thirty, all but two had been stolen."
+image: /assets/img/novelettes/trap-thief.jpg
+fg-image: /assets/img/short-stories/trap-thief_fb.jpg
+tease: "Can a man down on his luck fight counterfeiters?"
+imgh: 375px
+genre: Amateur Sleuth
+tag: novelette
+wordcount: 6248
+---
 
-# [1]{.chapternumber} [A Deserted Cabin]{.chaptertitle}
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li>A Deserted Cabin</li>
+		<li>The Road to Honesdale</li>
+		<li>A Big, Bang- Up, Classy City Car</li>
+		<li>He Asked Me To Take Your Traps</li>
+    <li>A New Camp</li>
+    <li>Bag of Bones</li>
+  </ol>
+
+</div>
+
+### Chapter 1
+{: .chapternumber}
+
+### A Deserted Cabin
+{: .chaptertitle}
 
 “The low-down sneaking thief!” Jack Ramsey’s wrath hissed on his lips as he flung the steel traps to the ground. Of thirty, all but two had been stolen.
 
@@ -59,4 +104,25 @@ Swiftly a veil of mistrust had been drawn between them. He was seeking an answer
 
 “Blind as a bat!” Mary Gage remarked to Jimmie Willets, as she watched Ramsey go. “He won’t guess our secret till he falls head first into it.”
 
-<hr class="chapter-break" />
+The story continues &hellip; learn the Mary Gage's secret! 
+{: .tobecontinued}
+
+<br>
+<hr>
+<br>
+
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li>A Deserted Cabin</li>
+		<li>The Road to Honesdale</li>
+		<li>A Big, Bang- Up, Classy City Car</li>
+		<li>He Asked Me To Take Your Traps</li>
+    <li>A New Camp</li>
+    <li>Bag of Bones</li>
+  </ol>
+
+</div>

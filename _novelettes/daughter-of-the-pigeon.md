@@ -1,5 +1,44 @@
+---
+layout: novelettes 
+layoutTag: post
+casefileNumber: 55ccf75fb3901011515aef2d
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/daughter-of-the-pigeon.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/daughter-of-the-pigeon.epub
+title: "Daughter of the Pigeon"
+author: Harry C. Hervey, Jr.
+price: 2.99
+opub: The Black Mask
+opubdate: Sept. 1920
+opubissue: Vol. 1 No. 6
+pubdate: 2018-09-13
+category: novelettes 
+description: "“The cave!” I shouted, pressing the knife into her hand and pointing to the nearby cavity."
+image: /assets/img/novelettes/daughter-of-the-pigeon.jpg
+imgh: 300px
+genre: Adventure
+tags: adventure, Black Mask, Hervey, short-story
+wordcount: 6316
+---
 
-# [1]{.chapternumber} [Bloody Taoha]{.chaptertitle}
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li>Bloody Tahoa</li>
+		<li>Red Moon</li>
+		<li>Tahaiupehii</li>
+		<li>The Darkness of Po</li>
+	</ol>
+
+</div>
+
+### Chapter 1
+{:.chapternumber}
+
+### Bloody Taoha
+{: .chaptertitle}
 
 That last night in Marquesan waters, as Cleaves and I sat on the fore-deck of the anchored _Jezbel_, listening to the talk of Leaping Fire, the Polynesian midshipman, the Bay of Traitors was lit with an eerie glow. Along Taha-uka, from the rockbound shore where the surf hurled its futile rage upon a Bastile of dun-colored stone, to the somnolent lights of Hivaoa dreaming beneath the black thunders of Temetiu, legions of phosphorus battled in green strife.
 
@@ -121,4 +160,23 @@ I moved to the next one. Following the shriek of the unoiled iron, sheer horror 
 
 In the huge sea-chest, face upturned, was a man.
 
-<hr class="chapter-break" />
+The story continues &hellip; who is the man in the sea-chest and what mystery does Bloody Taoha hold? 
+{: .tobecontinued}
+
+<br>
+<hr>
+<br>
+
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li>Bloody Tahoa</li>
+		<li>Red Moon</li>
+		<li>Tahaiupehii</li>
+		<li>The Darkness of Po</li>
+	</ol>
+
+</div>

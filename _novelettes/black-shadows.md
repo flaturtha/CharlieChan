@@ -3,6 +3,8 @@ layout: novelettes
 casefileNumber: 55ccf75fb3901011515aef28
 e-guid: 9924b763-dd7b-47e3-a417-4ab04ba8daba
 k-guid: c468ebb7-df66-434a-a039-20594fe43117
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/black-shadows.mobi 
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/black-shadows.epub  
 title: "Black Shadows"
 author: J. C. Kofoed
 price: 2.99
@@ -17,8 +19,6 @@ description: "When old man Guerney is found murdered in his locked study, then t
 tags: novella, noir, murder, revenge, "J. C. Kofoed"
 image: /assets/img/novellas/black-shadows.jpg
 wordcount: 13469
-k-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Black-Shadows_sample.mobi
-e-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Black-Shadows_sample.epub
 ---
 
 ### Chapter 1

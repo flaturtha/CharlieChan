@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 
 title: "The Super Thief"
 author: A. D. Cade
-date: 2018-11-09
+date: 2018-11-08
 opub: Red Mask Detective Stories
 opubdate: Mar. 1941
 opubissue: Vol. 1, No. 1

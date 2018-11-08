@@ -3,13 +3,15 @@ layout: novelettes
 casefileNumber: 55ccf75fb3901011515aef0a
 e-guid: ec985bb0-f932-426f-9920-8a3fb606ee9e
 k-guid: a609c68f-4247-4c2c-8c98-b3d047a16a75
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/so-dead-the-rose.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/so-dead-the-rose.epub  
 title: "So Dead the&nbsp;Rose"
 author: Sim Albert
 price: 2.99
 opub: Smashing Detective
 opubdate: Sep. 1951
 opubissue: Vol. 1, No. 3
-pubdate: 
+pubdate: 2018-08-30 
 my-original-pub-date: 2016-11-15
 category: novelettes 
 genre: hardboiled PI
