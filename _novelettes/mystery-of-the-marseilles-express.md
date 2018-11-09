@@ -2,17 +2,17 @@
 layout: novelettes 
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef3c
-kdl: 
-edl: 
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/mystery-of-the-marseille-express.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/mystery-of-the-marseille-express.epub 
 title: "The Mystery of the Marseilles Express"
 author: J. C. Kofoed
 price: 2.99
-date: 2018-09-27
+pubdate: 2018-09-27
 opub: Black Mask
 opubdate: Nov. 1920
 opubissue: Vol. 2, No. 2
 category: novelettes
-description: "He was lying in a first class compartment of the Paris-Marseilles express, his throat cut from ear to ear. The only other occupants of the carriage were a blind man and a gentle old lady of eighty, who was hysterical from shock."
+description: "He was lying in a first class compartment of the Paris-Marseilles express, his throat cut from ear to ear.<br><br>The only other occupants of the carriage were a blind man and a gentle old lady of eighty, who was hysterical from shock."
 image: /assets/img/novelettes/mystery-of-the-marseilles-express.jpg
 imgh: 400px
 genre: Professional Sleuth

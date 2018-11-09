@@ -1,5 +1,42 @@
+---
+layout: novelettes 
+casefileNumber: 55ccf75fb3901011515aef02
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/gunning-for-death.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/gunning-for-death.epub
+title: "Gunning for Death"
+author: James L. Harfe
+pubdate: 2018-11-08
+price: 4.99
+opub: Smashing Detective
+opubdate: Sept. 1951
+opubissue: Vol. 1, No. 3
+category: novelettes
+description: "Branded as a yellow dog who let his best friend die, Dan Wilkins strikes back at the unknown traitor in the department, who was profiteering in blood and murder."
+image: /assets/img/novelettes/gunning-for-death.jpg
+caption: "\"It'll be easy to pass her death off as suicide &hellip;\""
+imgh: 400px 
+genre: F.B.I. 
+wordcount: 7880
+---
 
-# [1]{.chapternumber} [A Sniveling Quitter]{.chaptertitle}
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+	
+	<ol>
+		<li class="bloodred">A Sniveling Quitter</li>
+		<li class="bloodred">Suspects</li>
+		<li class="bloodred">Pleven</li>
+		<li class="bloodred">He's Got Her</li>
+	</ol>
+</div>
+
+### Chapter 1
+{: .chapternumber}
+
+### A Sniveling Quitter
+{: .chaptertitle}
 
 Bars in the Nation's Capital are mostly garish, red-leather-and-chrome affairs that do no more than add to the restless, tense loneliness that forever grips most of the populace. There are no neighborhood saloons, and there is no neighborliness. You have to be seated to be served a drink even of plebian beer. You can't move about, but only stay at your tiny table, or cramped booth, while a who-the-hell-cares type of waitress infrequently appears discourteously to serve you another of whatever-it-is you're drinking. A guy, looking for camaraderie, the good-fellowship that goes with imbibing, is better off taking a train to Baltimore.
 
@@ -107,4 +144,22 @@ I nodded.
 
 We left the bar together after I paid my check. I put her in a cab, then walked slowly, thoughtfully, to the building that housed my one-room-bath-and-kitchenette efficiency apartment.
 
-<hr class="chapter-break" />
+The story continues &hellip; download your copy today! 
+{: .tobecontinued}
+
+<br>
+<hr>
+<br>
+
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li class="bloodred">A Sniveling Quitter</li>
+		<li class="bloodred">Suspects</li>
+		<li class="bloodred">Pleven</li>
+		<li class="bloodred">He's Got Her</li>
+	</ol>
+</div>

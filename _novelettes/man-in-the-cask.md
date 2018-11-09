@@ -1,5 +1,48 @@
+---
+layout: novelettes
+casefileNumber: 55ccf75fb3901011515aeff0
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/man-in-the-cask.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/man-in-the-cask.epub
+title: "The Man in the Cask"
+subtitle: "A Story of Strange Adventures"
+author: Vincent Starrett
+price: 2.99
+pubdate: 2018-10-18
+opub: Real Detective Tales
+opubdate: June/July 1927
+opubissue: Vol. 11, No. 2
+category: novelettes
+description: "He wanted to die in Oak Grove, Illinois. A hell of a place to die, but that’s what he wanted. The least we can do is see that he gets there right side up."
+image: /assets/img/novelettes/man-in-the-cask.jpg
+fb-image: /assets/img/short-stories/cask_fb.jpg
+tease: "Here’s a brave tale. A tale to startle the most blasé. Beginning on a subdued note, it mounts, inevitably, in a crescendo of sheer terror and ends with a smash like a thunderclap. A more absorbing thing we rarely encounter … This is particularly recommended to those who are tired of the usual sort of story. – E. B."
+imgh: 400px
+genre: Adventure
+wordcount: 7206
+trfissue: Vol. 8 No. 28
+trfdate: Jan. 14, 2018
+---
 
-# [1]{.chapternumber} [Rum Pudgeon]{.chaptertitle}
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li>Rum Pudgeon</li>
+		<li>The <em>Stockholm</em></li>
+		<li>A Should From Below</li>
+		<li>Blackmail and Murder</li>
+    <li>For Mrs. Henry Galloway</li>
+	</ol>
+
+</div>
+
+### Chapter 1
+{: .chapternumber}
+
+### Rum Pudgeon
+{: .chaptertitle}
 
 In the Hotel Esperanza, which is the best hotel in San Angel and the worst in the world, two men sat drinking whisky. They drank morosely and without enjoyment. In the intervals of gloomy conversation, they turned their eyes sometimes upon the figure of a third man, who lay upon the bed, and sometimes through the open doorway, across a blistered balcony, to the waterfront beneath.
 
@@ -87,4 +130,23 @@ He turned to enter the room, but paused for a moment on the doorsill and looked 
 
 &quot;And Drews,&quot; he added casually, &quot;you needn&#39;t do any worrying about Rulofson. I&#39;ll take care of all that. The fact is, I&#39;m going along, myself — all the way — to see that Galloway gets home to his brother&#39;s house.&quot;
 
-<hr class="chapter-break" />
+The story continues &hellip; download your copy today! 
+{: .tobecontinued}
+
+<br>
+<hr>
+<br>
+
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li>Rum Pudgeon</li>
+		<li>The <em>Stockholm</em></li>
+		<li>A Should From Below</li>
+		<li>Blackmail and Murder</li>
+    <li>For Mrs. Henry Galloway</li>
+	</ol>
+</div>

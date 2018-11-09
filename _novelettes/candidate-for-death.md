@@ -1,5 +1,44 @@
+---
+layout: novelettes 
+layoutTag: post
+casefileNumber: 55ccf75fb3901011515aef09
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/candidate-for-death.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/candidate-for-death.epub
+title: "Candidate for Death"
+author: Theodore A. Tinsley
+price: 4.99
+pubdate: 2018-11-01 
+opub: All Detective Magazine
+opubdate: March 1933
+opubissue:
+category: novelettes 
+description: "Hired guns gave their wolf cry when the Scarlet Ace passed the word, but they forgot the law of the pack until they paid the price of fear."
+image: /assets/img/novelettes/candidate-for-death.jpg
+imgh: 300px
+genre: Crook
+tags: short-story, crook, All Detective, Tinsley
+wordcount: 7622
+---
 
-# [1 ]{.chapternumber} [The Scarlet Ace]{.chaptertitle}
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li class="bloodred">The Scarlet Ace</li>
+		<li class="bloodred">Stalking Shadows</li>
+		<li class="bloodred">The Man In A Mask</li>
+		<li class="bloodred">The Last Card</li>
+	</ol>
+
+</div>
+
+### Chapter 1
+{: .chapternumber}
+
+### The Scarlet Ace
+{: .chaptertitle}
 
 The knocking on the door was softly urgent. An insistent little tattoo of bunched knuckles. Silence followed. Then the sound began again. Rap, rap, rap! There was something restrained and deadly in that furtive signal on the outside of the locked door of Room 708.
 
@@ -123,4 +162,22 @@ When the ship was a silver dot over the Bronx the man, who had trailed Tough Ton
 
 Just plain facts. And accurate.
 
-<hr class="chapter-break" />
+The story continues &hellip; download your copy today! 
+{: .tobecontinued}
+
+<br>
+<hr>
+<br>
+
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li class="bloodred">The Scarlet Ace</li>
+		<li class="bloodred">Stalking Shadows</li>
+		<li class="bloodred">The Man In A Mask</li>
+		<li class="bloodred">The Last Card</li>
+	</ol>
+</div>

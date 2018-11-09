@@ -1,5 +1,44 @@
+---
+layout: novelettes 
+layoutTag: post
+casefileNumber: 55ccf75fb3901011515aef3c
+kdl: 
+edl:
+title: "The Georgetown Mystery"
+author: William Wallace Major
+price: 2.99
+pubdate: 2018-10-04
+opub: Black Mask
+opubdate: Nov. 1920
+opubissue: Vol. 2, No. 2
+category: novelettes
+description: "Hell's a-pop- pin' down here. They's bin a murder committed, mebbe two."
+image: /assets/img/novelettes/georgetown-mystery.jpg
+imgh: 400px
+genre: Supernatural
+wordcount: 6722 
+---
 
-# [1]{.chapternumber} [Two Deaths and a Bank Robbery]{.chaptertitle}
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li>Two Deaths and a Bank Robbers</li>
+		<li>Disagreement</li>
+		<li>A Threatening Letter</li>
+		<li>Limpin Lizzie's Operation</li>
+    <li>The Whole Truth</li>
+	</ol>
+
+</div>
+
+### Chapter 1
+{: .chapternumber}
+
+### Two Deaths and a Bank Robbery
+{: .chaptertitle}
 
 It was seven o\'clock in the morning and Marshal John McAlpin, of Georgetown, was frenziedly ringing a wall telephone at Herman Matthews' store.
 
@@ -121,4 +160,23 @@ Jim flung up his hands in meaningless gesture.
 
 After visiting the house where Harley had roomed and where they found the landlady in sincere mourning at Harley's death, the party returned to Rockland.
 
-<hr class="chapter-break" />
+The story continues &hellip; download your copy today! 
+{: .tobecontinued}
+
+<br>
+<hr>
+<br>
+
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li>Two Deaths and a Bank Robbers</li>
+		<li>Disagreement</li>
+		<li>A Threatening Letter</li>
+		<li>Limpin Lizzie's Operation</li>
+    <li>The Whole Truth</li>
+	</ol>
+</div>

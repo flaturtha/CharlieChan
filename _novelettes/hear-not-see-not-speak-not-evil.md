@@ -1,5 +1,47 @@
+---
+layout: novelettes
+layoutTag: post
+casefileNumber: 55ccf75fb3901011515aef43
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/hear-not-see-not-speak-not-evil.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/hear-not-see-not-speak-not-evil.epub
+title: "Hear Not, See Not, Speak Not Evil"
+author: Walter Deffenbaugh
+price: 2.99
+pubdate: 2018-10-25
+opub: Black Mask
+opubdate: Dec. 1921
+opubissue: Vol. 4, No. 3
+category: novelettes
+description: "\"A lesson for thieves, detectives, physicians and everyone else. It is a Japanese piece called the ‘Sacred Monkeys.’"
+image: /assets/img/novelettes/hear-not.jpg
+fb-image: /assets/img/short-stories/hear-not_fb.jpg
+imgh: 400px
+caption: "Dummy whipped out a knife and sprang for Goggles."
+tease: "A great story of crime and compassion. Perfect for a long, slow Saturday night!"
+genre: Amateur Sleuth
+wordcount: 7418
+---
 
-# [1]{.chapternumber} [The Robbery]{.chaptertitle}
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li>The Robbery</li>
+		<li>The Search</li>
+		<li>The Bait</li>
+		<li>The Cure</li>
+    <li>The Pearls</li>
+	</ol>
+
+</div>
+
+### Chapter 1
+{: .chapternumber}
+
+### The Robbery
+{: .chaptertitle}
 
 The opaque light through the drawn shade of the library window alone marked the location of the big house, surrounded by flower-dotted lawns. Half a mile away twinkled the few midnight lamps of the village. An occasional belated motor car flashed as a meteor through the night. A flash and a rumble from over the hill marked the passing of a trolley-car on its way to the city.
 
@@ -69,4 +111,23 @@ Nevertheless the first day’s search was fruitless. There were scores of blind 
 
 Toward evening he decided that if it were to be a long hunt he must have headquarters on the spot, and found one ready-made for him. At a free dispensary in the neighborhood he was gladly granted permission to open a private charity clinic for the treatment of those specialties in which he was famous. His explanation that he was looking for material for a series of new experiments was readily accepted and a private office, with sleeping room attached, speedily cleared for the distinguished physician. To it he brought down from his home some personal belongings, bedding and a few decorations, including two or three Chinese and Japanese bronzes that were one of his hobbies.
 
-<hr class="chapter-break" />
+The story continues &hellip; download your copy today! 
+{: .tobecontinued}
+
+<br>
+<hr>
+<br>
+
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li>The Robbery</li>
+		<li>The Search</li>
+		<li>The Bait</li>
+		<li>The Cure</li>
+    <li>The Pearls</li>
+	</ol>
+</div>
