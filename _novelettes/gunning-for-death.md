@@ -13,6 +13,7 @@ opubissue: Vol. 1, No. 3
 category: novelettes
 description: "Branded as a yellow dog who let his best friend die, Dan Wilkins strikes back at the unknown traitor in the department, who was profiteering in blood and murder."
 image: /assets/img/novelettes/gunning-for-death.jpg
+fb-image: /assets/img/novelettes/gunning-for-death_fb.jpg 
 caption: "\"It'll be easy to pass her death off as suicide &hellip;\""
 imgh: 400px 
 genre: F.B.I. 
