@@ -67,7 +67,7 @@ Madden said: "Well, you might try to make McCarthy run me out of the country, bu
 
 Then he slugged the guy.
 
-Rut Madden didn't really kill the guy. Mary Brown killed him.
+But Madden didn't really kill the guy. Mary Brown killed him.
 
 If Madden had gotten that call, the guy he slugged could have gone on talking about McCarthy all night and neither Madden nor anybody else would have cared. There wouldn't have been any cops in the barroom to grab Madden for manslaughter if he'd gotten his call.
 
