@@ -10,6 +10,7 @@ opubissue: Vol. 11, No. 2
 price: 4.99
 category: novelettes 
 description: "\"Then how,\" the coroner leaned over the desk to ask the question, \"do you account for the undeniable fact that your fingerprints are on the handle of the dagger?\""
+tease: "The Chinese detective Song Kee saw things the American detectives couldn't ... or wouldn't!"
 image: /assets/img/novelettes/unbelievable.jpg
 fb-image: /assets/img/novelettes/unbelievable_fb.jpg
 imgh: 500px
