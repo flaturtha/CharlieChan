@@ -1,4 +1,42 @@
-# [1]{.chapternumber} [The Inquest]{.chaptertitle}
+---
+layout: novelettes 
+casefileNumber: 55ccf75fb3901011515aef34
+title: "The Unbelievable"
+author: J. B. Hawley
+pubdate: 2018-11-14
+opub: Black Mask
+opubdate: Nov. 1920
+opubissue: Vol. 11, No. 2
+price: 4.99
+category: novelettes 
+description: "\"Then how,\" the coroner leaned over the desk to ask the question, \"do you account for the undeniable fact that your fingerprints are on the handle of the dagger?\""
+image: /assets/img/novelettes/unbelievable.jpg
+fb-image: /assets/img/novelettes/unbelievable_fb.jpg
+imgh: 500px
+genre: Professional Sleuth
+tag: short-story
+wordcount: 7978
+---
+
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+	
+	<ol>
+		<li class="bloodred">The Inquest</li>
+		<li class="bloodred">The Plea</li>
+		<li class="bloodred">THE Evidence</li>
+		<li class="bloodred">The Proof</li>
+	</ol>
+</div> <!-- table-of-contents -->
+
+
+### Chapter 1
+{: .chapternumber}
+
+### The Inquest
+{: .chaptertitle}
 
 During his world tour, undertaken at the behest and at the expense of the Chinese Government, Song Kee found much to admire. In this country, for example, he was impressed by a multitude of our ways and customs. And he frankly admitted their superiority over the Chinese equivalent or substitute of much that is distinctly American. In one respect, however, he contended that America was deficient in comparison with his own country. This was in the detection of crime.
 
@@ -120,4 +158,22 @@ Then the coroner sent the jury to their deliberations. These did not consume a g
 
 Two days later the Grand Jury indicted the unfortunate young man. He was taken to the Tombs to await trial. And after a week or so New York forgot all about him, being concerned with matters of newer and greater importance. The baseball season opened---and a quite scandalous performance, the work of a degenerate French playwright, was being run at one of the largest theatres.
 
-<hr class="chapter-break" />
+The story continues &hellip; download it today and find out "what could be wrong!"
+{: .tobecontinued }
+
+<hr>
+<br>
+
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li class="bloodred">The Inquest</li>
+		<li class="bloodred">The Plea</li>
+		<li class="bloodred">THE Evidence</li>
+		<li class="bloodred">The Proof</li>
+	</ol>
+
+</div>

@@ -45,7 +45,7 @@ A round shouldered, misty eyed little butler came pattering from somewhere in th
 
 "Wrong? What could be wrong?"
 
-The story continues &hellip; buy it today and find out "what could be wrong!"
+The story continues &hellip; download it today and find out "what could be wrong!"
 {: .tobecontinued }
 
 <hr>
