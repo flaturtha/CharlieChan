@@ -16,7 +16,7 @@ fb-image: /assets/img/short-stories/rainbow-lure_fb.jpg
 imgh: 400px
 genre: Professional Sleuth
 tags: short-story
-wordcount: 2467 
+wordcount: 3467 
 trfissue: Vol. 13 No. 49
 trfdate: Nov. 4, 2018
 ---
