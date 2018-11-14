@@ -159,8 +159,8 @@ Then the coroner sent the jury to their deliberations. These did not consume a g
 
 Two days later the Grand Jury indicted the unfortunate young man. He was taken to the Tombs to await trial. And after a week or so New York forgot all about him, being concerned with matters of newer and greater importance. The baseball season opened---and a quite scandalous performance, the work of a degenerate French playwright, was being run at one of the largest theatres.
 
-The story continues &hellip; download it today and find out "what could be wrong!"
-{: .tobecontinued }
+The story continues &hellip; download it today!
+{: .tobecontinued .center .margin1r}
 
 <hr>
 <br>
