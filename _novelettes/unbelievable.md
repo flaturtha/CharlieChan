@@ -1,6 +1,8 @@
 ---
 layout: novelettes 
 casefileNumber: 55ccf75fb3901011515aef34
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/unbelievable.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/unbelievable.epub 
 title: "The Unbelievable"
 author: J. B. Hawley
 pubdate: 2018-11-14
@@ -31,7 +33,6 @@ wordcount: 7978
 		<li class="bloodred">The Proof</li>
 	</ol>
 </div> <!-- table-of-contents -->
-
 
 ### Chapter 1
 {: .chapternumber}
