@@ -9,7 +9,7 @@ opub: Mystery Magazine
 opubdate: Sept. 1, 1921
 opubissue: Vol. IV, No. 92
 category: short-stories
-excerpt: "Corrigan was certain that Cora knew who killed the XXX girl. It had to be her brother Bill, or her common-law husband Frank. But the truth was even more shocking!"
+excerpt: "Corrigan was certain that Cora knew who killed the Westerman girl. It had to be her brother Bill, or her common-law husband Frank. But the truth was even more shocking!"
 tease: "Sometimes the truth sets you free ..."
 image: /assets/img/short-stories/rainbow-lure.png
 fb-image: /assets/img/short-stories/rainbow-lure_fb.jpg
