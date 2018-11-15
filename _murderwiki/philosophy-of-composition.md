@@ -2,7 +2,7 @@
 layout: murderwiki
 layoutTag: post
 title: "The Philosophy of Composition"
-subtitle: "An Examination of the Rigid, Mathmatical Approach to Compose His Works, as Demonstrated Through \'The Raven'"
+subtitle: "An Examination of the Rigid, Mathmatical Approach to Compose His Works, as Demonstrated Through <em>The Raven</em>"
 author: Edgar Allen Poe
 opub: Graham's Magazine
 opub_date: April 1846
