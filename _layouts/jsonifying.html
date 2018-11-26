@@ -1,0 +1,18 @@
+---
+layout: default2
+permalink: /jsonifying.html/
+---
+
+<div>
+  {% assign datesort = site.short-stories | sort: 'date' | reverse %}
+  {% for short-stories in datesort %}
+
+    [
+      "title": "{{ short-stories.title }}",
+      "author": "{{ short-stories.author }}",
+      "body": "{{ short-stories.content | jsonify }}"
+    ]
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+
+</div>

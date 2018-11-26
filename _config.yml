@@ -4,7 +4,6 @@ subtitle: "Murder Mystery & Crime Stories ... For readers with time to kill!"
 email: contact@talesofmurder.com
 description: "A murder mystery, crime and detective fiction website."
 logo: /assets/img/site/atticus_fffff0.svg
-baseurl: "https://upholsterer-alice-48761.netlify.com"
 url: "https://www.talesofmurder.com"
 repository: "flaturtha/charliechan"
 
@@ -72,6 +71,7 @@ collections:
   serials:
     output: true
     permalink: /:collection/:name/:title/
+
 
 
 # paginate: 12

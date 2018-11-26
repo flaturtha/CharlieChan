@@ -1,5 +1,5 @@
 ---
-layout: default3
+layout: jsonifying
 permalink: /test/
 title: TEST
 category: start-here

@@ -1,7 +1,7 @@
 ---
 layout: short-stories
 layoutTag: post
-casefileNumber: 
+casefileNumber: FAKE CFN
 title: "They Can't Make A Coward Out of Me!"
 subtitle: "Concluding Dr. Clark Hyde's Own Story"
 author: George Creel
