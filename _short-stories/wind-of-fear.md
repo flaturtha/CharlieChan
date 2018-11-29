@@ -33,7 +33,6 @@ trfdate: June 17, 2018
 </div>
 </section> <!-- table-of-contents -->
 
-
 ### Chapter 1
 {: .chapternumber .no_toc}
 
