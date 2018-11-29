@@ -15,7 +15,7 @@ category: novelettes
 description: "When the smoke cleared away from the shoot-and-run murder, there I was --- with a hot painting on my hands ... and a homicidal honey on my back."
 tease: "A Dynamic Crime-Adventure story of Nazi art theft, recovery, & murder!"
 image: /assets/img/novelettes/hold-that-tigres.jpg
-fb-image: /assets/img/short-stories/hold-that-tigres_fb.jpg
+fb-image: /assets/img/novelettes/hold-that-tigres-n1_fb.jpg
 caption: "I started to whirl around ..."
 imgh: 375px
 genre: Noir 
