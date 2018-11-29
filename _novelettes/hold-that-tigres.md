@@ -1,8 +1,8 @@
 ---
 layout: novelettes
 casefileNumber: 
-kdl: 
-edl:
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/hold-that-tigres.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/hold-that-tigres.epub
 title: "Hold That Tigress"
 author: Albert Simmons
 price: 4.99
