@@ -1,20 +1,21 @@
 ---
 layout: novelettes
-casefileNumber: 
-e-guid: 
-k-guid:
+casefileNumber: b683565e-5048-4621-9224-4afd2c4569c2
+e-guid: dbae2e47-2eeb-429e-ab87-8cf9c172910c
+k-guid: 58c13ff5-1403-4262-b279-a7ba0a82acb4
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/mr-binglers-murder-maze.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/mr-binglers-murder-maze.epub
 title: "Mr. Bingler's Murder Maze"
 author: Wilbur S. Peacock
-price: 2.99
+price: 4.99
 opub: Crack Detective
 opubdate: Mar. 1943
 opubissue: Vol. 3, No. 2
 pubdate: 2018-08-11 
 category: novelettes 
 genre: Amateur Sleuth
-description: "Mr. Bingler was on the spot, for here was a case not covered by the situations described in his handy little instruction booklet for Home Detectives. But the little man's courage held out, even when he found himself lying next to a murdered man, with his own sword-umbrella sticking out of the corpse as sure-fire evidence!"
+description: "Mr. Bingler was on the spot, for here was a case not covered by the situations described in his handy little instruction booklet for Home Detectives.<br><br>But the little man's courage held out, even when he found himself lying next to a murdered man, with his own sword-umbrella sticking out of the corpse as sure-fire evidence!"
+testimonials: "<em>Loved it! Especially the ending. Had a couple of twists I didn't see coming. Enjoyed it very much!</em> &mdash; R. Taylor"
 tags: novelette 
 image: /assets/img/novelettes/mr-binglers-murder-maze.jpg
 wordcount: 10083

@@ -1,6 +1,8 @@
 ---
 layout: novelettes
-casefileNumber: 
+casefileNumber: 6a40b648-0b9e-4555-9d3d-e60efeb92286
+e-guid: a257c6d1-7628-4883-ab4a-de472c0c3234
+k-guid: 84ea75d4-1869-4aa4-814c-ee81a02ab5d1
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/hold-that-tigres.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/hold-that-tigres.epub
 title: "Hold That Tigress"

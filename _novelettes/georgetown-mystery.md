@@ -2,11 +2,13 @@
 layout: novelettes 
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef3c
-kdl: 
-edl:
+e-guid: b3cca042-1acc-459c-b121-07ca389a30b3
+k-guid: abbe6981-cc60-4566-b2aa-9cc97ba996c8
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/georgetown-mystery.mobi
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/georgetown-mystery.epub
 title: "The Georgetown Mystery"
 author: William Wallace Major
-price: 2.99
+price: 4.99
 pubdate: 2018-10-04
 opub: Black Mask
 opubdate: Nov. 1920

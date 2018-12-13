@@ -1,6 +1,8 @@
 ---
 layout: novelettes 
 casefileNumber: 55ccf75fb3901011515aef02
+e-guid: a68ce46b-0d63-4c0e-b2b1-3a5b1c2891f0
+k-guid: ac8719c5-ea81-4ac1-9155-a002c56928b9
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/gunning-for-death.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/gunning-for-death.epub
 title: "Gunning for Death"

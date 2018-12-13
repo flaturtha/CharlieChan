@@ -2,11 +2,13 @@
 layout: novelettes
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef43
+e-guid: 89690988-b559-478b-b591-647a5e893a02
+k-guid: 329fd1c9-601b-4498-9fcc-81948eb2bf40
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/hear-not-see-not-speak-not-evil.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/hear-not-see-not-speak-not-evil.epub
 title: "Hear Not, See Not, Speak Not Evil"
 author: Walter Deffenbaugh
-price: 2.99
+price: 4.99
 pubdate: 2018-10-25
 opub: Black Mask
 opubdate: Dec. 1921

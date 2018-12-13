@@ -2,11 +2,13 @@
 layout: novelettes 
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef01
+e-guid: 6d671a3e-a398-4f5f-8416-1703f66c1217
+k-guid: 635e32a1-2566-4a64-af15-4ca59eff927a
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/first-come-first-killed.mobi 
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/first-come-first-killed.epub
 title: "First Come, First Killed"
 author: D. A. Kyle
-price: 2.99
+price: 4.99
 pubdate: 2018-09-20
 opub: Smashing Detective
 opubdate: Sept. 1951
@@ -15,14 +17,11 @@ category: novelettes
 description: "Paul Corey, real estate agent and eager detective, is hot on the case when a skeleton in the basement of the old house attracts more corpses and seekers of the hidden bank loot."
 image: /assets/img/novelettes/first-come-first-killed.jpg
 imgh: 300px
-imgh: 300px
 genre: Amateur Sleuth
 tags: Amateur Sleuth, short-story
 wordcount: 6384
 trfissue: Vol. 3 No. 10
 trfdate: May 7, 2017
-kindle: 
-epub: 
 ---
 
 <div class="toc">

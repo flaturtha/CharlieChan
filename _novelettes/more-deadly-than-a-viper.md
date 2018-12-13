@@ -1,6 +1,8 @@
 --- 
 layout: novelettes
-casefileNumber: 55ccf75fb3901011515aef1d 
+casefileNumber: 55ccf75fb3901011515aef1d
+e-guid: 44d0dade-b61e-4992-995a-310febbcaf6a
+k-guid: fc224ac4-e51a-4811-86ec-5b172ad8c535
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/more-deadly-than-a-viper.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/more-deadly-than-a-viper.epub
 title: "More Deadly Than A Viper"

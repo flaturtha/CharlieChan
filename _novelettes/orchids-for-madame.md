@@ -1,13 +1,13 @@
 ---
 layout: novelettes
-casefileNumber: 
-e-guid: 
-k-guid:
+casefileNumber: 1d1c9d6d-f512-4445-be57-25ff8c6f7bad
+e-guid: b734b5cb-135c-4862-93e8-63a71d76bee0
+k-guid: 8918a427-1a3a-4a48-8fb2-7c739734ef1c
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/orchids-for-madame.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/orchids-for-madame.epub
 title: "Orchids for Madame"
 author: Greta Bordet
-price: 2.99
+price: 4.99
 opub: Crack Detective 
 opubdate: Mar. 1943
 opubissue: Vol. 4, No. 2

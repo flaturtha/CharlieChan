@@ -7,7 +7,7 @@ kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/so-dead-the-rose.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/so-dead-the-rose.epub  
 title: "So Dead the&nbsp;Rose"
 author: Sim Albert
-price: 2.99
+price: 4.99
 opub: Smashing Detective
 opubdate: Sep. 1951
 opubissue: Vol. 1, No. 3

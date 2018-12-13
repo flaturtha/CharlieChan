@@ -1,14 +1,14 @@
 ---
 layout: novelettes
 casefileNumber: 55ccf75fb3901011515aef1c
-e-guid:
-k-guid:
+e-guid: 2f9dde4d-1a7a-451e-8ca3-f8e48b688159
+k-guid: 1d0e05e9-fac2-4043-bea0-4a8dd0f32cfd
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/abandoned-house.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/abandoned-house.epub
 title: "The Abandoned House"
 slug: "the-abandoned-house"
 author: Buelah Poynter
-price: 2.99
+price: 4.99
 date: 2018-02-16
 opub: Black Mask
 opubdate: Aug. 1920

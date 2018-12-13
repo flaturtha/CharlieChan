@@ -7,7 +7,7 @@ kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/campaign-for-vengeanc
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/campaign-for-vengeance.epub
 title: "The Campaign for Vengeance"
 author: John Baer
-price: 2.99
+price: 4.99
 opub: The Black Mask
 opubdate: Sep. 1922
 opubissue: Vol. 1, No. 6

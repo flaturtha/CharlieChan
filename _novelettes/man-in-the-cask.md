@@ -1,12 +1,14 @@
 ---
 layout: novelettes
 casefileNumber: 55ccf75fb3901011515aeff0
+e-guid: 0276bdda-c0cf-473d-a039-fa385a82692c
+k-guid: 0495c2b0-49bc-45bd-bc7c-a595ce73b460
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/man-in-the-cask.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/man-in-the-cask.epub
 title: "The Man in the Cask"
 subtitle: "A Story of Strange Adventures"
 author: Vincent Starrett
-price: 2.99
+price: 4.99
 pubdate: 2018-10-18
 opub: Real Detective Tales
 opubdate: June/July 1927

@@ -2,6 +2,8 @@
 layout: novelettes 
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef09
+e-guid: 66220d32-888d-4c40-a58b-43252143b468
+k-guid: ab20581a-9630-4117-ad4e-ef0f94c70700
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/candidate-for-death.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/candidate-for-death.epub
 title: "Candidate for Death"
