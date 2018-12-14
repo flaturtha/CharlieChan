@@ -1,4 +1,50 @@
-# [1]{.chapternumber} [A Most Unaccountable Feeling]{.chaptertitle}
+---
+layout: novelettes
+casefileNumber: 55ccf75fb3901011515aef2f 
+e-guid: 
+k-guid:
+kdl: 
+edl:
+title: "The Strange Case of Nathaniel Broome"
+author: Charles McDonnell 
+price: 4.99
+opub: The Black Mask
+opubdate: Sep. 1920
+opubissue: Vol. 1, No. 6
+pubdate: 2018-12-13
+category: novelettes
+genre: Paranormal Mystery 
+description: "When a new neighbor moves into a vacant room in Mrs. Muzzard’s rooming house, can Scrimgeour unravel the mysterious events of Nathaniel Broome’s life before the evil spreads to a new generation?"
+image: /assets/img/novelettes/strange-case-of-nathaniel-broome.jpg
+wordcount: 13469
+---
+
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+<ol id="markdown-toc">
+  <li>A Most Unaccountable Feeling</li>
+  <li>No Longer Blinded By Our Eyes</li>
+  <li>No Answer at the Door</li>
+  <li>You—Must—Not—Come—In!</li>
+  <li>A Silenic Grin</li>
+  <li>The Letters of Nathaniel Broome</li>
+  <li>The Manuscript</li>
+  <li>The Strange Case of Nathaniel Broome</li>
+  <li>The Panic Of Fear</li>
+  <li>The Conflagration</li>
+  <li>Sanity And Reason</li>
+  <li>The Delicate Aroma Of An Impending Doom</li>
+</ol>
+</div>
+
+### Chapter 1
+{: .chapternumber}
+
+### A Most Unaccountable Feeling
+{: .chaptertitle}
 
 For the last twenty-five years I have lived in New York, the drab, unadventurous life of a city bookkeeper. I have been left pretty much out of the running, but, with money sufficient to pay my unassuming bachelor expenses, I have long ago settled down in my shabbily comfortable lodgings on Fourteenth Street.
 
@@ -48,4 +94,30 @@ His reply came to me in a deep, resonant voice, soft and almost tender. There wa
 
 A most unaccountable feeling came over me as I brushed past him; something from the inscrutable alchemy of an unusual personality. I felt like a little child that had got lost in an empty house.
 
-<hr class="chapter-break" />
+The story continues &hellip; download it today!
+{: .tobecontinued }
+
+<hr>
+<br>
+
+<div class="toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+<ol id="markdown-toc">
+  <li>A Most Unaccountable Feeling</li>
+  <li>No Longer Blinded By Our Eyes</li>
+  <li>No Answer at the Door</li>
+  <li>You—Must—Not—Come—In!</li>
+  <li>A Silenic Grin</li>
+  <li>The Letters of Nathaniel Broome</li>
+  <li>The Manuscript</li>
+  <li>The Strange Case of Nathaniel Broome</li>
+  <li>The Panic Of Fear</li>
+  <li>The Conflagration</li>
+  <li>Sanity And Reason</li>
+  <li>The Delicate Aroma Of An Impending Doom</li>
+</ol>
+
+</div>
