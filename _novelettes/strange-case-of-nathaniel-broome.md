@@ -1,10 +1,10 @@
 ---
 layout: novelettes
 casefileNumber: 55ccf75fb3901011515aef2f 
-e-guid: 
-k-guid:
-kdl: 
-edl:
+e-guid: a02025c5-120f-446d-9021-27ffcaca5761
+k-guid: c50a3e37-6406-4f33-b976-27f3f63f739e
+kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/strange-case-of-nathaniel-broome.mobi 
+edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/strange-case-of-nathaniel-broome.epub
 title: "The Strange Case of Nathaniel Broome"
 author: Charles McDonnell 
 price: 4.99
