@@ -70,9 +70,11 @@ $bgcolor2: darken($bgcolor, 5%);
         background: url('/assets/img/site/atticus_8b0000.svg') no-repeat;
       }
       @media screen and (min-width: 48rem) {
-        background: url('/assets/img/site/atticus_fffff0.svg') no-repeat;
-        height: 45px;
-        width: 30px;
+        background: url('/assets/img/site/logo_mobile_f0.png') no-repeat; /* atticus_fffff0.svg */
+        // height: 45px;
+        // width: 30px;
+        background-size: contain;
+        background-position-x: 50%;
       }
       @media screen and (min-width: 64rem) {
         margin-right: 5rem;

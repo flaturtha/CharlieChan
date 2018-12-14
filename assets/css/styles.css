@@ -4257,9 +4257,10 @@ p {
         background: url("/assets/img/site/atticus_8b0000.svg") no-repeat; }
       @media screen and (min-width: 48rem) {
         .nav .main-nav a.logo {
-          background: url("/assets/img/site/atticus_fffff0.svg") no-repeat;
-          height: 45px;
-          width: 30px; } }
+          background: url("/assets/img/site/logo_mobile_f0.png") no-repeat;
+          /* atticus_fffff0.svg */
+          background-size: contain;
+          background-position-x: 50%; } }
       @media screen and (min-width: 64rem) {
         .nav .main-nav a.logo {
           margin-right: 5rem; } }
