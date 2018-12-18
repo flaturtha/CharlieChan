@@ -9,11 +9,19 @@ opub: Detective Story Magazine
 opubdate: Mar. 11, 1922
 opubissue: Vol. XLVII No. 4
 category: short-stories
+<<<<<<< HEAD
 excerpt: ""
 tease: ""
 image: /assets/img/short-stories/suave-talker.png
 fb-image: /assets/img/short-stories/suave-talker_fb.jpg
 imgh: 
+=======
+excerpt: "A true crime story of train robbery ... and unexpected charm!"
+tease: "A true crime tidbit."
+image: /assets/img/short-stories/suave-talker.png
+fb-image: /assets/img/short-stories/suave-talker_fb.jpg
+imgh: 400
+>>>>>>> master
 genre: Robbery 
 wordcount: 226 
 trfissue: Vol 14 No 52
