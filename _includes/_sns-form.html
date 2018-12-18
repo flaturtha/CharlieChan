@@ -1,0 +1,38 @@
+<form action="https://www.getdrip.com/forms/2508492/submissions" method="post" class="sns__sample" id="sns__sample" style="border:2px solid #8b0000;width:550px;max-width:95%;margin:2rem auto;padding:1rem;" data-drip-embedded-form="2508492">
+ <h3 class="hidden">SNS download form</h3>
+  <div>
+    <div class="email-field">
+      <label for="fields[first_name]">First Name</label><br />
+      <input type="text" name="fields[first_name]" value="" />
+    </div>
+    <div class="email-field">
+      <label for="fields[email]">Email Address</label><br />
+      <input type="email" name="fields[email]" value="" />
+    </div>
+  </div>
+  <div class="hidden-form-data">
+    <input type="hidden" name="fields[title]" value="{{ page.title }}" />
+  
+    <input type="hidden" name="fields[author]" value="{{ page.author }}" />
+
+    <input type="hidden" name="fields[series]" value="{{ page.series }}" />
+
+    <input type="hidden" name="fields[genre]" value="{{ page.genre }}" />
+
+    <input type="hidden" name="fields[casefilenumber]" value="{{ page.casefileNumber }}" />
+
+    <input type="hidden" name="fields[excerpt]" value="{{ page.excerpt }}" />
+
+    <input type="hidden" name="fields[img]" value="{{ site.url }}{{ page.image }}" />
+
+    <input type="hidden" name="fields[downloadlink_kindle]" value="{{ page.kindle }}" />
+
+    <input type="hidden" name="fields[downloadlink_epub]" value="{{ page.epub }}" />
+
+    <input type="submit" name="submit" value="DOWNLOAD" data-drip-attribute="sign-up-button" />
+  </div>
+
+  <div class="xsmall" style="margin:1rem auto 0;width:300px;max-width:75%;">
+    <p><i class="fa fa-lock" aria-hidden="true"></i> Your email address is secure and will only be used to communicate with you from this site. Your data will NEVER be sold, traded or given away.<br>UNSUBSCRIBE ANYTIME.</p>
+  </div>
+</form>

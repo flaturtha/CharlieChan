@@ -15,7 +15,8 @@ pubdate: 2018-12-13
 category: novelettes
 genre: Paranormal Mystery 
 description: "When a new neighbor moves into a vacant room in Mrs. Muzzard’s rooming house, can Scrimgeour unravel the mysterious events of Nathaniel Broome’s life before the evil spreads to a new generation?"
-image: /assets/img/novelettes/strange-case-of-nathaniel-broome.jpg
+cover-img: /assets/img/novelettes/strange-case-of-nathaniel-broome.jpg
+/* bg-image: /assets/img/novelettes/strange-case-of-nathaniel-broome_bg.jpg */
 wordcount: 13469
 ---
 
