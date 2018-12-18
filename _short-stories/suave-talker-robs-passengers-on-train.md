@@ -9,7 +9,7 @@ opub: Detective Story Magazine
 opubdate: Mar. 11, 1922
 opubissue: Vol. XLVII No. 4
 category: short-stories
-excerpt: "A true crime story of train robbery ... and charm!"
+excerpt: "A true crime story of train robbery ... and unexpected charm!"
 tease: "A true crime tidbit."
 image: /assets/img/short-stories/suave-talker.png
 fb-image: /assets/img/short-stories/suave-talker_fb.jpg
