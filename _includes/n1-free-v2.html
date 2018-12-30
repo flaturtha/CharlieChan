@@ -45,7 +45,7 @@
               <span class="mauticform-errormsg" style="display: none;">This is required.</span>
           </div>
 
-              <input id="mauticform_input_novelettefreesqueeze_title" name="mauticform[title]" value="{{ page.title }}" class="mauticform-hidden" type="hidden">
+              <input id="mauticform_input_novelettefreesqueeze_title" name="mauticform[title]" value="{{ page.title | upcase }}" class="mauticform-hidden" type="hidden">
               <input id="mauticform_input_novelettefreesqueeze_author" name="mauticform[author]" value="{{ page.author }}" class="mauticform-hidden" type="hidden">
               <input id="mauticform_input_novelettefreesqueeze_kdl" name="mauticform[kdl]" value="{{ page.kdl }}" class="mauticform-hidden" type="hidden">
               <input id="mauticform_input_novelettefreesqueeze_edl" name="mauticform[edl]" value="{{ page.edl }}" class="mauticform-hidden" type="hidden">
