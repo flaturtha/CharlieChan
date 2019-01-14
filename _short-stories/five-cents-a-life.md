@@ -1,21 +1,18 @@
 ---
 layout: short-stories
-layoutTag: premius_post
+layoutTag: post
 casefileNumber: 
 title: "Five Cents A Life"
 slug: five-cents-a-life.md
-subtitle: ""
 author: "Maitland Scott"
 authorData: "Author of <em>Last-Mile Bargain</em>, etc."
-series: ""
 date: 2018-03-21 
 opub: Ten Detective Aces
 opubdate: Mar. 1938
 opubissue: Vol. 32, No. 1
-excerpt: "A man's life is worth what he can get for it. \'Tight-Spot\' Andrews figured his was worth at least a nickel."
+excerpt: "A man's life is worth what he can get for it. &lsquo;Tight-Spot&rsquo; Andrews figured his was worth at least a nickel."
 image: /assets/img/short-stories/five-cents-a-life.png
 fb-image: /assets/img/short-stories/five-cents-a-life_fb.jpg
-caption: ""
 tease: "Murder, betrayal, lies, & dirty tricks make for an exciting gangland tale!"
 imgh: 400px
 genre: Amateur Sleuth

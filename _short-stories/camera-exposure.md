@@ -11,7 +11,7 @@ opubdate: Spring 1940
 opubissue: No. 4
 category: short-stories
 excerpt: "&quot;Talking of tall stories,&quot; he said presently, &quot;would you like to hear a perfectly true one for a change? It has a bearing on that antagonism—which we&#39;ve just seen instanced—that exists between the artistic and the business mind.&quot;"
-tease: "Will THE CASE OF THE CAMERA EXPOSURE push famed detective Dixon Hawke \'over the edge\'? Or will his trusty sidekick, Tommy, get to him in time?"
+tease: "Will THE CASE OF THE CAMERA EXPOSURE push famed detective Dixon Hawke &lsquo;over the edge&rsquo;? Or will his trusty sidekick, Tommy, get to him in time?"
 image: /assets/img/short-stories/camera-exposure.png
 fb-image: /assets/img/short-stories/camera-exposure_fb.jpg
 imgh: 450px
