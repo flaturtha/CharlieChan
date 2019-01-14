@@ -11,7 +11,7 @@ date: 2016-08-19
 category: murderwiki
 excerpt: "Deduction, in a definite and restricted sense, is the motif of most of the detective stories of today. It is an unusually perspicacious analytic deduction from inconspicuous clues that we call ratiocination, or more familiarly, the detective instinct."
 image: /assets/img/murderwiki/Painting_depicts_Bahram_Gur.jpg
-caption: "The painting depicts Bahram Gur (central figure) on horseback hunting three doe, from a \'Khamseh of Amir Khusrau Dihlavi\', an illustrated manuscript containing early stories that use deduction in solving their riddles."
+caption: "The painting depicts Bahram Gur (central figure) on horseback hunting three doe, from a &lsquo;Khamseh of Amir Khusrau Dihlavi&rsquo;, an illustrated manuscript containing early stories that use deduction in solving their riddles."
 genre: The Techniques of the Mystery
 tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 4417

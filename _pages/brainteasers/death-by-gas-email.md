@@ -8,7 +8,7 @@ opub:
 opubdate: 
 opubissue: 
 category: short-stories
-excerpt: "Captain Pearsons is \'Thorough\', with a capital \'T\', and he found the single clue that proves Herman Matthews killed his young wife. Can you find it?<br><br><span class=\"bold\">Read the story, then when you think you've solved it, click to see the solution!</span>"
+excerpt: "Captain Pearsons is &lsquo;Thorough&rsquo;, with a capital &lsquo;T&rsquo;, and he found the single clue that proves Herman Matthews killed his young wife. Can you find it?<br><br><span class=\"bold\">Read the story, then when you think you've solved it, click to see the solution!</span>"
 image: /assets/img/short-stories/radiator.svg
 imgh: 300px
 genre: Brain Teaser

@@ -11,7 +11,7 @@ date: 2016-08-29
 category: murderwiki
 excerpt: "Each of these characters must have a positive and definite reason for being, and, if at all prominent, must be an inherent part of the plot. They are the pence of a Detective Story, and must be taken care of; though in this case it does not follow that the pounds will take care of themselves."
 image: /assets/img/murderwiki/Houn-05_-_Hound_of_Baskervilles%2C_page_24.png
-caption: "\"There in the centre lay the unhappy maid where she had fallen.\"<br>An page scan of a book <i>The Hound of the Baskervilles</i> by Arthur Conan Doyle. Illustration appeared in \'The Strand\' Magazine in August, 1901."
+caption: "&ldquo;There in the centre lay the unhappy maid where she had fallen.&rdquo;<br>An page scan of a book <i>The Hound of the Baskervilles</i> by Arthur Conan Doyle. Illustration appeared in &lsquo;The Strand&rsquo; Magazine in August, 1901."
 genre: The Techniques of the Mystery
 tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 3901

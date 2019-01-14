@@ -14,7 +14,7 @@ an unobjectionable nature, and not like a habit attributed to a detective in a s
 current, who pulled at the lobe of his ear, until a fastidious reader was fain to close the book in
 disgust."
 image: /assets/img/murderwiki/Holmes_by_Paget.png
-caption: "Sherlock Holmes, by Sidney Padget for \'The Strand\' magazine."
+caption: "Sherlock Holmes, by Sidney Padget for &lsquo;The Strand&rsquo; magazine."
 sizeoverride: contain
 genre: The Techniques of the Mystery
 tags: murderwiki, Carolyn Wells, The Techniques of the Mystery

@@ -11,7 +11,7 @@ date: 2016-08-29
 category: murderwiki
 excerpt: "There is a fascination about the solving of a big murder mystery by a bit of a broken cuff-link; or the tracing of a professional burglar by a speck of cigarette ash. Of course, the philosophy is that these clues are so small as to be unnoticed by the criminal who so conveniently leaves them behind him. Also they are unnoticed by the amateur or the Central Office sleuth, and so redound to the glory of the Transcendent Detective."
 image: /assets/img/murderwiki/The_Purloined_Letter.png
-caption: "Illustration to \'The Purloined Letter\' by Edgar Allen Poe. Drawn by Frederic Lix (1830 - 1897), before 1864."
+caption: "Illustration to &lsquo;The Purloined Letter&rsquo; by Edgar Allen Poe. Drawn by Frederic Lix (1830 - 1897), before 1864."
 sizeoverride: contain
 genre: The Techniques of the Mystery
 tags: murderwiki, Carolyn Wells, The Techniques of the Mystery

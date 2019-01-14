@@ -9,9 +9,9 @@ author: Carolyn Wells
 opub_date: 1913
 date: 2016-08-19
 category: murderwiki
-excerpt: "\"Like all Holmes' reasoning the thing seemed simplicity itself when it was once explained. He read the thought upon my features, and his smile had a tinge of bitterness.\" &mdash; Dr. Watson"
+excerpt: "&ldquo;Like all Holmes' reasoning the thing seemed simplicity itself when it was once explained. He read the thought upon my features, and his smile had a tinge of bitterness.&rdquo; &mdash; Dr. Watson"
 image: /assets/img/murderwiki/Sherlock6.jpg
-caption: "From \'The Adventure of the Greek Interpreter\'. Engraving by Sidney Paget, a British illustrator who's worked accompanied Doyle's stories in <i>The Strand Magazine</i>. September 1893."
+caption: "From &lsquo;The Adventure of the Greek Interpreter&rsquo;. Engraving by Sidney Paget, a British illustrator who's worked accompanied Doyle's stories in <i>The Strand Magazine</i>. September 1893."
 sizeoverride: contain
 genre: The Techniques of the Mystery
 tags: murderwiki, Carolyn Wells, The Techniques of the Mystery

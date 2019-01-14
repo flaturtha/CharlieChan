@@ -11,7 +11,7 @@ date: 2016-08-16-16
 category: murderwiki
 excerpt: "The all-important character of the Detective Story is, of course, the Detective. He is not only the Star Performer, but the reason for the Detective Story itself. What Mr. Hawthorne calls the Transcendent Detective is the detective of fiction. Such a one is made, not born."
 image: /assets/img/murderwiki/Friston-holmes.png
-caption: "First ever appearance of Sherlock Holmes, by D. H. Friston (1820-1906). From \'A Study in Scarlet.\' Drawn in 1887."
+caption: "First ever appearance of Sherlock Holmes, by D. H. Friston (1820-1906). From &lsquo;A Study in Scarlet.&rsquo; Drawn in 1887."
 sizeoverride: contain
 genre: The Techniques of the Mystery
 tags: murderwiki, Carolyn Wells, The Techniques of the Mystery

@@ -9,9 +9,9 @@ author: Carolyn Wells
 opub_date: 1913
 date: 2016-08-16-16
 category: murderwiki
-excerpt: "The Detective Story as we know it was first written by Poe, yet he never used the descriptive word, nor was Dupin a detective, either professional or amateur, for when Poe wrote his immortal Dupin tales, the name \"Detective\" Stories had not been invented; the detective of fiction not having been as yet discovered."
+excerpt: "The Detective Story as we know it was first written by Poe, yet he never used the descriptive word, nor was Dupin a detective, either professional or amateur, for when Poe wrote his immortal Dupin tales, the name &ldquo;Detective&rdquo; Stories had not been invented; the detective of fiction not having been as yet discovered."
 image: /assets/img/murderwiki/true-stories-of-celebrated-crimes.jpg
-caption: "\"It was the impression of a blood-stained hand on the door.\"<br>From \'True Stories of Celebrated Crimes,\' published in 1909."
+caption: "&ldquo;It was the impression of a blood-stained hand on the door.&rdquo;<br>From &lsquo;True Stories of Celebrated Crimes,&rsquo; published in 1909."
 genre: The Techniques of the Mystery
 tags: murderwiki, Carolyn Wells, The Techniques of the Mystery
 wordcount: 5924
