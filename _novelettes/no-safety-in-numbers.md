@@ -18,6 +18,7 @@ category: novelettes
 description: "Off in the country, cut off by the storm, Rose had heard the radio account of the hold-up and murder. And now she was sure that one of the men in her house was the killer. But which was it?"
 tease: "An isolated house. A winter storm. A murderer. A thrilling suspense murder mystery!"
 image: /assets/img/novelettes/no-safety-in-numbers.jpg
+cover-img: /assets/img/novelettes/no-safety-in-numbers.jpg
 fb-image: /assets/img/novelettes/no-safety-in-numbers_fb.jpg
 caption: "Flames streaked from the gun as he hurled the embers."
 imgh: 400px

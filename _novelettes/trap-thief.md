@@ -16,6 +16,7 @@ pubdate: 2018-09-06
 category: novelettes
 description: "“The low-down sneaking thief!” Jack Ramsey’s wrath hissed on his lips as he flung the steel traps to the ground. Of thirty, all but two had been stolen."
 image: /assets/img/novelettes/trap-thief.jpg
+cover-img: /assets/img/novelettes/trap-thief.jpg
 fg-image: /assets/img/short-stories/trap-thief_fb.jpg
 tease: "Can a man down on his luck fight counterfeiters?"
 imgh: 375px

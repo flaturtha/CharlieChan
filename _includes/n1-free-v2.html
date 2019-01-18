@@ -19,10 +19,20 @@
   .mauticform-radiogrp-row {}
   .mauticform-radiogrp-label { font-weight: normal; }
   .mauticform-radiogrp-radio {}
-  .mauticform-button-wrapper .mauticform-button.btn-default { color: #fff;background-color: #4dbfbf;border-color: #4dbfbf;}
+  .mauticform-button-wrapper .mauticform-button.btn-default { color: #fff;background-color: #008b00;border-color: #008b00;border-radius:3px;}
   .mauticform-button-wrapper .mauticform-button { display: inline-block;margin-bottom: 0;font-weight: 600;text-align: center;vertical-align: middle;cursor: pointer;background-image: none;border: 1px solid transparent;white-space: nowrap;padding: 8px 16px;font-size: 18px;line-height: 1.3856;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}
   .mauticform-button-wrapper .mauticform-button.btn-default[disabled] { background-color: #ffffff; border-color: #dddddd;}
 </style>
+
+<div>
+    <div class="email-field">
+        <h1 class="books__title">{{ page.title }}</h1>
+        <h2 class="books__author">by {{ page.author }}</h2>
+        <p class="bold">Enter your name &amp; email address to get your <em>FREE</em> copy of: <span class="bold bloodred uppercase">{{
+                page.title }}</span>.</p>
+        <p class="small">Download links for both ePub &amp; Kindle editions will be sent by email.</p>
+        <p class="small">You'll also receive notifications of new stories and special offers <em>FOR SUBSCRIBERS ONLY</em>!</p>
+    </div>
 
 <div id="mauticform_wrapper_novelettefreesqueeze" class="mauticform_wrapper">
   <form autocomplete="false" role="form" method="post" action="http://52.207.249.123/form/submit?formId=2" id="mauticform_novelettefreesqueeze" data-mautic-form="novelettefreesqueeze" enctype="multipart/form-data">
@@ -51,7 +61,7 @@
               <input id="mauticform_input_novelettefreesqueeze_edl" name="mauticform[edl]" value="{{ page.edl }}" class="mauticform-hidden" type="hidden">
               <input id="mauticform_input_novelettefreesqueeze_img" name="mauticform[img]" value="https://www.talesofmurder.com/{{ page.cover-img }}" class="mauticform-hidden" type="hidden">
           <div id="mauticform_novelettefreesqueeze_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-8">
-              <button type="submit" name="mauticform[submit]" id="mauticform_input_novelettefreesqueeze_submit" value="" class="mauticform-button btn btn-default">Submit</button>
+              <button type="submit" name="mauticform[submit]" id="mauticform_input_novelettefreesqueeze_submit" value="" class="mauticform-button btn btn-default">Get My Download</button>
           </div>
           </div>
       </div>
@@ -60,5 +70,9 @@
       <input type="hidden" name="mauticform[return]" id="mauticform_novelettefreesqueeze_return" value="">
       <input type="hidden" name="mauticform[formName]" id="mauticform_novelettefreesqueeze_name" value="novelettefreesqueeze">
 
+      <div class="xsmall" style="margin:1rem auto 0;width:300px;max-width:75%">
+        <p><i class="fa fa-lock" aria-hidden="true"></i> Your email address is secure and will only be used to communicate with you from this site. Your data will NEVER be sold, traded, or given away.</p>
+      </div>
+      
       </form>
 </div>

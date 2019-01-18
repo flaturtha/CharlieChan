@@ -5,7 +5,7 @@
   {% include header_lp.html %}
 
 	<section class="offer__top" style="background-image:url('{{ page.bg-image }}');">
-    <img src="{{ page.cover-img }}" alt="{{ page.title }} by {{ page.author }}" class="book__img">
+    <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="book__img">
 
     <!-- README IF STATEMENT -->
     {% if site.readtime %}
@@ -86,9 +86,11 @@
 	  </article>
 	</main>
 
-  <div class="lp-download" id="lp-download">
-    {% include sns_download_form.html %}
-  </div>
+  <div class="buttonsdiv" style="">
+    <div class="book__buttons" style="margin:0 0 0 2rem;padding-bottom:2rem;">
+      {% include buybuttons-sq.html %}
+    </div>
+</div>
 
   {% include footer.html %}
 
