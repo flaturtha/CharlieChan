@@ -6,6 +6,8 @@ tagline: Learn about murder mysteries &hellip;
 category: brain-teasers
 description: "Test your armchair detective chops!"
 ---
+<!-- NOTE: changed name to _brain-teasers on 1.24.19 until rollover to Mautic -->
+
 
 <div class="{{ page.title }}">
 

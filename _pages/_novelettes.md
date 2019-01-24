@@ -6,7 +6,7 @@ tagline: For a long weekend or day at the beach!
 category: novelettes
 description: "Perfect for that trip to the beach or curling up on the couch: murder mystery and crime novelettes. Buy one now and read wherever you are!"
 ---
-
+<!-- NOTE: changed name to _novelettes until Mautic rollover complete -->
 
 <div class="{{ page.title }}">
     

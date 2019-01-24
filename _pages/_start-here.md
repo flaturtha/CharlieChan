@@ -5,6 +5,8 @@ title: Start Here
 tagline: First time visitor? Start here!
 category: start-here
 ---
+<!-- NOTE: removed until Mautic rollover complete (1.24.19) -->
+
 
 <div class="{{ page.title }}">
 

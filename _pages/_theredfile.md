@@ -7,6 +7,8 @@ category: the-red-file
 description: "A weekly digital publication, readable on any ebook device or app, with 5 complete short stories plus a premium short story, a serialized novel and subscriber-only&nbsp;specials. SUBSCRIBE TODAY!"
 ---
 
+<!-- NOTE: removed 1.24.19 until Mautic rollover complete -->
+
 <div class="{{ page.title }}">
 	
   <header class="pagehead">
