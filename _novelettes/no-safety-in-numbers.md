@@ -28,7 +28,7 @@ trfissue: Vol. 11 No. 40
 trfdate: July 1, 2018
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

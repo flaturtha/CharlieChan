@@ -1,0 +1,23 @@
+<div class="buttons-etc">
+  <div class="book__buttons">
+    <button class="snipcart-add-item add-to-cart"
+    data-item-id="{{ page.casefileNumber }}"
+    data-item-file-guid="{{ page.e-guid }}"
+    data-item-name="{{ page.title }} (ePub edition)"
+    data-item-price="{{ page.price }}"
+    data-item-url="{{ site.baseurl }}{{ page.url }}"
+    data-item-max-quantity="1">
+    BUY EPUB EDITION
+  </button>
+
+  <button class="snipcart-add-item add-to-cart"
+    data-item-id="{{ page.casefileNumber }}"
+    data-item-file-guid="{{ page.k-guid }}"
+    data-item-name="{{ page.title }} (Kindle edition)"
+    data-item-price="{{ page.price }}"
+    data-item-url="{{ site.baseurl }}{{ page.url }}"
+    data-item-max-quantity="1">
+    BUY KINDLE EDITION
+  </button>
+  </div>
+</div> <!-- end .book__buttons -->

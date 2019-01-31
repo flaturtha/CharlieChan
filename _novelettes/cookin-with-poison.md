@@ -26,7 +26,7 @@ trfissue: Vol. 10 No. 36
 trfdate: May 6, 2018
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

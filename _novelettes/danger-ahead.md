@@ -21,7 +21,7 @@ image: /assets/img/novelettes/danger-ahead.jpg
 wordcount: 13661
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

@@ -22,7 +22,7 @@ tags: adventure, Black Mask, Hervey, short-story
 wordcount: 6316
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>
@@ -169,7 +169,7 @@ The story continues &hellip; who is the man in the sea-chest and what mystery do
 <hr>
 <br>
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

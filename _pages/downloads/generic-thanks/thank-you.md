@@ -20,7 +20,8 @@ category: download
       <h2 class="subheadline">Get access to my entire LIBRARY of <span class="flip">33</span> murder mystery,crime, & detective novelettes for more than 90% off!</h2>
       <img src="/assets/img/misc/covers.png" class="library-cover" alt="THE MURDER MYSTERY LOVER’S COMPLETE NOVELETTE LIBRARY">
       <div class="epo">
-        <button class="add-to-cart" style="margin:2rem auto;">GET THE LIBRARY!</button>
+        <h2 class="bloodred">GET THE LIBRARY!</h2>
+        {% include buybuttons-epo.html %}
       </div>
     </header>
 
@@ -40,7 +41,6 @@ category: download
     <p>If you’re like me and are tired of wasting your precious few moments on the endless babble of the masses, I’ve got a far better solution for an ARMCHAIR DETECTIVE like you &hellip;</p>
 
     <hr class="break">
-
 
     <p><strong>THE MURDER MYSTERY LOVER’S COMPLETE NOVELETTE LIBRARY</strong>, which includes 33 stories from authors like <em>Thorne Lee, J. C. Kofoed, Harry C. Harvey, Jr.</em>, and more. Professional storytellers who knew how to spin a yarn.</p>
     <img src="/assets/img/misc/covers.png" class="library-cover" alt="THE MURDER MYSTERY LOVER’S COMPLETE NOVELETTE LIBRARY">
@@ -96,9 +96,10 @@ category: download
 
     <p>Just <em>tap, download, & READ</em>!
 
-    <div class="epo">
-      <button class="add-to-cart" style="margin:2rem auto;">GET THE LIBRARY!</button>
-    </div>
+      <div class="epo">
+        <h2 class="bloodred">GET THE LIBRARY!</h2>
+        {% include buybuttons-epo.html %}
+      </div>
 
     <p class="italics narrow small" style="margin-bottom: 3rem;">Read a complete story (they range from 30 – 90 mins in length), or read just a chapter when you have a few minutes to kill (most chapters are short enough to read in 5 – 10 mins).
 
@@ -116,7 +117,7 @@ category: download
 
     <p>I already mentioned a few names, authors of these novelettes. Maybe they’re familiar, maybe not. But each story in this LIBRARY was originally published in magazines like <em>The Black Mask, Complete Detective Tales, FBI Detective Stories, All Star Detective</em>, and more. They were published during the heyday of the pulp detective and mystery fiction, as early as 1895 and up through the 1950s.</p>
 
-    <p>This isn’t any of that self-published, never edited or peer-reviewed junk that’s slung out by so many wannabe writers. This is tested and proven. Each one was vetted, reviewed, editing, and reworked by professional editors whose paycheck depended on finding well-written, exciting, suspenseful stories like the novelettes in the collection.</p>
+    <p>This isn’t any of that self-published, never edited or peer-reviewed junk that’s slung out by so many wannabe writers. This is tested and proven. Each one was vetted, reviewed, edited, and reworked by professional editors whose paycheck depended on finding well-written, exciting, suspenseful stories like the novelettes in the collection.</p>
 
     <ul class="benefits">
       <li class="bold">Always have a great mystery story at your fingertips.</li>
@@ -174,10 +175,14 @@ category: download
 
     <p class="bold italics bloodred center margin2r">Get 32 additional novelettes today for $15.99 (90% off the total purchase price of $159.68), plus get another new one each week (adding $259.48 worth of value every year).</p>
 
-    <div class="epo">
-      <button class="add-to-cart" style="margin:2rem auto;">GET THE LIBRARY!</button>
-    </div>
+      <div class="epo">
+        <h2 class="bloodred">GET THE LIBRARY!</h2>
+        {% include buybuttons-epo.html %}
+      </div>
 
     <img src="/assets/img/misc/covers.png" class="library-cover" alt="THE MURDER MYSTERY LOVER’S COMPLETE NOVELETTE LIBRARY">
 
     <p class="testimonial" style="margin-top: 2rem;"><em><span>&ldquo;</span>I had a lot of fun reading through THE&nbsp;CAMPAIGN FOR&nbsp;VENGEANCE.<span>&rdquo;</span></em> &mdash;&nbsp;Micah Zontelli</p>
+
+  <!-- </section>
+</div> -->

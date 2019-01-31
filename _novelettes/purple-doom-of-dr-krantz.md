@@ -58,7 +58,7 @@ The story continues &hellip; buy it today and find out if Herr Doktor Krantz suc
 <hr>
 <br>
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

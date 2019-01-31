@@ -20,7 +20,7 @@ image: /assets/img/novelettes/voodoo-on-the-riviera.jpg
 wordcount: 9151
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

@@ -21,6 +21,23 @@ image: /assets/img/novellas/black-shadows.jpg
 wordcount: 13469
 ---
 
+<div class="lp__toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li>Something’s Wrong</li>
+		<li>An Impression Of The Lock</li>
+		<li>A Mysterious Note From Bradley</li>
+		<li>Two Dead Men</li>
+		<li>Bradley’s Denial</li>
+		<li>The Chauffer’s Alibi</li>
+		<li>Guerney’s Daughter</li>
+	</ol>
+
+</div>
+
 ### Chapter 1
 {: .chapternumber }
 
@@ -51,19 +68,4 @@ The story continues &hellip; download it today and find out "what could be wrong
 <hr>
 <br>
 
-<div class="toc">
-	<header>
-		<h6>Table of Contents</h6>
-	</header>
 
-	<ol>
-		<li>Something’s Wrong</li>
-		<li>An Impression Of The Lock</li>
-		<li>A Mysterious Note From Bradley</li>
-		<li>Two Dead Men</li>
-		<li>Bradley’s Denial</li>
-		<li>The Chauffer’s Alibi</li>
-		<li>Guerney’s Daughter</li>
-	</ol>
-
-</div>

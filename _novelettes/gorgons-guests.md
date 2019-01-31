@@ -27,7 +27,7 @@ trfissue: Vol. 9 No. 34
 trfdate: Apr. 18, 2018
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

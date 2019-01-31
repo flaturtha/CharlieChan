@@ -19,7 +19,7 @@ image: /assets/img/novelettes/more-deadly-than-a-viper.jpg
 wordcount: 8179
 --- 
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>
@@ -245,7 +245,7 @@ The story continues &hellip; download it today and find out if Tremaine can unra
 <hr>
 <br>
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

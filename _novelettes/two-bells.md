@@ -21,7 +21,7 @@ cover-img: /assets/img/novelettes/two-bells.jpg
 wordcount: 8852
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

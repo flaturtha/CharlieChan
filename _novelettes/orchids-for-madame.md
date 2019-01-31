@@ -20,7 +20,7 @@ image: /assets/img/novelettes/orchids-for-madame.jpg
 wordcount: 13660
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

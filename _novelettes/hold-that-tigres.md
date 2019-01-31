@@ -25,7 +25,7 @@ tag: novelette
 wordcount: 9402 
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>
@@ -214,7 +214,7 @@ The story continues &hellip; download it today!
 <hr>
 <br>
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

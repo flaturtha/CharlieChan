@@ -26,7 +26,7 @@ trfissue: Vol. 4 No. 12
 trfdate: Jun. 4, 2017
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

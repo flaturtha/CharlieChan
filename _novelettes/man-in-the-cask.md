@@ -25,7 +25,7 @@ trfissue: Vol. 8 No. 28
 trfdate: Jan. 14, 2018
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>
@@ -139,7 +139,7 @@ The story continues &hellip; download your copy today!
 <hr>
 <br>
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

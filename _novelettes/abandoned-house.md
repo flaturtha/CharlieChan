@@ -28,7 +28,7 @@ trfissue: Vol. 8 No. 30
 trfdate: Feb. 11, 2018
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>
@@ -89,7 +89,7 @@ The story continues &hellip; learn the story of who murdered Judge MacPherson an
 <hr>
 <br>
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

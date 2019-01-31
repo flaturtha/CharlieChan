@@ -25,7 +25,7 @@ tag: novelette
 wordcount: 6248
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>
@@ -112,7 +112,7 @@ The story continues &hellip; learn the Mary Gage's secret!
 <hr>
 <br>
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

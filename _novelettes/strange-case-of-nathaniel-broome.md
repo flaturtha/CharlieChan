@@ -21,7 +21,7 @@ image: /assets/img/novelettes/strange-case-of-nathaniel-broome.jpg
 wordcount: 13469
 ---
 
-<div class="toc">
+<div class="lp__toc"> <!-- change back to class="lp__toc" when layout changes to novelettes -->
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

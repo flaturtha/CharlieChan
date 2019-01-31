@@ -21,7 +21,7 @@ image: /assets/img/novelettes/mr-binglers-murder-maze.jpg
 wordcount: 10083
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

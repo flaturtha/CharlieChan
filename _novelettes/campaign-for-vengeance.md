@@ -54,7 +54,7 @@ The story continues &hellip; buy it today and find out who killed Cap’n Jimmy 
 <hr>
 <br>
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

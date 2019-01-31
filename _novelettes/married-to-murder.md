@@ -20,7 +20,7 @@ image: /assets/img/novelettes/married-to-murder.jpg
 wordcount: 15069
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

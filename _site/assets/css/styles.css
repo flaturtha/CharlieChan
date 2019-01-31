@@ -3377,14 +3377,13 @@ p.first {
       text-transform: uppercase; }
 
 .epo {
+  border: 2px solid #8B0000;
   width: 100%;
-  margin: 0 auto;
+  margin: 2rem auto;
+  padding: 1.5rem;
   text-align: center; }
-  @media screen and (min-width: 400px) {
-    .epo {
-      width: 300px; } }
   .epo button {
-    width: 100%; }
+    margin: 1rem; }
 
 .testimonial {
   max-width: 90%;
