@@ -62,7 +62,7 @@ $bgcolor2: darken($bgcolor, 5%);
       background: url('/assets/img/site/logo_mobile_f0.png') no-repeat;
       background-size: contain;
       height: 50px;
-      width: 70%;
+      // width: 70%;
       span {
         margin-left: -9999px;
       }
@@ -70,7 +70,7 @@ $bgcolor2: darken($bgcolor, 5%);
         background: url('/assets/img/site/atticus_8b0000.svg') no-repeat;
       }
       @media screen and (min-width: 48rem) {
-        background: url('/assets/img/site/logo_mobile_f0.png') no-repeat; /* atticus_fffff0.svg */
+        background: url('/assets/img/site/atticus_fffff0.svg') no-repeat; /* logo_mobile_f0.png */
         // height: 45px;
         // width: 30px;
         background-size: contain;

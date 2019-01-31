@@ -4409,16 +4409,15 @@ p {
       margin: 1rem -2rem 1rem 1rem;
       background: url("/assets/img/site/logo_mobile_f0.png") no-repeat;
       background-size: contain;
-      height: 50px;
-      width: 70%; }
+      height: 50px; }
       .nav .main-nav a.logo span {
         margin-left: -9999px; }
       .nav .main-nav a.logo:hover {
         background: url("/assets/img/site/atticus_8b0000.svg") no-repeat; }
       @media screen and (min-width: 48rem) {
         .nav .main-nav a.logo {
-          background: url("/assets/img/site/logo_mobile_f0.png") no-repeat;
-          /* atticus_fffff0.svg */
+          background: url("/assets/img/site/atticus_fffff0.svg") no-repeat;
+          /* logo_mobile_f0.png */
           background-size: contain;
           background-position-x: 50%; } }
       @media screen and (min-width: 64rem) {
