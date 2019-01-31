@@ -1,0 +1,164 @@
+/*=============================================
+=    EPO LIBRARY OFFER         								=
+=============================================*/
+
+.epo-offer {
+  max-width: 90%;
+  @media screen and (min-width: 400px){
+    max-width: 960px;
+  }
+  p {
+    font-size: 18px;
+  }
+  header {
+    border-bottom: 2px solid $acolor;
+    margin-bottom: 3rem;
+  }
+  .preheader {
+    margin: 0 auto;
+    text-align: center;
+    color: gray;
+    font-size: 1rem;
+  }
+  .main-headline {
+    font-weight: bold;
+    text-align: center;
+  }
+  .subheadline {
+    font-size: 1.5rem;
+    text-align: center;
+    padding-bottom: 2rem;
+  }
+}
+
+hr.break {
+  border:1px solid $acolor;
+  margin: 2rem auto;
+  max-width: 50%;
+}
+
+.flip {
+  display: inline-block;
+  color: #fffff0;
+  background-color: #242424;
+  margin: 0 0.25rem;
+  padding: 0 0.5rem;
+  transform: rotate(5deg);
+  box-shadow: 2px 2px lightgray;
+}
+
+p.first {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.booklist {
+  margin: 2rem auto;
+  @media screen and (min-width: 400px){
+    padding: 1rem;
+    max-width: 75%;
+  }
+  h3 {
+    text-align: center;
+    font-size: 1.25rem;
+    background-color: $acolor;
+    color: $paper;
+    padding: 0.5rem 0;
+  }
+  // max-height: 300px;
+  border: 1px solid $acolor;
+  ol, ul {
+    display: block;
+    list-style-type: disc;
+    padding: 2rem;
+    li {
+      text-transform: uppercase;
+    }
+  }
+}
+
+.epo {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  @media screen and (min-width: 400px){
+    width: 300px;
+  }
+  button {
+    width: 100%;
+  }
+}
+
+.testimonial {
+  // width: 400px;
+  max-width: 90%;
+  background-color: $bgcolor;
+  color: $paper;
+  margin: 0 auto;
+  padding: 1rem;
+  span {
+    font-size:1.25rem;
+    font-weight: bold;
+    padding: 0 0.5rem;
+  }
+}
+
+.fullprice {
+  color: $acolor;
+  font-weight: bold;
+  font-size: 1.25rem;
+  font-style: italic; 
+}
+
+.subtext {
+  font-size: 0.875rem !important;
+  color: lighten($bgcolor, 20%);
+  text-align: center;
+  max-width: 50%;
+  margin-bottom: 2rem !important;
+  font-style: italic;
+}
+
+.benefits {
+  display: block;
+  list-style-type: disc;
+  margin: 2rem;
+  @media screen and (min-width: 400px){
+    margin: 2rem 0 2rem 5rem;
+  }
+  li {
+    padding: .5rem;
+  }
+}
+
+.youget {
+  @extend .benefits;
+  margin-top: -1rem;
+}
+
+.magazinelogos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem auto;
+  @media screen and (min-width:400px){
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  img {
+    width: 200px;
+    height: auto;
+    padding: 1rem;
+    @media screen and (min-width:400px){
+      padding: 0;
+    }
+  }
+}
+
+.library-cover {
+  display: block;
+  width: 400px;
+  max-width: 90%;
+  height: auto;
+  margin: 2rem auto;
+}

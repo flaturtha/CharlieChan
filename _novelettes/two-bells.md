@@ -1,5 +1,5 @@
 ---
-layout: novelettes
+layout: lp2
 casefileNumber: 55ccf75fb3901011515aef3b
 e-guid: 94e07938-8270-4cfc-8083-21587f25351c
 k-guid: 5b391db5-7970-4443-bf2b-c02e97051e8a
@@ -17,6 +17,7 @@ genre: Adventure
 description: "It all came back to him — the lamp-lit Australian water-front, the slinking shadows along the quay, the sickening emotions following the blow and the return to consciousness in the hold of the trading brig bound for eleven degrees south of the equator."
 tags: novelette 
 image: /assets/img/novelettes/two-bells.jpg
+cover-img: /assets/img/novelettes/two-bells.jpg
 wordcount: 8852
 ---
 
