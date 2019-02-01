@@ -2417,6 +2417,17 @@ ol ol li:last-child {
 /*=============================================
 =    DOWNLOADS PAGE            								=
 =============================================*/
+@-webkit-keyframes flash {
+  from {
+    background-color: #8B0000; }
+  to {
+    background-color: #fffff0; } }
+@keyframes flash {
+  from {
+    background-color: #8B0000; }
+  to {
+    background-color: #fffff0; } }
+
 .dwn-ty-bar {
   background-color: #8B0000;
   color: #fffff0;
@@ -2424,7 +2435,15 @@ ol ol li:last-child {
   padding: 1rem 1rem 0.5rem 1rem;
   text-align: center;
   font-size: 1.25rem;
-  font-weight: bold; }
+  font-weight: bold;
+  -webkit-animation-name: flash;
+          animation-name: flash;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
+  -webkit-animation-iteration-count: 2;
+          animation-iteration-count: 2;
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s; }
   @media screen and (min-width: 400px) {
     .dwn-ty-bar {
       margin-top: 0;
@@ -3313,7 +3332,8 @@ ol ol li:last-child {
 =    EPO LIBRARY OFFER         								=
 =============================================*/
 .epo-offer {
-  max-width: 90%; }
+  max-width: 90%;
+  margin-top: 2rem; }
   @media screen and (min-width: 400px) {
     .epo-offer {
       max-width: 960px; } }
@@ -3377,13 +3397,35 @@ p.first {
       text-transform: uppercase; }
 
 .epo {
-  border: 2px solid #8B0000;
+  border: 2px dashed #8B0000;
+  background-color: #F9F9DF;
   width: 100%;
   margin: 2rem auto;
   padding: 1.5rem;
   text-align: center; }
-  .epo button {
-    margin: 1rem; }
+
+.epo-buttons {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column; }
+  .epo-buttons button {
+    width: 100%;
+    margin: 1rem 0; }
+  @media screen and (min-width: 575px) {
+    .epo-buttons {
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: row;
+          -ms-flex-direction: row;
+              flex-direction: row; }
+      .epo-buttons button {
+        margin: 0 1rem; } }
 
 .testimonial {
   max-width: 90%;
@@ -3463,6 +3505,14 @@ p.first {
   max-width: 90%;
   height: auto;
   margin: 2rem auto; }
+
+.narrow {
+  width: 600px;
+  max-width: 90%;
+  margin-left: 1rem; }
+  @media screen and (min-width: 48rem) {
+    .narrow {
+      margin-left: 3rem; } }
 
 /*==========  LAYOUT  ==========*/
 /*=============================================

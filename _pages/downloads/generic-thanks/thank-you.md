@@ -7,11 +7,14 @@ category: download
 
 <div class="{{ page.title }}">
 
+
   <section class="dwn-ty-bar" style="margin-bottom:2rem;">
   
     <p>THANKS &raquo; &raquo;<span> Your download links will be delivered to your inbox within about 15 minutes.</span></p>
   
   </section>
+
+  {% include smallnav.html %}
 
   <section class="epo-offer">
     <header>
@@ -42,7 +45,8 @@ category: download
 
     <hr class="break">
 
-    <p><strong>THE MURDER MYSTERY LOVER’S COMPLETE NOVELETTE LIBRARY</strong>, which includes 33 stories from authors like <em>Thorne Lee, J. C. Kofoed, Harry C. Harvey, Jr.</em>, and more. Professional storytellers who knew how to spin a yarn.</p>
+    <p><strong>THE MURDER MYSTERY LOVER’S COMPLETE NOVELETTE LIBRARY</strong>, which includes <span class="flip">33</span> stories from authors like <em>Thorne Lee, J. C. Kofoed, Harry C. Harvey, Jr.</em>, and more. Professional storytellers who knew how to spin a yarn.</p>
+
     <img src="/assets/img/misc/covers.png" class="library-cover" alt="THE MURDER MYSTERY LOVER’S COMPLETE NOVELETTE LIBRARY">
 
     <div class="booklist">
@@ -84,38 +88,40 @@ category: download
       </ol>
     </div>
 
-    <p><span class="bold">In fact</span>, it includes every novelette currently available on <span class="companyname">TalesofMurder.com</span> &hellip; plus, for a limited time, you’ll also get every new novelette before they’re released on the site, <em>no extra charge</em>.</p>
+    <p><span class="bold">In fact</span>, it includes every novelette currently available on <span class="companyname">TalesofMurder.com</span> &hellip; <span class="hidden">plus, for a limited time, you’ll also get every new novelette before they’re released on the site, <em>no extra charge</em></span>.</p>
 
-    <p>As an owner of this limited time offer LIBRARY, you’ll have 33 novelettes available for immediate download & enjoyment wherever you are, whenever you’ve got 5 minutes or 30! Something to fit your mood, whether you want hardboiled action or anxiety-evoking suspense.
+    <p>As an owner of this limited time offer LIBRARY, you’ll have <strong>33</strong> novelettes available for immediate download & enjoyment wherever you are, whenever you’ve got 5 minutes or 30!</p>
+    
+    <p class="narrow">Something to fit your mood, whether you want hardboiled action or anxiety-evoking suspense.</p>
 
-    <p>Escape into a world of mystery & suspense instead of dulling away your time on frivolous nonsense that just drains your spirit. Instead, be energized by a great story.
+    <p class="narrow">Escape into a world of mystery & suspense instead of dulling away your time on frivolous nonsense that just drains your spirit. Instead, be energized by a great story.</p>
 
-    <p>Imagine having an entire collection of the best rare and classic murder mystery, crime, & detective fiction stories at your fingertips whenever you’ve got time to escape for a few minutes.
+    <p class="narrow">Imagine having an entire collection of the best rare and classic murder mystery, crime, & detective fiction stories at your fingertips whenever you’ve got time to escape for a few minutes.</p>
 
-    <p>No more time wasted searching, evaluating, buying.
+    <p>No more time wasted searching, evaluating, buying.</p>
 
-    <p>Just <em>tap, download, & READ</em>!
+    <p class="bold">Just <em>tap, download, & READ</em>!</p>
 
       <div class="epo">
         <h2 class="bloodred">GET THE LIBRARY!</h2>
         {% include buybuttons-epo.html %}
       </div>
 
-    <p class="italics narrow small" style="margin-bottom: 3rem;">Read a complete story (they range from 30 – 90 mins in length), or read just a chapter when you have a few minutes to kill (most chapters are short enough to read in 5 – 10 mins).
+    <p class="italics narrow small" style="margin-bottom: 3rem;">Read a complete story (they range from 30 – 90 mins in length), or read just a chapter when you have a few minutes to kill (most chapters are short enough to read in 5 – 10 mins).</p>
 
     <p class="testimonial">MR. BINGLER'S MURDER MAZE &mdash;<br><em><span>&ldquo;</span>Loved it! Especially the ending. Had a couple of twists I didn't see coming. Enjoyed it very much!<span>&rdquo;</span></em><br>&mdash;&nbsp;R. Taylor</p>
 
     <hr class="break">
 
-    <p>If you’ve read this far, I know you’re at least intrigued. But you may be asking if these stories are really worth it … even at this great price.</p>
+    <p><strong>If you’ve read this far, I know you’re at least intrigued.</strong> But you may be asking if these stories are really worth it … even at this great price.</p>
+    
+    <p>I already mentioned a few names, authors of these novelettes. Maybe they’re familiar, maybe not. But each story in this LIBRARY was originally published in magazines like <em>The Black Mask, Complete Detective Tales, FBI Detective Stories, All Star Detective</em>, and more. They were published during the heyday of the pulp detective and mystery fiction, as early as 1895 and up through the 1950s.</p>
 
     <div class="magazinelogos">
       <img src="/assets/img/misc/bm.png" alt="THE BLACK MASK magazine">
       <img src="/assets/img/misc/crack.png" alt="CRACK DETECTIVE magazine">
       <img src="/assets/img/misc/fbids.png" alt="F.B.I. DETECTIVE STORY magazine">
     </div>
-
-    <p>I already mentioned a few names, authors of these novelettes. Maybe they’re familiar, maybe not. But each story in this LIBRARY was originally published in magazines like <em>The Black Mask, Complete Detective Tales, FBI Detective Stories, All Star Detective</em>, and more. They were published during the heyday of the pulp detective and mystery fiction, as early as 1895 and up through the 1950s.</p>
 
     <p>This isn’t any of that self-published, never edited or peer-reviewed junk that’s slung out by so many wannabe writers. This is tested and proven. Each one was vetted, reviewed, edited, and reworked by professional editors whose paycheck depended on finding well-written, exciting, suspenseful stories like the novelettes in the collection.</p>
 
@@ -135,29 +141,34 @@ category: download
 
     <p>Then, once a week, you’ll get a notification with links to download the novelette of the week, for life!</p>
 
-    <p class="narrow italics" style="width:600px;max-width:90%;margin-left:3rem;">(This lifetime offer is only available for a short time. If you buy the LIBRARY today, you’ll never pay for another novelette again; unlike those who buy the LIBRARY after this offer goes away … they’ll pay a monthly fee of up to $15.99 to get access to the full LIBRARY and the new, weekly releases.)</p>
+    <p class="narrow italics">(This lifetime offer is only available for a short time. If you buy the LIBRARY today, you’ll never pay for another novelette again; unlike those who buy the LIBRARY after this offer goes away … they’ll pay a monthly fee of up to $15.99 to get access to the full LIBRARY and the new, weekly releases <span class="small italics">(coming soon!)</span>.)</p>
 
     <p class="bold uppercase bloodred" style="margin-top: 2rem;">You get:</p>
     <ul class="youget">
       <li><span class="bloodred uppercase">a downloadable ebook</span> &hellip; with links to download each novelette individually</li>
       <li><span class="bloodred uppercase">thirty-three (33) novelettes available immediately</span> &hellip; something for every mood</li>
-      <li><span class="bloodred uppercase">a new novelette every week</span> &hellip; lifetime access, no extra charge</li>
+      <li><span class="bloodred uppercase">the joy of reading</span> &hellip; no more dulls-ville thumb scrolling through drivel</li>
+      <li class="hidden"><span class="bloodred uppercase">a new novelette every week</span> &hellip; lifetime access, no extra charge</li>
     </ul>
 
     <p>Plus, as an early adopter, you’ll get a special coupon code that will get you an additional 50% off all future purchases (by separate email; coming in a couple days).</p>
 
     <p>That’s right … not only am I giving you access to every novelette in my collection (plus future ones as they’re published), you can also get any novella or novel (or future products like audiobooks, illustrated novels, etc.) for 50%.</p>
 
-    <p>(* Current prices on novellas & novels will be increasing soon … by as much as 2 – 3X, so if you buy now with your coupon, you can save significant money while building your always-at-your-fingertips murder mystery library!)</p>
+    <p>* Current prices on novellas & novels will be increasing soon … by as much as 2 – 3X, so if you buy now with your coupon, you can save significant money while building your always-at-your-fingertips murder mystery library!</p>
 
     <hr class="break">
 
     <h3 class="bold bloodred center">Get all of this for just $15.99 today!</h3>
     <p class="subtext center">(I can only offer this price for a short time … if you pass now and decide later to buy, it’ll cost at least $29.99).</p>
 
-    <p>Normally, each novelette costs <span class="bold">$4.99</span>, so you’d pay <span class="fullprice">$159.68</span> to get the remaining <span class="flip">32</span> novelettes (plus the free one you just got as a new subscriber). And that’s just for the current collection of 33 novelettes!</p>
+    <p>Normally, each novelette costs <span class="bold">$4.99</span>, so you’d pay <span class="fullprice">$159.68</span> to get the remaining <span class="flip">32</span> novelettes (plus the free one you just got as a new subscriber). <span class="hidden">And that’s just for the current collection of 33 novelettes!</span></p>
 
-    <p>Plus, when the lifetime access opportunity disappears in a few weeks, replaced with a monthly subscription, you’ll pay as much as <span class="fullprice">$15.99 a month</span> to access these exciting stories.</p>
+    <p class="bold bloodred">But you can get them all for just $15.99, or 90% off!</p>
+    
+    <p>That works out to $0.49 per novelette!!</p>
+
+    <p class="hidden">Plus, when the lifetime access opportunity disappears in a few weeks, replaced with a monthly subscription, you’ll pay as much as <span class="fullprice">$15.99 a month</span> to access these exciting stories.</p>
 
     <p><strong>Try it risk free &mdash;</strong> Look, you came to my site today and downloaded a free novelette. You weren’t prepared to spend cash money. Maybe today was the 1st time you’ve visited; or maybe you’ve read a few short stories, etc. But you still don’t know if it’s worth it.</p>
 
@@ -169,11 +180,13 @@ category: download
 
     <p><span class="bold">My goal</span>, the reason I’m offering this incredible deal, is that I love these stories. I firmly believe that they are worth preserving and sharing with a new generation of mystery fans, like you. And I want you to enjoy them as much as I do.</p>
 
-    <p>So, take action today and secure your lifetime access to the best rare and classic murder mystery, crime, & detective novelettes ever written.</p>
+    <p>They're perfect because: (1) you've always got them with you (mobile-readable), (2) you can read some or all whenever you've got a bit of time!</p>
 
-    <p>Click the big ol’ <span class="bold bloodred">GET THE LIBRARY!</span> button below and get your NOVELETTE LIBRARY today before this offer is gone!</p>
+    <p class="bold">So, take action today and secure your lifetime access to the best rare and classic murder mystery, crime, & detective novelettes ever written.</p>
 
-    <p class="bold italics bloodred center margin2r">Get 32 additional novelettes today for $15.99 (90% off the total purchase price of $159.68), plus get another new one each week (adding $259.48 worth of value every year).</p>
+    <p>Click the big ol’ button (choose either Kindle or ePub edition) <span class="bold bloodred">GET THE LIBRARY!</span> below and get your NOVELETTE LIBRARY today before this offer is gone!</p>
+
+    <p class="bold italics bloodred center margin2r">Get 32 additional novelettes today for $15.99 (90% off the total purchase price of $159.68).<br><span class="small">You'll also get (at no extra charge) all new novelettes when they are released &hellip; new ones each week, coming soon!<br>Up to an additional $259.48 worth &hellip; per year &hellip; of great mystery fiction!</span></p>
 
       <div class="epo">
         <h2 class="bloodred">GET THE LIBRARY!</h2>
@@ -184,5 +197,5 @@ category: download
 
     <p class="testimonial" style="margin-top: 2rem;"><em><span>&ldquo;</span>I had a lot of fun reading through THE&nbsp;CAMPAIGN FOR&nbsp;VENGEANCE.<span>&rdquo;</span></em> &mdash;&nbsp;Micah Zontelli</p>
 
-  <!-- </section>
-</div> -->
+  </section>
+</div>
