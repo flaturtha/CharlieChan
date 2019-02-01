@@ -23,6 +23,7 @@ tags:
  - novella
  - "John Baer"
 image: /assets/img/novellas/campaign-for-vengeance.jpg
+cover-img: /assets/img/novellas/campaign-for-vengeance.jpg
 wordcount: 15158
 k-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Campaign-for-Vengeance_sample.mobi
 e-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Campaign-for-Vengeance_sample.epub 

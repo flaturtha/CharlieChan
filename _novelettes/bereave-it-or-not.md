@@ -17,6 +17,7 @@ genre: Amateur Sleuth
 description: "The most thankless task of Detective Daventry's career was the case of the mystified murderer. For because his victim was unknown and unmourned, the only gratitude due to Daventry would be a pat on the back from the Grim Reaper."
 tags: novelette 
 image: /assets/img/novelettes/bereave-it-or-not.jpg
+cover-img: /assets/img/novelettes/bereave-it-or-not.jpg
 wordcount: 9216
 ---
 

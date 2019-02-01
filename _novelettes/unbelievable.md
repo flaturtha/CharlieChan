@@ -1,5 +1,5 @@
 ---
-layout: lp2 
+layout: novelettes 
 casefileNumber: 55ccf75fb3901011515aef34
 e-guid: 81a9274f-4759-469e-8236-283e399954dc
 k-guid: 7084b31c-4c85-44dc-90e9-d9bee9a53adb

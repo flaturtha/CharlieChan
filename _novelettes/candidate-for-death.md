@@ -8,7 +8,7 @@ kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/candidate-for-death.m
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/candidate-for-death.epub
 title: "Candidate for Death"
 author: Theodore A. Tinsley
-price: 4.99
+price: $4.99
 pubdate: 2018-11-01 
 opub: All Detective Magazine
 opubdate: March 1933
