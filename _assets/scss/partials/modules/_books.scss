@@ -148,7 +148,7 @@
   border-radius: 5px;
   font-size: 1rem;
   padding: 0.625rem 1.25rem;
-  width: 90%;
+  // width: 90%;
   margin: 0 auto !important;
   text-align: center;
   background-color: $theblue;
@@ -284,7 +284,8 @@
 }
 
 .testimonials {
-	border: 1px solid $acolor;
+	// border: 1px solid $acolor;
+	// background-color:lighten(#E9CC98, 18%);
 	margin: 1rem;
 	padding: 0.5rem;
 	font-weight: bold;

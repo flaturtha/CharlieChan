@@ -36,14 +36,24 @@
 	});
 </script>
 
-  <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-WWPLNXX');</script>
-  <!-- End Google Tag Manager -->
+<!-- Google Tag Manager (test env) -->
+<!-- <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=Fuff3k-TdmJYNFJ-jwKLqQ&gtm_preview=env-44&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WWPLNXX');</script> -->
+<!-- End Google Tag Manager (test env) -->
 
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+  w[l] = w[l] || []; w[l].push({
+    'gtm.start':
+      new Date().getTime(), event: 'gtm.js'
+  }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-WWPLNXX');</script>
+<!-- End Google Tag Manager -->
 
   <meta name="keywords" content="short-story">
 
@@ -199,31 +209,43 @@
     
     <link rel="alternate" title="Tales of Murder" type="application/json" href="https://www.talesofmurder.com/feed.json" />
 
+    <!-- MAUTIC HEAD CODE ... ONCE PER PAGE -->
+    <script type="text/javascript">
+      /** This section is only needed once per page if manually copying **/
+      if (typeof MauticSDKLoaded == 'undefined') {
+          var MauticSDKLoaded = true;
+          var head            = document.getElementsByTagName('head')[0];
+          var script          = document.createElement('script');
+          script.type         = 'text/javascript';
+          script.src          = 'http://52.207.249.123/media/js/mautic-form.js';
+          script.onload       = function() {
+              MauticSDK.onLoad();
+          };
+          head.appendChild(script);
+          var MauticDomain = 'http://52.207.249.123';
+          var MauticLang   = {
+              'submittingMessage': "Please wait..."
+          }
+      }
+  </script>
+  <script> var formName = 'contactrod'; if (typeof MauticFormCallback == 'undefined') {var MauticFormCallback = {};} MauticFormCallback[formName] = {onValidateStart: function () {document.getElementById('mauticform_input_novelettefreesqueeze').value = document.referrer; }, }; </script>
+  
 
 </head>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <body  id="fear"  class="short-stories">
 	
-	<!-- Google Tag Manager (noscript) -->
+	<!-- Google Tag Manager (noscript) (test env) -->
+<!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWPLNXX&gtm_auth=Fuff3k-TdmJYNFJ-jwKLqQ&gtm_preview=env-44&gtm_cookies_win=x"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
+<!-- End Google Tag Manager (noscript) (test env ) -->
+
+
+<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWPLNXX"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
 	<!-- include fbjsdk.html -->
 
@@ -258,7 +280,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <label for="nav">Menu</label>
     <ul>
       <li><a  href="/"><span>Home</span></a></li>
-      <!-- <li><a  href="/start-here"/><span class="bg-start-here">Start Here</span></a></li> --> <!-- removed until page redone -->
+      <li><a  href="/start-here"/><span class="bg-start-here">Start Here</span></a></li>
       <li><a  href="/murderwiki/"><span>MurderWiki</span></a></li>
       <li><a  class="active"  href="/short-stories/"><span>Short Stories</span></a></li>
       <!-- <li><a  href="/novelettes/"><span>Novelettes</span></a></li>  --> <!-- temporarily removed from menu on 1.24.19 until rolled over to Mautic -->
@@ -771,23 +793,7 @@ C &amp; Q about nine months ago everyone knows.</p>
   </div>
 </footer>
 
-  
-<!-- <script src="/assets/js/vendor/modernizr.custom.34164.js"></script> -->
-
-<!--load jQuery, required-->
-<!-- <script src="/assets/vendor/js/jquery-3.1.1.slim.min.js"></script> -->
-
-<!-- <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script> -->
-
-<!-- TYPEKIT -->
-<script src="//use.typekit.net/gwl0zuj.js"></script>
-<!-- <script>try{Typekit.load();}catch(e){}</script> -->
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
-
-<!-- <script src="/assets/js/optin-bar.js"></script> -->
-
-
-<!-- OPTIN DROPDOWN - NO BUTTON TRIGGER -->
+  <!-- OPTIN DROPDOWN - NO BUTTON TRIGGER -->
 <script type="text/javascript">
     function toggle_visibility(id) {
        var e = document.getElementById(id);
@@ -795,11 +801,6 @@ C &amp; Q about nine months ago everyone knows.</p>
     }
 </script>
 
-<!-- ISOTYPE -->
-<!-- <script src+"/assets/js/jquery.isotop.js"></script> -->
-
-
-<!-- HIDE DIV -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 <script> 
@@ -811,19 +812,6 @@ C &amp; Q about nine months ago everyone knows.</p>
 		});
 	});
 </script> 
-
-			
-
-<!-- <script>
-function myFunction() {
-  var x = document.getElementsByClassName("optin4");
-  var i;
-  for (i = 0; i < x.length; i++) {
-      x[i].style.display = "none";
-  }
-}	
-</script> -->
-
 
 <script>
   $(document).ready(function(){
@@ -839,8 +827,6 @@ function myFunction() {
     })
   })
 </script>
-
-
 
 <script>
   $(document).ready(function(){
@@ -865,8 +851,6 @@ function myFunction() {
   })
 </script>
 
-
-
 <!-- Due to a screw up on my part when I mistyped "corpse" as "corse" in the URL of Start With A Corpse when redirecting from FB, I had to set up a redirect that would automatically take anyone who clicked the post in FB to the correct page. I had to hide the start-with-a-corse story from the short stories TOC. Hence this (probably BAD) code. -->
 <script>
   $(document).ready(function(){
@@ -886,6 +870,15 @@ function myFunction() {
 
 
 
-  <!-- include quantcast.html %} -->
+  <!-- MAUTIC TRACKING CODE -->
+<script>
+    (function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n;
+        w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t),
+        m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','http://52.207.249.123/mtc.js','mt');
+
+    mt('send', 'pageview');
+</script>
+
 
 </body>

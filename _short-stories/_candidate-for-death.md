@@ -1,5 +1,5 @@
 ---
-layout: sns
+layout: post
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef09
 title: "Candidate for Death"

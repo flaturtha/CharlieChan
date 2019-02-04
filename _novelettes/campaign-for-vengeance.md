@@ -7,7 +7,7 @@ kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/campaign-for-vengeanc
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/campaign-for-vengeance.epub
 title: "The Campaign for Vengeance"
 author: John Baer
-price: 2.99
+price: 4.99
 opub: The Black Mask
 opubdate: Sep. 1922
 opubissue: Vol. 1, No. 6
@@ -23,6 +23,7 @@ tags:
  - novella
  - "John Baer"
 image: /assets/img/novellas/campaign-for-vengeance.jpg
+cover-img: /assets/img/novellas/campaign-for-vengeance.jpg
 wordcount: 15158
 k-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Campaign-for-Vengeance_sample.mobi
 e-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Campaign-for-Vengeance_sample.epub 
@@ -54,7 +55,7 @@ The story continues &hellip; buy it today and find out who killed Cap’n Jimmy 
 <hr>
 <br>
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

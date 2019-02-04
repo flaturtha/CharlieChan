@@ -1,6 +1,8 @@
 ---
 layout: novelettes
-casefileNumber: 
+casefileNumber: 127ac149-a09a-470d-8e6b-218980d495e5
+e-guid: 5e73ba9a-bcc9-4fce-87d0-41a5f7d5e116
+k-guid: 2780e56c-3847-4f4f-981e-f19acfb33049
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/gorgons-guests.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/gorgons-guests.epub
 title: "The Gorgon's Guests"
@@ -10,7 +12,7 @@ pubdate: 2018-08-09
 opub: Thrilling Mystery
 opubdate: Mar. 1942
 opubissue: Vol. 18 No. 2
-price: 2.99
+price: 4.99
 category: novelettes
 description: "Evil are the cavernous haunts wherein wandering men are transformed from mortal flesh into lifeless stone!"
 image: /assets/img/novelettes/gorgons-guests.jpg
@@ -25,7 +27,7 @@ trfissue: Vol. 9 No. 34
 trfdate: Apr. 18, 2018
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

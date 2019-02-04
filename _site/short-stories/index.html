@@ -34,14 +34,24 @@
 	});
 </script>
 
-  <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-WWPLNXX');</script>
-  <!-- End Google Tag Manager -->
+<!-- Google Tag Manager (test env) -->
+<!-- <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=Fuff3k-TdmJYNFJ-jwKLqQ&gtm_preview=env-44&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WWPLNXX');</script> -->
+<!-- End Google Tag Manager (test env) -->
 
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+  w[l] = w[l] || []; w[l].push({
+    'gtm.start':
+      new Date().getTime(), event: 'gtm.js'
+  }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-WWPLNXX');</script>
+<!-- End Google Tag Manager -->
 
   
 
@@ -192,31 +202,43 @@
     
     <link rel="alternate" title="Tales of Murder" type="application/json" href="https://www.talesofmurder.com/feed.json" />
 
+    <!-- MAUTIC HEAD CODE ... ONCE PER PAGE -->
+    <script type="text/javascript">
+      /** This section is only needed once per page if manually copying **/
+      if (typeof MauticSDKLoaded == 'undefined') {
+          var MauticSDKLoaded = true;
+          var head            = document.getElementsByTagName('head')[0];
+          var script          = document.createElement('script');
+          script.type         = 'text/javascript';
+          script.src          = 'http://52.207.249.123/media/js/mautic-form.js';
+          script.onload       = function() {
+              MauticSDK.onLoad();
+          };
+          head.appendChild(script);
+          var MauticDomain = 'http://52.207.249.123';
+          var MauticLang   = {
+              'submittingMessage': "Please wait..."
+          }
+      }
+  </script>
+  <script> var formName = 'contactrod'; if (typeof MauticFormCallback == 'undefined') {var MauticFormCallback = {};} MauticFormCallback[formName] = {onValidateStart: function () {document.getElementById('mauticform_input_novelettefreesqueeze').value = document.referrer; }, }; </script>
+  
 
 </head>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <body  id="short&nbsp;stories"  class="short-stories">
 	
-	<!-- Google Tag Manager (noscript) -->
+	<!-- Google Tag Manager (noscript) (test env) -->
+<!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWPLNXX&gtm_auth=Fuff3k-TdmJYNFJ-jwKLqQ&gtm_preview=env-44&gtm_cookies_win=x"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
+<!-- End Google Tag Manager (noscript) (test env ) -->
+
+
+<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWPLNXX"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
 	<!-- include fbjsdk.html -->
 
@@ -251,7 +273,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <label for="nav">Menu</label>
     <ul>
       <li><a  href="/"><span>Home</span></a></li>
-      <!-- <li><a  href="/start-here"/><span class="bg-start-here">Start Here</span></a></li> --> <!-- removed until page redone -->
+      <li><a  href="/start-here"/><span class="bg-start-here">Start Here</span></a></li>
       <li><a  href="/murderwiki/"><span>MurderWiki</span></a></li>
       <li><a  class="active"  href="/short-stories/"><span>Short Stories</span></a></li>
       <!-- <li><a  href="/novelettes/"><span>Novelettes</span></a></li>  --> <!-- temporarily removed from menu on 1.24.19 until rolled over to Mautic -->
@@ -502,53 +524,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p class="meta">2550 words | 
         
           <span class="time">14</span> min 
-        
-        </p>
-</a>
-    </li>
-
-
-<!-- endif %} -->
-
-
-
- <!-- if short-stories.wordcount < 3001 %} -->
-
-<!-- README IF STATEMENT -->
-
-
-    <li class="card " id="robbery">
-<a href="/short-stories/suave-talker-robs-passengers-on-train/" style="color:#242424;">
-
-      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/suave-talker.png') ">
-
-      <p class="card__genre">Robbery</p>
-
-      
-
-      <h2 class="card__meta">Suave Talker Robs Passengers On Train 
-        <span>
-          
-            
-          
-        </span>
-      </h2>
-
-      </header> <!-- end header.card__header -->
-
-      <p class="TOCexcerpt">A true crime story of train robbery ... and unexpected charm!<br /><a href="/short-stories/suave-talker-robs-passengers-on-train/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
-          
-            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
-          
-          <div class="social-buttons">
-            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/suave-talker-robs-passengers-on-train/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
-          </div>
-          
-
-
-        <p class="meta">226 words | 
-        
-          
         
         </p>
 </a>
@@ -6063,53 +6038,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- README IF STATEMENT -->
 
 
-    <li class="card " id="amateur sleuth">
-<a href="/short-stories/abandoned_house/" style="color:#242424;">
-
-      <header class="card__header" style=" background-image:url(' /assets/img/short-stories/abandoned-house.svg') ">
-
-      <p class="card__genre">Amateur Sleuth</p>
-
-      
-
-      <h2 class="card__meta">The Abandoned House 
-        <span>
-          
-            Buelah Poynter
-          
-        </span>
-      </h2>
-
-      </header> <!-- end header.card__header -->
-
-      <p class="TOCexcerpt">Trying to escape the storm, Alan and his sister, Nell, seek shelter in the old abandoned house. But when they discover Judge MacPherson recently murdered, will they find the killer or death?<br /><a href="/short-stories/abandoned_house/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
-          
-            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
-          
-          <div class="social-buttons">
-            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/abandoned_house/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
-          </div>
-          
-
-
-        <p class="meta">6162 words | 
-        
-          <span class="time">34</span> min 
-        
-        </p>
-</a>
-    </li>
-
-
-<!-- endif %} -->
-
-
-
- <!-- if short-stories.wordcount < 3001 %} -->
-
-<!-- README IF STATEMENT -->
-
-
     <li class="card " id="scientific detective">
 <a href="/short-stories/a-study-in-green/" style="color:#242424;">
 
@@ -10247,53 +10175,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
     <li class="card " id="professional sleuth">
-<a href="/short-stories/white-cell/" style="color:#242424;">
-
-      <header class="card__header" style=" background-image:url('/assets/img/site/atticus_b_small.png');background-size: 50px 75px;">
-
-      <p class="card__genre">Professional Sleuth</p>
-
-      
-
-      <h2 class="card__meta">The White Cell 
-        <span>
-          
-            Gregory Hay
-          
-        </span>
-      </h2>
-
-      </header> <!-- end header.card__header -->
-
-      <p class="TOCexcerpt">When Mr. Ivor's second son is found dead, dressed in a blue robe, exactly one year after his elder brother was found in the same atire and location, can Demers uncover what evil mind is taunting Ivors?<br /><a href="/short-stories/white-cell/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
-          
-            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
-          
-          <div class="social-buttons">
-            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/white-cell/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
-          </div>
-          
-
-
-        <p class="meta">8198 words | 
-        
-          <span class="time">45</span> min 
-        
-        </p>
-</a>
-    </li>
-
-
-<!-- endif %} -->
-
-
-
- <!-- if short-stories.wordcount < 3001 %} -->
-
-<!-- README IF STATEMENT -->
-
-
-    <li class="card " id="professional sleuth">
 <a href="/short-stories/stoolpigeon-plot/" style="color:#242424;">
 
       <header class="card__header" style=" background-image:url(' /assets/img/short-stories/stoolpigeon-plot.svg') ">
@@ -10993,6 +10874,53 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
+ <!-- if short-stories.wordcount < 3001 %} -->
+
+<!-- README IF STATEMENT -->
+
+
+    <li class="card ">
+<a href="/short-stories/suave-talker-robs-passengers-on-train/" style="color:#242424;">
+
+      <header class="card__header" style=" background-image:url('/assets/img/site/atticus_b_small.png');background-size: 50px 75px;">
+
+      <p class="card__genre"></p>
+
+      
+
+      <h2 class="card__meta"> 
+        <span>
+          
+            
+          
+        </span>
+      </h2>
+
+      </header> <!-- end header.card__header -->
+
+      <p class="TOCexcerpt"><br /><a href="/short-stories/suave-talker-robs-passengers-on-train/" class="readmore" style="background-color:#8b0000;color:#fffff0;padding:0.25rem">
+          
+            Read Online&nbsp;&rsaquo;&rsaquo;</a></p>
+          
+          <div class="social-buttons">
+            <div style="margin:-2.75rem 0 0.5rem auto;" class="fb-like" data-href="https://www.talesofmurder.com/short-stories/suave-talker-robs-passengers-on-train/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+          </div>
+          
+
+
+        <p class="meta"> words | 
+        
+          Less than 1 minute 
+        
+        </p>
+</a>
+    </li>
+
+
+<!-- endif %} -->
+
+
+
 </ul>
 
 <div class="cf"></div>
@@ -11015,23 +10943,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </footer>
 
-  
-<!-- <script src="/assets/js/vendor/modernizr.custom.34164.js"></script> -->
-
-<!--load jQuery, required-->
-<!-- <script src="/assets/vendor/js/jquery-3.1.1.slim.min.js"></script> -->
-
-<!-- <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script> -->
-
-<!-- TYPEKIT -->
-<script src="//use.typekit.net/gwl0zuj.js"></script>
-<!-- <script>try{Typekit.load();}catch(e){}</script> -->
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
-
-<!-- <script src="/assets/js/optin-bar.js"></script> -->
-
-
-<!-- OPTIN DROPDOWN - NO BUTTON TRIGGER -->
+  <!-- OPTIN DROPDOWN - NO BUTTON TRIGGER -->
 <script type="text/javascript">
     function toggle_visibility(id) {
        var e = document.getElementById(id);
@@ -11039,11 +10951,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     }
 </script>
 
-<!-- ISOTYPE -->
-<!-- <script src+"/assets/js/jquery.isotop.js"></script> -->
-
-
-<!-- HIDE DIV -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 <script> 
@@ -11055,19 +10962,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		});
 	});
 </script> 
-
-			
-
-<!-- <script>
-function myFunction() {
-  var x = document.getElementsByClassName("optin4");
-  var i;
-  for (i = 0; i < x.length; i++) {
-      x[i].style.display = "none";
-  }
-}	
-</script> -->
-
 
 <script>
   $(document).ready(function(){
@@ -11083,8 +10977,6 @@ function myFunction() {
     })
   })
 </script>
-
-
 
 <script>
   $(document).ready(function(){
@@ -11109,8 +11001,6 @@ function myFunction() {
   })
 </script>
 
-
-
 <!-- Due to a screw up on my part when I mistyped "corpse" as "corse" in the URL of Start With A Corpse when redirecting from FB, I had to set up a redirect that would automatically take anyone who clicked the post in FB to the correct page. I had to hide the start-with-a-corse story from the short stories TOC. Hence this (probably BAD) code. -->
 <script>
   $(document).ready(function(){
@@ -11130,6 +11020,15 @@ function myFunction() {
 
 
 
-  <!-- include quantcast.html %} -->
+  <!-- MAUTIC TRACKING CODE -->
+<script>
+    (function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n;
+        w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t),
+        m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','http://52.207.249.123/mtc.js','mt');
+
+    mt('send', 'pageview');
+</script>
+
 
 </body>

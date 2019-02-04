@@ -2,11 +2,13 @@
 layout: novelettes 
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef09
+e-guid: 66220d32-888d-4c40-a58b-43252143b468
+k-guid: ab20581a-9630-4117-ad4e-ef0f94c70700
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/candidate-for-death.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/candidate-for-death.epub
 title: "Candidate for Death"
 author: Theodore A. Tinsley
-price: 4.99
+price: $4.99
 pubdate: 2018-11-01 
 opub: All Detective Magazine
 opubdate: March 1933
@@ -20,7 +22,7 @@ tags: short-story, crook, All Detective, Tinsley
 wordcount: 7622
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>
@@ -169,7 +171,7 @@ The story continues &hellip; download your copy today!
 <hr>
 <br>
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

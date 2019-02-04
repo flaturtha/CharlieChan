@@ -6,7 +6,7 @@ k-guid: a6bc0202-0273-4532-873d-94cb777bc7f8
 title: "And Sudden Death"
 author: Cleve F. Adams
 date: 2017-01-05
-price: 4.99
+price: 8.99
 preprice: 
 discount: 33%
 opub: Red Star News Company

@@ -31,14 +31,24 @@
 	});
 </script>
 
-  <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-WWPLNXX');</script>
-  <!-- End Google Tag Manager -->
+<!-- Google Tag Manager (test env) -->
+<!-- <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=Fuff3k-TdmJYNFJ-jwKLqQ&gtm_preview=env-44&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WWPLNXX');</script> -->
+<!-- End Google Tag Manager (test env) -->
 
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+  w[l] = w[l] || []; w[l].push({
+    'gtm.start':
+      new Date().getTime(), event: 'gtm.js'
+  }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-WWPLNXX');</script>
+<!-- End Google Tag Manager -->
 
   <meta name="keywords" content="novella,, England,, kidnapping">
 
@@ -194,23 +204,29 @@
     
     <link rel="alternate" title="Tales of Murder" type="application/json" href="https://www.talesofmurder.com/feed.json" />
 
+    <!-- MAUTIC HEAD CODE ... ONCE PER PAGE -->
+    <script type="text/javascript">
+      /** This section is only needed once per page if manually copying **/
+      if (typeof MauticSDKLoaded == 'undefined') {
+          var MauticSDKLoaded = true;
+          var head            = document.getElementsByTagName('head')[0];
+          var script          = document.createElement('script');
+          script.type         = 'text/javascript';
+          script.src          = 'http://52.207.249.123/media/js/mautic-form.js';
+          script.onload       = function() {
+              MauticSDK.onLoad();
+          };
+          head.appendChild(script);
+          var MauticDomain = 'http://52.207.249.123';
+          var MauticLang   = {
+              'submittingMessage': "Please wait..."
+          }
+      }
+  </script>
+  <script> var formName = 'contactrod'; if (typeof MauticFormCallback == 'undefined') {var MauticFormCallback = {};} MauticFormCallback[formName] = {onValidateStart: function () {document.getElementById('mauticform_input_novelettefreesqueeze').value = document.referrer; }, }; </script>
+  
 
 </head>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <body  id="Killer's Castle"  class="special offer lp">
@@ -254,11 +270,14 @@
       <h2 class="books__author">by <span>George Dilnot</span></h2>
       
 
+      <h3 class="book__price"><span class="strikethru">2.99</span> FREE!<br><span class="small italics">(with subscription)</span></h3>
+      <p class="small">offer good until Febrary 7, 2019</p>
+      
       <p>
         
           <span style="display:block;" class="opub__ss"><em>The Thriller</em> | Feb. 18, 1933 </span>
         
-        <span style="display:block;" class="opub__ss">THE RED FILE |  | </span> <!-- make a link to the issue! -->
+        <span style="display:block;" class="opub__ss hidden">THE RED FILE |  | </span> <!-- make a link to the issue! -->
         <span style="display:block;font-size:0.875rem;">Casefile No: 55ccf75fb3901011515af01b</span>
       </p>
 
@@ -276,31 +295,144 @@
           </span>
         </p>
 
-        <div>
-          <p class="lp_description">Magda Stewart had asked for his help and now she was missing. Could Elver find the girl before it was too late?</p>
+        <div class="" style="border-top:1px solid #8b0000;border-bottom:1px solid #8b0000;padding:0.5rem 0;">
+          <p class="italics"></p>
+
+        
+        </div>
+
+        
+
+        <div class="buttonsdiv" style="">
+		        <div class="book__buttons">
+	            <div class="buttons-etc">
+ <!--  <div class="book__buttons">
+    <button class="snipcart-add-item add-to-cart"
+    data-item-id="55ccf75fb3901011515af01b"
+    data-item-file-guid=""
+    data-item-name="Killer's Castle (ePub edition)"
+    data-item-price="2.99"
+    data-item-url="/special-offers/killers-castle/"
+    data-item-max-quantity="1">
+    BUY EPUB EDITION
+  </button>
+
+  <button class="snipcart-add-item add-to-cart"
+    data-item-id="55ccf75fb3901011515af01b"
+    data-item-file-guid=""
+    data-item-name="Killer's Castle (Kindle edition)"
+    data-item-price="2.99"
+    data-item-url="/special-offers/killers-castle/"
+    data-item-max-quantity="1">
+    BUY KINDLE EDITION
+  </button>
+  </div>  end .book__buttons -->
+  
+  <br>
+
+  <!-- modal trigger for sample download form  -->
+  <p class="modal-trigger add-to-cart_sub"><a href="#openModal">Download <span class="italics">Free</span></a></p>
+    <div id="openModal" class="modalDialog">
+      <div><a href="#close" title="Close" class="close">X</a>
+        <style type="text/css" scoped>
+  @import url(https://fonts.googleapis.com/css?family=Droid+Sans);
+  .mauticform_wrapper { max-width: 600px; margin: 10px auto; font-family: 'Droid Sans', 'Helvetica Neue', 'Arial', 'sans-serif' !important; color: #37302d;}
+  .mauticform-innerform {}
+  .mauticform-post-success {}
+  .mauticform-name { font-weight: bold; font-size: 1.5em; margin-bottom: 3px; }
+  .mauticform-description { margin-top: 2px; margin-bottom: 10px; }
+  .mauticform-error { margin-bottom: 10px; color: red; }
+  .mauticform-message { margin-bottom: 10px;color: green; }
+  .mauticform-row { display: block; margin-bottom: 20px; }
+  .mauticform-label { font-size: 1.1em; display: block; font-weight: bold; margin-bottom: 5px; }
+  .mauticform-row.mauticform-required .mauticform-label:after { color: #e32; content: " *"; display: inline; }
+  .mauticform-helpmessage { display: block; font-size: 0.9em; margin-bottom: 3px; }
+  .mauticform-errormsg { display: block; color: red; margin-top: 2px; }
+  .mauticform-selectbox, .mauticform-input, .mauticform-textarea { width: 100%; padding: 0.5em 0.5em; border: 1px solid #CCC; background: #fff; box-shadow: 0px 0px 0px #fff inset; box-sizing: border-box; }
+  .mauticform-checkboxgrp-row {}
+  .mauticform-checkboxgrp-label { font-weight: normal; }
+  .mauticform-checkboxgrp-checkbox {}
+  .mauticform-radiogrp-row {}
+  .mauticform-radiogrp-label { font-weight: normal; }
+  .mauticform-radiogrp-radio {}
+  .mauticform-button-wrapper .mauticform-button.btn-default { color: #fff;background-color: #008b00;border-color: #008b00;border-radius:3px;}
+  .mauticform-button-wrapper .mauticform-button { display: inline-block;margin-bottom: 0;font-weight: 600;text-align: center;vertical-align: middle;cursor: pointer;background-image: none;border: 1px solid transparent;white-space: nowrap;padding: 8px 16px;font-size: 18px;line-height: 1.3856;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}
+  .mauticform-button-wrapper .mauticform-button.btn-default[disabled] { background-color: #ffffff; border-color: #dddddd;}
+</style>
+
+<div class="email-field">
+  <h1 class="books__title">Killer's Castle</h1>
+  <h2 class="books__author">by George Dilnot</h2>
+  <p class="bold">Enter your name &amp; email address to get your <em>FREE</em> copy of: <span class="bold bloodred uppercase">Killer's Castle</span>.</p>
+  <p class="small">Download links for both ePub &amp; Kindle editions will be sent by email.</p>
+  <p class="small">You'll also receive notifications of new stories and special offers <em>FOR SUBSCRIBERS ONLY</em>!</p>
+</div>
+
+<div id="mauticform_wrapper_novelettefreesqueeze" class="mauticform_wrapper">
+  <form autocomplete="false" role="form" method="post" action="http://52.207.249.123/form/submit?formId=2" id="mauticform_novelettefreesqueeze" data-mautic-form="novelettefreesqueeze" enctype="multipart/form-data">
+      <div class="mauticform-error" id="mauticform_novelettefreesqueeze_error"></div>
+      <div class="mauticform-message" id="mauticform_novelettefreesqueeze_message"></div>
+      <div class="mauticform-innerform">
 
           
-        	
-        	<!-- FB LIKE/SHARE Buttons -->
-<!-- 					<div class="social-buttons">
-					  <div class="fb-like" data-href="https://www.talesofmurder.com" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="false"></div>
-						<div class="tmp_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-size="large"data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-					</div> -->
-      	</div>
-        
-        <div class="buttonsdiv" style="">
-        	
-						
-		          <p class="book__price"><span class="strikethru grey">$2.99</span> $1.49 <span class="prebuy-pitch"> SPECIAL PRICE!</span></p>
-		        
-		        	<!-- <p>You save 50.16722408026756%</p> -->
+        <div class="mauticform-page-wrapper mauticform-page-1" data-mautic-form-page="1">
+
+          <div id="mauticform_novelettefreesqueeze_whats_your_1st_name" email-field data-validate="whats_your_1st_name" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-1 mauticform-required">
+              <label id="mauticform_label_novelettefreesqueeze_whats_your_1st_name" for="mauticform_input_novelettefreesqueeze_whats_your_1st_name" class="mauticform-label">What's your 1st name?</label>
+              <input id="mauticform_input_novelettefreesqueeze_whats_your_1st_name" name="mauticform[whats_your_1st_name]" value="" class="mauticform-input" type="text">
+              <span class="mauticform-errormsg" style="display: none;">This is required.</span>
+          </div>
+
+          <div id="mauticform_novelettefreesqueeze_whats_your_best_email_add" email-field data-validate="whats_your_best_email_add" data-validation-type="email" class="mauticform-row mauticform-email mauticform-field-2 mauticform-required">
+              <label id="mauticform_label_novelettefreesqueeze_whats_your_best_email_add" for="mauticform_input_novelettefreesqueeze_whats_your_best_email_add" class="mauticform-label">What's your best email address?</label>
+              <input id="mauticform_input_novelettefreesqueeze_whats_your_best_email_add" name="mauticform[whats_your_best_email_add]" value="" class="mauticform-input" type="email">
+              <span class="mauticform-errormsg" style="display: none;">This is required.</span>
+          </div>
+
+              <input id="mauticform_input_novelettefreesqueeze_title" name="mauticform[title]" value="Killer's Castle" class="mauticform-hidden" type="hidden">
+              <input id="mauticform_input_novelettefreesqueeze_author" name="mauticform[author]" value="George Dilnot" class="mauticform-hidden" type="hidden">
+              <input id="mauticform_input_novelettefreesqueeze_kdl" name="mauticform[kdl]" value="" class="mauticform-hidden" type="hidden">
+              <input id="mauticform_input_novelettefreesqueeze_edl" name="mauticform[edl]" value="" class="mauticform-hidden" type="hidden">
+              <input id="mauticform_input_novelettefreesqueeze_img" name="mauticform[img]" value="https://www.talesofmurder.com//assets/img/novellas/killers-castle.jpg" class="mauticform-hidden" type="hidden">
+              <input id="mauticform_input_novelettefreesqueeze_series" name="mauticform[series]" value="" class="mauticform-hidden" type="hidden">
+              <input id="mauticform_input_novelettefreesqueeze_genre" name="mauticform[genre]" value="Professional Sleuth" class="mauticform-hidden" type="hidden">
+              <input id="mauticform_input_novelettefreesqueeze_casefilenumber" name="mauticform[casefilenumber]" value="" class="mauticform-hidden" type="hidden">
+              <input id="mauticform_input_novelettefreesqueeze_description" name="mauticform[description]" value="" class="mauticform-hidden" type="hidden">
+          <div id="mauticform_novelettefreesqueeze_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-12">
+              <button type="submit" name="mauticform[submit]" id="mauticform_input_novelettefreesqueeze_submit" value="" class="mauticform-button btn btn-default" style="width:100%;">Get My Download</button>
+          </div>
+          </div>
+      </div>
+
+      <input type="hidden" name="mauticform[formId]" id="mauticform_novelettefreesqueeze_id" value="2">
+      <input type="hidden" name="mauticform[return]" id="mauticform_novelettefreesqueeze_return" value="">
+      <input type="hidden" name="mauticform[formName]" id="mauticform_novelettefreesqueeze_name" value="novelettefreesqueeze">
+
+      <div class="xsmall" style="margin:1rem auto 0;width:300px;max-width:75%">
+        <p><i class="fa fa-lock" aria-hidden="true"></i> Your email address is secure and will only be used to communicate with you from this site. Your data will NEVER be sold, traded, or given away.</p>
+      </div>
+
+      </form>
+</div>
+
+      </div>
+    </div>
+
+  <br>
+
+  <div style="display:flex;flex-direction:row;justify-content:space-around;">
+    <!-- FB LIKE/SHARE Buttons -->
+<div class="social-buttons">
+  <div class="fb-like" data-href="https://www.talesofmurder.com/special-offers/killers-castle/" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="false"></div>
+	<div class="fb-share-button" data-href="https://www.talesofmurder.com/special-offers/killers-castle/" data-layout="button_count" data-size="large" data-mobile-iframe="true"></div>
+	<div class="tmp_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-size="large"data-show-count="true"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+</div>
+
+  </div>
+</div> <!-- end div.buttons-etc -->
+
 		        </div>
-						<br>
-		        <div class="book__buttons">
-	            <a href="https://transactions.sendowl.com/products/587633/B52303B8/purchase" rel="nofollow" class="add-to-cart">BUY NOW</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
-		        </div>
- 	        
-        </div>
+       </div>
 
     </div>
   </section> <!-- end header.offer__top -->
@@ -312,7 +444,7 @@
   </div> -->
 
 	<main class="wrap">
-	  <article  style="margin-top:2rem;">
+	  <article style="margin-top:2rem;">
 	    <div class="toc">
 	<header>
 		<h6>Table of Contents</h6>
@@ -364,58 +496,136 @@
 	  </article>
 	</main>
 
-  <div class="lp-download" id="lp-download">
-    <section class="sns-download-form">
-	<header class="black_header">
-		<h4><em>DOWNLOAD your copy of</em></h4>
-		<p><span class="bold uppercase xlarge">THE MAN WHO WOULD&nbsp;NOT&nbsp;DIE</span</p>
-	</header>
+  <div class="buttonsdiv" style="">
+    <div class="book__buttons" style="margin:0 0 0 2rem;padding-bottom:2rem;">
+      <div class="buttons-etc">
+ <!--  <div class="book__buttons">
+    <button class="snipcart-add-item add-to-cart"
+    data-item-id="55ccf75fb3901011515af01b"
+    data-item-file-guid=""
+    data-item-name="Killer's Castle (ePub edition)"
+    data-item-price="2.99"
+    data-item-url="/special-offers/killers-castle/"
+    data-item-max-quantity="1">
+    BUY EPUB EDITION
+  </button>
 
-	<div class="form-body" style="background-image:url('/assets/img/lp/kc-bg.png');">
-		<img class="" src="/assets/img/short-stories/sns/man-who-would-not-die.jpg" alt="">
-		<div>
-			<p>And get new murder mystery, crime &amp; detective short stories delivered to your inbox <span>3x</span> per week!</p>
-			<p>Plus subscriber-only specials!!</p>
-			<form action="https://www.getdrip.com/forms/2508492/submissions" method="post" class="sns__sample" id="sns__sample" style="width:550px;max-width:95%;margin:0 auto;" data-drip-embedded-form="2508492">
-<!--   <h3>HEADLINE</h3>
-  <div>BODY COPY</div> -->
-  <div>
-    <div class="email-field">
-      <!-- <label for="fields[email]">Email Address</label><br /> -->
-      <input type="email" name="fields[email]" onfocus="if(this.value == 'Your best email address') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Your best email address'; }" value="Your best email address" />
-    </div>
-  </div>
-  <div class="hidden-form-data">
-    <input type="hidden" name="fields[title]" value="Killer's Castle" />
+  <button class="snipcart-add-item add-to-cart"
+    data-item-id="55ccf75fb3901011515af01b"
+    data-item-file-guid=""
+    data-item-name="Killer's Castle (Kindle edition)"
+    data-item-price="2.99"
+    data-item-url="/special-offers/killers-castle/"
+    data-item-max-quantity="1">
+    BUY KINDLE EDITION
+  </button>
+  </div>  end .book__buttons -->
   
-    <input type="hidden" name="fields[author]" value="George Dilnot" />
+  <br>
 
-    <input type="hidden" name="fields[series]" value="" />
+  <!-- modal trigger for sample download form  -->
+  <p class="modal-trigger add-to-cart_sub"><a href="#openModal">Download <span class="italics">Free</span></a></p>
+    <div id="openModal" class="modalDialog">
+      <div><a href="#close" title="Close" class="close">X</a>
+        <style type="text/css" scoped>
+  @import url(https://fonts.googleapis.com/css?family=Droid+Sans);
+  .mauticform_wrapper { max-width: 600px; margin: 10px auto; font-family: 'Droid Sans', 'Helvetica Neue', 'Arial', 'sans-serif' !important; color: #37302d;}
+  .mauticform-innerform {}
+  .mauticform-post-success {}
+  .mauticform-name { font-weight: bold; font-size: 1.5em; margin-bottom: 3px; }
+  .mauticform-description { margin-top: 2px; margin-bottom: 10px; }
+  .mauticform-error { margin-bottom: 10px; color: red; }
+  .mauticform-message { margin-bottom: 10px;color: green; }
+  .mauticform-row { display: block; margin-bottom: 20px; }
+  .mauticform-label { font-size: 1.1em; display: block; font-weight: bold; margin-bottom: 5px; }
+  .mauticform-row.mauticform-required .mauticform-label:after { color: #e32; content: " *"; display: inline; }
+  .mauticform-helpmessage { display: block; font-size: 0.9em; margin-bottom: 3px; }
+  .mauticform-errormsg { display: block; color: red; margin-top: 2px; }
+  .mauticform-selectbox, .mauticform-input, .mauticform-textarea { width: 100%; padding: 0.5em 0.5em; border: 1px solid #CCC; background: #fff; box-shadow: 0px 0px 0px #fff inset; box-sizing: border-box; }
+  .mauticform-checkboxgrp-row {}
+  .mauticform-checkboxgrp-label { font-weight: normal; }
+  .mauticform-checkboxgrp-checkbox {}
+  .mauticform-radiogrp-row {}
+  .mauticform-radiogrp-label { font-weight: normal; }
+  .mauticform-radiogrp-radio {}
+  .mauticform-button-wrapper .mauticform-button.btn-default { color: #fff;background-color: #008b00;border-color: #008b00;border-radius:3px;}
+  .mauticform-button-wrapper .mauticform-button { display: inline-block;margin-bottom: 0;font-weight: 600;text-align: center;vertical-align: middle;cursor: pointer;background-image: none;border: 1px solid transparent;white-space: nowrap;padding: 8px 16px;font-size: 18px;line-height: 1.3856;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}
+  .mauticform-button-wrapper .mauticform-button.btn-default[disabled] { background-color: #ffffff; border-color: #dddddd;}
+</style>
 
-    <input type="hidden" name="fields[genre]" value="Professional Sleuth" />
+<div class="email-field">
+  <h1 class="books__title">Killer's Castle</h1>
+  <h2 class="books__author">by George Dilnot</h2>
+  <p class="bold">Enter your name &amp; email address to get your <em>FREE</em> copy of: <span class="bold bloodred uppercase">Killer's Castle</span>.</p>
+  <p class="small">Download links for both ePub &amp; Kindle editions will be sent by email.</p>
+  <p class="small">You'll also receive notifications of new stories and special offers <em>FOR SUBSCRIBERS ONLY</em>!</p>
+</div>
 
-    <input type="hidden" name="fields[casefilenumber]" value="55ccf75fb3901011515af01b" />
+<div id="mauticform_wrapper_novelettefreesqueeze" class="mauticform_wrapper">
+  <form autocomplete="false" role="form" method="post" action="http://52.207.249.123/form/submit?formId=2" id="mauticform_novelettefreesqueeze" data-mautic-form="novelettefreesqueeze" enctype="multipart/form-data">
+      <div class="mauticform-error" id="mauticform_novelettefreesqueeze_error"></div>
+      <div class="mauticform-message" id="mauticform_novelettefreesqueeze_message"></div>
+      <div class="mauticform-innerform">
 
-    <input type="hidden" name="fields[excerpt]" value="Magda Stewart had asked for his help and now she was missing. Could Elver find the girl before it was too late?" />
+          
+        <div class="mauticform-page-wrapper mauticform-page-1" data-mautic-form-page="1">
 
-    <input type="hidden" name="fields[img]" value="https://www.talesofmurder.com/assets/img/novellas/killers-castle.jpg" />
+          <div id="mauticform_novelettefreesqueeze_whats_your_1st_name" email-field data-validate="whats_your_1st_name" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-1 mauticform-required">
+              <label id="mauticform_label_novelettefreesqueeze_whats_your_1st_name" for="mauticform_input_novelettefreesqueeze_whats_your_1st_name" class="mauticform-label">What's your 1st name?</label>
+              <input id="mauticform_input_novelettefreesqueeze_whats_your_1st_name" name="mauticform[whats_your_1st_name]" value="" class="mauticform-input" type="text">
+              <span class="mauticform-errormsg" style="display: none;">This is required.</span>
+          </div>
 
-    <input type="hidden" name="fields[downloadlink_kindle]" value="" />
+          <div id="mauticform_novelettefreesqueeze_whats_your_best_email_add" email-field data-validate="whats_your_best_email_add" data-validation-type="email" class="mauticform-row mauticform-email mauticform-field-2 mauticform-required">
+              <label id="mauticform_label_novelettefreesqueeze_whats_your_best_email_add" for="mauticform_input_novelettefreesqueeze_whats_your_best_email_add" class="mauticform-label">What's your best email address?</label>
+              <input id="mauticform_input_novelettefreesqueeze_whats_your_best_email_add" name="mauticform[whats_your_best_email_add]" value="" class="mauticform-input" type="email">
+              <span class="mauticform-errormsg" style="display: none;">This is required.</span>
+          </div>
 
-    <input type="hidden" name="fields[downloadlink_epub]" value="" />
+              <input id="mauticform_input_novelettefreesqueeze_title" name="mauticform[title]" value="Killer's Castle" class="mauticform-hidden" type="hidden">
+              <input id="mauticform_input_novelettefreesqueeze_author" name="mauticform[author]" value="George Dilnot" class="mauticform-hidden" type="hidden">
+              <input id="mauticform_input_novelettefreesqueeze_kdl" name="mauticform[kdl]" value="" class="mauticform-hidden" type="hidden">
+              <input id="mauticform_input_novelettefreesqueeze_edl" name="mauticform[edl]" value="" class="mauticform-hidden" type="hidden">
+              <input id="mauticform_input_novelettefreesqueeze_img" name="mauticform[img]" value="https://www.talesofmurder.com//assets/img/novellas/killers-castle.jpg" class="mauticform-hidden" type="hidden">
+              <input id="mauticform_input_novelettefreesqueeze_series" name="mauticform[series]" value="" class="mauticform-hidden" type="hidden">
+              <input id="mauticform_input_novelettefreesqueeze_genre" name="mauticform[genre]" value="Professional Sleuth" class="mauticform-hidden" type="hidden">
+              <input id="mauticform_input_novelettefreesqueeze_casefilenumber" name="mauticform[casefilenumber]" value="" class="mauticform-hidden" type="hidden">
+              <input id="mauticform_input_novelettefreesqueeze_description" name="mauticform[description]" value="" class="mauticform-hidden" type="hidden">
+          <div id="mauticform_novelettefreesqueeze_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-12">
+              <button type="submit" name="mauticform[submit]" id="mauticform_input_novelettefreesqueeze_submit" value="" class="mauticform-button btn btn-default" style="width:100%;">Get My Download</button>
+          </div>
+          </div>
+      </div>
 
-    <input type="submit" name="submit" value="DOWNLOAD" data-drip-attribute="sign-up-button" />
+      <input type="hidden" name="mauticform[formId]" id="mauticform_novelettefreesqueeze_id" value="2">
+      <input type="hidden" name="mauticform[return]" id="mauticform_novelettefreesqueeze_return" value="">
+      <input type="hidden" name="mauticform[formName]" id="mauticform_novelettefreesqueeze_name" value="novelettefreesqueeze">
+
+      <div class="xsmall" style="margin:1rem auto 0;width:300px;max-width:75%">
+        <p><i class="fa fa-lock" aria-hidden="true"></i> Your email address is secure and will only be used to communicate with you from this site. Your data will NEVER be sold, traded, or given away.</p>
+      </div>
+
+      </form>
+</div>
+
+      </div>
+    </div>
+
+  <br>
+
+  <div style="display:flex;flex-direction:row;justify-content:space-around;">
+    <!-- FB LIKE/SHARE Buttons -->
+<div class="social-buttons">
+  <div class="fb-like" data-href="https://www.talesofmurder.com/special-offers/killers-castle/" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="false"></div>
+	<div class="fb-share-button" data-href="https://www.talesofmurder.com/special-offers/killers-castle/" data-layout="button_count" data-size="large" data-mobile-iframe="true"></div>
+	<div class="tmp_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-size="large"data-show-count="true"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+</div>
+
   </div>
+</div> <!-- end div.buttons-etc -->
 
-  <div class="xsmall" style="margin:1rem auto -1rem;width:300px;max-width:95%;">
-    <p><i class="fa fa-lock" aria-hidden="true"></i> Email Address Secured!<br>UNSUBSCRIBE ANYTIME</p>
-  </div>
-</form>
-		</div>
-	</div> <!-- end div.form-body -->
-	
-</section>
-  </div>
+    </div>
+</div>
 
   <footer class="site__footer" id="site__footer">
   <div class="container">
@@ -425,23 +635,7 @@
   </div>
 </footer>
 
-  
-<!-- <script src="/assets/js/vendor/modernizr.custom.34164.js"></script> -->
-
-<!--load jQuery, required-->
-<!-- <script src="/assets/vendor/js/jquery-3.1.1.slim.min.js"></script> -->
-
-<!-- <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script> -->
-
-<!-- TYPEKIT -->
-<script src="//use.typekit.net/gwl0zuj.js"></script>
-<!-- <script>try{Typekit.load();}catch(e){}</script> -->
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
-
-<!-- <script src="/assets/js/optin-bar.js"></script> -->
-
-
-<!-- OPTIN DROPDOWN - NO BUTTON TRIGGER -->
+  <!-- OPTIN DROPDOWN - NO BUTTON TRIGGER -->
 <script type="text/javascript">
     function toggle_visibility(id) {
        var e = document.getElementById(id);
@@ -449,11 +643,6 @@
     }
 </script>
 
-<!-- ISOTYPE -->
-<!-- <script src+"/assets/js/jquery.isotop.js"></script> -->
-
-
-<!-- HIDE DIV -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 <script> 
@@ -465,19 +654,6 @@
 		});
 	});
 </script> 
-
-			
-
-<!-- <script>
-function myFunction() {
-  var x = document.getElementsByClassName("optin4");
-  var i;
-  for (i = 0; i < x.length; i++) {
-      x[i].style.display = "none";
-  }
-}	
-</script> -->
-
 
 <script>
   $(document).ready(function(){
@@ -493,8 +669,6 @@ function myFunction() {
     })
   })
 </script>
-
-
 
 <script>
   $(document).ready(function(){
@@ -518,8 +692,6 @@ function myFunction() {
 
   })
 </script>
-
-
 
 <!-- Due to a screw up on my part when I mistyped "corpse" as "corse" in the URL of Start With A Corpse when redirecting from FB, I had to set up a redirect that would automatically take anyone who clicked the post in FB to the correct page. I had to hide the start-with-a-corse story from the short stories TOC. Hence this (probably BAD) code. -->
 <script>

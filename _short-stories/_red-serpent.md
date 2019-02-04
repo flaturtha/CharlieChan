@@ -1,5 +1,5 @@
 ---
-layout: sns
+layout: post
 layoutTag: premium_post
 casefileNumber: 55ccf75fb3901011515aefef
 title: "The Red Serpent"

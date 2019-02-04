@@ -2019,7 +2019,6 @@ ol ol li:last-child {
           border-radius: 5px;
   font-size: 1rem;
   padding: 0.625rem 1.25rem;
-  width: 90%;
   margin: 0 auto !important;
   text-align: center;
   background-color: #0054a6;
@@ -2133,7 +2132,6 @@ ol ol li:last-child {
   color: #999; }
 
 .testimonials {
-  border: 1px solid #8B0000;
   margin: 1rem;
   padding: 0.5rem;
   font-weight: bold;
@@ -2419,13 +2417,37 @@ ol ol li:last-child {
 /*=============================================
 =    DOWNLOADS PAGE            								=
 =============================================*/
+@-webkit-keyframes flash {
+  from {
+    background-color: #8B0000; }
+  to {
+    background-color: #fffff0; } }
+@keyframes flash {
+  from {
+    background-color: #8B0000; }
+  to {
+    background-color: #fffff0; } }
+
 .dwn-ty-bar {
   background-color: #8B0000;
   color: #fffff0;
-  padding: 0.75rem 0 0.05rem 0;
+  margin-top: 6.5rem;
+  padding: 1rem 1rem 0.5rem 1rem;
   text-align: center;
   font-size: 1.25rem;
-  font-weight: bold; }
+  font-weight: bold;
+  -webkit-animation-name: flash;
+          animation-name: flash;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
+  -webkit-animation-iteration-count: 2;
+          animation-iteration-count: 2;
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s; }
+  @media screen and (min-width: 400px) {
+    .dwn-ty-bar {
+      margin-top: 0;
+      padding: 0.75rem 0 0.05rem 0; } }
   .dwn-ty-bar span {
     font-size: 1rem;
     font-weight: normal; }
@@ -3305,6 +3327,192 @@ ol ol li:last-child {
     max-width: 100px;
     -webkit-box-shadow: 3px 4px 2px #474F55;
             box-shadow: 3px 4px 2px #474F55; }
+
+/*=============================================
+=    EPO LIBRARY OFFER         								=
+=============================================*/
+.epo-offer {
+  max-width: 90%;
+  margin-top: 2rem; }
+  @media screen and (min-width: 400px) {
+    .epo-offer {
+      max-width: 960px; } }
+  .epo-offer p {
+    font-size: 18px; }
+  .epo-offer header {
+    border-bottom: 2px solid #8B0000;
+    margin-bottom: 3rem; }
+  .epo-offer .preheader {
+    margin: 0 auto;
+    text-align: center;
+    color: gray;
+    font-size: 1rem; }
+  .epo-offer .main-headline {
+    font-weight: bold;
+    text-align: center; }
+  .epo-offer .subheadline {
+    font-size: 1.5rem;
+    text-align: center;
+    padding-bottom: 2rem; }
+
+hr.break {
+  border: 1px solid #8B0000;
+  margin: 2rem auto;
+  max-width: 50%; }
+
+.flip {
+  display: inline-block;
+  color: #fffff0;
+  background-color: #242424;
+  margin: 0 0.25rem;
+  padding: 0 0.5rem;
+  -webkit-transform: rotate(5deg);
+      -ms-transform: rotate(5deg);
+          transform: rotate(5deg);
+  -webkit-box-shadow: 2px 2px lightgray;
+          box-shadow: 2px 2px lightgray; }
+
+p.first {
+  font-size: 1.25rem;
+  font-weight: bold; }
+
+.booklist {
+  margin: 2rem auto;
+  border: 1px solid #8B0000; }
+  @media screen and (min-width: 400px) {
+    .booklist {
+      padding: 1rem;
+      max-width: 75%; } }
+  .booklist h3 {
+    text-align: center;
+    font-size: 1.25rem;
+    background-color: #8B0000;
+    color: #fffff0;
+    padding: 0.5rem 0; }
+  .booklist ol, .booklist ul {
+    display: block;
+    list-style-type: disc;
+    padding: 2rem; }
+    .booklist ol li, .booklist ul li {
+      text-transform: uppercase; }
+
+.epo {
+  border: 2px dashed #8B0000;
+  background-color: #F9F9DF;
+  width: 100%;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  text-align: center; }
+
+.epo-buttons {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column; }
+  .epo-buttons button {
+    width: 100%;
+    margin: 1rem 0; }
+  @media screen and (min-width: 575px) {
+    .epo-buttons {
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: row;
+          -ms-flex-direction: row;
+              flex-direction: row; }
+      .epo-buttons button {
+        margin: 0 1rem; } }
+
+.testimonial {
+  max-width: 90%;
+  background-color: #242424;
+  color: #fffff0;
+  margin: 0 auto;
+  padding: 1rem; }
+  .testimonial span {
+    font-size: 1.25rem;
+    font-weight: bold;
+    padding: 0 0.5rem; }
+
+.fullprice {
+  color: #8B0000;
+  font-weight: bold;
+  font-size: 1.25rem;
+  font-style: italic; }
+
+.subtext {
+  font-size: 0.875rem !important;
+  color: #575757;
+  text-align: center;
+  max-width: 50%;
+  margin-bottom: 2rem !important;
+  font-style: italic; }
+
+.benefits, .youget {
+  display: block;
+  list-style-type: disc;
+  margin: 2rem; }
+  @media screen and (min-width: 400px) {
+    .benefits, .youget {
+      margin: 2rem 0 2rem 5rem; } }
+  .benefits li, .youget li {
+    padding: .5rem; }
+
+.youget {
+  margin-top: -1rem; }
+
+.magazinelogos {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 2rem auto; }
+  @media screen and (min-width: 400px) {
+    .magazinelogos {
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: row;
+          -ms-flex-direction: row;
+              flex-direction: row;
+      -webkit-box-pack: justify;
+      -webkit-justify-content: space-between;
+          -ms-flex-pack: justify;
+              justify-content: space-between; } }
+  .magazinelogos img {
+    width: 200px;
+    height: auto;
+    padding: 1rem; }
+    @media screen and (min-width: 400px) {
+      .magazinelogos img {
+        padding: 0; } }
+
+.library-cover {
+  display: block;
+  width: 400px;
+  max-width: 90%;
+  height: auto;
+  margin: 2rem auto; }
+
+.narrow {
+  width: 600px;
+  max-width: 90%;
+  margin-left: 1rem; }
+  @media screen and (min-width: 48rem) {
+    .narrow {
+      margin-left: 3rem; } }
 
 /*==========  LAYOUT  ==========*/
 /*=============================================
@@ -4249,9 +4457,8 @@ p {
       display: inline-block;
       margin: 1rem -2rem 1rem 1rem;
       background: url("/assets/img/site/logo_mobile_f0.png") no-repeat;
-      background-size: contain;
-      height: 50px;
-      width: 70%; }
+      height: 45px;
+      width: 30px; }
       .nav .main-nav a.logo span {
         margin-left: -9999px; }
       .nav .main-nav a.logo:hover {
@@ -4259,8 +4466,9 @@ p {
       @media screen and (min-width: 48rem) {
         .nav .main-nav a.logo {
           background: url("/assets/img/site/atticus_fffff0.svg") no-repeat;
-          height: 45px;
-          width: 30px; } }
+          /* logo_mobile_f0.png */
+          background-size: contain;
+          background-position-x: 50%; } }
       @media screen and (min-width: 64rem) {
         .nav .main-nav a.logo {
           margin-right: 5rem; } }

@@ -7,7 +7,7 @@ kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/black-shadows.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/black-shadows.epub  
 title: "Black Shadows"
 author: J. C. Kofoed
-price: 2.99
+price: 4.99
 opub: The Black Mask
 opubdate: Sep. 1922
 opubissue: Vol. 1, No. 6
@@ -18,8 +18,26 @@ descriptive: "Murder: for Money or Revenge"
 description: "When old man Guerney is found murdered in his locked study, then the prime suspect and a mysterious tattooed man are also found murdered, newspaperman Johnny Suggs is determined to prove Mildred Guerney's innocense and prove himself to his father."
 tags: novella, noir, murder, revenge, "J. C. Kofoed"
 image: /assets/img/novellas/black-shadows.jpg
+cover-img: /assets/img/novellas/black-shadows.jpg
 wordcount: 13469
 ---
+
+<div class="lp__toc">
+	<header>
+		<h6>Table of Contents</h6>
+	</header>
+
+	<ol>
+		<li>Something’s Wrong</li>
+		<li>An Impression Of The Lock</li>
+		<li>A Mysterious Note From Bradley</li>
+		<li>Two Dead Men</li>
+		<li>Bradley’s Denial</li>
+		<li>The Chauffer’s Alibi</li>
+		<li>Guerney’s Daughter</li>
+	</ol>
+
+</div>
 
 ### Chapter 1
 {: .chapternumber }
@@ -51,19 +69,4 @@ The story continues &hellip; download it today and find out "what could be wrong
 <hr>
 <br>
 
-<div class="toc">
-	<header>
-		<h6>Table of Contents</h6>
-	</header>
 
-	<ol>
-		<li>Something’s Wrong</li>
-		<li>An Impression Of The Lock</li>
-		<li>A Mysterious Note From Bradley</li>
-		<li>Two Dead Men</li>
-		<li>Bradley’s Denial</li>
-		<li>The Chauffer’s Alibi</li>
-		<li>Guerney’s Daughter</li>
-	</ol>
-
-</div>

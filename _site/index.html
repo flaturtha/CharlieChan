@@ -29,14 +29,24 @@
 	});
 </script>
 
-  <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-WWPLNXX');</script>
-  <!-- End Google Tag Manager -->
+<!-- Google Tag Manager (test env) -->
+<!-- <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=Fuff3k-TdmJYNFJ-jwKLqQ&gtm_preview=env-44&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WWPLNXX');</script> -->
+<!-- End Google Tag Manager (test env) -->
 
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+  w[l] = w[l] || []; w[l].push({
+    'gtm.start':
+      new Date().getTime(), event: 'gtm.js'
+  }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-WWPLNXX');</script>
+<!-- End Google Tag Manager -->
 
   
 
@@ -187,31 +197,43 @@
     
     <link rel="alternate" title="Tales of Murder" type="application/json" href="https://www.talesofmurder.com/feed.json" />
 
+    <!-- MAUTIC HEAD CODE ... ONCE PER PAGE -->
+    <script type="text/javascript">
+      /** This section is only needed once per page if manually copying **/
+      if (typeof MauticSDKLoaded == 'undefined') {
+          var MauticSDKLoaded = true;
+          var head            = document.getElementsByTagName('head')[0];
+          var script          = document.createElement('script');
+          script.type         = 'text/javascript';
+          script.src          = 'http://52.207.249.123/media/js/mautic-form.js';
+          script.onload       = function() {
+              MauticSDK.onLoad();
+          };
+          head.appendChild(script);
+          var MauticDomain = 'http://52.207.249.123';
+          var MauticLang   = {
+              'submittingMessage': "Please wait..."
+          }
+      }
+  </script>
+  <script> var formName = 'contactrod'; if (typeof MauticFormCallback == 'undefined') {var MauticFormCallback = {};} MauticFormCallback[formName] = {onValidateStart: function () {document.getElementById('mauticform_input_novelettefreesqueeze').value = document.referrer; }, }; </script>
+  
 
 </head>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <body  id="Home"  class="home">
 
-	<!-- Google Tag Manager (noscript) -->
+	<!-- Google Tag Manager (noscript) (test env) -->
+<!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWPLNXX&gtm_auth=Fuff3k-TdmJYNFJ-jwKLqQ&gtm_preview=env-44&gtm_cookies_win=x"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
+<!-- End Google Tag Manager (noscript) (test env ) -->
+
+
+<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWPLNXX"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
   <header class="header" role="banner">
 
@@ -244,7 +266,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <label for="nav">Menu</label>
     <ul>
       <li><a  class="active"  href="/"><span>Home</span></a></li>
-      <!-- <li><a  href="/start-here"/><span class="bg-start-here">Start Here</span></a></li> --> <!-- removed until page redone -->
+      <li><a  href="/start-here"/><span class="bg-start-here">Start Here</span></a></li>
       <li><a  href="/murderwiki/"><span>MurderWiki</span></a></li>
       <li><a  href="/short-stories/"><span>Short Stories</span></a></li>
       <!-- <li><a  href="/novelettes/"><span>Novelettes</span></a></li>  --> <!-- temporarily removed from menu on 1.24.19 until rolled over to Mautic -->
@@ -316,13 +338,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h3 class="author"><span>by</span> Major A. F. Grant</h3>
           </div>
           <div class="price">
-            <p>$4.99</p>
+            <p>$8.99</p>
           </div>
         </div>
         <p class="excerpt">Old Search is up against his most dangerous foe ... the Thugs of Gotham and their ruthless use of the strangler's cord! What dark plot leads to kidnapping and murder?</p>
         <!-- <p class="excerpt"></p> -->
         
-        <button class="buybutton"><a href="/novels/old-search-and-the-stranglers/" style="color:#fffff0;">BUY</a></button>
+        <button class="buybutton"><a href="/novels/old-search-and-the-stranglers/" style="color:#fffff0;">READ SAMPLE</a></button>
 
       </li>
 
@@ -338,13 +360,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h3 class="author"><span>by</span> Old Ironnerve, Jr.</h3>
           </div>
           <div class="price">
-            <p>$4.99</p>
+            <p>$8.99</p>
           </div>
         </div>
         <p class="excerpt">When master detective, Foster King, is called in to investigate peculiar events at the Central-Midland Bank, he finds more than simple embezzlement, he finds a mind capable of controlling others and forcing them to do his bidding. Can Old Ironnerve outwit this mysterious hypnotist and bring a murderer to justice?</p>
         <!-- <p class="excerpt"></p> -->
         
-        <button class="buybutton"><a href="/novels/back-from-the-dead/" style="color:#fffff0;">BUY</a></button>
+        <button class="buybutton"><a href="/novels/back-from-the-dead/" style="color:#fffff0;">READ SAMPLE</a></button>
 
       </li>
 
@@ -359,7 +381,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="hp__novellas wrap">
     <header>
       <h2>NOVELLAS</h2>
-      <a class="hp__link" href="/novellas">Browse <span class="bold">6</span> Novellas &raquo;</a>
+      <a class="hp__link" href="/novellas">Browse <span class="bold">5</span> Novellas &raquo;</a>
     </header>
  
     <ul class="cards__small">
@@ -370,7 +392,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
         <a href="/novellas/rough-house/" class="readmore">
           <figure>
-            <img src="/assets/img/novellas/rough-house.jpg" alt="Rough House by " />
+            <img src="/assets/img/novellas/rough-house.jpg" alt="Rough House by Berkeley Gray" />
           </figure>
           <figcaption>
             
@@ -379,14 +401,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="card__small__header">
           <div>
             <h2 class="title">Rough House</h2>
-            <h3 class="author"><span>by</span> </h3>
+            <h3 class="author"><span>by</span> Berkeley Gray</h3>
           </div>
           <div class="price">
-            <p>$3.99</p>
+            <p>$7.99</p>
           </div>
         </div>
-          <p class="excerpt">He was warned ... by Conquest. He took no notice until Rubber Face came. --- Then, it was TOO LATE!</p>
-          <button class="buybutton"><a href="/novellas/rough-house/" style="color:#fffff0;">BUY</a></button>
+          <p class="excerpt">He was warned ... by Conquest. He took no notice until Rubber Face came. &mdash; Then, it was TOO LATE!</p>
+          <button class="buybutton"><a href="/novellas/rough-house/" style="color:#fffff0;">READ SAMPLE</a></button>
 
       </li>
 
@@ -408,11 +430,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h3 class="author"><span>by</span> A Dixon Hawke Mystery</h3>
           </div>
           <div class="price">
-            <p>$3.99</p>
+            <p>$7.99</p>
           </div>
         </div>
           <p class="excerpt">Five victims. Seemingly unconnected. Can Dixon Hawke uncover the truth behind the <em>"Night of Terror"</em>?</p>
-          <button class="buybutton"><a href="/novellas/five-who-saw-too-much/" style="color:#fffff0;">BUY</a></button>
+          <button class="buybutton"><a href="/novellas/five-who-saw-too-much/" style="color:#fffff0;">READ SAMPLE</a></button>
 
       </li>
 
@@ -434,11 +456,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h3 class="author"><span>by</span> G. T. Fleming-Roberts</h3>
           </div>
           <div class="price">
-            <p>$3.99</p>
+            <p>$7.99</p>
           </div>
         </div>
           <p class="excerpt">Hunted by the police ... framed for robbery and murder by the Eye, master fiend and vicious ruler of the underworld ... loathed by Barbara Sutton the girl who loves him ... the BLACK HOOD had to face the blazing purgatory of this murder master's guns to win back Barbara's love and clear himself of the framed charges.</p>
-          <button class="buybutton"><a href="/novellas/whispering-eye/" style="color:#fffff0;">BUY</a></button>
+          <button class="buybutton"><a href="/novellas/whispering-eye/" style="color:#fffff0;">READ SAMPLE</a></button>
 
       </li>
 
@@ -458,7 +480,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="hp__short-stories wrap">
     <header>
       <h2>SHORT STORIES</h2>
-      <a class="hp__link" href="/short-stories">Browse <span class="bold">226</span> Short Stories &raquo;</a>
+      <a class="hp__link" href="/short-stories">Browse <span class="bold">224</span> Short Stories &raquo;</a>
     </header>
 
     <ul class="cards__small">
@@ -487,7 +509,36 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- <div class="price">
           <p>$</p>
         </div> -->
-        <a href="/short-stories/why-women-read-detective-stories/" style="color:#fffff0;"><button class="buybutton">READ</button></a>
+        <a href="/short-stories/why-women-read-detective-stories/" style="color:#fffff0;"><button class="buybutton">READ ONLINE</button></a>
+        <!-- <p class="buybutton">Buy</p> -->
+
+      </li>
+
+    
+
+      <li class="card__small">
+        
+        <!-- <h4 class="xsmall"><span style="float:right;background-color:#8b0000;color:#fffff0;padding:3px;margin:3px;"></span></h4> -->
+
+        
+        <a href="/short-stories/suave-talker-robs-passengers-on-train/" class="readmore">
+        
+          
+            <div class="placeholder"></div>
+          
+        </a>
+
+        <h2 class="title"></h2>
+        <h3 class="author">
+          
+            
+          
+        </h3>
+        <p class="excerpt"></p>
+        <!-- <div class="price">
+          <p>$</p>
+        </div> -->
+        <a href="/short-stories/suave-talker-robs-passengers-on-train/" style="color:#fffff0;"><button class="buybutton">READ ONLINE</button></a>
         <!-- <p class="buybutton">Buy</p> -->
 
       </li>
@@ -516,7 +567,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- <div class="price">
           <p>$</p>
         </div> -->
-        <a href="/short-stories/dead-are-quick/" style="color:#fffff0;"><button class="buybutton">READ</button></a>
+        <a href="/short-stories/dead-are-quick/" style="color:#fffff0;"><button class="buybutton">READ ONLINE</button></a>
         <!-- <p class="buybutton">Buy</p> -->
 
       </li>
@@ -545,36 +596,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- <div class="price">
           <p>$</p>
         </div> -->
-        <a href="/short-stories/a-bachelor-in-the-making/" style="color:#fffff0;"><button class="buybutton">READ</button></a>
-        <!-- <p class="buybutton">Buy</p> -->
-
-      </li>
-
-    
-
-      <li class="card__small" id="robbery">
-        
-        <!-- <h4 class="xsmall"><span style="float:right;background-color:#8b0000;color:#fffff0;padding:3px;margin:3px;">Mon, Dec 17, 2018</span></h4> -->
-
-        
-        <a href="/short-stories/suave-talker-robs-passengers-on-train/" class="readmore">
-        
-          
-            <div style="background-image:url(' /assets/img/short-stories/suave-talker.png ');background-repeat:no-repeat;background-position:center;background-size:contain;height:375px"></div>
-          
-        </a>
-
-        <h2 class="title">Suave Talker Robs Passengers On Train</h2>
-        <h3 class="author">
-          
-            
-          
-        </h3>
-        <p class="excerpt">A true crime story of train robbery ... and unexpected charm!</p>
-        <!-- <div class="price">
-          <p>$</p>
-        </div> -->
-        <a href="/short-stories/suave-talker-robs-passengers-on-train/" style="color:#fffff0;"><button class="buybutton">READ</button></a>
+        <a href="/short-stories/a-bachelor-in-the-making/" style="color:#fffff0;"><button class="buybutton">READ ONLINE</button></a>
         <!-- <p class="buybutton">Buy</p> -->
 
       </li>
@@ -603,7 +625,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- <div class="price">
           <p>$</p>
         </div> -->
-        <a href="/short-stories/on-the-eighth-tee/" style="color:#fffff0;"><button class="buybutton">READ</button></a>
+        <a href="/short-stories/on-the-eighth-tee/" style="color:#fffff0;"><button class="buybutton">READ ONLINE</button></a>
         <!-- <p class="buybutton">Buy</p> -->
 
       </li>
@@ -632,7 +654,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- <div class="price">
           <p>$</p>
         </div> -->
-        <a href="/short-stories/four-footed-vengeance/" style="color:#fffff0;"><button class="buybutton">READ</button></a>
+        <a href="/short-stories/four-footed-vengeance/" style="color:#fffff0;"><button class="buybutton">READ ONLINE</button></a>
         <!-- <p class="buybutton">Buy</p> -->
 
       </li>
@@ -663,7 +685,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h2 class="title">The Complete History of the Mystery</h2>
         <h3 class="author"><span>by</span> R. Cook</h3>
         <p class="excerpt">From the earliest versions of the mystery story through the modern age, the mystery story has evo...</p>
-        <button class="buybutton"><a href="/murderwiki/complete-history-of-the-mystery/" style="color:#fffff0;">READ</a></button>
+        <button class="buybutton"><a href="/murderwiki/complete-history-of-the-mystery/" style="color:#fffff0;">READ ONLINE</a></button>
         <!-- <p class="buybutton">Buy</p> -->
 
       </li>
@@ -677,7 +699,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h2 class="title">The Eternal Curious &amp; the Literature of the Mystery</h2>
         <h3 class="author"><span>by</span> Carolyn Wells</h3>
         <p class="excerpt">Why is the detective story? To entertain, to interest, to amuse. It has no deeper intent, no more...</p>
-        <button class="buybutton"><a href="/murderwiki/eternal-curious-and-the-literature-of-the-mystery/" style="color:#fffff0;">READ</a></button>
+        <button class="buybutton"><a href="/murderwiki/eternal-curious-and-the-literature-of-the-mystery/" style="color:#fffff0;">READ ONLINE</a></button>
         <!-- <p class="buybutton">Buy</p> -->
 
       </li>
@@ -691,7 +713,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h2 class="title">Ghost Stories</h2>
         <h3 class="author"><span>by</span> Carolyn Wells</h3>
         <p class="excerpt">The fascination of this realm of experience, which is traditional from age to age, yet always elu...</p>
-        <button class="buybutton"><a href="/murderwiki/ghost-stories/" style="color:#fffff0;">READ</a></button>
+        <button class="buybutton"><a href="/murderwiki/ghost-stories/" style="color:#fffff0;">READ ONLINE</a></button>
         <!-- <p class="buybutton">Buy</p> -->
 
       </li>
@@ -705,7 +727,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h2 class="title">History of the Mystery &amp; Riddle Stories</h2>
         <h3 class="author"><span>by</span> Carolyn Wells</h3>
         <p class="excerpt">To trace the origin and history of the mystery story is simply to trace the origin and history of...</p>
-        <button class="buybutton"><a href="/murderwiki/history-and-riddle-stories/" style="color:#fffff0;">READ</a></button>
+        <button class="buybutton"><a href="/murderwiki/history-and-riddle-stories/" style="color:#fffff0;">READ ONLINE</a></button>
         <!-- <p class="buybutton">Buy</p> -->
 
       </li>
@@ -719,7 +741,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h2 class="title">Taxonomy of the Mystery</h2>
         <h3 class="author"><span>by</span> R. Cook</h3>
         <p class="excerpt">Amateur or professional sleuth, cozy, Golden Age, noir, hardboiled ... these are more than just t...</p>
-        <button class="buybutton"><a href="/murderwiki/taxonomy-of-the-mystery/" style="color:#fffff0;">READ</a></button>
+        <button class="buybutton"><a href="/murderwiki/taxonomy-of-the-mystery/" style="color:#fffff0;">READ ONLINE</a></button>
         <!-- <p class="buybutton">Buy</p> -->
 
       </li>
@@ -733,7 +755,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h2 class="title">The Detective</h2>
         <h3 class="author"><span>by</span> Carolyn Wells</h3>
         <p class="excerpt">The all-important character of the Detective Story is, of course, the Detective. He is not only t...</p>
-        <button class="buybutton"><a href="/murderwiki/the-detective/" style="color:#fffff0;">READ</a></button>
+        <button class="buybutton"><a href="/murderwiki/the-detective/" style="color:#fffff0;">READ ONLINE</a></button>
         <!-- <p class="buybutton">Buy</p> -->
 
       </li>
@@ -761,23 +783,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </footer>
 
-  
-<!-- <script src="/assets/js/vendor/modernizr.custom.34164.js"></script> -->
-
-<!--load jQuery, required-->
-<!-- <script src="/assets/vendor/js/jquery-3.1.1.slim.min.js"></script> -->
-
-<!-- <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script> -->
-
-<!-- TYPEKIT -->
-<script src="//use.typekit.net/gwl0zuj.js"></script>
-<!-- <script>try{Typekit.load();}catch(e){}</script> -->
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
-
-<!-- <script src="/assets/js/optin-bar.js"></script> -->
-
-
-<!-- OPTIN DROPDOWN - NO BUTTON TRIGGER -->
+  <!-- OPTIN DROPDOWN - NO BUTTON TRIGGER -->
 <script type="text/javascript">
     function toggle_visibility(id) {
        var e = document.getElementById(id);
@@ -785,11 +791,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     }
 </script>
 
-<!-- ISOTYPE -->
-<!-- <script src+"/assets/js/jquery.isotop.js"></script> -->
-
-
-<!-- HIDE DIV -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 <script> 
@@ -801,19 +802,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		});
 	});
 </script> 
-
-			
-
-<!-- <script>
-function myFunction() {
-  var x = document.getElementsByClassName("optin4");
-  var i;
-  for (i = 0; i < x.length; i++) {
-      x[i].style.display = "none";
-  }
-}	
-</script> -->
-
 
 <script>
   $(document).ready(function(){
@@ -829,8 +817,6 @@ function myFunction() {
     })
   })
 </script>
-
-
 
 <script>
   $(document).ready(function(){
@@ -854,8 +840,6 @@ function myFunction() {
 
   })
 </script>
-
-
 
 <!-- Due to a screw up on my part when I mistyped "corpse" as "corse" in the URL of Start With A Corpse when redirecting from FB, I had to set up a redirect that would automatically take anyone who clicked the post in FB to the correct page. I had to hide the start-with-a-corse story from the short stories TOC. Hence this (probably BAD) code. -->
 <script>

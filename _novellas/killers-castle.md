@@ -5,7 +5,7 @@ e-guid: df820af4-aef1-42c4-b4bc-1dcc98655dea
 k-guid: f4b7f6d6-e3bb-4bbb-94fe-81529f335dab
 title: "Killers' Castle"
 author: George Dilnot
-price: 2.99
+price: 6.99
 opub: The Thriller
 opubdate: Feb. 18, 1933
 opubissue:

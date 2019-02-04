@@ -6,7 +6,7 @@ k-guid: 945e5d8f-ef3b-447a-a62a-77d678ce3dab
 title: "Into the Heart of Australia"
 subtitle: "OR, A Strange Bargain and Its Consequences"
 author: "the author of OLD BROADBRIM"
-price: 4.99
+price: 8.99
 opub: Old Broadbrim Weekly
 opubdate: May 9, 1903
 pubdate: 2018-08-14

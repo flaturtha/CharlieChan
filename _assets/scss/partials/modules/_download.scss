@@ -1,14 +1,28 @@
 /*=============================================
 =    DOWNLOADS PAGE            								=
 =============================================*/
+@keyframes flash {
+	from {background-color: $acolor;}
+	to {background-color: $paper;}
+}
+
 
 .dwn-ty-bar {
   background-color: $acolor;
-  color: $paper;
-  padding: 0.75rem 0 0.05rem 0;
+	color: $paper;
+	margin-top: 6.5rem;
+	padding: 1rem 1rem 0.5rem 1rem;
   text-align: center;
   font-size: 1.25rem;
-  font-weight: bold;
+	font-weight: bold;
+	animation-name: flash;
+	animation-duration: 0.5s;
+	animation-iteration-count: 2;
+	animation-delay: 1s;
+	@media screen and (min-width: 400px){
+		margin-top: 0;
+		padding: 0.75rem 0 0.05rem 0;
+	}
   span {
     font-size: 1rem;
     font-weight: normal;

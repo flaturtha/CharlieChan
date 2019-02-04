@@ -2,11 +2,13 @@
 layout: novelettes 
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef0b
+e-guid: dbcbb9e1-3932-4ab3-929b-8c6822ed27ce
+k-guid: ecf8051c-5ac9-4e3f-9bfb-a7020a0b9199
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/demons-of-snake-swamp.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/demons-of-snake-swamp.epub
 title: "Demons of Snake Swamp"
 author: Anthony Pelcher
-price: 2.99
+price: 4.99
 pubdate: 2018-10-11
 opub: All Star Detective
 opubdate: Dec. 1930
@@ -22,7 +24,7 @@ tag: short-story
 wordcount: 7071
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>
@@ -74,7 +76,7 @@ The story continues &hellip; download your copy today!
 <hr>
 <br>
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

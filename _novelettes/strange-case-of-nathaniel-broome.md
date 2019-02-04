@@ -1,5 +1,5 @@
 ---
-layout: novelettes
+layout: lp2 
 casefileNumber: 55ccf75fb3901011515aef2f 
 e-guid: a02025c5-120f-446d-9021-27ffcaca5761
 k-guid: c50a3e37-6406-4f33-b976-27f3f63f739e
@@ -15,11 +15,13 @@ pubdate: 2018-12-13
 category: novelettes
 genre: Paranormal Mystery 
 description: "When a new neighbor moves into a vacant room in Mrs. Muzzard’s rooming house, can Scrimgeour unravel the mysterious events of Nathaniel Broome’s life before the evil spreads to a new generation?"
+cover-img: /assets/img/novelettes/strange-case-of-nathaniel-broome.jpg
 image: /assets/img/novelettes/strange-case-of-nathaniel-broome.jpg
+/* bg-image: /assets/img/novelettes/strange-case-of-nathaniel-broome_bg.jpg */
 wordcount: 13469
 ---
 
-<div class="toc">
+<div class="lp__toc"> <!-- change back to class="lp__toc" when layout changes to novelettes -->
 	<header>
 		<h6>Table of Contents</h6>
 	</header>
@@ -95,12 +97,12 @@ His reply came to me in a deep, resonant voice, soft and almost tender. There wa
 A most unaccountable feeling came over me as I brushed past him; something from the inscrutable alchemy of an unusual personality. I felt like a little child that had got lost in an empty house.
 
 The story continues &hellip; download it today!
-{: .tobecontinued }
+{: .tobecontinued .center .uppercase .italics }
 
-<hr>
+
 <br>
 
-<div class="toc">
+<div class="toc hidden">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

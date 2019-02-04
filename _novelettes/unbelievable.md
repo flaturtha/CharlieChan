@@ -1,6 +1,8 @@
 ---
 layout: novelettes 
 casefileNumber: 55ccf75fb3901011515aef34
+e-guid: 81a9274f-4759-469e-8236-283e399954dc
+k-guid: 7084b31c-4c85-44dc-90e9-d9bee9a53adb
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/unbelievable.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/unbelievable.epub 
 title: "The Unbelievable"
@@ -13,6 +15,7 @@ price: 4.99
 category: novelettes 
 description: "\"Then how,\" the coroner leaned over the desk to ask the question, \"do you account for the undeniable fact that your fingerprints are on the handle of the dagger?\""
 tease: "The Chinese detective Song Kee saw things the American detectives couldn't ... or wouldn't!"
+cover-img: /assets/img/novelettes/unbelievable.jpg
 image: /assets/img/novelettes/unbelievable.jpg
 fb-image: /assets/img/novelettes/unbelievable_fb.jpg
 imgh: 500px
@@ -21,7 +24,7 @@ tag: short-story
 wordcount: 7978
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>
@@ -166,7 +169,7 @@ The story continues &hellip; download it today!
 <hr>
 <br>
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

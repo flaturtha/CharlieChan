@@ -5,7 +5,7 @@ e-guid:
 k-guid:
 title: "Vacation With Murder"
 author: Roger Torrey 
-price: 3.99
+price: 7.99
 opub: Private Detective Stories
 opubdate: March 1939
 opubissue: Vol. 4, No. 4

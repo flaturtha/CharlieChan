@@ -1,6 +1,8 @@
 ---
 layout: novelettes 
 casefileNumber: 55ccf75fb3901011515aef02
+e-guid: a68ce46b-0d63-4c0e-b2b1-3a5b1c2891f0
+k-guid: ac8719c5-ea81-4ac1-9155-a002c56928b9
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/gunning-for-death.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/gunning-for-death.epub
 title: "Gunning for Death"
@@ -20,7 +22,7 @@ genre: F.B.I.
 wordcount: 7880
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>
@@ -152,7 +154,7 @@ The story continues &hellip; download your copy today!
 <hr>
 <br>
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

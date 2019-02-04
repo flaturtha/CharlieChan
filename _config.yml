@@ -94,7 +94,7 @@ markdown: kramdown
 highligher: rouge
 
 plugins:
-  - jekyll-sitemap
+  #  - jekyll-sitemap
   # - jekyll-seo-tag
   # - jekyll-feed /* doesn't work for collections, only posts; which is STOOPID */
 

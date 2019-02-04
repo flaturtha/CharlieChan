@@ -5,7 +5,7 @@ e-guid: cf3cd0d3-61cc-4a2f-ae42-dbcf82445890
 k-guid: 1e708c37-d9c0-49db-812a-850c6bfb2146
 title: "The Five Who Saw Too Much"
 author: A Dixon Hawke Mystery
-price: 3.99
+price: 7.99
 opub: Dixon Hawke Library
 opubdate: May 31, 1941
 opubissue: No. 561

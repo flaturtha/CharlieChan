@@ -1,17 +1,19 @@
 ---
 layout: novelettes 
-casefileNumber: 
-title: "Cookin' With Poison"
-author: D. Wescott Gouldner
+casefileNumber: 31cd1c00-d783-49e2-8f87-df0a2a8db6e5
+e-guid: ffde4fec-bb1f-47a9-abe6-c03307d62329
+k-guid: f8f5eebd-bcf1-4ea6-a373-2baea0a54283
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/cookin-with-poison.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/cookin-with-poison.epub
+title: "Cookin' With Poison"
+author: D. Wescott Gouldner
 date: 2018-05-10
 opub: FBI Detective Stories
 opubdate: Oct. 1950
 opubissue: Vol. 3, No. 3
 pubdate: 2018-08-13
 category: novelettes
-price: 2.99
+price: 4.99
 description: "It had to be one of Paul&#39;s two lovely sisters-in-law who&#39;d known the old man was coming … and baked a cake."
 tease: "It was a birthday cake to end all birthday cakes – and Ernie&#39;s birthdays."
 image: /assets/img/novelettes/cookin-with-poison.jpg
@@ -24,7 +26,7 @@ trfissue: Vol. 10 No. 36
 trfdate: May 6, 2018
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

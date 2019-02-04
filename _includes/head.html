@@ -10,14 +10,24 @@
   <!-- GTM DATALAYER -->
   {% include datalayer.html %}
 
-  <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-WWPLNXX');</script>
-  <!-- End Google Tag Manager -->
+<!-- Google Tag Manager (test env) -->
+<!-- <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=Fuff3k-TdmJYNFJ-jwKLqQ&gtm_preview=env-44&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WWPLNXX');</script> -->
+<!-- End Google Tag Manager (test env) -->
 
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+  w[l] = w[l] || []; w[l].push({
+    'gtm.start':
+      new Date().getTime(), event: 'gtm.js'
+  }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-WWPLNXX');</script>
+<!-- End Google Tag Manager -->
 
   {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 
@@ -84,20 +94,26 @@
     
     <link rel="alternate" title="{{ site.title }}" type="application/json" href="{{ "/feed.json" | prepend: site.baseurl | prepend: site.url }}" />
 
+    <!-- MAUTIC HEAD CODE ... ONCE PER PAGE -->
+    <script type="text/javascript">
+      /** This section is only needed once per page if manually copying **/
+      if (typeof MauticSDKLoaded == 'undefined') {
+          var MauticSDKLoaded = true;
+          var head            = document.getElementsByTagName('head')[0];
+          var script          = document.createElement('script');
+          script.type         = 'text/javascript';
+          script.src          = 'http://52.207.249.123/media/js/mautic-form.js';
+          script.onload       = function() {
+              MauticSDK.onLoad();
+          };
+          head.appendChild(script);
+          var MauticDomain = 'http://52.207.249.123';
+          var MauticLang   = {
+              'submittingMessage': "Please wait..."
+          }
+      }
+  </script>
+  <script> var formName = 'contactrod'; if (typeof MauticFormCallback == 'undefined') {var MauticFormCallback = {};} MauticFormCallback[formName] = {onValidateStart: function () {document.getElementById('mauticform_input_novelettefreesqueeze').value = document.referrer; }, }; </script>
+  
 
 </head>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,13 +1,13 @@
 ---
 layout: novelettes 
-casefileNumber: 
-e-guid: 
-k-guid:
+casefileNumber: d0c0e0f8-5eaa-453a-beeb-102156bd17ed
+e-guid: 3ac21e8b-ef8e-41f6-9073-e605b8f25c32
+k-guid: f8615d58-33d3-4881-bc9d-6c035976fbe5
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/after-midnight.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/after-midnight.epub
 title: "After Midnight"
 author: Marthé Neville
-price: 2.99
+price: 4.99
 opub: Black Mask
 opubdate: Aug. 1920
 opubissue: Vol. 1, No. 5
@@ -20,7 +20,7 @@ image: /assets/img/novelettes/after-midnight.jpg
 wordcount: 9216
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

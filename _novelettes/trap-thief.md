@@ -1,13 +1,13 @@
 ---
 layout: novelettes
 casefileNumber: 55ccf75fb3901011515aef41
-e-guid:
-k-guid:
+e-guid: ea7d4f2d-c650-47c9-84e6-892f65c5b0d4
+k-guid: 003af5d4-d2eb-47f3-a832-d5b50e7e65c5
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/trap-thief.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/trap-thief.epub
 title: "The Trap Thief"
 author: Hy S. Watson & Asa Steele 
-price: 2.99
+price: 4.99
 date: 2018-02-16
 opub: Black Mask
 opubdate: Dec. 1921
@@ -16,6 +16,7 @@ pubdate: 2018-09-06
 category: novelettes
 description: "“The low-down sneaking thief!” Jack Ramsey’s wrath hissed on his lips as he flung the steel traps to the ground. Of thirty, all but two had been stolen."
 image: /assets/img/novelettes/trap-thief.jpg
+cover-img: /assets/img/novelettes/trap-thief.jpg
 fg-image: /assets/img/short-stories/trap-thief_fb.jpg
 tease: "Can a man down on his luck fight counterfeiters?"
 imgh: 375px
@@ -24,7 +25,7 @@ tag: novelette
 wordcount: 6248
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>
@@ -111,7 +112,7 @@ The story continues &hellip; learn the Mary Gage's secret!
 <hr>
 <br>
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

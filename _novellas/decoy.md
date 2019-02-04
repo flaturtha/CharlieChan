@@ -5,7 +5,7 @@ e-guid: 38243105-71da-4e32-b21f-7bd1a20b0380
 k-guid: 45794153-91fe-4437-a842-3f26c680d1f0
 title: "The Decoy"
 author: Robert Murray
-price: 2.99
+price: 6.99
 opub: The Thriller
 opubdate: Dec. 28, 1929
 opubissue: Vol. 1, No. 47

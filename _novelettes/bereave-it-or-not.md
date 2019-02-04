@@ -1,13 +1,13 @@
 ---
 layout: novelettes
-casefileNumber: 
-e-guid: 
-k-guid:
+casefileNumber: 63b14f16-7d48-462b-b0dc-7ef411156b30
+e-guid: e3caf308-1951-49d2-b2fe-95cc52e5147b
+k-guid: fd6ebc61-2891-4a05-94af-0855a6c46031
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/bereave-it-or-not.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/bereave-it-or-not.epub
 title: "Bereave It, Or Not"
 author: Thorne Lee
-price: 2.99
+price: 4.99
 opub: Ten Detective Aces
 opubdate: Nov. 1945
 opubissue: Vol. 11, No. 4
@@ -17,10 +17,11 @@ genre: Amateur Sleuth
 description: "The most thankless task of Detective Daventry's career was the case of the mystified murderer. For because his victim was unknown and unmourned, the only gratitude due to Daventry would be a pat on the back from the Grim Reaper."
 tags: novelette 
 image: /assets/img/novelettes/bereave-it-or-not.jpg
+cover-img: /assets/img/novelettes/bereave-it-or-not.jpg
 wordcount: 9216
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

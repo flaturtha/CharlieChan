@@ -1,6 +1,8 @@
 ---
 layout: novelettes 
-casefileNumber:  
+casefileNumber: 3dbcf1af-e8f4-4018-8427-55d99ffd4471
+e-guid: af8662fc-2786-4264-a3e4-616e3d7b9c85
+k-guid: ac1df65a-466a-4378-a8f6-d7cd566b5c22
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/no-safety-in-numbers.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/no-safety-in-numbers.epub
 title: "No Safety in Numbers"
@@ -11,11 +13,12 @@ opub: Private Detective Stories
 opubdate: June 1944 
 opubissue: Vol. 15 No. 1
 pubdate: 2018-08-14
-price: 2.99
+price: 4.99
 category: novelettes
 description: "Off in the country, cut off by the storm, Rose had heard the radio account of the hold-up and murder. And now she was sure that one of the men in her house was the killer. But which was it?"
 tease: "An isolated house. A winter storm. A murderer. A thrilling suspense murder mystery!"
 image: /assets/img/novelettes/no-safety-in-numbers.jpg
+cover-img: /assets/img/novelettes/no-safety-in-numbers.jpg
 fb-image: /assets/img/novelettes/no-safety-in-numbers_fb.jpg
 caption: "Flames streaked from the gun as he hurled the embers."
 imgh: 400px
@@ -25,7 +28,7 @@ trfissue: Vol. 11 No. 40
 trfdate: July 1, 2018
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

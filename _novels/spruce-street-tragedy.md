@@ -6,7 +6,7 @@ k-guid: 8ab7a200-4e1c-4833-9d6c-bef0a8ee9b92
 title: "The Spruce Street Tragedy"
 subtitle: "OR, Old Spicer Handles a Double Mystery"
 author: "the author of OLD SPICER"
-price: 4.99
+price: 8.99
 opub: Old Cap Collier Library
 opubissue: No. 262
 opubdate: August 22, 1887

@@ -7,7 +7,7 @@ e-guid: 030b7fcc-fb35-422b-b6c2-e0cb7cde2a5a
 k-guid: 9293d7cb-3914-46b6-b1b1-bdc3e3d8f1d6
 title: "The Purple Doom of Dr. Krantz"
 series: A Dixon Hawke Mystery
-price: 2.99
+price: 4.99
 preprice: 
 discount: 33%
 opub: Dixon Hawke Library
@@ -58,7 +58,7 @@ The story continues &hellip; buy it today and find out if Herr Doktor Krantz suc
 <hr>
 <br>
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

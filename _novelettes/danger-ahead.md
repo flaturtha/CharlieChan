@@ -1,14 +1,14 @@
 ---
 layout: novelettes
-casefileNumber: 
-e-guid: 
-k-guid:
+casefileNumber: 7a3b965f-33ce-4686-81ac-43bca2b2fb2c
+e-guid: aba334d9-ccfb-446a-ad76-f5617f2b3f6d
+k-guid: 8ce85999-8cf4-4669-8aad-bfc26f7c7434
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/danger-ahead.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/danger-ahead.epub
 title: "Danger Ahead"
 author: Harry Millard Lynch
 illustrator: Andrew Benson
-price: 2.99
+price: 4.99
 opub: Real Detective Tales 
 opubdate: June/July 1927
 opubissue: Vol. II, No. 2
@@ -21,7 +21,7 @@ image: /assets/img/novelettes/danger-ahead.jpg
 wordcount: 13661
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

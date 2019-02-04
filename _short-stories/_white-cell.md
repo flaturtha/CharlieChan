@@ -1,6 +1,11 @@
 ---
+<<<<<<< HEAD:_short-stories/white-cell.md
 layout: short-stories
 layoutTag: post
+=======
+layout: post
+layoutTag: premium_post
+>>>>>>> squeeze:_short-stories/_white-cell.md
 casefileNumber: 55ccf75fb3901011515aef13
 title: "The White Cell"
 author: Gregory Hay

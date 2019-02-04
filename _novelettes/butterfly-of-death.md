@@ -1,6 +1,8 @@
 ---
 layout: novelettes
 casefileNumber: 55ccf75fb3901011515aeeff
+e-guid: e9b31bc1-b8f6-429b-a096-700653b1dc46
+k-guid: 0a02fcb9-face-416f-9c5c-50814d525f51
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/butterfly-of-death.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/butterfly-of-death.epub
 title: "Butterfly of Death"
@@ -9,7 +11,7 @@ pubdate: 2018-08-16
 opub: Smashing Detective 
 opubdate: Sept. 1951
 opubissue: Vol. 1, No. 3
-price: 2.99
+price: 4.99
 category: novelettes
 description: "A queer kind of a chuckle hit my eardrum. “You’re Joe Delaney,” repeated the voice, and then it added, “So you think you can take my little Butterfly away from me and nothing will happen to you?”"
 image: /assets/img/novelettes/butterfly-of-death.jpg
@@ -21,7 +23,7 @@ tags:
 wordcount: 6045
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

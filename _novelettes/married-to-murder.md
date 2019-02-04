@@ -1,13 +1,13 @@
 ---
 layout: novelettes
-casefileNumber: 
-e-guid: 
-k-guid:
+casefileNumber: 4059d80c-e7d7-4bc1-befa-1b77a8626623
+e-guid: 9e4d39e9-2f18-4005-aa55-747458096169
+k-guid: 9dc34f99-1987-4905-9611-12b6f192548e
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/married-to-murder.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/married-to-murder.epub
 title: "Married to Murder"
 author: Robert Martin
-price: 2.99
+price: 4.99
 opub: 15 Story Detective
 opubdate: Aug. 1950
 opubissue: Vol. 3, No. 2
@@ -20,7 +20,7 @@ image: /assets/img/novelettes/married-to-murder.jpg
 wordcount: 15069
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

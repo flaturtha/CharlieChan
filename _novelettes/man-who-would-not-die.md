@@ -1,6 +1,8 @@
 ---
 layout: novelettes 
 casefileNumber: 55ccf75fb3901011515aef30
+e-guid: 38ebbc8b-3f81-43a1-8a35-4ae30722a197
+k-guid: 8ed6123e-9e7a-4ea6-80f3-2624195b2b59
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/man-who-would-not-die.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/man-who-would-not-die.epub
 title: "The Man Who Would Not Die"
@@ -10,7 +12,7 @@ opub: Black Mask
 opubdate: Sept. 1920
 opubissue: Vol. 1, No. 6
 pubdate: 2018-08-13
-price: 2.99
+price: 4.99
 category: novelettes 
 description: "What is death, my dear inspectors? Who knows? No one but me. What is the human body? Only a prison in which the soul is confined &mdash; a piece of clay to be discarded at will. God kills when he wishes. Why not I? It suited my purpose to use the mortal form of Mrs. Winters, and I took it."
 image: /assets/img/novelettes/man-who-would-not-die.jpg
@@ -24,7 +26,7 @@ trfissue: Vol. 4 No. 12
 trfdate: Jun. 4, 2017
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

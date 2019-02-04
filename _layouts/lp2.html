@@ -5,7 +5,7 @@
   {% include header_lp.html %}
 
 	<section class="offer__top" style="background-image:url('{{ page.bg-image }}');">
-    <img src="{{ page.cover-img }}" alt="{{ page.title }} by {{ page.author }}" class="book__img">
+    <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}" class="book__img">
 
     <!-- README IF STATEMENT -->
     {% if site.readtime %}
@@ -26,11 +26,14 @@
         <p class="authorData">{{ page.authorData }}</p>
       {% endif %}
 
+      <h3 class="book__price"><span class="strikethru">{{ page.price }}</span> FREE!<br><span class="small italics">(with subscription)</span></h3>
+      <p class="small">offer good until Febrary 7, 2019</p>
+      
       <p>
         {% if page.opub %}
           <span style="display:block;" class="opub__ss"><em>{{ page.opub }}</em> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</span>
         {% endif %}
-        <span style="display:block;" class="opub__ss">THE RED FILE | {{ page.trfdate }} | {{ page.trfissue }}</span> <!-- make a link to the issue! -->
+        <span style="display:block;" class="opub__ss hidden">THE RED FILE | {{ page.trfdate }} | {{ page.trfissue }}</span> <!-- make a link to the issue! -->
         <span style="display:block;font-size:0.875rem;">Casefile No: {{ page.casefileNumber }}</span>
       </p>
 
@@ -50,38 +53,23 @@
           </span>
         </p>
 
-        <div>
-          <p class="lp_description">{{ page.excerpt }}</p>
+        <div class="" style="border-top:1px solid #8b0000;border-bottom:1px solid #8b0000;padding:0.5rem 0;">
+          <p class="italics">{{ page.description }}</p>
 
-          {% if page.testimonials %}<p class="testimonials">{{ page.testimonials }}</p>{% endif %}
-        	
-        	<!-- FB LIKE/SHARE Buttons -->
-<!-- 					<div class="social-buttons">
-					  <div class="fb-like" data-href="{{ site.url }}{{ page.ourl }}" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="false"></div>
-						<div class="tmp_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-size="large"data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-					</div> -->
-      	</div>
-        
-        <div class="buttonsdiv" style="">
-        	{% if page.buybutton %}
-						{% if page.saleprice %}
-		          <p class="book__price"><span class="strikethru grey">${{ page.price }}</span> ${{ page.saleprice }} <span class="prebuy-pitch"> SPECIAL PRICE!</span></p>
-		        {% else %}
-		          <p class="book__price">${{ page.price }}</p>
-		        {% endif %}
-		        	<!-- <p>You save {{ page.price | minus: page.saleprice | times: 100.0 | divided_by: page.price }}%</p> -->
-		        </div>
-						<br>
-		        <div class="book__buttons">
-	            {{ page.buybutton }}
-		        </div>
- 	        {% else %}
-						<div class="book__buttons" style="margin-top: 1.5rem;">
-							<a href="#sample" class="add-to-cart">READ SAMPLE</a>
-							<a href="#lp-download" class="add-to-cart">DOWNLOAD</a>
-						</div>
-					{% endif %}
+        {% if page.category == 'novelettes' %}
+          <div class="readsample">
+            <a href="#sample"><p><span class="underline">Read Sample</span> &hellip;</p></a>
+          </div>
+        {% endif %}
         </div>
+
+        {% if page.testimonials %}<p class="testimonials">{{ page.testimonials }}</p>{% endif %}
+
+        <div class="buttonsdiv" style="">
+		        <div class="book__buttons">
+	            {% include buybuttons-sq.html %}
+		        </div>
+       </div>
 
     </div>
   </section> <!-- end header.offer__top -->
@@ -93,14 +81,16 @@
   </div> -->
 
 	<main class="wrap">
-	  <article  style="margin-top:2rem;">
+	  <article style="margin-top:2rem;">
 	    {{ content }}
 	  </article>
 	</main>
 
-  <div class="lp-download" id="lp-download">
-    {% include sns_download_form.html %}
-  </div>
+  <div class="buttonsdiv" style="">
+    <div class="book__buttons" style="margin:0 0 0 2rem;padding-bottom:2rem;">
+      {% include buybuttons-sq.html %}
+    </div>
+</div>
 
   {% include footer.html %}
 

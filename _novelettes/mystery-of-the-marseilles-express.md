@@ -2,11 +2,13 @@
 layout: novelettes 
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef3c
+e-guid: de2a7887-4837-45c5-a6d4-2578a740ac94
+k-guid: 3b3bdc67-2841-4ec1-9033-38fb13ea4135
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/mystery-of-the-marseille-express.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/mystery-of-the-marseille-express.epub 
 title: "The Mystery of the Marseilles Express"
 author: J. C. Kofoed
-price: 2.99
+price: 4.99
 pubdate: 2018-09-27
 opub: Black Mask
 opubdate: Nov. 1920
@@ -22,7 +24,7 @@ trfissue: Vol. 1 No. 3
 trfdate: Jan. 29, 2017
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>
@@ -131,7 +133,7 @@ The story continues &hellip; download your copy today!
 <hr>
 <br>
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

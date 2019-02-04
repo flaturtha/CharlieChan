@@ -1,0 +1,39 @@
+<div class="buttons-etc">
+ <!--  <div class="book__buttons">
+    <button class="snipcart-add-item add-to-cart"
+    data-item-id="{{ page.casefileNumber }}"
+    data-item-file-guid="{{ page.e-guid }}"
+    data-item-name="{{ page.title }} (ePub edition)"
+    data-item-price="{{ page.price }}"
+    data-item-url="{{ site.baseurl }}{{ page.url }}"
+    data-item-max-quantity="1">
+    BUY EPUB EDITION
+  </button>
+
+  <button class="snipcart-add-item add-to-cart"
+    data-item-id="{{ page.casefileNumber }}"
+    data-item-file-guid="{{ page.k-guid }}"
+    data-item-name="{{ page.title }} (Kindle edition)"
+    data-item-price="{{ page.price }}"
+    data-item-url="{{ site.baseurl }}{{ page.url }}"
+    data-item-max-quantity="1">
+    BUY KINDLE EDITION
+  </button>
+  </div>  end .book__buttons -->
+  
+  <br>
+
+  <!-- modal trigger for sample download form  -->
+  <p class="modal-trigger add-to-cart_sub"><a href="#openModal">Download <span class="italics">Free</span></a></p>
+    <div id="openModal" class="modalDialog">
+      <div><a href="#close" title="Close" class="close">X</a>
+        {% include n1-free-v3.html %}
+      </div>
+    </div>
+
+  <br>
+
+  <div style="display:flex;flex-direction:row;justify-content:space-around;">
+    {% include fb-like-share.html %}
+  </div>
+</div> <!-- end div.buttons-etc -->

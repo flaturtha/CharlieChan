@@ -1,12 +1,14 @@
 ---
 layout: novelettes 
 layoutTag: post
-casefileNumber: 55ccf75fb3901011515aef2d
+casefileNumber: 4e621d82-a4f3-47fb-93c7-37ce101c45c3
+e-guid: 2eb14651-9d07-47e3-bb0c-54c563400905
+k-guid: 0c43d261-d129-4b08-af7e-5446c7ba357c
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/daughter-of-the-pigeon.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/daughter-of-the-pigeon.epub
 title: "Daughter of the Pigeon"
 author: Harry C. Hervey, Jr.
-price: 2.99
+price: 4.99
 opub: The Black Mask
 opubdate: Sept. 1920
 opubissue: Vol. 1 No. 6
@@ -20,7 +22,7 @@ tags: adventure, Black Mask, Hervey, short-story
 wordcount: 6316
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>
@@ -167,7 +169,7 @@ The story continues &hellip; who is the man in the sea-chest and what mystery do
 <hr>
 <br>
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>

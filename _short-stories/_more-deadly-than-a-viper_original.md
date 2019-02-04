@@ -1,5 +1,5 @@
 ---
-layout: sns
+layout: post
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef1d
 title: "More Deadly than the Viper"

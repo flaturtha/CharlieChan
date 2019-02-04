@@ -1,11 +1,13 @@
 ---
 layout: novelettes
 casefileNumber: 55ccf75fb3901011515aefbd
+e-guid: 9b397f34-cb52-4beb-b04d-4a735dc35e2f
+k-guid: 14980995-7fe5-4c3a-ba1f-257caef1d714
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/voodoo-on-the-riviera.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/voodoo-on-the-riviera.epub
 title: "Voodoo On The Riviera"
 series: A Dixon Hawke Mystery
-price: 2.99
+price: 4.99
 opub: Dixon Hawke Library
 opubdate: May 31, 1941
 opubissue: No. 561 
@@ -18,7 +20,7 @@ image: /assets/img/novelettes/voodoo-on-the-riviera.jpg
 wordcount: 9151
 ---
 
-<div class="toc">
+<div class="lp__toc">
 	<header>
 		<h6>Table of Contents</h6>
 	</header>
