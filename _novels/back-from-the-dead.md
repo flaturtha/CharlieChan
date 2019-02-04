@@ -6,7 +6,7 @@ k-guid: 06bd96eb-cc43-4a30-9a76-8c127fbd15d0
 title: "Back from the Dead"
 subtitle: "OR, The Old Hypnotist's Crime"
 author: "Old Ironnerve, Jr."
-price: 4.99
+price: 8.99
 opub: Old Cap Collier Library
 opubissue: No. 590 
 opubdate: April 6, 1895 

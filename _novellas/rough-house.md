@@ -4,15 +4,15 @@ casefileNumber: 1234
 e-guid: 5852ac56-f93a-4228-be4e-d3820323385f 
 k-guid: b4f038e0-a706-48f3-9e38-acbd4d8b0ca1
 title: "Rough House"
-author: 
-price: 3.99
+author: Berkeley Gray
+price: 7.99
 opub: The Thriller Library 
 opubdate: May 31, 1941
 opubissue: No. 561
 pubdate: 2018-08-22
 category: novellas
 genre: Amateur Sleuth 
-description: "He was warned ... by Conquest. He took no notice until Rubber Face came. --- Then, it was TOO LATE!" 
+description: "He was warned ... by Conquest. He took no notice until Rubber Face came. &mdash; Then, it was TOO LATE!" 
 tags: novella
 image: /assets/img/novellas/rough-house.jpg
 wordcount: 23062 

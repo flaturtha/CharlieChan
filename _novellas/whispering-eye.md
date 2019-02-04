@@ -5,7 +5,7 @@ e-guid: 5c080c49-09c8-4207-8942-6d77bfaea78a
 k-guid: c862a567-14df-4e88-a5d7-8b1b03338645
 title: "The Whispering Eye"
 author: G. T. Fleming-Roberts
-price: 3.99
+price: 7.99
 opub: Hooded Detective
 opubdate: January 1942
 opubissue: Vol. III, No. 2

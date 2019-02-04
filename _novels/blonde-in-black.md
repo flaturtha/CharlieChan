@@ -6,7 +6,7 @@ k-guid: 9ec0a67c-4b30-40ca-864e-9c31f3ac36dc
 title: "The Blonde in Black"
 author: Ben Benson
 date: 2017-01-05
-price: 5.99
+price: 9.99
 opub: M. S. Mill
 opubdate: 1958
 pubdate: 2017-01-10

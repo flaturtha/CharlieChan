@@ -6,7 +6,7 @@ k-guid: dab888fb-e811-4af0-b378-bd441fcbbe2f
 title: "Old Search and the Strangers"
 subtitle: "OR, The Thugs of Gotham"
 author: "Major A. F. Grant"
-price: 4.99
+price: 8.99
 opub: Old Cap Collier Library
 opubdate: March 15, 1895
 pubdate: 2018-08-27
