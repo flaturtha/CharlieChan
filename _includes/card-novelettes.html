@@ -1,5 +1,6 @@
 <ul class="cards__small">
-{% for novelettes in site.novelettes %}
+{% assign datesort = site.novelettes | sort: 'date' | reverse %} <!-- sorts in blog-post-like reverse chron order -->
+{% for novelettes in datesort %}
 
   <li class="card__small" {% if novelettes.genre %} id="{{ novelettes.genre | downcase }}"{% endif %}>
     

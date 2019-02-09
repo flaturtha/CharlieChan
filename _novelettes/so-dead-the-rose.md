@@ -1,5 +1,5 @@
 ---
-layout: novelettes
+layout: lp2
 casefileNumber: 55ccf75fb3901011515aef0a
 e-guid: ec985bb0-f932-426f-9920-8a3fb606ee9e
 k-guid: a609c68f-4247-4c2c-8c98-b3d047a16a75
@@ -11,14 +11,14 @@ price: 4.99
 opub: Smashing Detective
 opubdate: Sep. 1951
 opubissue: Vol. 1, No. 3
-pubdate: 2018-08-30 
+pubdate: 2019-02-07
 my-original-pub-date: 2016-11-15
 category: novelettes 
 genre: hardboiled PI
-descriptive: 
 description: "It was love that made him agree to make the payment, to protect her from her husband's infedelity. But will his love for her force him to take the rap for murder?"
 tags: novella, cruise liner, murder, blackmail, "Sim Albert"
 image: /assets/img/novellas/so-dead-the-rose.jpg
+cover-img: /assets/img/novellas/so-dead-the-rose.jpg
 wordcount: 12268
 ---
 
@@ -47,19 +47,3 @@ The story continues &hellip; buy it today and find out who killed Angelica, and 
 {: .tobecontinued }
 
 <hr>
-<br>
-
-<div class="lp__toc">
-	<header>
-		<h6>Table of Contents</h6>
-	</header>
-
-	<ol>
-		<li>Angelica Is Dead</li>
-		<li>Both Ends Against The Middle</li>
-		<li>H For Hanley</li>
-		<li>Joseph T. Bellows Is Missing</li>
-		<li>The Fat’s In The Fire</li>
-	</ol>
-
-</div>

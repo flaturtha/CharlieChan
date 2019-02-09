@@ -26,9 +26,15 @@
         <p class="authorData">{{ page.authorData }}</p>
       {% endif %}
 
-      <h3 class="book__price"><span class="strikethru">{{ page.price }}</span> FREE!<br><span class="small italics">(with subscription)</span></h3>
-      <p class="small">offer good until Febrary 7, 2019</p>
-      
+      <!-- <h3 class="book__price"><span class="strikethru">{{ page.price }}</span> FREE!<br><span class="small italics">(with subscription)</span></h3> -->
+      <h3 class="small" style="color:#474f55;">RETAIL <span class="strikethru">${{ page.price }}</span></h3>
+      <h4 class="book__price">Special &#10157; FREE!</h4>
+      <br>
+      <p class="small italics">(<em>FREE</em> offer good until Febrary 16, 2019)</p>
+      <!-- <br> -->
+      <p><span id="demo" style="font-size:2rem; color:#F9F9DF;background-color:#8b0000;padding:0.5rem;text-align:center;max-width:300px;"></span></p>
+      <br>
+
       <p>
         {% if page.opub %}
           <span style="display:block;" class="opub__ss"><em>{{ page.opub }}</em> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</span>
@@ -57,8 +63,17 @@
           <p class="italics">{{ page.description }}</p>
 
         {% if page.category == 'novelettes' %}
-          <div class="readsample">
+          <div class="readsample hidden">
             <a href="#sample"><p><span class="underline">Read Sample</span> &hellip;</p></a>
+          </div>
+
+          <div class="bullets small margin1r">
+            <ul style="color:#8b0000;margin-left:2rem;">
+              <li><span style="color:#474f55;"><strong>He loved Mel English's wife, Vera</strong> &hellip; and knew Mel was cheating.</span></li>
+              <li><span style="color:#474f55;"><strong>Now, Angelea Whitmore, the mistress, is dead</strong> &hellip; was it Mel or Vera or Red, himself?</span></li>
+              <li><span style="color:#474f55;"><strong>Who can he trust aboard the <em>Empress of Burmuda</em> &hellip; </strong>the woman he loves; her philandering husband?</span></li>
+              <li style="margin-top:1rem;"><strong>Or will PI Red Hartley take the fall for Angela's murder, himself?</strong></li>
+            </ul>
           </div>
         {% endif %}
         </div>
@@ -89,6 +104,7 @@
   <div class="buttonsdiv" style="">
     <div class="book__buttons" style="margin:0 0 0 2rem;padding-bottom:2rem;">
       {% include buybuttons-sq.html %}
+      <p class="small italics">(<em>FREE</em> offer good until Febrary 16, 2019)</p>
     </div>
 </div>
 

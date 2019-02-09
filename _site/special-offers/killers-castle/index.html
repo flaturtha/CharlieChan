@@ -270,9 +270,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <h2 class="books__author">by <span>George Dilnot</span></h2>
       
 
-      <h3 class="book__price"><span class="strikethru">2.99</span> FREE!<br><span class="small italics">(with subscription)</span></h3>
-      <p class="small">offer good until Febrary 7, 2019</p>
-      
+      <!-- <h3 class="book__price"><span class="strikethru">2.99</span> FREE!<br><span class="small italics">(with subscription)</span></h3> -->
+      <h3 class="small" style="color:#474f55;">RETAIL <span class="strikethru">$2.99</span></h3>
+      <h4 class="book__price">Special &#10157; FREE!</h4>
+      <br>
+      <p class="small italics">(<em>FREE</em> offer good until Febrary 16, 2019)</p>
+      <!-- <br> -->
+      <p><span id="demo" style="font-size:2rem; color:#F9F9DF;background-color:#8b0000;padding:0.5rem;text-align:center;max-width:300px;"></span></p>
+      <br>
+
       <p>
         
           <span style="display:block;" class="opub__ss"><em>The Thriller</em> | Feb. 18, 1933 </span>
@@ -624,6 +630,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </div>
 </div> <!-- end div.buttons-etc -->
 
+      <p class="small italics">(<em>FREE</em> offer good until Febrary 16, 2019)</p>
     </div>
 </div>
 
@@ -700,8 +707,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   });
 </script>
 
-
-
+<!-- countdown timer: https://www.w3schools.com/howto/howto_js_countdown.asp -->
+<script>
+    // Set the date we're counting down to
+    var countDownDate = new Date("Feb 16 2019 11:59:59").getTime();
+    
+    // Update the count down every 1 second
+    var x = setInterval(function() {
+    
+      // Get todays date and time
+      var now = new Date().getTime();
+    
+      // Find the distance between now and the count down date
+      var distance = countDownDate - now;
+    
+      // Time calculations for days, hours, minutes and seconds
+      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+      // Display the result in the element with id="demo"
+      document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+      + minutes + "m " + seconds + "s ";
+    
+      // If the count down is finished, write some text 
+      if (distance < 0) {
+        clearInterval(x);
+        document.getElementById("demo").innerHTML = "EXPIRED";
+      }
+    }, 1000);
+    </script>
 
 
 

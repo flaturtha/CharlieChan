@@ -47,7 +47,10 @@
 	}
 
 	img {
-		box-shadow: 5px 5px 20px #888888;
+		// box-shadow: 5px 5px 20px #888888;
+		box-shadow: 5px 5px 0 #555;
+		border-radius: 3px 5px;
+		border-left: 2px solid #333;
 		width: 75%;
 		margin: -2rem auto 3rem;
 		@media screen and (min-width: 48rem) {
@@ -149,7 +152,22 @@
 }
 
 
-
+.library__title {
+	display: block;
+	text-transform: uppercase;
+	margin: 1rem auto;
+	padding: 0.5rem;
+	border: 2px solid $acolor;
+	width: 300px;
+	color: $acolor;
+	font-weight: bold;
+	span {
+		display: block;
+		text-transform: initial;
+		color: $bgcolor;
+		font-size: 1rem;
+	}
+}
 
 
 
