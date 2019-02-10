@@ -1,13 +1,21 @@
 {% include head.html %}
 
-<body style="background-color:lightcyan;">
+<body {% if page.title %} id="{{ page.title | downcase | replace: ' ', '-' }}" {% endif %} class="{{ page.category }}">
+	
+	{% include gtm.html %}
 
-  {% include header3.html %}
+	<!-- include fbjsdk.html -->
+
+  {% include header_lp.html %}
 
   <main class="main wrap">
     {{ content }}
   </main>
 
   {% include footer.html %}
+
+  {% include scripts.html %}
+
+  {% include mautic.html %}
 
 </body>

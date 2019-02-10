@@ -1,5 +1,5 @@
 ---
-layout: default2
+layout: default3
 title: Thanks
 permalink: /novelettes/downloads/thank-you/
 category: download
