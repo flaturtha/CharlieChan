@@ -29,7 +29,7 @@ category: download
         <p class="small bold">$24.99, if purchased separately!</p>
         <br>
         <p><span id="demo" style="font-size:2rem; color:#F9F9DF;background-color:#8b0000;padding:0.5rem;text-align:center;max-width:300px;"></span></p>
-        <p class="small italics">(Discounted offer good through Febrary 16, 2019)</p>
+        <p class="small italics">(Discounted offer good through February 16, 2019)</p>
         <br>
       </div>
 
