@@ -4544,7 +4544,8 @@ p {
     .nav .main-nav a.logo {
       display: inline-block;
       margin: 1rem -2rem 1rem 1rem;
-      background: url("/assets/img/site/logo_mobile_f0.png") no-repeat;
+      background: url("/assets/img/site//atticus_fffff0.svg") no-repeat;
+      /* logo_mobile_f0.png */
       height: 45px;
       width: 30px; }
       .nav .main-nav a.logo span {

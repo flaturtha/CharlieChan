@@ -20,7 +20,7 @@ category: download
   <section class="epo-offer">
     <header>
       <h3 class="preheader italics">FACT: More than 55% of all murders involve an intimate partner or significant other! And, in 93% of those cases, the culprit was a current or former romantic partner!</h3>
-      <h1 class="main-headline bloodred">ARE <span class="flip">YOU</span> ALONE&nbsp;THIS &#128148;&nbsp;VALENTINES&nbsp;DAY&nbsp;&#128148;?</h1>
+      <h1 class="main-headline bloodred">ARE <span class="flip">YOU</span> ALONE&nbsp;THIS &#128148;&nbsp;Valentine's&nbsp;DAY&nbsp;&#128148;?</h1>
       <h2 style="font-size:1rem;" class="bloodred center margin1r">Save yourself from more than just a broken heart and see how easily LOVE&nbsp;TURNS&nbsp;TO&nbsp;MURDER!!</h2>
       <h3 class="subheadline">Read about the perils of love in the <span class="library__title">&#128148;Love Turns To Murder&#128481; <span>Novelette Mini-Library</span></span></h3>
 
@@ -102,11 +102,11 @@ category: download
 
       <div class="finaloffer">
 
-        <p>That's over 4&#xbd; hours of thrilling reading, of <em>love turned to murder</em>. The perfect excuse to be alone on Valentines Day!</p>
+        <p class="center bold">That's over 4&#xbd; hours of thrilling reading, of <em>love turned to murder</em>.<br>The perfect excuse to be alone on Valentine's Day!</p>
 
-        <p><strong>Plus,</strong> get a list of thrilling short stories available only on TalesofMurder.com that reveal more heartbreak, jealousy, and murder!</p>
+        <p class="hidden"><strong>Plus,</strong> get a list of thrilling short stories available only on TalesofMurder.com that reveal more heartbreak, jealousy, and murder!</p>
         
-        <p>Also included is a sample from the WWII era novel <em>The Spider Lily</em>, which tells the story of Alec Linn, who returns home after 2 years fighting the Japs in India to find himself accused of murdering his cheating war bride! An exiting novel of love turned to murder &hellip; with a special coupon for 25% off included in this collection.</p>
+        <p class="hidden">Also included is a sample from the WWII era novel <em>The Spider Lily</em>, which tells the story of Alec Linn, who returns home after 2 years fighting the Japs in India to find himself accused of murdering his cheating war bride! An exiting novel of love turned to murder &hellip; with a special coupon for 25% off included in this collection.</p>
 
       </div>
 
