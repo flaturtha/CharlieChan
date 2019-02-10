@@ -12,8 +12,6 @@
     font-size: 18px;
   }
   header {
-    border-bottom: 2px solid $acolor;
-    margin-bottom: 3rem;
     h1 {
       font-size: 1.75rem;
       @media screen and (min-width: 48rem){
@@ -22,8 +20,8 @@
     }
   }
   .preheader {
-    margin: 0 auto;
-    text-align: center;
+    margin: 0 0 3rem 2rem;
+    // text-align: center;
     color: gray;
     font-size: 1rem;
   }
@@ -43,12 +41,23 @@
     dt {
       color: $acolor;
       font-weight: bold;
+      div > p {
+        margin: 0;
+      }
+      div > p:last-of-type {
+        margin-bottom: 0.5rem;
+      }
     }
     dd {
       font-style: italic;
       margin-bottom: 1rem;
     }
   }
+}
+
+.dull {
+  color: #474f44;
+  font-size: 0.875rem;
 }
 
 hr.break {
@@ -232,7 +241,9 @@ p.first {
   margin: 2rem;
   img {
     width: 240px;
+    max-width: 100%;
     height: auto;
+    padding: 0.5rem;
   }
   @media screen and (min-width: 48rem){
     flex-direction: row;
@@ -242,4 +253,8 @@ p.first {
   }
 }
 
-// style="display:flex;flex-direction:row;justify-content:space-between;"
+.finaloffer {
+  margin: 2rem 1rem -1rem;
+  padding: 1rem;
+  border-top: 1px solid $acolor;
+}

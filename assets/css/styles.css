@@ -3357,17 +3357,13 @@ ol ol li:last-child {
       max-width: 960px; } }
   .epo-offer p {
     font-size: 18px; }
-  .epo-offer header {
-    border-bottom: 2px solid #8B0000;
-    margin-bottom: 3rem; }
-    .epo-offer header h1, .epo-offer header .contact h2, .contact .epo-offer header h2 {
-      font-size: 1.75rem; }
-      @media screen and (min-width: 48rem) {
-        .epo-offer header h1, .epo-offer header .contact h2, .contact .epo-offer header h2 {
-          font-size: 3rem; } }
+  .epo-offer header h1, .epo-offer header .contact h2, .contact .epo-offer header h2 {
+    font-size: 1.75rem; }
+    @media screen and (min-width: 48rem) {
+      .epo-offer header h1, .epo-offer header .contact h2, .contact .epo-offer header h2 {
+        font-size: 3rem; } }
   .epo-offer .preheader {
-    margin: 0 auto;
-    text-align: center;
+    margin: 0 0 3rem 2rem;
     color: gray;
     font-size: 1rem; }
   .epo-offer .main-headline {
@@ -3384,9 +3380,17 @@ ol ol li:last-child {
     .epo-offer dl dt {
       color: #8B0000;
       font-weight: bold; }
+      .epo-offer dl dt div > p {
+        margin: 0; }
+      .epo-offer dl dt div > p:last-of-type {
+        margin-bottom: 0.5rem; }
     .epo-offer dl dd {
       font-style: italic;
       margin-bottom: 1rem; }
+
+.dull {
+  color: #474f44;
+  font-size: 0.875rem; }
 
 hr.break {
   border: 1px solid #8B0000;
@@ -3580,7 +3584,9 @@ p.first {
   margin: 2rem; }
   .library-cover-stack img {
     width: 240px;
-    height: auto; }
+    max-width: 100%;
+    height: auto;
+    padding: 0.5rem; }
   @media screen and (min-width: 48rem) {
     .library-cover-stack {
       -webkit-box-orient: horizontal;
@@ -3590,6 +3596,11 @@ p.first {
               flex-direction: row; }
       .library-cover-stack img {
         width: 160px; } }
+
+.finaloffer {
+  margin: 2rem 1rem -1rem;
+  padding: 1rem;
+  border-top: 1px solid #8B0000; }
 
 /*==========  LAYOUT  ==========*/
 /*=============================================
