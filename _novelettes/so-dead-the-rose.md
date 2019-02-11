@@ -5,7 +5,7 @@ e-guid: ec985bb0-f932-426f-9920-8a3fb606ee9e
 k-guid: a609c68f-4247-4c2c-8c98-b3d047a16a75
 kdl: https://s3.amazonaws.com/talesofmurder.com/novelettes/so-dead-the-rose.mobi
 edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/so-dead-the-rose.epub  
-title: "So Dead the&nbsp;Rose"
+title: "So Dead the Rose"
 author: Sim Albert
 price: 4.99
 opub: Smashing Detective
@@ -19,6 +19,7 @@ description: "It was love that made him agree to make the payment, to protect he
 tags: novella, cruise liner, murder, blackmail, "Sim Albert"
 image: /assets/img/novellas/so-dead-the-rose.jpg
 cover-img: /assets/img/novellas/so-dead-the-rose.jpg
+fb-image: /assets/img/novelettes/so-dead-the-rose_fb.jpg
 wordcount: 12268
 ---
 
