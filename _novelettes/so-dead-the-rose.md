@@ -44,7 +44,7 @@ She was sobbing wildly then, so I shook her some more.
 
 I relaxed my grip and she leaned heavily against me. "Help me, Red, help me," she implored, and her fingernails dug deep marks into my forearms. "Angelica!" Vera moaned. "She … she's … dead!"
 
-The story continues &hellip; buy it today and find out who killed Angelica, and why!
+The story continues &hellip; download it <em>FREE</em> today and find out who killed Angelica, and why!
 {: .tobecontinued }
 
 <hr>

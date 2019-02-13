@@ -2058,6 +2058,17 @@ ol ol li:last-child {
           justify-content: space-around;
   margin: 1rem 0 0 0; }
 
+.book__buttons__lp2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: none !important;
+  -webkit-justify-content: none !important;
+      -ms-flex-pack: none !important;
+          justify-content: none !important;
+  margin: 0 0 2rem 0; }
+
 .book__meta {
   border-top: 2px solid #8B0000;
   margin: 1rem 0;

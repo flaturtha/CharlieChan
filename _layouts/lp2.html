@@ -26,15 +26,6 @@
         <p class="authorData">{{ page.authorData }}</p>
       {% endif %}
 
-      <!-- <h3 class="book__price"><span class="strikethru">{{ page.price }}</span> FREE!<br><span class="small italics">(with subscription)</span></h3> -->
-      <h3 class="small" style="color:#474f55;">RETAIL <span class="strikethru">${{ page.price }}</span></h3>
-      <h4 class="book__price">Special &#10157; FREE!</h4>
-      <br>
-      <p class="small italics">(<em>FREE</em> offer good until Febrary 16, 2019)</p>
-      <!-- <br> -->
-      <p><span id="demo" style="font-size:2rem; color:#F9F9DF;background-color:#8b0000;padding:0.5rem;text-align:center;max-width:300px;"></span></p>
-      <br>
-
       <p>
         {% if page.opub %}
           <span style="display:block;" class="opub__ss"><em>{{ page.opub }}</em> | {{ page.opubdate }} {% if page.opubissue %} | {{ page.opubissue }} {% endif %}</span>
@@ -44,20 +35,37 @@
       </p>
 
       <p class="metadata">
-        <!-- <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span> -->
-        <span class="etr">read time:
-          {% if site.readtime %}
-          {% if readtime > 60 %}
-          {% assign readtime_hours = readtime | divided_by: 60 %}
-          {% assign readtime_minutes = readtime | modulo:60 %}
-            {% if readtime_hours > 1 and readtime_hours < 2 %}1 hour
-            {% else %}<span class="hour">{{ readtime_hours }}</span> hr
-            {% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} and <span class="time">{{ readtime_minutes }}</span> min{% endif %}
-          {% else %}
-            {% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
-          {% endif %}
-          </span>
-        </p>
+          <!-- <span class="wordcount">word count: {{ page.wordcount | thousands_separated }}</span> -->
+          <span class="etr">read time:
+            {% if site.readtime %}
+            {% if readtime > 60 %}
+            {% assign readtime_hours = readtime | divided_by: 60 %}
+            {% assign readtime_minutes = readtime | modulo:60 %}
+              {% if readtime_hours > 1 and readtime_hours < 2 %}1 hour
+              {% else %}<span class="hour">{{ readtime_hours }}</span> hr
+              {% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} and <span class="time">{{ readtime_minutes }}</span> min{% endif %}
+            {% else %}
+              {% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
+            {% endif %}
+            </span>
+          </p>
+
+      <!-- <h3 class="book__price"><span class="strikethru">{{ page.price }}</span> FREE!<br><span class="small italics">(with subscription)</span></h3> -->
+      <h3 class="small" style="color:#474f55;">RETAIL <span class="strikethru">${{ page.price }}</span></h3>
+      <h4 class="book__price">Valentine's Day Special &#10157; FREE!</h4>
+      <br>
+      <p class="small italics">(<em>FREE</em> offer good until Febrary 16, 2019)</p>
+      <!-- <br> -->
+      <p><span id="demo" style="font-size:2rem; color:#F9F9DF;background-color:#8b0000;padding:0.5rem;text-align:center;max-width:300px;"></span></p>
+      <br>
+      <div class="buttonsdiv">
+        <div class="book__buttons__lp2">
+          {% include buybuttons-sq.html %}
+        </div>
+      </div>
+
+      
+
 
         <div class="" style="border-top:1px solid #8b0000;border-bottom:1px solid #8b0000;padding:0.5rem 0;">
           <p class="italics">{{ page.description }}</p>
@@ -80,11 +88,6 @@
 
         {% if page.testimonials %}<p class="testimonials">{{ page.testimonials }}</p>{% endif %}
 
-        <div class="buttonsdiv" style="">
-		        <div class="book__buttons">
-	            {% include buybuttons-sq.html %}
-		        </div>
-       </div>
 
     </div>
   </section> <!-- end header.offer__top -->
@@ -99,13 +102,12 @@
 	  <article style="margin-top:2rem;">
 	    {{ content }}
 	  </article>
+      <div class="book__buttons">
+        {% include buybuttons-sq.html %}
+      </div>
+      <p class="small italics" style="text-align:center;">(<em>FREE</em> offer good until Febrary 16, 2019 &hellip; price returns to $4.99 after that!!)</p>
 	</main>
 
-  <div class="buttonsdiv" style="">
-    <div class="book__buttons" style="margin:0 0 0 2rem;padding-bottom:2rem;">
-      {% include buybuttons-sq.html %}
-      <p class="small italics">(<em>FREE</em> offer good until Febrary 16, 2019)</p>
-    </div>
 </div>
 
   {% include footer.html %}

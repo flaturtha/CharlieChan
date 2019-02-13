@@ -191,6 +191,13 @@
 	margin: 1rem 0 0 0;
 }
 
+.book__buttons__lp2 {
+	// @extend .book__buttons;
+	display: flex;
+	justify-content: none !important;
+	margin: 0 0 2rem 0;
+}
+
 .book__meta {
 	border-top: 2px solid $acolor;
 	margin: 1rem 0;
