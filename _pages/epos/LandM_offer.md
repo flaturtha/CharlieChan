@@ -1,21 +1,11 @@
 ---
 layout: default3
-title: Thanks
-permalink: /novelettes/downloads/thank-you/
+title: Valentine's Day Special Offer
+permalink: /offer/valentines-day-special-offer/
 category: download
 ---
 
 <div class="{{ page.title }}">
-
-
-  <section class="dwn-ty-bar" style="margin-bottom:2rem;">
-  
-    <p>THANKS &raquo; &raquo;<span> Your download links for <span class="bloodred" style="background-color:#fffff0;padding:0 0.25rem;margin:0 0.25rem">SO&nbsp;DEAD&nbsp;THE&nbsp;ROSE</span> will be delivered to your inbox within about 15 minutes.</span></p>
-  
-  </section>
-
-  <h2 style="font-size=3rem;margin-bottom:1rem;">BEFORE YOU GO &hellip;</h2>
-  <hr>
 
   <section class="epo-offer">
     <header>
@@ -34,11 +24,11 @@ category: download
         <p class="small bold">$24.99, if purchased separately!</p>
         <br>
         <p><span id="demo" style="font-size:2rem; color:#F9F9DF;background-color:#8b0000;padding:0.5rem;text-align:center;max-width:300px;"></span></p>
-        <p class="small italics">(Discounted offer good through February 16, 2019)</p>
+        <p class="small italics">(Discounted offer good through February&nbsp;16,&nbsp;2019)</p>
         <br>
       </div>
 
-      <p class="center bold">Get <span class="flip">5</span> additional novelettes that all tell the story of love turned to murder, including:</p>
+      <p class="center bold">Get <span class="flip">5</span> novelettes that all tell the story of love turned to murder, including:</p>
       <ul class="library-cover-stack">
         <li><img src="/assets/img/novelettes/blueberry-pie.jpg" alt="Blueberry Pie"></li>
         <li><img src="/assets/img/novelettes/married-to-murder.jpg" alt="Married to Murder"></li>
@@ -46,10 +36,6 @@ category: download
         <li><img src="/assets/img/novelettes/cookin-with-poison.jpg" alt="Cookin' With Poison"></li>
         <li><img src="/assets/img/novelettes/after-midnight.jpg" alt="After Midnight"></li>
       </ul>
-      <div class="epo hidden">
-        <h2 class="bloodred">GET THE <span class="italics uppercase">&#128148;&nbsp;Love Turns To Murder&nbsp;&#128481;</span> LIBRARY!</h2>
-        {% include buybuttons-epo.html %}
-      </div>
     </header>
 
     <body>
