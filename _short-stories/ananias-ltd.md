@@ -11,6 +11,7 @@ opubissue: Vol. 4, No. 3
 category: short-stories
 excerpt: "There are thousands of tons of gold locked up in God's eternal mountains which men will never see nor spend. But that fact doesn't keep them from trying. There is something about yellow metal which turns heads, transforms morals and grows devils in the soil of saints."
 image: /assets/img/short-stories/ananias-ltd2.png
+fb-image: /assets/img/short-stories/ananias-ltd_fb.jpg
 caption: "From some place the Chink produced a bottle of alcohol."
 imgh: 450px
 genre: Professional Sleuth
