@@ -67,7 +67,7 @@ Maybe Landis is wearing a disguise when they meet.”
 
 Jeff smiled briefly, also ironically. “It would be easier to disguise a hippopotamus than Big Ben Landis,” be observed. “The man must ‘weigh over three hundred pounds. But let’s forget about him while we have lunch.” He reached for his own hat on the clothes tree in the corner, then tossed Stephen his. “I don’t want my appetite spoiled.”
 
-Stephen caught the hat with one hand and placed it at a rakish angle upon his dark head. With the other hand, he picked up the folder of reports from his brother’s desk, and took it with him,
+Stephen caught the hat with one hand and placed it at a rakish angle upon his dark head. With the other hand, he picked up the folder of reports from his brother’s desk, and took it with him.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>

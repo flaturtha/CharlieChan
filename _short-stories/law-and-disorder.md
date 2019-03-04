@@ -11,6 +11,7 @@ opubissue: Vol. 2, No. 1
 category: short-stories
 excerpt: "The boys wanted only to help the police solve crimes. And all the police wanted was to get hold of the boys—for murder!"
 image: /assets/img/short-stories/law-and-disorder.svg
+fb-image: /assets/img/short-stories/law-and-disorder_fb.jpg
 caption: "Benny grabs hold of Herbie's coat tails and begins to haul away at them, panting, “Cut it out, you bum! That's the wrong guy!”"
 genre: Humor
 tag: short-story
