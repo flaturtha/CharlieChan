@@ -11,6 +11,7 @@ opubissue: Vol. 4, No. 2
 category: short-stories
 excerpt: "The only clue was a gilt letter U clutched in the dead man's stiffening fingers!"
 image: /assets/img/short-stories/nice-corpses-like-flowers.svg
+fb-image: /assets/img/short-stories/nice-corpses-like-flowers_fb.jpg
 imgh: 300px
 genre: Professional Sleuth
 tag: short-story
