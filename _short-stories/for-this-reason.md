@@ -10,7 +10,8 @@ opubdate: Sept. 1951
 opubissue: Vol. 1, No. 3
 category: short-stories
 excerpt: "She admitted to shooting her husband because, in her words, he was phoning that woman. But will the telephone bill prove his unfaithfulness or her error?"
-image: 
+image: /assets/img/short-stories/for-this-reason.png
+fb-image: /assets/img/short-stories/for-this-reason_fb.jpg
 imgh: 300px
 genre: Professional Sleuth
 tag: short-story
@@ -20,21 +21,6 @@ trfdate: Apr. 23, 2017
 kindle: 
 epub: 
 ---
-
-<!-- <section id="toc" class="toc">
-  <header>
-    <h6>Table of Contents</h6>
-  </header>
-<div id="drawer" markdown="1">
-1. Auto generated table of contents
-{:toc}
-</div>
-</section> table-of-contents -->
-
-
-FOR THIS REASON
-
-By John Thomas Urwin
 
 She admitted to shooting her husband because, in her words, he was
 phoning that woman. But will the telephone bill prove his unfaithfulness
