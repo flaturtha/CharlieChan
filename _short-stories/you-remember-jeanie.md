@@ -4,13 +4,14 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefb3
 title: "You Remember Jeanie"
 author: John D. MacDonald
-date: 2017-03-29
+date: 2019-04-01
 opub: Crack Detective Stories
 opubdate: May 1949
 opubissue: Vol. 10, No. 2
 category: short-stories
 excerpt: "He’d been a good cop once, then, when Frank Bard's wife was killed, he went off his nut, became an alcoholic bum who thought Jeanie was still with him all the time &mdash; until &hellip;"
 image: /assets/img/short-stories/you-remember-jeanie.svg
+fb-image: /assets/img/short-stories/you-remember-jeanie_fb.jpg
 imgh: 300px
 genre: Professional Sleuth
 tag: short-story

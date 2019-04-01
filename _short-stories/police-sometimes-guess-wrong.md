@@ -4,7 +4,7 @@ layoutTag: premium_post
 casefileNumber: 
 title: "The Police Sometimes Guess Wrong"
 author: "Harold Ward"
-date: 2018-10-25
+date: 2019-04-01 9:00
 opub: Black Mask
 opubdate: Aug. 1922
 opubissue: Vol. 5, No. 5
