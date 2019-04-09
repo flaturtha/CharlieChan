@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 
 title: "The Case of the Double Cheque"
 series: A Dixon Hawke Mystery
-date: 2018-11-23
+date: 2019-04-09
 opub: Dixon Hawke's Casebook
 opubdate: Spring 1940
 opubissue: No. 4

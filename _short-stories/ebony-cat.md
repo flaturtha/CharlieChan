@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aefb0
 title: "The Ebony Cat"
 author: Rex Whitechurch
 authorData: Author of &quot;Just Around The Coroner&quot;
-date: 2018-02-02
+date: 2019-04-09
 opub: Crack Detective
 opubdate: May 1949
 opubissue: Vol. 4, No. 3

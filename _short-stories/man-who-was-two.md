@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef4f
 title: "The Man Who Was Two"
 author: Harold Ward
-date: 2017-08-14
+date: 2019-04-08 
 opub: Black Mask 
 opubdate: Apr. 1922
 opubissue: Vol. 5, No. 1
