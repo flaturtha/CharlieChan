@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 
 title: "You Can't Mince Homicide"
 author: Robert S. Fenton
-date: 2018-09-13
+date: 2019-04-19
 opub: Ten Detective Aces 
 opubdate: Mar. 1938
 opubissue: Vol. 32, No. 1

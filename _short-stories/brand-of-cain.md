@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef51
 title: "The Brand of Cain"
 author: Ward Sterling
-date: 2017-03-07
+date: 2019-04-16
 opub: Black Mask
 opubdate: Apr. 1922
 opubissue: Vol. 5, No. 1

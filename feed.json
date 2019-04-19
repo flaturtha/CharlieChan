@@ -12,6 +12,7 @@ layout: null
     {% assign datesort = site.short-stories | sort: 'date' | reverse %}
     {% for short-stories in datesort %}
     {
+      "type": {{ short-stories.category | jsonify }},
       "id": {{ short-stories.casefileNumber | jsonify }},
       "url": "{{ short-stories.url | prepend: site.baseurl | prepend: site.url }}",
       "title": {{ short-stories.title | escape | jsonify }},
