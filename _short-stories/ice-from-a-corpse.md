@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef84
 title: "Ice from a Corpse"
 author: Ed Barceio
-date: 2017-02-27
+date: 2019-05-10
 opub: Crime Fiction Stories
 opubdate: Dec. 1950
 opubissue: Vol. 1, No. 1

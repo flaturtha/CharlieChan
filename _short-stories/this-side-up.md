@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef03
 title: "This Side Up"
 author: John Ladd
-date: 2017-02-15
+date: 2019-05-07
 opub: Smashing Detective Stories
 opubdate: Sept. 1951
 opubissue: Vol. 1, No. 3

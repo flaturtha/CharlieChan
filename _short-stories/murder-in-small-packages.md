@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef8f
 title: "Murder in Small Packages"
 author: William Rough
-date: 2017-01-12
+date: 2019-05-06
 opub: Ten Detective Aces
 opubdate: Nov. 1945
 opubissue: Vol. 11, No. 4
