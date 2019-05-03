@@ -1,5 +1,5 @@
 ---
-layout: novelettes 
+layout: squeeze 
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef01
 e-guid: 6d671a3e-a398-4f5f-8416-1703f66c1217
@@ -103,24 +103,3 @@ The story continues &hellip; download your copy today!
 <hr>
 <br>
 
-<div class="lp__toc">
-	<header>
-		<h6>Table of Contents</h6>
-	</header>
-
-	<ol>
-		<li>A Wreck With An Acre Of Jungle</li>
-		<li>Ah, Fame!</li>
-		<li>Another Murder</li>
-		<li>A Bank Robbery and A Gun Battle</li>
-    <li>The Fellow Who Was Killed Five Years Ago</li>
-    <li>The Prospective Buyer</li>
-    <li>Expecting Another Corpse</li>
-    <li>The Man</li>
-    <li>Mr. Thompson's Wife</li>
-    <li>One of the Gang</li>
-    <li>The Driver</li>
-    <li>A Body Full of Slugs</li>
-	</ol>
-
-</div>

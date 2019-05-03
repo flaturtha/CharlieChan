@@ -1,5 +1,5 @@
 ---
-layout: squeeze 
+layout: novelettes 
 casefileNumber: 55ccf75fb3901011515aefbd
 e-guid: 9b397f34-cb52-4beb-b04d-4a735dc35e2f
 k-guid: 14980995-7fe5-4c3a-ba1f-257caef1d714
