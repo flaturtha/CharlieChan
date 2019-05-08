@@ -6,7 +6,7 @@ title: "The Mystery of the One-Legged Man"
 subtitle: ""
 author: J. B. Hawley
 series: 
-date: 2018-07-03
+date: 2019-05-06
 opub: The Black Mask
 opubdate: Dec. 1921 
 opubissue: 

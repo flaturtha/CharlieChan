@@ -1,5 +1,5 @@
 ---
-layout: novelettes
+layout: squeeze 
 casefileNumber: 55ccf75fb3901011515aef53
 e-guid: fdc3bcde-2b24-4e9b-87b5-a31e6d5b137a
 k-guid: 6054f084-29f9-4533-96dd-993ee0ff7664
@@ -8,10 +8,11 @@ edl: https://s3.amazonaws.com/talesofmurder.com/novelettes/campaign-for-vengeanc
 title: "The Campaign for Vengeance"
 author: John Baer
 price: 4.99
+special-price: FREE
 opub: The Black Mask
 opubdate: Sep. 1922
 opubissue: Vol. 1, No. 6
-pubdate: 2018-08-11
+pubdate: 2019-05-08
 category: novelettes
 genre: Amateur Sleuth
 descriptive: "Murder: for Money or Revenge"

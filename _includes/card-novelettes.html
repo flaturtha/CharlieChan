@@ -1,5 +1,5 @@
 <ul class="cards__small">
-{% assign datesort = site.novelettes | sort: 'date' | reverse %} <!-- sorts in blog-post-like reverse chron order -->
+{% assign datesort = site.novelettes | sort: 'pubdate' | reverse %} <!-- sorts in blog-post-like reverse chron order -->
 {% for novelettes in datesort %}
 
   <li class="card__small" {% if novelettes.genre %} id="{{ novelettes.genre | downcase }}"{% endif %}>
@@ -12,7 +12,11 @@
         <h3 class="author">{% if novelettes.author %}<span>by</span> {{ novelettes.author }} {% else %}{{ novelettes.series }}{% endif %}</h3>
       </div>
       <div class="price">
+        {% if novelettes.special-price == 'FREE' %}
+        <p>{{ novelettes.special-price }}</p>
+        {% else %}
         <p>${{ novelettes.price }}</p>
+        {% endif %}
       </div>
     </div>
     <p class="excerpt">{{ novelettes.description }}</p>
