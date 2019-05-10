@@ -1410,8 +1410,9 @@ a.readmore {
     .card__small .buybutton a {
       color: #fffff0 !important; }
     .card__small .buybutton:hover {
-      background-color: #fffff0;
-      color: #008b00; }
+      background-color: #fffff0; }
+      .card__small .buybutton:hover a {
+        color: #008b00 !important; }
   .card__small .descriptive {
     font-size: 0.857rem;
     font-style: italic;
@@ -3612,6 +3613,22 @@ p.first {
   margin: 2rem 1rem -1rem;
   padding: 1rem;
   border-top: 1px solid #8B0000; }
+
+.subonly_buttons {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around; }
+  .subonly_buttons .buybutton {
+    max-width: 45%; }
 
 /*==========  LAYOUT  ==========*/
 /*=============================================

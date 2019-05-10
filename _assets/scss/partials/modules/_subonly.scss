@@ -1,0 +1,8 @@
+.subonly_buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  .buybutton {
+    max-width: 45%;
+  }
+}

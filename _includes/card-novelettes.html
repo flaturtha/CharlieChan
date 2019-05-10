@@ -1,35 +1,35 @@
 <ul class="cards__small">
-{% assign datesort = site.novelettes | sort: 'pubdate' | reverse %} <!-- sorts in blog-post-like reverse chron order -->
-{% for novelettes in datesort %}
-
-  <li class="card__small" {% if novelettes.genre %} id="{{ novelettes.genre | downcase }}"{% endif %}>
-    
-    <a href="{{ novelettes.url }}" class="readmore">
-      <img src="{{ novelettes.image }}" alt="{{ novelettes.title }} by {{ novelettes.author }}"></a>
-    <div class="card__small__header">
-      <div>
-        <h2 class="title">{{ novelettes.title }}</h2>
-        <h3 class="author">{% if novelettes.author %}<span>by</span> {{ novelettes.author }} {% else %}{{ novelettes.series }}{% endif %}</h3>
+  {% assign datesort = site.novelettes | sort: 'pubdate' | reverse %} <!-- sorts in blog-post-like reverse chron order -->
+  {% for novelettes in datesort %}
+  
+    <li class="card__small" {% if novelettes.genre %} id="{{ novelettes.genre | downcase }}"{% endif %}>
+      
+      <a href="{{ novelettes.url }}" class="readmore">
+        <img src="{{ novelettes.image }}" alt="{{ novelettes.title }} by {{ novelettes.author }}"></a>
+      <div class="card__small__header">
+        <div>
+          <h2 class="title">{{ novelettes.title }}</h2>
+          <h3 class="author">{% if novelettes.author %}<span>by</span> {{ novelettes.author }} {% else %}{{ novelettes.series }}{% endif %}</h3>
+        </div>
+        <div class="price">
+          {% if novelettes.special-price == 'FREE' %}
+          <p>{{ novelettes.special-price }}</p>
+          {% else %}
+          <p>${{ novelettes.price }}</p>
+          {% endif %}
+        </div>
       </div>
-      <div class="price">
-        {% if novelettes.special-price == 'FREE' %}
-        <p>{{ novelettes.special-price }}</p>
-        {% else %}
-        <p>${{ novelettes.price }}</p>
-        {% endif %}
-      </div>
-    </div>
-    <p class="excerpt">{{ novelettes.description }}</p>
-    {% if novelettes.pubdate == null %}
-      <p style="border:1px solid #8b0000;margin: 1rem 0;padding:0 0.5rem;color:#8b0000;line-height: 1.5;"><span style="font-weight: bold;display: block;text-align:center;">COMING SOON</span></p>
-    {% else %}
-      <button class="buybutton"><a href="{{ novelettes.url }}" style="color:#fffff0;">Learn more &hellip;</a></button>
-    {% endif %}
-
-  </li>
-
-{% endfor %}
-
-</ul>
-
-<!-- optin4 -->
+      <p class="excerpt">{{ novelettes.description }}</p>
+      {% if novelettes.pubdate == null %}
+        <p style="border:1px solid #8b0000;margin: 1rem 0;padding:0 0.5rem;color:#8b0000;line-height: 1.5;"><span style="font-weight: bold;display: block;text-align:center;">COMING SOON</span></p>
+      {% else %}
+        <button class="buybutton"><a href="{{ novelettes.url }}" style="color:#fffff0;">Learn more &hellip;</a></button>
+      {% endif %}
+  
+    </li>
+  
+  {% endfor %}
+  
+  </ul>
+  
+  <!-- optin4 -->

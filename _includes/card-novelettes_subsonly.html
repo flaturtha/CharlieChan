@@ -1,0 +1,29 @@
+z<ul class="cards__small">
+  {% assign datesort = site.novelettes | sort: 'pubdate' | reverse %} <!-- sorts in blog-post-like reverse chron order -->
+  {% for novelettes in datesort %}
+  
+    <li class="card__small" {% if novelettes.genre %} id="{{ novelettes.genre | downcase }}"{% endif %}>
+      
+      <img src="{{ novelettes.image }}" alt="{{ novelettes.title }} by {{ novelettes.author }}">
+      <div class="card__small__header">
+        <div>
+          <h2 class="title">{{ novelettes.title }}</h2>
+          <h3 class="author">{% if novelettes.author %}<span>by</span> {{ novelettes.author }} {% else %}{{ novelettes.series }}{% endif %}</h3>
+        </div>
+        <div class="price">
+          <p>FREE</p>
+        </div>
+      </div>
+      <p class="excerpt">{{ novelettes.description }}</p>
+      <div class="subonly_buttons">
+        <button class="buybutton"><a href="{{ novelettes.kdl }}" style="color:#fffff0;">KINDLE</a></button>
+        <button class="buybutton"><a href="{{ novelettes.edl }}" style="color:#fffff0;">ePub</a></button>
+      </div>
+    </li>
+  
+  {% endfor %}
+  
+  </ul>
+  
+  <!-- optin4 -->
+  
