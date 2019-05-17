@@ -16,7 +16,6 @@ image: /assets/img/short-stories/catty-cornered1.png
 fb-image: /assets/img/short-stories/catty-cornered_fb.jpg
 caption: ""
 tease: "Another rib-tickler funny from Joe Archibald! Get it now and enjoy the antic escapades of Snooty Piper and Scoop Binney."
-imgh: 350px
 genre: Amateur Sleuth
 tag: short-story
 wordcount: 5770

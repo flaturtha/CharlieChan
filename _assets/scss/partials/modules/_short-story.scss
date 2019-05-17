@@ -255,12 +255,14 @@
 .story__img {
   // background-color: chartreuse;
   // min-height: 300px;
-  width: auto;
+  // width: auto;
+  min-width: 300px;
 }
 
 .image-box {
   // border: 2px dashed hotpink;
   align-self: center;
+  // width: 1500px;
   // text-align: center;
   figcaption {
     font-weight: bold;

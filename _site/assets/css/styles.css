@@ -1660,7 +1660,7 @@ a.readmore {
   text-align: center; }
 
 .story__img {
-  width: auto; }
+  min-width: 300px; }
 
 .image-box {
   -webkit-align-self: center;
