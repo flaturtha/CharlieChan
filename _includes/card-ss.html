@@ -21,7 +21,8 @@
     <li class="card {% if short-stories.layout == "redirect" %}redirect{% endif %}" {% if short-stories.genre %} id="{{ short-stories.genre | downcase }}"{% endif %}>
 <a href="{{ short-stories.url }}" style="color:#242424;">
 
-      <header class="card__header" style="{% if short-stories.image and short-stories.image != '/assets/img/short-stories/blank.jpg' %} background-image:url(' {{ short-stories.image }}') {% else %} background-image:url('/assets/img/site/atticus_b_small.png');background-size: 50px 75px;{% endif %}">
+      <!-- <header class="card__header" style="background:url('/assets/img/site/atticus_b_small.png') center center no-repeat; background-size: 100%; data-echo-background=' {{ short-stories.image }}'"> -->
+      <header class="card__header" style="background:url('/assets/img/site/atticus_b_small.png') center center no-repeat; background-size: cover;" data-echo-background=" {{ short-stories.image }}">
 
       <p class="card__genre">{{ short-stories.genre }}</p>
 
