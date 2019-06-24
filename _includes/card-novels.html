@@ -5,8 +5,7 @@
 
   <li class="card__small" {% if novels.genre %} id="{{ novels.genre | downcase }}"{% endif %}>
     
-    <a href="{{ novels.url }}" class="readmore">
-      <img src="{{ novels.image }}" alt="{{ novels.title }} by {{ novels.author }}"></a>
+      <img src="{{ novels.image }}" alt="{{ novels.title }} by {{ novels.author }}">
     <div class="card__small__header">
       <div>
         <h2 class="title">{{ novels.title }}</h2>
@@ -17,12 +16,6 @@
       </div>
     </div>
     <p class="excerpt">{{ novels.description }}</p>
-    {% if novels.prebuybutton %}
-      <p style="border:1px solid #8b0000;margin: 1rem 0;padding:0 0.5rem;color:#8b0000;line-height: 1.5;"><span style="font-weight: bold;display: block;">NOT YET RELEASED.</span> PRE-BUY TODAY &amp; GET 50% OFF! </p>
-      <button class="buybutton"><a href="{{ novels.url }}" style="color:#fffff0;">PRE-BUY</a></button>
-    {% else %}
-      <button class="buybutton"><a href="{{ novels.url }}" style="color:#fffff0;">More Info ...</a></button>
-    {% endif %}
 
   </li>
 

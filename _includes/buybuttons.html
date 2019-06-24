@@ -4,21 +4,33 @@
     data-item-id="{{ page.casefileNumber }}"
     data-item-file-guid="{{ page.e-guid }}"
     data-item-name="{{ page.title }} (ePub edition)"
-    data-item-price="{{ page.price }}"
+    data-item-price="{% if page.ebook_price %}{{ page.ebook_price }}{% else %}{{ page.price}}{% endif %}"
     data-item-url="{{ site.url }}{{ page.url }}"
-    data-item-max-quantity="1">
-    BUY EPUB EDITION
+    data-item-stackable="false">
+    EPUB (${% if page.ebook_price %}{{ page.ebook_price }}{% else %}{{ page.price}}{% endif %})
   </button>
 
   <button class="snipcart-add-item add-to-cart"
     data-item-id="{{ page.casefileNumber }}"
     data-item-file-guid="{{ page.k-guid }}"
     data-item-name="{{ page.title }} (Kindle edition)"
-    data-item-price="{{ page.price }}"
+    data-item-price="{{ page.ebook_price }}"
     data-item-url="{{ site.url }}{{ page.url }}"
-    data-item-max-quantity="1">
-    BUY KINDLE EDITION
+    data-item-stackable="false">
+    KINDLE (${% if page.ebook_price %}{{ page.ebook_price }}{% else %}{{ page.price}}{% endif %})
   </button>
+
+  {% if page.print == true %}
+    <button class="snipcart-add-item add-to-cart"
+      data-item-id="{{ page.casefileNumber }}"
+      data-item-file-guid="{{ page.p-guid }}"
+      data-item-name="{{ page.title }} (Print edition)"
+      data-item-price="{{ page.print_price }}"
+      data-item-url="{{ site.url }}{{ page.url }}"
+      data-item-stackable="false">
+      PRINT (${{ page.print_price }})
+    </button>
+  {% endif %} 
 
 
   </div> <!-- end .book__buttons -->

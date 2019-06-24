@@ -6,7 +6,8 @@ k-guid: f1cb2b41-3942-4470-8bed-e8034f3784b2
 title: "The Spider Lily"
 author: Bruno Fischer
 date: 2017-01-05
-price: 10.99
+ebook_price: 10.99
+print_price: 17.99
 opub: Mammoth Magazine
 opubdate: Jan. 1946
 opubissue: Vol. 2, No. 1
@@ -21,6 +22,7 @@ tease: "A troubled WWII vet returns home after fighting the Japanese in India to
 tags: novel
 k-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Spider_Lily-sample.mobi
 e-sample: https://s3.amazonaws.com/talesofmurder.com/samples/Spider_Lily-sample.epub
+print: true
 ---
 
 ### Chapter 1

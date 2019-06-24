@@ -2004,7 +2004,7 @@ ol ol li:last-child {
           border-radius: 5px;
   font-size: 1rem;
   padding: 0.625rem 1.25rem;
-  width: 45%;
+  margin: 0.5rem;
   text-align: center;
   background-color: #008b00;
   color: #fffff0;
@@ -2054,10 +2054,11 @@ ol ol li:last-child {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-justify-content: space-around;
-      -ms-flex-pack: distribute;
-          justify-content: space-around;
-  margin: 1rem 0 0 0; }
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 1rem; }
 
 .book__buttons__lp2 {
   display: -webkit-box;
@@ -3629,6 +3630,24 @@ p.first {
           justify-content: space-around; }
   .subonly_buttons .buybutton {
     max-width: 45%; }
+
+/*=============================================
+=    SNIPCART CUSTOMIZATIONS                  =
+=============================================*/
+#snipcart-main-content .custom-snipcart-footer-text {
+  background-color: green;
+  color: white;
+  padding: 10px 20px 20px; }
+  #snipcart-main-content .custom-snipcart-footer-text h2 {
+    text-align: center; }
+  #snipcart-main-content .custom-snipcart-footer-text .code {
+    font-weight: bold;
+    text-decoration: underline; }
+
+#snipcart-main-content .custom-snipcart-footer-text h2 {
+  font-size: larger;
+  font-weight: bold;
+  padding: 10px 0; }
 
 /*==========  LAYOUT  ==========*/
 /*=============================================

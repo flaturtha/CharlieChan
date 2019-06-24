@@ -3,8 +3,7 @@
 
   <li class="card__small" {% if novellas.genre %} id="{{ novellas.genre | downcase }}"{% endif %}>
     
-    <a href="{{ novellas.url }}" class="readmore">
-      <img src="{{ novellas.image }}" alt="{{ novellas.title }} by {{ novellas.author }}"></a>
+      <img src="{{ novellas.image }}" alt="{{ novellas.title }} by {{ novellas.author }}">
     <div class="card__small__header">
       <div>
         <h2 class="title">{{ novellas.title }}</h2>
@@ -22,12 +21,6 @@
     </div>
     <p class="excerpt">{{ novellas.description }}</p>
     
-    {% if novellas.pubdate == null %}
-      <p style="border:1px solid #8b0000;margin: 1rem 0;padding:0 0.5rem;color:#8b0000;line-height: 1.5;"><span style="font-weight: bold;display: block;text-align:center;">COMING SOON</span></p>
-    {% else %}
-    <button class="buybutton"><a href="{{ novellas.url }}" style="color:#fffff0;">More info ...</a></button>
-    {% endif %}
-
 
   </li>
 
