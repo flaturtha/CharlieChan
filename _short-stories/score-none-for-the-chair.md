@@ -14,7 +14,7 @@ image: /assets/img/short-stories/score-none-for-the-chair.svg
 fb-image: /assets/img/short-stories/score-none-for-the-chair_fb.jpg
 imgh: 300px
 genre: Professional Sleuth
-tag: short-story
+tag: silly
 wordcount: 1878
 trfissue: Vol. 1 No. 1
 trfdate: Jan. 1, 2017

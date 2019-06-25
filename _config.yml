@@ -7,6 +7,8 @@ logo: /assets/img/site/atticus_fffff0.svg
 url: "https://www.talesofmurder.com"
 repository: "flaturtha/charliechan"
 
+feed_items: 10
+
 locale: "en_US"
 
 twitter:
@@ -96,12 +98,7 @@ highligher: rouge
 plugins:
   #  - jekyll-sitemap
   # - jekyll-seo-tag
-   - jekyll-feed
 
-feed:
-  collections:
-    - short-stories
-    - murderwiki
 
 kramdown:
   auto_ids: true
