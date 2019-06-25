@@ -8,46 +8,46 @@
   <updated>{{ "now" | date_to_xmlschema }}</updated>
   <id>{{ page.url | absolute_url | xml_escape }}</id>
 
-  <title type="html">Tales of Murder - Short Stories</title>
+  <title type="html">Tales of Murder - MurderWiki</title>
 
-  {% for short-stories in site.short-stories %}
+  {% for murderwiki in site.murderwiki %}
     <entry>
-      <title type="html">{{ short-stories.title | xml_escape }}</title>
-			{% if short-stories.subtitle %}
-				<subtitle type="html">{{ short-stories.subtitle | xml_escape }}</subtitle>
+      <title type="html">{{ murderwiki.title | xml_escape }}</title>
+			{% if murderwiki.subtitle %}
+				<subtitle type="html">{{ murderwiki.subtitle | xml_escape }}</subtitle>
 			{% endif %}
-      <link href="{{ short-stories.url | absolute_url }}" rel="alternate" type="text/html" title="{{ short-stories.title | xml_escape }}" />
-      <published>{{ short-stories.date | date_to_xmlschema }}</published>
-      <updated>{{ short-stories.date | date_to_xmlschema }}</updated>
-			<id>{{ short-stories.url | absolute_url | xml_escape }}</id>
-      <content type="html" xml:base="{{ short-stories.url | absolute_url | xml_escape }}">{{ short-stories.content | strip_html | xml_escape }}</content>
+      <link href="{{ murderwiki.url | absolute_url }}" rel="alternate" type="text/html" title="{{ murderwiki.title | xml_escape }}" />
+      <published>{{ murderwiki.date | date_to_xmlschema }}</published>
+      <updated>{{ murderwiki.date | date_to_xmlschema }}</updated>
+			<id>{{ murderwiki.url | absolute_url | xml_escape }}</id>
+      <content type="html" xml:base="{{ murderwiki.url | absolute_url | xml_escape }}">{{ murderwiki.content | xml_escape }}</content>
       <author>
-				{% if short-stories.author %}
-          <name>{{ short-stories.author | xml_escape }}</name>
+				{% if murderwiki.author %}
+          <name>{{ murderwiki.author | xml_escape }}</name>
 				{% else %}
-					<name>{{ short-stories.series | xml_escape }}</name>
+					<name>{{ murderwiki.series | xml_escape }}</name>
 				{% endif %}
       </author>
 
-      {% if short-stories.category %}
-        <category term="{{ short-stories.genre | xml_escape }}" />
+      {% if murderwiki.category %}
+        <category term="{{ murderwiki.genre | xml_escape }}" />
       {% endif %}
 
-      {% for tag in short-stories.tags %}
+      {% for tag in murderwiki.tags %}
         <category term="{{ tag | xml_escape }}" />
       {% endfor %}
 
-				<category term="{{ short-stories.casefileNumber | xml_escape }}" />	
-				<category term="{{ short-stories.opub | xml_escape }}" />
-				<category term="{{ short-stories.opubdate | xml_escape }}" />
-				<category term="{{ short-stories.opubissue | xml_escape }}" />
-				<category term="{{ short-stories.wordcount | xml_escape }}" />
+				<category term="{{ murderwiki.casefileNumber | xml_escape }}" />	
+				<category term="{{ murderwiki.opub | xml_escape }}" />
+				<category term="{{ murderwiki.opubdate | xml_escape }}" />
+				<category term="{{ murderwiki.opubissue | xml_escape }}" />
+				<category term="{{ murderwiki.wordcount | xml_escape }}" />
 
-      {% if short-stories.excerpt and short-stories.excerpt != empty %}
-        <summary type="html">{{ short-stories.excerpt | strip_html | normalize_whitespace | xml_escape }}</summary>
+      {% if murderwiki.excerpt and murderwiki.excerpt != empty %}
+        <summary type="html">{{ murderwiki.excerpt | strip_html | normalize_whitespace | xml_escape }}</summary>
       {% endif %}
 
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.talesofmurder.com{{ short-stories.image | xml_escape }}" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.talesofmurder.com{{ murderwiki.image | xml_escape }}" />
 
     </entry>
   {% endfor %}
