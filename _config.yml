@@ -96,7 +96,12 @@ highligher: rouge
 plugins:
   #  - jekyll-sitemap
   # - jekyll-seo-tag
-  # - jekyll-feed /* doesn't work for collections, only posts; which is STOOPID */
+   - jekyll-feed
+
+feed:
+  collections:
+    - short-stories
+    - murderwiki
 
 kramdown:
   auto_ids: true
