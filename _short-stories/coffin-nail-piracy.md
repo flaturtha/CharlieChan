@@ -9,7 +9,7 @@ opub: Ten Detective Aces
 opubdate: Nov. 1945
 opubissue: Vol. 11, No. 4
 category: short-stories
-excerpt: "Dying for smokes, that desperate gang would go to any extreme to get them, including &hellip;"
+excerpt: "Dying for smokes, that desperate gang would go to any extreme to get them, including ..."
 <!-- image:  /assets/img/short-stories/coffin-nail-piracy.svg -->
 imgh: 300px
 genre: Crook

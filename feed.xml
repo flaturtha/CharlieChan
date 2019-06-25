@@ -1,42 +1,14 @@
 ---
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" {% if site.lang %}xml:lang="{{ site.lang }}"{% endif %}>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
   <generator uri="https://jekyllrb.com/" version="{{ jekyll.version }}">Jekyll</generator>
   <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
   <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
-  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <updated>{{ "now" | date_to_xmlschema }}</updated>
   <id>{{ page.url | absolute_url | xml_escape }}</id>
 
-  {% assign title = site.title | default: site.name %}
-  {% if page.collection != "posts" %}
-    {% assign collection = page.collection | capitalize %}
-    {% assign title = title | append: " | " | append: collection %}
-  {% endif %}
-  {% if page.category %}
-    {% assign category = page.category | capitalize %}
-    {% assign title = title | append: " | " | append: category %}
-  {% endif %}
-
-  {% if title %}
-    <title type="html">{{ title | smartify | xml_escape }}</title>
-  {% endif %}
-
-  {% if site.description %}
-    <subtitle>{{ site.description | xml_escape }}</subtitle>
-  {% endif %}
-
-  {% if site.author %}
-    <author>
-        <name>{{ site.author.name | default: site.author | xml_escape }}</name>
-      {% if site.author.email %}
-        <email>{{ site.author.email | xml_escape }}</email>
-      {% endif %}
-      {% if site.author.uri %}
-        <uri>{{ site.author.uri | xml_escape }}</uri>
-      {% endif %}
-    </author>
-  {% endif %}
+  <title type="html">Tales of Murder - Short Stories</title>
 
   {% for short-stories in site.short-stories %}
     <entry>
@@ -46,8 +18,9 @@
 			{% endif %}
       <link href="{{ short-stories.url | absolute_url }}" rel="alternate" type="text/html" title="{{ short-stories.title | xml_escape }}" />
       <published>{{ short-stories.date | date_to_xmlschema }}</published>
-      <id>{{ short-stories.casefileNumber | xml_escape }}</id>
-      <content type="html" xml:base="{{ short-stories.url | absolute_url | xml_escape }}">{{ short-stories.content | strip | xml_escape }}</content>
+      <updated>{{ short-stories.date | date_to_xmlschema }}</updated>
+			<id>{{ short-stories.url | absolute_url | xml_escape }}</id>
+      <content type="html" xml:base="{{ short-stories.url | absolute_url | xml_escape }}">{{ short-stories.content | strip_html | xml_escape }}</content>
       <author>
 				{% if short-stories.author %}
           <name>{{ short-stories.author | xml_escape }}</name>
@@ -57,17 +30,18 @@
       </author>
 
       {% if short-stories.category %}
-        <category genre="{{ short-stories.genre | xml_escape }}" />
+        <category term="{{ short-stories.genre | xml_escape }}" />
       {% endif %}
 
       {% for tag in short-stories.tags %}
         <category term="{{ tag | xml_escape }}" />
       {% endfor %}
 
-				<category opub="{{ short-stories.opub | xml_escape }}" />
-				<category opubdate="{{ short-stories.opubdate | xml_escape }}" />
-				<category opub="{{ short-stories.opubissue | xml_escape }}" />
-				<category wordcount="{{ short-stories.wordcount | xml_escape }}" />
+				<category term="{{ short-stories.casefileNumber | xml_escape }}" />	
+				<category term="{{ short-stories.opub | xml_escape }}" />
+				<category term="{{ short-stories.opubdate | xml_escape }}" />
+				<category term="{{ short-stories.opubissue | xml_escape }}" />
+				<category term="{{ short-stories.wordcount | xml_escape }}" />
 
       {% if short-stories.excerpt and short-stories.excerpt != empty %}
         <summary type="html">{{ short-stories.excerpt | strip_html | normalize_whitespace | xml_escape }}</summary>

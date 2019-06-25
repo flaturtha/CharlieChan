@@ -10,7 +10,7 @@ opub: Crack Detective
 opubdate: May 1949
 opubissue: Vol. 10, No. 2
 category: short-stories
-excerpt: "Another true fact story about the famous criminal lawyer, William F. Howe &mdash; and the man who got away with arson."
+excerpt: "Another true fact story about the famous criminal lawyer, William F. Howe — and the man who got away with arson."
 image: /assets/img/short-stories/you-cant-predict-death.svg
 imgh: 300px
 genre: True Crime

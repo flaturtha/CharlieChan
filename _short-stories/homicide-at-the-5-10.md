@@ -2,7 +2,7 @@
 layout: short-stories
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef94
-title: "Homicide at the 5 & 10"
+title: "Homicide at the 5 and 10"
 author: Stewart Toland
 date: 2017-01-26
 opub: Ten Detective Aces
