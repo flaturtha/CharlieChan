@@ -4,7 +4,7 @@ layoutTag: post
 casefileNumber: XXXXXXXXXX
 title: "Blackmail"
 author: Stanley Rushton
-date: 2018-07-31
+date: 2019-07-01
 opub: Real Detective Tales
 opubdate: June/July 1927
 opubissue: Vol. 11, No. 2
